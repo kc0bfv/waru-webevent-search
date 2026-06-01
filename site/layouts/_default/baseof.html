@@ -9,14 +9,16 @@
   <meta property="og:image" content="{{ . }}">
   {{ end }}
   <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
-  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
       <a class="site-logo" href="{{ "/" | relURL }}">WarU Search</a>
       {{ if not .IsHome }}
-      <div id="search-nav" class="nav-search"></div>
+      <div class="nav-search">
+        <pagefind-input label="" placeholder="Search transcripts…"></pagefind-input>
+        <pagefind-results></pagefind-results>
+      </div>
       {{ end }}
       <nav class="site-nav">
         <a href="{{ "/" | relURL }}">Home</a>
@@ -33,20 +35,7 @@
     <p>WarU Web Event Transcript Search</p>
   </footer>
 
-  <script src="/pagefind/pagefind-ui.js"></script>
+  <script src="/pagefind/pagefind-component-ui.js" type="text/javascript"></script>
   {{ block "scripts" . }}{{ end }}
-  {{ if not .IsHome }}
-  <script>
-    if (document.getElementById('search-nav')) {
-      new PagefindUI({
-        element: "#search-nav",
-        showSubResults: true,
-        showImages: false,
-        resetStyles: false,
-        placeholder: "Search transcripts…",
-      });
-    }
-  </script>
-  {{ end }}
 </body>
 </html>

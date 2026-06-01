@@ -3,7 +3,9 @@
   <section class="hero">
     <h1>WarU Web Event Search</h1>
     <p class="hero-sub">{{ .Site.Params.description }}</p>
-    <div id="search-hero"></div>
+    <pagefind-input label="" placeholder="Search all transcripts…"></pagefind-input>
+    <pagefind-summary></pagefind-summary>
+    <pagefind-results></pagefind-results>
   </section>
 
   {{ $events := where .Site.RegularPages "Section" "events" }}
@@ -27,14 +29,4 @@
 </div>
 {{ end }}
 
-{{ define "scripts" }}
-<script>
-  new PagefindUI({
-    element: "#search-hero",
-    showSubResults: true,
-    showImages: false,
-    resetStyles: false,
-    placeholder: "Search all transcripts…",
-  });
-</script>
-{{ end }}
+

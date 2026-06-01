@@ -2,12 +2,12 @@ name: Pull Events and Deploy
 
 on:
   schedule:
-    # Daily at 10:00 AM UTC (6 AM ET)
-    - cron: "0 10 * * *"
+    # Daily at 6:27 AM UTC (2 AM ET) Monday and Thursday
+    - cron: "27 6 * * 1,4"
   workflow_dispatch:
     inputs:
       full_history:
-        description: "Fetch full event history (scans 50 listing pages)"
+        description: "Fetch full event history (scans 200 listing pages)"
         required: false
         default: "false"
         type: choice
