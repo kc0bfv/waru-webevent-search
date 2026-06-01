@@ -1,0 +1,99 @@
+name: Pull Events and Deploy
+
+on:
+  schedule:
+    # Daily at 10:00 AM UTC (6 AM ET)
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+    inputs:
+      full_history:
+        description: "Fetch full event history (scans 50 listing pages)"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+      specific_url:
+        description: "Process a specific event URL (optional)"
+        required: false
+        type: string
+
+permissions:
+  contents: write   # needed to commit data back to main
+  pages: write      # needed for gh-pages deployment
+  id-token: write
+
+jobs:
+  pull-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # ── 3. Pull events ───────────────────────────────────────────────────
+      - name: Pull events
+        run: |
+          if [ -n "${{ github.event.inputs.specific_url }}" ]; then
+            python scripts/pull_recent.py --url "${{ github.event.inputs.specific_url }}"
+          elif [ "${{ github.event.inputs.full_history }}" = "true" ]; then
+            python scripts/pull_recent.py --all
+          else
+            python scripts/pull_recent.py
+          fi
+
+      # ── 4. Build Hugo content ────────────────────────────────────────────
+      - name: Build Hugo content pages
+        run: python scripts/build_pages.py
+
+      # ── 5. Commit data back to main ──────────────────────────────────────
+      # [skip ci] prevents this commit from triggering another workflow run.
+      - name: Commit updated data and content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ site/content/events/ site/data/events/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: update event data [skip ci]"
+            git push
+          fi
+
+      # ── 6. Hugo build ────────────────────────────────────────────────────
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build Hugo site
+        working-directory: site
+        run: hugo --minify --destination ../public
+
+      # ── 7. Pagefind index ────────────────────────────────────────────────
+      - name: Run Pagefind
+        run: npx pagefind --site public
+
+      # ── 8. Deploy to gh-pages ────────────────────────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          # Prevent gh-pages commits from triggering workflows
+          commit_message: "deploy: update site [skip ci]"

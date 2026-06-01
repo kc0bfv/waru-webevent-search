@@ -1,0 +1,11 @@
+*.swp
+
+public/
+__pycache__/
+*.pyc
+.DS_Store
+site/.hugo_build.lock
+site/resources/
+*.egg-info/
+.venv/
+venv/

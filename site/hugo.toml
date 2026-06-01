@@ -1,0 +1,24 @@
+# WARU Event Search — Hugo configuration
+# ----------------------------------------
+# Update baseURL to match your GitHub Pages URL before deploying:
+#   https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/
+baseURL = "https://USERNAME.github.io/REPO/"
+languageCode = "en-us"
+title = "WARU Event Search"
+
+# Output to ../public/ (one level up from site/) so GitHub Actions
+# can deploy public/ directly without knowing about site/.
+publishDir = "../public"
+
+# Disable unused taxonomy pages
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Search across transcripts from all WARU web events. Results link directly to the moment in the video."
+  github_repo = "https://github.com/USERNAME/REPO"
+
+[markup.goldmark.renderer]
+  unsafe = true  # Allow raw HTML in markdown (used by shortcodes)
+
+[build]
+  writeStats = false

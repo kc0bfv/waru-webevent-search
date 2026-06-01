@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="home">
+  <section class="hero">
+    <h1>WARU Web Event Search</h1>
+    <p class="hero-sub">{{ .Site.Params.description }}</p>
+    <div id="search-hero"></div>
+  </section>
+
+  {{ $events := where .Site.RegularPages "Section" "events" }}
+  {{ $sorted := $events.ByDate.Reverse }}
+  <section class="recent-events">
+    <h2>Recent Events <span class="event-count">({{ len $events }} total)</span></h2>
+    <ul class="events-list">
+      {{ range first 20 $sorted }}
+      <li class="event-item">
+        <a class="event-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <time class="event-date" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </time>
+      </li>
+      {{ end }}
+    </ul>
+    {{ if gt (len $events) 20 }}
+    <p class="see-all"><a href="{{ "/events/" | relURL }}">View all {{ len $events }} events →</a></p>
+    {{ end }}
+  </section>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+  new PagefindUI({
+    element: "#search-hero",
+    showSubResults: true,
+    showImages: false,
+    resetStyles: false,
+    placeholder: "Search all transcripts…",
+  });
+</script>
+{{ end }}

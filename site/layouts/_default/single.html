@@ -1,0 +1,119 @@
+{{ define "main" }}
+{{ $id := .Params.event_id }}
+{{ $ev := index .Site.Data.events $id }}
+
+{{ if not $ev }}
+  <div class="error-box">
+    <p>Event data not found for id: <code>{{ $id }}</code></p>
+    <p><a href="{{ "/events/" | relURL }}">← Back to all events</a></p>
+  </div>
+{{ else }}
+
+<article class="event" data-pagefind-body>
+  <div class="event-header">
+    <p class="breadcrumb"><a href="{{ "/events/" | relURL }}">All Events</a> /</p>
+    <h1 data-pagefind-meta="title">{{ $ev.title }}</h1>
+    <div class="event-meta">
+      <time datetime="{{ $ev.date }}">{{ dateFormat "January 2, 2006" $ev.date }}</time>
+      <a class="event-source-link" href="{{ $ev.event_url }}" target="_blank" rel="noopener">
+        View on WARU ↗
+      </a>
+    </div>
+  </div>
+
+  {{ if $ev.uiconf_id }}
+  <div class="video-wrapper">
+    <iframe
+      id="kaltura-player"
+      src="https://cdnapisec.kaltura.com/p/{{ $ev.partner_id }}/embedPlaykitJs/uiconf_id/{{ $ev.uiconf_id }}?iframeembed=true&entry_id={{ $ev.entry_id }}&playFrom=0"
+      data-partner-id="{{ $ev.partner_id }}"
+      data-entry-id="{{ $ev.entry_id }}"
+      data-uiconf-id="{{ $ev.uiconf_id }}"
+      allowfullscreen
+      allow="autoplay *; fullscreen *; encrypted-media *"
+      sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation"
+      title="{{ $ev.title }}"
+    ></iframe>
+  </div>
+  {{ else }}
+  <div class="no-embed-notice">
+    <p>
+      Video player embed not available.
+      <a href="{{ $ev.event_url }}" target="_blank" rel="noopener">Watch on WARU ↗</a>
+    </p>
+  </div>
+  {{ end }}
+
+  {{ if $ev.cues }}
+  <div class="transcript-container">
+    <div class="transcript-header">
+      <h2>Transcript</h2>
+      <span class="cue-count">{{ len $ev.cues }} segments</span>
+    </div>
+    <div class="transcript">
+      {{ range $ev.cues }}
+      <div class="cue" id="t-{{ .start_int }}" data-pagefind-anchor>
+        <a
+          class="cue-timestamp"
+          href="#t-{{ .start_int }}"
+          data-seconds="{{ .start }}"
+          title="Jump to {{ .timestamp_label }}"
+        >{{ .timestamp_label }}</a>
+        <span class="cue-text">{{ .text }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  <p class="no-transcript">No transcript available for this event.</p>
+  {{ end }}
+</article>
+
+{{ end }}
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+  // Seek the embedded Kaltura player to a given second offset.
+  // Reloads the iframe src with playFrom= parameter (simple, no JS SDK needed).
+  function seekTo(seconds) {
+    const iframe = document.getElementById('kaltura-player');
+    if (!iframe) {
+      // No embed — open waru.edu event page; timestamp hash is a best-effort hint
+      return true;
+    }
+    const pid = iframe.dataset.partnerId;
+    const eid = iframe.dataset.entryId;
+    const uid = iframe.dataset.uiconfId;
+    iframe.src =
+      `https://cdnapisec.kaltura.com/p/${pid}/embedPlaykitJs/uiconf_id/${uid}` +
+      `?iframeembed=true&entry_id=${eid}&playFrom=${Math.floor(seconds)}`;
+    iframe.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return false;
+  }
+
+  // Wire up all timestamp links to seekTo()
+  document.querySelectorAll('.cue-timestamp').forEach(link => {
+    link.addEventListener('click', e => {
+      const s = parseFloat(link.dataset.seconds);
+      if (!isNaN(s)) {
+        e.preventDefault();
+        seekTo(s);
+        history.replaceState(null, '', link.getAttribute('href'));
+      }
+    });
+  });
+
+  // On load, if URL has #t-NNN, seek immediately and scroll to the cue
+  window.addEventListener('DOMContentLoaded', () => {
+    const m = window.location.hash.match(/^#t-(\d+)$/);
+    if (m) {
+      const el = document.getElementById(`t-${m[1]}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        seekTo(parseInt(m[1], 10));
+      }
+    }
+  });
+</script>
+{{ end }}

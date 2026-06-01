@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}{{ end }}</title>
+  <meta name="description" content="{{ block "description" . }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+  {{ with .Params.thumbnail_url }}
+  <meta property="og:image" content="{{ . }}">
+  {{ end }}
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-logo" href="{{ "/" | relURL }}">🎬 WARU Search</a>
+      {{ if not .IsHome }}
+      <div id="search-nav" class="nav-search"></div>
+      {{ end }}
+      <nav class="site-nav">
+        <a href="{{ "/" | relURL }}">Home</a>
+        <a href="{{ "/events/" | relURL }}">All Events</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <p>WARU Web Event Transcript Search</p>
+  </footer>
+
+  <script src="/pagefind/pagefind-ui.js"></script>
+  {{ block "scripts" . }}{{ end }}
+  {{ if not .IsHome }}
+  <script>
+    if (document.getElementById('search-nav')) {
+      new PagefindUI({
+        element: "#search-nav",
+        showSubResults: true,
+        showImages: false,
+        resetStyles: false,
+        placeholder: "Search transcripts…",
+      });
+    }
+  </script>
+  {{ end }}
+</body>
+</html>
