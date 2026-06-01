@@ -73,74 +73,18 @@ a:hover { color: var(--ts-hover); text-decoration: underline; }
 }
 
 /* ── Pagefind: input theming ── */
-pagefind-input {
-  --pagefind-ui-background: var(--surface);
-  --pagefind-ui-text: var(--text);
-  --pagefind-ui-border: var(--border);
-  --pagefind-ui-primary: var(--accent);
-  --pagefind-ui-tag: var(--accent-dim);
-  --pagefind-ui-border-radius: var(--radius);
-}
-.nav-search pagefind-input {
-  --pagefind-ui-scale: 0.85;
-}
-
-/* ── Pagefind: suppress empty-state message ── */
-pagefind-results:not([results]) p,
-pagefind-results .pf-results-message {
-  display: none;
+:root {
+  --pf-text: var(--text);
+  --pf-text-secondary: var(--text);
+  --pf-text-muted: var(--text-dim);
+  --pf-background: var(--surface);
+  --pf-border: var(--border);
+  --pf-hover: var(--accent);
+  --pf-mark: var(--ts-hover);
+  --pf-border-focus: var(--accent);
+  --pf-border-radius: var(--radius);
 }
 
-/* ── Pagefind: results list ── */
-.pf-results {
-  list-style: none;
-  padding: 0;
-  margin: 0.75rem 0 0;
-}
-
-.pf-result {
-  list-style: none;
-  margin-bottom: 0.5rem;
-}
-
-/* ── Pagefind: result cards ── */
-.pf-result-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 0.75rem 1rem;
-  transition: border-color 0.15s;
-}
-
-.pf-result-card:hover {
-  border-color: var(--accent);
-}
-
-.pf-result-card a {
-  color: var(--accent);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.pf-result-card a:hover {
-  color: var(--ts-hover);
-  text-decoration: underline;
-}
-
-.pf-result-card p,
-.pf-result-card .pf-excerpt {
-  margin: 0.35rem 0 0;
-  font-size: 0.875rem;
-  color: var(--text-dim);
-  line-height: 1.5;
-}
-
-.pf-result-card mark {
-  background: var(--accent-dim);
-  color: var(--text);
-  border-radius: 2px;
-  padding: 0 2px;
-}
 
 /* ── Main layout ── */
 .site-main {
