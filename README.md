@@ -1,6 +1,6 @@
-# WARU Event Search
+# WarU Event Search
 
-Full-text search across WARU web event transcripts. Search results link directly to the moment in the video.
+Full-text search across WarU web event transcripts. Search results link directly to the moment in the video.
 
 **Stack:** Python scripts → Hugo static site → Pagefind client-side search → GitHub Pages
 
