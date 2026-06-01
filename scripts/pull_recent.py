@@ -10,7 +10,7 @@ Usage:
     # Pull last ~3 pages of the listing (default, good for daily cron):
     python scripts/pull_recent.py
 
-    # Pull up to 50 pages of the listing (initial full history import):
+    # Pull up to 200 pages of the listing (initial full history import):
     python scripts/pull_recent.py --all
 
     # Process one or more specific event URLs directly:
@@ -24,6 +24,7 @@ import sys
 import re
 import json
 import argparse
+import time
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -133,6 +134,9 @@ def discover_event_urls(max_pages: int = 5) -> list:
         if new_this_page == 0:
             print(f"  No new links on page {page}; stopping.", file=sys.stderr)
             break
+
+        if page < max_pages - 1:
+            time.sleep(1)
 
     return urls
 
@@ -436,7 +440,7 @@ def main() -> None:
     parser.add_argument(
         "--all",
         action="store_true",
-        help="Scan up to 50 listing pages (initial full-history import).",
+        help="Scan up to 200 listing pages (initial full-history import).",
     )
     parser.add_argument(
         "--url",
@@ -451,7 +455,7 @@ def main() -> None:
     if args.url:
         urls = args.url
     elif args.all:
-        urls = discover_event_urls(max_pages=50)
+        urls = discover_event_urls(max_pages=200)
     else:
         urls = discover_event_urls(max_pages=3)
 
@@ -462,6 +466,7 @@ def main() -> None:
         result = process_event(url, index)
         if result:
             new_count += 1
+        time.sleep(1)
 
     save_index(index)
     print(f"\nDone. {new_count} new event(s) ingested.")

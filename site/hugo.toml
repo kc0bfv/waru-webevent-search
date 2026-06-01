@@ -1,10 +1,11 @@
-# WARU Event Search — Hugo configuration
+# WarU Event Search — Hugo configuration
 # ----------------------------------------
 # Update baseURL to match your GitHub Pages URL before deploying:
 #   https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/
-baseURL = "https://USERNAME.github.io/REPO/"
+#baseURL = "https://USERNAME.github.io/REPO/"
+baseURL = "http://localhost:8000/"
 languageCode = "en-us"
-title = "WARU Event Search"
+title = "WarU Event Search"
 
 # Output to ../public/ (one level up from site/) so GitHub Actions
 # can deploy public/ directly without knowing about site/.
@@ -14,7 +15,7 @@ publishDir = "../public"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "Search across transcripts from all WARU web events. Results link directly to the moment in the video."
+  description = "Search across transcripts from all WarU web events. Results link directly to the moment in the video."
   github_repo = "https://github.com/USERNAME/REPO"
 
 [markup.goldmark.renderer]

@@ -1,3 +1,3 @@
 ---
-title: "WARU Event Search"
+title: "WarU Event Search"
 ---

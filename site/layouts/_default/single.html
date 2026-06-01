@@ -16,7 +16,7 @@
     <div class="event-meta">
       <time datetime="{{ $ev.date }}">{{ dateFormat "January 2, 2006" $ev.date }}</time>
       <a class="event-source-link" href="{{ $ev.event_url }}" target="_blank" rel="noopener">
-        View on WARU ↗
+        View on WarU ↗
       </a>
     </div>
   </div>
@@ -25,7 +25,7 @@
   <div class="video-wrapper">
     <iframe
       id="kaltura-player"
-      src="https://cdnapisec.kaltura.com/p/{{ $ev.partner_id }}/embedPlaykitJs/uiconf_id/{{ $ev.uiconf_id }}?iframeembed=true&entry_id={{ $ev.entry_id }}&playFrom=0"
+      src="https://cdnapisec.kaltura.com/p/{{ $ev.partner_id }}/embedPlaykitJs/uiconf_id/{{ $ev.uiconf_id }}?iframeembed=true&entry_id={{ $ev.entry_id }}"
       data-partner-id="{{ $ev.partner_id }}"
       data-entry-id="{{ $ev.entry_id }}"
       data-uiconf-id="{{ $ev.uiconf_id }}"
@@ -39,7 +39,7 @@
   <div class="no-embed-notice">
     <p>
       Video player embed not available.
-      <a href="{{ $ev.event_url }}" target="_blank" rel="noopener">Watch on WARU ↗</a>
+      <a href="{{ $ev.event_url }}" target="_blank" rel="noopener">Watch on WarU ↗</a>
     </p>
   </div>
   {{ end }}
@@ -74,20 +74,20 @@
 
 {{ define "scripts" }}
 <script>
-  // Seek the embedded Kaltura player to a given second offset.
-  // Reloads the iframe src with playFrom= parameter (simple, no JS SDK needed).
+  // Seek the Kaltura V7 (PlayKit) player by reloading the iframe with config[playback].
+  // Kaltura V7 cross-origin iframes don't expose a postMessage seek API,
+  // so a src reload is the only reliable approach.
   function seekTo(seconds) {
     const iframe = document.getElementById('kaltura-player');
-    if (!iframe) {
-      // No embed — open waru.edu event page; timestamp hash is a best-effort hint
-      return true;
-    }
+    if (!iframe) return true;
+    const s = parseFloat(seconds);
     const pid = iframe.dataset.partnerId;
     const eid = iframe.dataset.entryId;
     const uid = iframe.dataset.uiconfId;
     iframe.src =
       `https://cdnapisec.kaltura.com/p/${pid}/embedPlaykitJs/uiconf_id/${uid}` +
-      `?iframeembed=true&entry_id=${eid}&playFrom=${Math.floor(seconds)}`;
+      `?iframeembed=true&entry_id=${eid}` +
+      `&config[playback]=${encodeURIComponent(JSON.stringify({startTime: s}))}`;
     iframe.scrollIntoView({ behavior: 'smooth', block: 'start' });
     return false;
   }
@@ -104,14 +104,26 @@
     });
   });
 
-  // On load, if URL has #t-NNN, seek immediately and scroll to the cue
+  // On load, if URL has #t-NNN, set startTime on the iframe src and scroll to the cue
   window.addEventListener('DOMContentLoaded', () => {
     const m = window.location.hash.match(/^#t-(\d+)$/);
     if (m) {
       const el = document.getElementById(`t-${m[1]}`);
       if (el) {
+        // Use the precise fractional seconds from data-seconds if available
+        const link = el.querySelector('.cue-timestamp');
+        const s = link ? parseFloat(link.dataset.seconds) : parseInt(m[1], 10);
+        const iframe = document.getElementById('kaltura-player');
+        if (iframe) {
+          const pid = iframe.dataset.partnerId;
+          const eid = iframe.dataset.entryId;
+          const uid = iframe.dataset.uiconfId;
+          iframe.src =
+            `https://cdnapisec.kaltura.com/p/${pid}/embedPlaykitJs/uiconf_id/${uid}` +
+            `?iframeembed=true&entry_id=${eid}` +
+            `&config[playback]=${encodeURIComponent(JSON.stringify({startTime: s}))}`;
+        }
         el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        seekTo(parseInt(m[1], 10));
       }
     }
   });
