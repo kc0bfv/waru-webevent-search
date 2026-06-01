@@ -340,6 +340,18 @@ def parse_vtt(content: str) -> list:
 # ---------------------------------------------------------------------------
 
 
+def _peek_existing(norm_url: str, index: dict) -> dict | None:
+    """Return the on-disk event dict whose event_url matches norm_url, or None."""
+    for p in EVENTS_DIR.glob("*.json"):
+        try:
+            data = json.loads(p.read_text())
+            if data.get("event_url", "").rstrip("/") == norm_url:
+                return data
+        except Exception:
+            pass
+    return None
+
+
 def slugify(text: str) -> str:
     text = text.strip().lower()
     text = re.sub(r"[^\w\s\-]", "", text)
@@ -380,8 +392,16 @@ def process_event(event_url: str, index: dict) -> dict | None:
         print(
             f"  Skip (known entry_id): {page_data['entry_id']}", file=sys.stderr
         )
-        # Still track the URL so we don't revisit it
-        index["known_event_urls"].append(norm_url)
+        # Only permanently skip if the existing file already has a transcript.
+        # If cues are empty the entry is a future/pending event — leave it out
+        # of known_event_urls so it gets retried on the next run.
+        existing = next(
+            (json.loads(p.read_text()) for p in EVENTS_DIR.glob("*.json")
+             if json.loads(p.read_text()).get("entry_id") == page_data["entry_id"]),
+            None,
+        )
+        if existing and existing.get("cues"):
+            index["known_event_urls"].append(norm_url)
         return None
 
     try:
@@ -421,7 +441,13 @@ def process_event(event_url: str, index: dict) -> dict | None:
 
     path = save_event(event_data)
     index["known_entry_ids"].append(kaltura["entry_id"])
-    index["known_event_urls"].append(norm_url)
+    if cues:
+        # Only mark as permanently done once we have a real transcript.
+        # Events with no cues yet (future/pending) stay out of known_event_urls
+        # so they are retried on subsequent runs.
+        index["known_event_urls"].append(norm_url)
+    else:
+        print("  No transcript yet — will retry on next run.", file=sys.stderr)
     print(f"  Saved → {path.name} ({len(cues)} cues)", file=sys.stderr)
     return event_data
 
