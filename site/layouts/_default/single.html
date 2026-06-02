@@ -5,13 +5,13 @@
 {{ if not $ev }}
   <div class="error-box">
     <p>Event data not found for id: <code>{{ $id }}</code></p>
-    <p><a href="{{ "/events/" | relURL }}">← Back to all events</a></p>
+    <p><a href="{{ "events/" | relURL }}">← Back to all events</a></p>
   </div>
 {{ else }}
 
 <article class="event" data-pagefind-body>
   <div class="event-header">
-    <p class="breadcrumb"><a href="{{ "/events/" | relURL }}">All Events</a> /</p>
+    <p class="breadcrumb"><a href="{{ "events/" | relURL }}">All Events</a> /</p>
     <h1 data-pagefind-meta="title">{{ $ev.title }}</h1>
     <div class="event-meta">
       <time datetime="{{ $ev.date }}">{{ dateFormat "January 2, 2006" $ev.date }}</time>

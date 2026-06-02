@@ -8,13 +8,13 @@
   {{ with .Params.thumbnail_url }}
   <meta property="og:image" content="{{ . }}">
   {{ end }}
-  <link rel="stylesheet" href="/pagefind/pagefind-component-ui.css">
-  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "pagefind/pagefind-component-ui.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a class="site-logo" href="{{ "/" | relURL }}">WarU Search</a>
+      <a class="site-logo" href="{{ "" | relURL }}">WarU Search</a>
       {{ if not .IsHome }}
       <div class="nav-search">
         <pagefind-input label="" placeholder="Search transcripts…"></pagefind-input>
@@ -22,8 +22,8 @@
       </div>
       {{ end }}
       <nav class="site-nav">
-        <a href="{{ "/" | relURL }}">Home</a>
-        <a href="{{ "/events/" | relURL }}">All Events</a>
+        <a href="{{ "" | relURL }}">Home</a>
+        <a href="{{ "events/" | relURL }}">All Events</a>
       </nav>
     </div>
   </header>
@@ -41,7 +41,7 @@
     </p>
   </footer>
 
-  <script src="/pagefind/pagefind-component-ui.js" type="text/javascript"></script>
+  <script src="{{ "pagefind/pagefind-component-ui.js" | relURL }}" type="text/javascript"></script>
   {{ block "scripts" . }}{{ end }}
 </body>
 </html>
