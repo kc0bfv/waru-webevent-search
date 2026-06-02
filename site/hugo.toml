@@ -3,7 +3,7 @@
 # Update baseURL to match your GitHub Pages URL before deploying:
 #   https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/
 baseURL = "https://kc0bfv.github.io/waru-webevent-search/"
-#baseURL = "https://localhost:8000/"
+#baseURL = "https://localhost:8000/qwer/asdf/"
 languageCode = "en-us"
 title = "WarU Event Search"
 
