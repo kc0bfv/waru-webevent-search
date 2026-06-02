@@ -4,6 +4,8 @@ Full-text search across WarU web event transcripts. Search results link directly
 
 **Stack:** Python scripts → Hugo static site → Pagefind client-side search → GitHub Pages
 
+An [`llms.txt`](https://github.com/kc0bfv/waru-webevent-search/blob/main/site/static/llms.txt) file is generated at build time and deployed with the site. It lists every event with direct links to the raw JSON on GitHub (structured transcript data with per-cue timestamps) for easy LLM ingestion.
+
 ---
 
 ## How it works

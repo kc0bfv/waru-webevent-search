@@ -114,7 +114,7 @@ def discover_event_urls(max_pages: int = 5) -> list:
         listing = LISTING_URL if page == 0 else f"{LISTING_URL}?page={page}"
         print(f"  Scanning listing page {page}: {listing}", file=sys.stderr)
         try:
-            resp = requests.get(listing, headers=PAGE_HEADERS, timeout=30)
+            resp = throttled_request(listing, headers=PAGE_HEADERS, timeout=30)
             resp.raise_for_status()
         except Exception as exc:
             print(f"  Warning: could not fetch {listing}: {exc}", file=sys.stderr)
@@ -135,15 +135,25 @@ def discover_event_urls(max_pages: int = 5) -> list:
             print(f"  No new links on page {page}; stopping.", file=sys.stderr)
             break
 
-        if page < max_pages - 1:
-            time.sleep(1)
-
     return urls
 
 
 # ---------------------------------------------------------------------------
 # Page scraping
 # ---------------------------------------------------------------------------
+
+THROTTLE_PREV_TIME = 0
+THROTTLE_PERIOD = 1
+def throttled_request(*args: str, **kwargs: dict) -> requests.Response:
+    """
+    Make a call to requests.get with args and kwargs, but
+    sleep such that calls can only be made once per second.
+    """
+    sleep_time = THROTTLE_PERIOD - (time.time() - THROTTLE_PREV_TIME)
+    if sleep_time > 0:
+        time.sleep(sleep_time)
+
+    return requests.get(*args, **kwargs)
 
 
 def fetch_page_data(event_url: str) -> dict:
@@ -154,7 +164,7 @@ def fetch_page_data(event_url: str) -> dict:
     - title (from og:title or <h1>)
     - uiconf_id (Kaltura player config ID, for iframe embedding)
     """
-    resp = requests.get(event_url, headers=PAGE_HEADERS, timeout=30)
+    resp = throttled_request(event_url, headers=PAGE_HEADERS, timeout=30)
     resp.raise_for_status()
     html = resp.text
 
@@ -418,7 +428,7 @@ def process_event(event_url: str, index: dict) -> dict | None:
     cues = []
     if kaltura["vtt_url"]:
         try:
-            vtt_resp = requests.get(kaltura["vtt_url"], timeout=30)
+            vtt_resp = throttled_request(kaltura["vtt_url"], timeout=30)
             vtt_resp.raise_for_status()
             cues = parse_vtt(vtt_resp.text)
             print(f"  Parsed {len(cues)} cues from VTT.", file=sys.stderr)
@@ -492,7 +502,6 @@ def main() -> None:
         result = process_event(url, index)
         if result:
             new_count += 1
-        time.sleep(1)
 
     save_index(index)
     print(f"\nDone. {new_count} new event(s) ingested.")

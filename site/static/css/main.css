@@ -304,6 +304,11 @@ a:hover { color: var(--ts-hover); text-decoration: underline; }
   border-top: 1px solid var(--border);
 }
 
+.footer-links {
+  margin: 0.25rem 0 0;
+  font-size: 0.8rem;
+}
+
 /* ── Responsive ── */
 @media (max-width: 640px) {
   .header-inner { flex-wrap: wrap; gap: 0.5rem; }

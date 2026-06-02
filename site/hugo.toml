@@ -2,8 +2,8 @@
 # ----------------------------------------
 # Update baseURL to match your GitHub Pages URL before deploying:
 #   https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/
-#baseURL = "https://USERNAME.github.io/REPO/"
-baseURL = "http://localhost:8000/"
+baseURL = "https://kc0bfv.github.io/waru-webevent-search/"
+#baseURL = "https://localhost:8000/"
 languageCode = "en-us"
 title = "WarU Event Search"
 
@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "Search across transcripts from all WarU web events. Results link directly to the moment in the video."
-  github_repo = "https://github.com/USERNAME/REPO"
+  github_repo = "https://github.com/kc0bfv/waru-webevent-search"
 
 [markup.goldmark.renderer]
   unsafe = true  # Allow raw HTML in markdown (used by shortcodes)
