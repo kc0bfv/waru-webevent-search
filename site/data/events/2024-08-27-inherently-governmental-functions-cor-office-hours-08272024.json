@@ -1,0 +1,7243 @@
+{
+  "id": "2024-08-27-inherently-governmental-functions-cor-office-hours-08272024",
+  "title": "Inherently Governmental Functions - COR Office Hours 08/27/2024",
+  "date": "2024-08-27",
+  "event_url": "https://www.waru.edu/events/cor-office-hours-140",
+  "entry_id": "1_5fbp2ft0",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_5fbp2ft0/version/100011",
+  "cues": [
+    {
+      "start": 3.124,
+      "end": 7.004,
+      "start_int": 3,
+      "timestamp_label": "0:03",
+      "text": "It's 11:45 AM, so let's go ahead and get started."
+    },
+    {
+      "start": 7.104,
+      "end": 9.574,
+      "start_int": 7,
+      "timestamp_label": "0:07",
+      "text": "What today's core office hours session."
+    },
+    {
+      "start": 9.824,
+      "end": 11.314,
+      "start_int": 9,
+      "timestamp_label": "0:09",
+      "text": "Hello all and welcome."
+    },
+    {
+      "start": 12.304,
+      "end": 15.723,
+      "start_int": 12,
+      "timestamp_label": "0:12",
+      "text": "Before we begin with today's topic, I'm going to go ahead and"
+    },
+    {
+      "start": 15.723,
+      "end": 17.984,
+      "start_int": 15,
+      "timestamp_label": "0:15",
+      "text": "make a few administrative announcements."
+    },
+    {
+      "start": 18.194,
+      "end": 22.854,
+      "start_int": 18,
+      "timestamp_label": "0:18",
+      "text": "So let's go ahead and get the right slide show up for you."
+    },
+    {
+      "start": 23.804,
+      "end": 24.164,
+      "start_int": 23,
+      "timestamp_label": "0:23",
+      "text": "There we go."
+    },
+    {
+      "start": 25.334,
+      "end": 28.198,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "So hello, all before we get started, I do wanna say a few"
+    },
+    {
+      "start": 28.198,
+      "end": 28.544,
+      "start_int": 28,
+      "timestamp_label": "0:28",
+      "text": "things."
+    },
+    {
+      "start": 28.854,
+      "end": 32.132,
+      "start_int": 28,
+      "timestamp_label": "0:28",
+      "text": "Firstly, I am currently sharing my screen so if you do not see"
+    },
+    {
+      "start": 32.132,
+      "end": 35.41,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "the shared screen, I recommend that you leave this meeting and"
+    },
+    {
+      "start": 35.41,
+      "end": 37.544,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "rejoin the session via Web browser only."
+    },
+    {
+      "start": 38.074,
+      "end": 41.618,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "Secondly, I want to ensure that everyone is aware that you are"
+    },
+    {
+      "start": 41.618,
+      "end": 45.163,
+      "start_int": 41,
+      "timestamp_label": "0:41",
+      "text": "not automatically muted when you enter this meeting, so please"
+    },
+    {
+      "start": 45.163,
+      "end": 48.708,
+      "start_int": 45,
+      "timestamp_label": "0:45",
+      "text": "take a moment and double check that you are muted while you're"
+    },
+    {
+      "start": 48.708,
+      "end": 52.253,
+      "start_int": 48,
+      "timestamp_label": "0:48",
+      "text": "checking to see if your mics are disabled by having that slash"
+    },
+    {
+      "start": 52.253,
+      "end": 54.054,
+      "start_int": 52,
+      "timestamp_label": "0:52",
+      "text": "icon over the microphone symbol."
+    },
+    {
+      "start": 54.364,
+      "end": 57.388,
+      "start_int": 54,
+      "timestamp_label": "0:54",
+      "text": "I also ask that you check that your cameras are also returned"
+    },
+    {
+      "start": 57.388,
+      "end": 60.559,
+      "start_int": 57,
+      "timestamp_label": "0:57",
+      "text": "off as they are not required for this meeting, so also make sure"
+    },
+    {
+      "start": 60.559,
+      "end": 62.804,
+      "start_int": 60,
+      "timestamp_label": "1:00",
+      "text": "that there is a slash over that icon as well."
+    },
+    {
+      "start": 64.054,
+      "end": 67.542,
+      "start_int": 64,
+      "timestamp_label": "1:04",
+      "text": "And the reason why we ask that is because the session is being"
+    },
+    {
+      "start": 67.542,
+      "end": 70.976,
+      "start_int": 67,
+      "timestamp_label": "1:07",
+      "text": "recorded and will be posted on the core community of practice"
+    },
+    {
+      "start": 70.976,
+      "end": 72.084,
+      "start_int": 70,
+      "timestamp_label": "1:10",
+      "text": "by the end of today."
+    },
+    {
+      "start": 72.314,
+      "end": 75.981,
+      "start_int": 72,
+      "timestamp_label": "1:12",
+      "text": "By the end of the day today, for you to be able to reference"
+    },
+    {
+      "start": 75.981,
+      "end": 79.95,
+      "start_int": 75,
+      "timestamp_label": "1:15",
+      "text": "again and towards the end of the session, I will share with you a"
+    },
+    {
+      "start": 79.95,
+      "end": 83.498,
+      "start_int": 79,
+      "timestamp_label": "1:19",
+      "text": "survey like attendees can earn one CELP just be aware that"
+    },
+    {
+      "start": 83.498,
+      "end": 87.226,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "CLP's must be approved by your supervisors as they have final"
+    },
+    {
+      "start": 87.226,
+      "end": 90.714,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "say and when requesting a certificate, remember to follow"
+    },
+    {
+      "start": 90.714,
+      "end": 94.382,
+      "start_int": 90,
+      "timestamp_label": "1:30",
+      "text": "your organizational guidance regarding requesting continuous"
+    },
+    {
+      "start": 94.382,
+      "end": 95.284,
+      "start_int": 94,
+      "timestamp_label": "1:34",
+      "text": "signing points."
+    },
+    {
+      "start": 95.294,
+      "end": 98.294,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "And remember that CLP's for DAU events will not post"
+    },
+    {
+      "start": 98.294,
+      "end": 101.577,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "automatically to your CL transcript and must be requested"
+    },
+    {
+      "start": 101.577,
+      "end": 104.634,
+      "start_int": 101,
+      "timestamp_label": "1:41",
+      "text": "separately for cords and acquisition coded positions."
+    },
+    {
+      "start": 104.644,
+      "end": 108.205,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "You can request continuous learning points through your"
+    },
+    {
+      "start": 108.205,
+      "end": 112.34,
+      "start_int": 108,
+      "timestamp_label": "1:48",
+      "text": "organization system and attach a certificate there for cores and"
+    },
+    {
+      "start": 112.34,
+      "end": 113.994,
+      "start_int": 112,
+      "timestamp_label": "1:52",
+      "text": "non acquisition positions."
+    },
+    {
+      "start": 114.144,
+      "end": 117.282,
+      "start_int": 114,
+      "timestamp_label": "1:54",
+      "text": "You may manually track your attendance for the mandatory"
+    },
+    {
+      "start": 117.282,
+      "end": 119.374,
+      "start_int": 117,
+      "timestamp_label": "1:57",
+      "text": "core refresher training requirements."
+    },
+    {
+      "start": 119.704,
+      "end": 123.639,
+      "start_int": 119,
+      "timestamp_label": "1:59",
+      "text": "If by chance you miss that link in the chat, it is also"
+    },
+    {
+      "start": 123.639,
+      "end": 127.856,
+      "start_int": 123,
+      "timestamp_label": "2:03",
+      "text": "available to you and the DAU events page and the website to"
+    },
+    {
+      "start": 127.856,
+      "end": 129.754,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "that is yeahyou.edu/events."
+    },
+    {
+      "start": 130.184,
+      "end": 134.014,
+      "start_int": 130,
+      "timestamp_label": "2:10",
+      "text": "Just be sure to click on today's core office hour sessions."
+    },
+    {
+      "start": 134.484,
+      "end": 139.695,
+      "start_int": 134,
+      "timestamp_label": "2:14",
+      "text": "Also, there is a presentation that is paired with today's"
+    },
+    {
+      "start": 139.695,
+      "end": 140.414,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "lecture."
+    },
+    {
+      "start": 140.424,
+      "end": 143.956,
+      "start_int": 140,
+      "timestamp_label": "2:20",
+      "text": "I'm going to go ahead and share that link in the chat, so if you"
+    },
+    {
+      "start": 143.956,
+      "end": 146.999,
+      "start_int": 143,
+      "timestamp_label": "2:23",
+      "text": "would like a copy of today's presentation, please go to"
+    },
+    {
+      "start": 146.999,
+      "end": 150.531,
+      "start_int": 146,
+      "timestamp_label": "2:26",
+      "text": "today's COR office hours, select the Attachment tab and you will"
+    },
+    {
+      "start": 150.531,
+      "end": 152.814,
+      "start_int": 150,
+      "timestamp_label": "2:30",
+      "text": "be able to download that file from there."
+    },
+    {
+      "start": 153.504,
+      "end": 156.597,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "But that is it for now for my announcements, so I'll go ahead"
+    },
+    {
+      "start": 156.597,
+      "end": 158.144,
+      "start_int": 156,
+      "timestamp_label": "2:36",
+      "text": "and pass the MIC to you, Steve."
+    },
+    {
+      "start": 159.244,
+      "end": 160.574,
+      "start_int": 159,
+      "timestamp_label": "2:39",
+      "text": "Alright, thank you."
+    },
+    {
+      "start": 160.824,
+      "end": 162.564,
+      "start_int": 160,
+      "timestamp_label": "2:40",
+      "text": "Let me share my screen here."
+    },
+    {
+      "start": 166.874,
+      "end": 167.674,
+      "start_int": 166,
+      "timestamp_label": "2:46",
+      "text": "All right."
+    },
+    {
+      "start": 170.274,
+      "end": 171.384,
+      "start_int": 170,
+      "timestamp_label": "2:50",
+      "text": "Alright, welcome everybody."
+    },
+    {
+      "start": 172.304,
+      "end": 177.533,
+      "start_int": 172,
+      "timestamp_label": "2:52",
+      "text": "So for the second week in a row, I have infiltrated COR office"
+    },
+    {
+      "start": 177.533,
+      "end": 179.774,
+      "start_int": 177,
+      "timestamp_label": "2:57",
+      "text": "hours and have taking over."
+    },
+    {
+      "start": 181.444,
+      "end": 186.014,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "Which I love doing so a few times a year I'm able to kind of"
+    },
+    {
+      "start": 186.014,
+      "end": 190.81,
+      "start_int": 186,
+      "timestamp_label": "3:06",
+      "text": "squeeze in here and talk about stuff that umm, that only I want"
+    },
+    {
+      "start": 190.81,
+      "end": 192.234,
+      "start_int": 190,
+      "timestamp_label": "3:10",
+      "text": "to talk about. But."
+    },
+    {
+      "start": 194.214,
+      "end": 197.499,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "Lot of people within the COR community have expressed that"
+    },
+    {
+      "start": 197.499,
+      "end": 198.224,
+      "start_int": 197,
+      "timestamp_label": "3:17",
+      "text": "they want to."
+    },
+    {
+      "start": 200.064,
+      "end": 204.626,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "Talk about also and last week it did that I closeouts, if there's"
+    },
+    {
+      "start": 204.626,
+      "end": 208.981,
+      "start_int": 204,
+      "timestamp_label": "3:24",
+      "text": "anybody in here that's sent me an email and I haven't got back"
+    },
+    {
+      "start": 208.981,
+      "end": 211.194,
+      "start_int": 208,
+      "timestamp_label": "3:28",
+      "text": "to you yet, I'm in in the works."
+    },
+    {
+      "start": 211.204,
+      "end": 214.906,
+      "start_int": 211,
+      "timestamp_label": "3:31",
+      "text": "I was out of the office quite a bit last week, so I've been"
+    },
+    {
+      "start": 214.906,
+      "end": 218.485,
+      "start_int": 214,
+      "timestamp_label": "3:34",
+      "text": "responding to those today, so appreciate your patience on"
+    },
+    {
+      "start": 218.485,
+      "end": 218.794,
+      "start_int": 218,
+      "timestamp_label": "3:38",
+      "text": "that."
+    },
+    {
+      "start": 219.994,
+      "end": 224.239,
+      "start_int": 219,
+      "timestamp_label": "3:39",
+      "text": "Uh, but another thing that wanted to talk about is"
+    },
+    {
+      "start": 224.239,
+      "end": 228.733,
+      "start_int": 224,
+      "timestamp_label": "3:44",
+      "text": "inherently governmental functions, which is something"
+    },
+    {
+      "start": 228.733,
+      "end": 234.144,
+      "start_int": 228,
+      "timestamp_label": "3:48",
+      "text": "I've kind of fallen into doing a lot of research and a lot of uh"
+    },
+    {
+      "start": 234.144,
+      "end": 239.554,
+      "start_int": 234,
+      "timestamp_label": "3:54",
+      "text": "symposiums and things like that on mostly due to the fact that I"
+    },
+    {
+      "start": 239.554,
+      "end": 240.054,
+      "start_int": 239,
+      "timestamp_label": "3:59",
+      "text": "spent."
+    },
+    {
+      "start": 242.074,
+      "end": 247.753,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "Many years researching and writing on personal services and"
+    },
+    {
+      "start": 247.753,
+      "end": 251.824,
+      "start_int": 247,
+      "timestamp_label": "4:07",
+      "text": "kind of inherently governmental functions."
+    },
+    {
+      "start": 251.834,
+      "end": 255.984,
+      "start_int": 251,
+      "timestamp_label": "4:11",
+      "text": "Kind of falls within the same, I would say same umbrella."
+    },
+    {
+      "start": 255.994,
+      "end": 259.409,
+      "start_int": 255,
+      "timestamp_label": "4:15",
+      "text": "It's not the same thing, but basically when you talk about"
+    },
+    {
+      "start": 259.409,
+      "end": 262.304,
+      "start_int": 259,
+      "timestamp_label": "4:19",
+      "text": "one at times you you really talk about the other."
+    },
+    {
+      "start": 262.314,
+      "end": 266.145,
+      "start_int": 262,
+      "timestamp_label": "4:22",
+      "text": "So I've been doing a lot of reading into these inherently"
+    },
+    {
+      "start": 266.145,
+      "end": 270.24,
+      "start_int": 266,
+      "timestamp_label": "4:26",
+      "text": "governmental functions and the report for basically everybody"
+    },
+    {
+      "start": 270.24,
+      "end": 274.137,
+      "start_int": 270,
+      "timestamp_label": "4:30",
+      "text": "in the acquisition and you know, especially colors who are"
+    },
+    {
+      "start": 274.137,
+      "end": 277.374,
+      "start_int": 274,
+      "timestamp_label": "4:34",
+      "text": "interacting with contractors on a regular basis."
+    },
+    {
+      "start": 278.714,
+      "end": 282.685,
+      "start_int": 278,
+      "timestamp_label": "4:38",
+      "text": "It's a good topic to at least have some familiarity with uh,"
+    },
+    {
+      "start": 282.685,
+      "end": 286.786,
+      "start_int": 282,
+      "timestamp_label": "4:42",
+      "text": "so you understand mostly what the the regulations and the laws"
+    },
+    {
+      "start": 286.786,
+      "end": 288.154,
+      "start_int": 286,
+      "timestamp_label": "4:46",
+      "text": "have to say about it."
+    },
+    {
+      "start": 288.354,
+      "end": 292.007,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "So that's a lot of what we're going to be talking about today"
+    },
+    {
+      "start": 292.007,
+      "end": 295.719,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "is these regulations and laws and what inherently governmental"
+    },
+    {
+      "start": 295.719,
+      "end": 296.544,
+      "start_int": 295,
+      "timestamp_label": "4:55",
+      "text": "functions are."
+    },
+    {
+      "start": 296.714,
+      "end": 300.25,
+      "start_int": 296,
+      "timestamp_label": "4:56",
+      "text": "And there's several of them, which makes it kind of"
+    },
+    {
+      "start": 300.25,
+      "end": 304.466,
+      "start_int": 300,
+      "timestamp_label": "5:00",
+      "text": "difficult, umm, to understand them as a whole because there's"
+    },
+    {
+      "start": 304.466,
+      "end": 308.002,
+      "start_int": 304,
+      "timestamp_label": "5:04",
+      "text": "little bits and pieces of discussions of inherently"
+    },
+    {
+      "start": 308.002,
+      "end": 312.082,
+      "start_int": 308,
+      "timestamp_label": "5:08",
+      "text": "governmental functions and a lot of different places, which"
+    },
+    {
+      "start": 312.082,
+      "end": 315.754,
+      "start_int": 312,
+      "timestamp_label": "5:12",
+      "text": "sometimes makes it a bit difficult to piece together."
+    },
+    {
+      "start": 315.764,
+      "end": 318.034,
+      "start_int": 315,
+      "timestamp_label": "5:15",
+      "text": "So I tried my best to piece it together."
+    },
+    {
+      "start": 319.094,
+      "end": 319.444,
+      "start_int": 319,
+      "timestamp_label": "5:19",
+      "text": "Umm."
+    },
+    {
+      "start": 319.454,
+      "end": 322.404,
+      "start_int": 319,
+      "timestamp_label": "5:19",
+      "text": "So we can kind of see everything in one place instead of, you"
+    },
+    {
+      "start": 322.404,
+      "end": 325.354,
+      "start_int": 322,
+      "timestamp_label": "5:22",
+      "text": "know, you have to search around to a lot of different places."
+    },
+    {
+      "start": 326.634,
+      "end": 329.927,
+      "start_int": 326,
+      "timestamp_label": "5:26",
+      "text": "Alright, OK, so I'm not getting paid the same this, but is that"
+    },
+    {
+      "start": 329.927,
+      "end": 332.604,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "was kind of sitting here waiting for this to go on."
+    },
+    {
+      "start": 333.014,
+      "end": 337.996,
+      "start_int": 333,
+      "timestamp_label": "5:33",
+      "text": "I saw that there was some kind of seminar and frustration from"
+    },
+    {
+      "start": 337.996,
+      "end": 341.634,
+      "start_int": 337,
+      "timestamp_label": "5:37",
+      "text": "frustration to mastery about CPAR challenges."
+    },
+    {
+      "start": 343.014,
+      "end": 344.124,
+      "start_int": 343,
+      "timestamp_label": "5:43",
+      "text": "I'm I'm."
+    },
+    {
+      "start": 344.194,
+      "end": 345.784,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "I think I'm gonna attend that one."
+    },
+    {
+      "start": 346.054,
+      "end": 349.87,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "Tell you honestly, I don't know any of the people doing it, but"
+    },
+    {
+      "start": 349.87,
+      "end": 353.628,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "that is something that I get a lot of questions from COR's and"
+    },
+    {
+      "start": 353.628,
+      "end": 357.146,
+      "start_int": 353,
+      "timestamp_label": "5:53",
+      "text": "a lot of different people within acquisition is that exact"
+    },
+    {
+      "start": 357.146,
+      "end": 357.624,
+      "start_int": 357,
+      "timestamp_label": "5:57",
+      "text": "subject."
+    },
+    {
+      "start": 358.094,
+      "end": 361.918,
+      "start_int": 358,
+      "timestamp_label": "5:58",
+      "text": "So I'm just saying that might be something to think about for all"
+    },
+    {
+      "start": 361.918,
+      "end": 362.324,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "of you."
+    },
+    {
+      "start": 362.334,
+      "end": 363.544,
+      "start_int": 362,
+      "timestamp_label": "6:02",
+      "text": "It's like September 18th."
+    },
+    {
+      "start": 364.744,
+      "end": 366.594,
+      "start_int": 364,
+      "timestamp_label": "6:04",
+      "text": "If you're able to time that, I'm gonna try to."
+    },
+    {
+      "start": 366.604,
+      "end": 370.304,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "If I'm available, just because that's a, that's a big subject."
+    },
+    {
+      "start": 370.704,
+      "end": 374.202,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "It's something I get to ask a lot of questions about the"
+    },
+    {
+      "start": 374.202,
+      "end": 374.694,
+      "start_int": 374,
+      "timestamp_label": "6:14",
+      "text": "thought."
+    },
+    {
+      "start": 374.704,
+      "end": 377.024,
+      "start_int": 374,
+      "timestamp_label": "6:14",
+      "text": "I just kind of bring that up because I kind of noticed it"
+    },
+    {
+      "start": 377.024,
+      "end": 379.184,
+      "start_int": 377,
+      "timestamp_label": "6:17",
+      "text": "popping up as I was listening to the beautiful music."
+    },
+    {
+      "start": 381.594,
+      "end": 382.154,
+      "start_int": 381,
+      "timestamp_label": "6:21",
+      "text": "Alright."
+    },
+    {
+      "start": 386.104,
+      "end": 389.314,
+      "start_int": 386,
+      "timestamp_label": "6:26",
+      "text": "But just wanted to tell you a little bit about me."
+    },
+    {
+      "start": 389.364,
+      "end": 391.374,
+      "start_int": 389,
+      "timestamp_label": "6:29",
+      "text": "I always like to know who's talking to me."
+    },
+    {
+      "start": 391.904,
+      "end": 394.094,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "So my name is Steve Fasko."
+    },
+    {
+      "start": 394.464,
+      "end": 398.828,
+      "start_int": 394,
+      "timestamp_label": "6:34",
+      "text": "I grew up in this small town in northwestern Illinois, buried to"
+    },
+    {
+      "start": 398.828,
+      "end": 399.164,
+      "start_int": 398,
+      "timestamp_label": "6:38",
+      "text": "Jody."
+    },
+    {
+      "start": 399.174,
+      "end": 403.967,
+      "start_int": 399,
+      "timestamp_label": "6:39",
+      "text": "He's a a deputy chief of staff for a two star command over in"
+    },
+    {
+      "start": 403.967,
+      "end": 405.204,
+      "start_int": 403,
+      "timestamp_label": "6:43",
+      "text": "Rock Island, IL."
+    },
+    {
+      "start": 406.314,
+      "end": 409.774,
+      "start_int": 406,
+      "timestamp_label": "6:46",
+      "text": "Uh, three kids, Ellena, Aaron and Reed."
+    },
+    {
+      "start": 410.384,
+      "end": 414.476,
+      "start_int": 410,
+      "timestamp_label": "6:50",
+      "text": "My background I was started by government career as a as a Navy"
+    },
+    {
+      "start": 414.476,
+      "end": 418.185,
+      "start_int": 414,
+      "timestamp_label": "6:54",
+      "text": "corpsman, which I was active duty for seven years, mostly"
+    },
+    {
+      "start": 418.185,
+      "end": 422.214,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "embedded with the Marine Corps and as a surgical technologist."
+    },
+    {
+      "start": 422.944,
+      "end": 426.604,
+      "start_int": 422,
+      "timestamp_label": "7:02",
+      "text": "When I got out, I worked as an corporate base operations"
+    },
+    {
+      "start": 426.604,
+      "end": 430.842,
+      "start_int": 426,
+      "timestamp_label": "7:06",
+      "text": "manager for an automotive repair franchiser which I didn't really"
+    },
+    {
+      "start": 430.842,
+      "end": 431.164,
+      "start_int": 430,
+      "timestamp_label": "7:10",
+      "text": "like."
+    },
+    {
+      "start": 431.174,
+      "end": 432.024,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "That job too much."
+    },
+    {
+      "start": 432.034,
+      "end": 435.574,
+      "start_int": 432,
+      "timestamp_label": "7:12",
+      "text": "So I went to grad school after working for that job for a bit."
+    },
+    {
+      "start": 435.964,
+      "end": 439.753,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "Got hired as a contracting intern with the Umm, but"
+    },
+    {
+      "start": 439.753,
+      "end": 444.271,
+      "start_int": 439,
+      "timestamp_label": "7:19",
+      "text": "department of the Army so work through contracting and I also"
+    },
+    {
+      "start": 444.271,
+      "end": 448.134,
+      "start_int": 444,
+      "timestamp_label": "7:24",
+      "text": "taught healthcare management which I still do today."
+    },
+    {
+      "start": 449.274,
+      "end": 453.514,
+      "start_int": 449,
+      "timestamp_label": "7:29",
+      "text": "Uh for both Texas Tech and Southern Illinois University."
+    },
+    {
+      "start": 454.074,
+      "end": 457.306,
+      "start_int": 454,
+      "timestamp_label": "7:34",
+      "text": "So I teach healthcare administration and their"
+    },
+    {
+      "start": 457.306,
+      "end": 461.365,
+      "start_int": 457,
+      "timestamp_label": "7:37",
+      "text": "graduate programs there of contracting officer with the VA"
+    },
+    {
+      "start": 461.365,
+      "end": 465.354,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "did that for a few years just to kind of marry my careers"
+    },
+    {
+      "start": 465.354,
+      "end": 465.974,
+      "start_int": 465,
+      "timestamp_label": "7:45",
+      "text": "together."
+    },
+    {
+      "start": 467.064,
+      "end": 471.087,
+      "start_int": 467,
+      "timestamp_label": "7:47",
+      "text": "Uh, you know, basically having a half my life doing healthcare,"
+    },
+    {
+      "start": 471.087,
+      "end": 475.048,
+      "start_int": 471,
+      "timestamp_label": "7:51",
+      "text": "half my life doing contracting it kind of wanted to piece them"
+    },
+    {
+      "start": 475.048,
+      "end": 475.614,
+      "start_int": 475,
+      "timestamp_label": "7:55",
+      "text": "together."
+    },
+    {
+      "start": 475.624,
+      "end": 479.573,
+      "start_int": 475,
+      "timestamp_label": "7:55",
+      "text": "So I started working for the VA and then they kept threatening"
+    },
+    {
+      "start": 479.573,
+      "end": 481.454,
+      "start_int": 479,
+      "timestamp_label": "7:59",
+      "text": "to move my job to Minneapolis."
+    },
+    {
+      "start": 481.464,
+      "end": 484.967,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "And then my wife, who is from Arkansas, said we are not going"
+    },
+    {
+      "start": 484.967,
+      "end": 487.284,
+      "start_int": 484,
+      "timestamp_label": "8:04",
+      "text": "any further north than we are right now."
+    },
+    {
+      "start": 488.044,
+      "end": 492.22,
+      "start_int": 488,
+      "timestamp_label": "8:08",
+      "text": "And luckily, you know, one of the things I decided is my first"
+    },
+    {
+      "start": 492.22,
+      "end": 496.33,
+      "start_int": 492,
+      "timestamp_label": "8:12",
+      "text": "year as a contracting intern is that someday I wanted to work"
+    },
+    {
+      "start": 496.33,
+      "end": 499.844,
+      "start_int": 496,
+      "timestamp_label": "8:16",
+      "text": "for DAU and there was an opening right where I live."
+    },
+    {
+      "start": 499.904,
+      "end": 503.604,
+      "start_int": 499,
+      "timestamp_label": "8:19",
+      "text": "I gave it a shot and they hired me, so worked out beautifully."
+    },
+    {
+      "start": 504.594,
+      "end": 509.414,
+      "start_int": 504,
+      "timestamp_label": "8:24",
+      "text": "Umm, I've been here for 13 years with DAU and the Midwest region."
+    },
+    {
+      "start": 512.514,
+      "end": 513.184,
+      "start_int": 512,
+      "timestamp_label": "8:32",
+      "text": "Well, right."
+    },
+    {
+      "start": 516.274,
+      "end": 519.781,
+      "start_int": 516,
+      "timestamp_label": "8:36",
+      "text": "So let's talk about what we all came here for, and that's the"
+    },
+    {
+      "start": 519.781,
+      "end": 522.384,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "talk about inherently governmental functions."
+    },
+    {
+      "start": 522.474,
+      "end": 525.47,
+      "start_int": 522,
+      "timestamp_label": "8:42",
+      "text": "So in order to understand inherently governmental"
+    },
+    {
+      "start": 525.47,
+      "end": 528.826,
+      "start_int": 525,
+      "timestamp_label": "8:45",
+      "text": "functions, we gotta understand what is considered to be"
+    },
+    {
+      "start": 528.826,
+      "end": 530.504,
+      "start_int": 528,
+      "timestamp_label": "8:48",
+      "text": "government functions, right?"
+    },
+    {
+      "start": 531.034,
+      "end": 533.134,
+      "start_int": 531,
+      "timestamp_label": "8:51",
+      "text": "So government functions are."
+    },
+    {
+      "start": 534.044,
+      "end": 536.584,
+      "start_int": 534,
+      "timestamp_label": "8:54",
+      "text": "Umm followed the two categories."
+    },
+    {
+      "start": 537.794,
+      "end": 539.444,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "What is the act of governing?"
+    },
+    {
+      "start": 539.694,
+      "end": 544.231,
+      "start_int": 539,
+      "timestamp_label": "8:59",
+      "text": "Which means the discretionary exercises, the government"
+    },
+    {
+      "start": 544.231,
+      "end": 549.416,
+      "start_int": 544,
+      "timestamp_label": "9:04",
+      "text": "authority, and then inherently governmental functions also deal"
+    },
+    {
+      "start": 549.416,
+      "end": 554.521,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "with when he transactions in the title ments OK and those come"
+    },
+    {
+      "start": 554.521,
+      "end": 556.304,
+      "start_int": 554,
+      "timestamp_label": "9:14",
+      "text": "from the Constitution."
+    },
+    {
+      "start": 557.214,
+      "end": 560.106,
+      "start_int": 557,
+      "timestamp_label": "9:17",
+      "text": "There's all come from the Constitution, so when we think"
+    },
+    {
+      "start": 560.106,
+      "end": 562.795,
+      "start_int": 560,
+      "timestamp_label": "9:20",
+      "text": "about it, inherently governmental functions, they're"
+    },
+    {
+      "start": 562.795,
+      "end": 565.434,
+      "start_int": 562,
+      "timestamp_label": "9:22",
+      "text": "functions concerned with money and decision making."
+    },
+    {
+      "start": 566.674,
+      "end": 571.31,
+      "start_int": 566,
+      "timestamp_label": "9:26",
+      "text": "Alright, so I kind of think about it in this most basic form"
+    },
+    {
+      "start": 571.31,
+      "end": 576.023,
+      "start_int": 571,
+      "timestamp_label": "9:31",
+      "text": "based on what is considered to be governmental functions that"
+    },
+    {
+      "start": 576.023,
+      "end": 578.684,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "inherently governmental functions."
+    },
+    {
+      "start": 580.094,
+      "end": 583.843,
+      "start_int": 580,
+      "timestamp_label": "9:40",
+      "text": "Our these particular functions that can only be performed by a"
+    },
+    {
+      "start": 583.843,
+      "end": 585.034,
+      "start_int": 583,
+      "timestamp_label": "9:43",
+      "text": "government employee."
+    },
+    {
+      "start": 586.114,
+      "end": 590.085,
+      "start_int": 586,
+      "timestamp_label": "9:46",
+      "text": "So contractors are anybody outside interest groups, any of"
+    },
+    {
+      "start": 590.085,
+      "end": 594.056,
+      "start_int": 590,
+      "timestamp_label": "9:50",
+      "text": "those other people that you know, they have an interest in"
+    },
+    {
+      "start": 594.056,
+      "end": 597.624,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "making decisions on behalf of the government cannot."
+    },
+    {
+      "start": 598.014,
+      "end": 601.224,
+      "start_int": 598,
+      "timestamp_label": "9:58",
+      "text": "It can only be done by a government employee, OK."
+    },
+    {
+      "start": 603.624,
+      "end": 607.086,
+      "start_int": 603,
+      "timestamp_label": "10:03",
+      "text": "And if you have any questions along the way, please, you know,"
+    },
+    {
+      "start": 607.086,
+      "end": 610.384,
+      "start_int": 607,
+      "timestamp_label": "10:07",
+      "text": "feel free to raise your hand, put in the chat, be more than"
+    },
+    {
+      "start": 610.384,
+      "end": 612.034,
+      "start_int": 610,
+      "timestamp_label": "10:10",
+      "text": "happy to discuss those things."
+    },
+    {
+      "start": 617.484,
+      "end": 617.994,
+      "start_int": 617,
+      "timestamp_label": "10:17",
+      "text": "All right."
+    },
+    {
+      "start": 618.004,
+      "end": 622.718,
+      "start_int": 618,
+      "timestamp_label": "10:18",
+      "text": "So these in those talking about it's kind of difficult to find"
+    },
+    {
+      "start": 622.718,
+      "end": 626.684,
+      "start_int": 622,
+      "timestamp_label": "10:22",
+      "text": "information inherently governmental functions in its"
+    },
+    {
+      "start": 626.684,
+      "end": 628.854,
+      "start_int": 626,
+      "timestamp_label": "10:26",
+      "text": "full context and This is why."
+    },
+    {
+      "start": 628.924,
+      "end": 633.836,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "So if you see here, there's six different areas that kind of"
+    },
+    {
+      "start": 633.836,
+      "end": 637.944,
+      "start_int": 633,
+      "timestamp_label": "10:33",
+      "text": "define what inherently governmental functions are."
+    },
+    {
+      "start": 640.224,
+      "end": 644.097,
+      "start_int": 640,
+      "timestamp_label": "10:40",
+      "text": "You know, and some of them may be an on top of this, besides"
+    },
+    {
+      "start": 644.097,
+      "end": 647.463,
+      "start_int": 644,
+      "timestamp_label": "10:44",
+      "text": "all these different areas that talk about inherently"
+    },
+    {
+      "start": 647.463,
+      "end": 651.274,
+      "start_int": 647,
+      "timestamp_label": "10:47",
+      "text": "governmental functions, there can also be executive orders."
+    },
+    {
+      "start": 652.284,
+      "end": 656.979,
+      "start_int": 652,
+      "timestamp_label": "10:52",
+      "text": "There have been very few executive orders concerning"
+    },
+    {
+      "start": 656.979,
+      "end": 661.587,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "inherently governmental functions, but the one that"
+    },
+    {
+      "start": 661.587,
+      "end": 666.283,
+      "start_int": 661,
+      "timestamp_label": "11:01",
+      "text": "seems to pop up like occasionally is the function of"
+    },
+    {
+      "start": 666.283,
+      "end": 668.144,
+      "start_int": 666,
+      "timestamp_label": "11:06",
+      "text": "air traffic services."
+    },
+    {
+      "start": 669.434,
+      "end": 674.768,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "So, for example, President Clinton didn't executive order"
+    },
+    {
+      "start": 674.768,
+      "end": 679.644,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "to make air traffic, you know, air traffic services."
+    },
+    {
+      "start": 679.654,
+      "end": 683.896,
+      "start_int": 679,
+      "timestamp_label": "11:19",
+      "text": "And then herenton governmental function and that was in"
+    },
+    {
+      "start": 683.896,
+      "end": 685.184,
+      "start_int": 683,
+      "timestamp_label": "11:23",
+      "text": "December of 2000."
+    },
+    {
+      "start": 685.714,
+      "end": 690.056,
+      "start_int": 685,
+      "timestamp_label": "11:25",
+      "text": "And then President George W Bush, about a year and a half"
+    },
+    {
+      "start": 690.056,
+      "end": 691.704,
+      "start_int": 690,
+      "timestamp_label": "11:30",
+      "text": "later, Umm, took away."
+    },
+    {
+      "start": 691.714,
+      "end": 695.651,
+      "start_int": 691,
+      "timestamp_label": "11:31",
+      "text": "That designation as inherently governmental function, so you"
+    },
+    {
+      "start": 695.651,
+      "end": 699.782,
+      "start_int": 695,
+      "timestamp_label": "11:35",
+      "text": "know a lot of that may have the do with the fact that September"
+    },
+    {
+      "start": 699.782,
+      "end": 703.849,
+      "start_int": 699,
+      "timestamp_label": "11:39",
+      "text": "11th was kind of in the middle of that and that might have had"
+    },
+    {
+      "start": 703.849,
+      "end": 707.786,
+      "start_int": 703,
+      "timestamp_label": "11:43",
+      "text": "you know something to do with changing that as a making that"
+    },
+    {
+      "start": 707.786,
+      "end": 709.594,
+      "start_int": 707,
+      "timestamp_label": "11:47",
+      "text": "not inherently governmental."
+    },
+    {
+      "start": 709.664,
+      "end": 710.494,
+      "start_int": 709,
+      "timestamp_label": "11:49",
+      "text": "I don't know."
+    },
+    {
+      "start": 710.564,
+      "end": 714.589,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "I don't know the details behind that, but sometimes that pops up"
+    },
+    {
+      "start": 714.589,
+      "end": 716.324,
+      "start_int": 714,
+      "timestamp_label": "11:54",
+      "text": "and there could be specific."
+    },
+    {
+      "start": 717.954,
+      "end": 722.087,
+      "start_int": 717,
+      "timestamp_label": "11:57",
+      "text": "Functions that are, you know, governmental, that may lose its"
+    },
+    {
+      "start": 722.087,
+      "end": 725.554,
+      "start_int": 722,
+      "timestamp_label": "12:02",
+      "text": "designation as inherently governmental versus being"
+    },
+    {
+      "start": 725.554,
+      "end": 728.354,
+      "start_int": 725,
+      "timestamp_label": "12:05",
+      "text": "determined to be inherently governmental."
+    },
+    {
+      "start": 731.384,
+      "end": 735.379,
+      "start_int": 731,
+      "timestamp_label": "12:11",
+      "text": "OK, so of course then we need to talk about what are we really"
+    },
+    {
+      "start": 735.379,
+      "end": 738.359,
+      "start_int": 735,
+      "timestamp_label": "12:15",
+      "text": "discussing when we say inherently governmental"
+    },
+    {
+      "start": 738.359,
+      "end": 738.994,
+      "start_int": 738,
+      "timestamp_label": "12:18",
+      "text": "functions."
+    },
+    {
+      "start": 739.584,
+      "end": 743.208,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "OK, so I said there's two, maybe three, maybe four, primary"
+    },
+    {
+      "start": 743.208,
+      "end": 745.624,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "definitions of inherently governmental."
+    },
+    {
+      "start": 747.964,
+      "end": 752.697,
+      "start_int": 747,
+      "timestamp_label": "12:27",
+      "text": "So the main ones that we talk about as far as inherently"
+    },
+    {
+      "start": 752.697,
+      "end": 758.012,
+      "start_int": 752,
+      "timestamp_label": "12:32",
+      "text": "governmental and the fair Act of 1998 and then the OMB circular"
+    },
+    {
+      "start": 758.012,
+      "end": 763.161,
+      "start_int": 758,
+      "timestamp_label": "12:38",
+      "text": "A-76, which probably hear about a little bit more are kind of"
+    },
+    {
+      "start": 763.161,
+      "end": 767.646,
+      "start_int": 763,
+      "timestamp_label": "12:43",
+      "text": "like two of the biggest stablishing uh, well as there"
+    },
+    {
+      "start": 767.646,
+      "end": 772.214,
+      "start_int": 767,
+      "timestamp_label": "12:47",
+      "text": "were in regulation that came into place concerning it."
+    },
+    {
+      "start": 773.444,
+      "end": 776.913,
+      "start_int": 773,
+      "timestamp_label": "12:53",
+      "text": "But they don't really differ all that much as far as they're"
+    },
+    {
+      "start": 776.913,
+      "end": 777.824,
+      "start_int": 776,
+      "timestamp_label": "12:56",
+      "text": "definition goes."
+    },
+    {
+      "start": 779.624,
+      "end": 784.889,
+      "start_int": 779,
+      "timestamp_label": "12:59",
+      "text": "Barack came out and OMB circular included more of a elaboration"
+    },
+    {
+      "start": 784.889,
+      "end": 789.497,
+      "start_int": 784,
+      "timestamp_label": "13:04",
+      "text": "and expansion of the meaning of inherently governmental"
+    },
+    {
+      "start": 789.497,
+      "end": 793.694,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "functions, and the they do differ in certain ways."
+    },
+    {
+      "start": 794.724,
+      "end": 798.554,
+      "start_int": 794,
+      "timestamp_label": "13:14",
+      "text": "But there's also other statutes and regulations and guidance"
+    },
+    {
+      "start": 798.554,
+      "end": 802.134,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "documents that define inherently governmental functions."
+    },
+    {
+      "start": 803.194,
+      "end": 807.65,
+      "start_int": 803,
+      "timestamp_label": "13:23",
+      "text": "Umm, that kind of come off of that, including the Federal"
+    },
+    {
+      "start": 807.65,
+      "end": 812.567,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "acquisition regulation, the far kind of goes in and takes a lot"
+    },
+    {
+      "start": 812.567,
+      "end": 817.484,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "of the definition from the Fair Act and kind of messes with it."
+    },
+    {
+      "start": 818.394,
+      "end": 821.174,
+      "start_int": 818,
+      "timestamp_label": "13:38",
+      "text": "So they're very, very similar, but it seems like every"
+    },
+    {
+      "start": 821.174,
+      "end": 823.954,
+      "start_int": 821,
+      "timestamp_label": "13:41",
+      "text": "regulation that came out changed some sort of wording."
+    },
+    {
+      "start": 825.274,
+      "end": 829.788,
+      "start_int": 825,
+      "timestamp_label": "13:45",
+      "text": "Uh to change it up a bit, I think a lot of it just has to do"
+    },
+    {
+      "start": 829.788,
+      "end": 834.376,
+      "start_int": 829,
+      "timestamp_label": "13:49",
+      "text": "with semantics of wording that is typically used within those"
+    },
+    {
+      "start": 834.376,
+      "end": 838.594,
+      "start_int": 834,
+      "timestamp_label": "13:54",
+      "text": "regulations or what's used in the law, things like that."
+    },
+    {
+      "start": 839.144,
+      "end": 843.263,
+      "start_int": 839,
+      "timestamp_label": "13:59",
+      "text": "But like the one for us in contracting that we really pay"
+    },
+    {
+      "start": 843.263,
+      "end": 847.524,
+      "start_int": 843,
+      "timestamp_label": "14:03",
+      "text": "attention to is the definition that would be in the Federal"
+    },
+    {
+      "start": 847.524,
+      "end": 851.714,
+      "start_int": 847,
+      "timestamp_label": "14:07",
+      "text": "acquisition Regulation 2.101, which states that inherently"
+    },
+    {
+      "start": 851.714,
+      "end": 856.117,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "governmental function means as a matter of policy, a function"
+    },
+    {
+      "start": 856.117,
+      "end": 860.307,
+      "start_int": 856,
+      "timestamp_label": "14:16",
+      "text": "that is so intimately related to the public interest as to"
+    },
+    {
+      "start": 860.307,
+      "end": 863.574,
+      "start_int": 860,
+      "timestamp_label": "14:20",
+      "text": "mandate performance by a government employee."
+    },
+    {
+      "start": 864.834,
+      "end": 868.64,
+      "start_int": 864,
+      "timestamp_label": "14:24",
+      "text": "So as I was saying at the beginning, with governmental"
+    },
+    {
+      "start": 868.64,
+      "end": 872.93,
+      "start_int": 868,
+      "timestamp_label": "14:28",
+      "text": "functions, when we're talking about that, we're talking about"
+    },
+    {
+      "start": 872.93,
+      "end": 877.29,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "decisions basically decisions made on behalf of the government"
+    },
+    {
+      "start": 877.29,
+      "end": 881.58,
+      "start_int": 877,
+      "timestamp_label": "14:37",
+      "text": "as in the act of governing and again, things dealing with the"
+    },
+    {
+      "start": 881.58,
+      "end": 883.034,
+      "start_int": 881,
+      "timestamp_label": "14:41",
+      "text": "expenditure of money."
+    },
+    {
+      "start": 884.824,
+      "end": 888.843,
+      "start_int": 884,
+      "timestamp_label": "14:44",
+      "text": "You know, those are two things that are at the heart of what"
+    },
+    {
+      "start": 888.843,
+      "end": 891.414,
+      "start_int": 888,
+      "timestamp_label": "14:48",
+      "text": "inherently governmental functions are."
+    },
+    {
+      "start": 891.704,
+      "end": 896.5,
+      "start_int": 891,
+      "timestamp_label": "14:51",
+      "text": "So you kind of think about some of the roles that might involve,"
+    },
+    {
+      "start": 896.5,
+      "end": 901.222,
+      "start_int": 896,
+      "timestamp_label": "14:56",
+      "text": "you know, decision making within the programs you're working on"
+    },
+    {
+      "start": 901.222,
+      "end": 903.584,
+      "start_int": 901,
+      "timestamp_label": "15:01",
+      "text": "and you know, control the money."
+    },
+    {
+      "start": 903.594,
+      "end": 907.369,
+      "start_int": 903,
+      "timestamp_label": "15:03",
+      "text": "Typically, the contracting officer you know is the one that"
+    },
+    {
+      "start": 907.369,
+      "end": 909.824,
+      "start_int": 907,
+      "timestamp_label": "15:07",
+      "text": "signs off the obligate the government."
+    },
+    {
+      "start": 909.834,
+      "end": 912.224,
+      "start_int": 909,
+      "timestamp_label": "15:09",
+      "text": "So that has to be an inherently governmental function."
+    },
+    {
+      "start": 913.394,
+      "end": 918.792,
+      "start_int": 913,
+      "timestamp_label": "15:13",
+      "text": "So contracting officers have to be government employees for that"
+    },
+    {
+      "start": 918.792,
+      "end": 919.374,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "reason."
+    },
+    {
+      "start": 919.664,
+      "end": 922.914,
+      "start_int": 919,
+      "timestamp_label": "15:19",
+      "text": "OK, because it's the the obligating of funds."
+    },
+    {
+      "start": 926.054,
+      "end": 929.924,
+      "start_int": 926,
+      "timestamp_label": "15:26",
+      "text": "Now, could other functions be non inherently governmental?"
+    },
+    {
+      "start": 929.974,
+      "end": 930.844,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "Well, yeah."
+    },
+    {
+      "start": 930.904,
+      "end": 933.684,
+      "start_int": 930,
+      "timestamp_label": "15:30",
+      "text": "He could even then contracting."
+    },
+    {
+      "start": 933.694,
+      "end": 937.805,
+      "start_int": 933,
+      "timestamp_label": "15:33",
+      "text": "But when it comes to being warranted in signing off on a"
+    },
+    {
+      "start": 937.805,
+      "end": 942.134,
+      "start_int": 937,
+      "timestamp_label": "15:37",
+      "text": "contract in funding that has to be inherently governmental."
+    },
+    {
+      "start": 949.704,
+      "end": 953.49,
+      "start_int": 949,
+      "timestamp_label": "15:49",
+      "text": "Alright, so let's talk about the Federal acquisition regulation"
+    },
+    {
+      "start": 953.49,
+      "end": 956.804,
+      "start_int": 953,
+      "timestamp_label": "15:53",
+      "text": "again, a little more detail of what it says about that."
+    },
+    {
+      "start": 959.184,
+      "end": 963.935,
+      "start_int": 959,
+      "timestamp_label": "15:59",
+      "text": "Alright, so according to far 2.101, the said INHERENTLY"
+    },
+    {
+      "start": 963.935,
+      "end": 968.262,
+      "start_int": 963,
+      "timestamp_label": "16:03",
+      "text": "GOVERNMENTAL function involves other things as the"
+    },
+    {
+      "start": 968.262,
+      "end": 973.437,
+      "start_int": 968,
+      "timestamp_label": "16:08",
+      "text": "interpretation, execution of laws of the United States as to"
+    },
+    {
+      "start": 973.437,
+      "end": 978.358,
+      "start_int": 973,
+      "timestamp_label": "16:13",
+      "text": "bind the United States to take or not take some action by"
+    },
+    {
+      "start": 978.358,
+      "end": 983.364,
+      "start_int": 978,
+      "timestamp_label": "16:18",
+      "text": "contract policy regulation, authorization order otherwise."
+    },
+    {
+      "start": 983.574,
+      "end": 987.523,
+      "start_int": 983,
+      "timestamp_label": "16:23",
+      "text": "So that's basically saying that if you make it a contract"
+    },
+    {
+      "start": 987.523,
+      "end": 991.609,
+      "start_int": 987,
+      "timestamp_label": "16:27",
+      "text": "action, you write, you enact some sort of policy, some sort"
+    },
+    {
+      "start": 991.609,
+      "end": 996.035,
+      "start_int": 991,
+      "timestamp_label": "16:31",
+      "text": "of regulation, authorization and order that that's an inherently"
+    },
+    {
+      "start": 996.035,
+      "end": 997.534,
+      "start_int": 996,
+      "timestamp_label": "16:36",
+      "text": "governmental function."
+    },
+    {
+      "start": 998.124,
+      "end": 998.734,
+      "start_int": 998,
+      "timestamp_label": "16:38",
+      "text": "OK."
+    },
+    {
+      "start": 998.834,
+      "end": 1002.27,
+      "start_int": 998,
+      "timestamp_label": "16:38",
+      "text": "Anything that binds the government is an inherently"
+    },
+    {
+      "start": 1002.27,
+      "end": 1003.724,
+      "start_int": 1002,
+      "timestamp_label": "16:42",
+      "text": "governmental function."
+    },
+    {
+      "start": 1004.924,
+      "end": 1005.324,
+      "start_int": 1004,
+      "timestamp_label": "16:44",
+      "text": "Umm."
+    },
+    {
+      "start": 1005.504,
+      "end": 1009.406,
+      "start_int": 1005,
+      "timestamp_label": "16:45",
+      "text": "Also determine protect and advance United States economic,"
+    },
+    {
+      "start": 1009.406,
+      "end": 1013.109,
+      "start_int": 1009,
+      "timestamp_label": "16:49",
+      "text": "political, territorial, property, or other interests by"
+    },
+    {
+      "start": 1013.109,
+      "end": 1015.094,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "military or diplomatic action."
+    },
+    {
+      "start": 1015.104,
+      "end": 1018.144,
+      "start_int": 1015,
+      "timestamp_label": "16:55",
+      "text": "Civil or criminal judicial proceedings?"
+    },
+    {
+      "start": 1018.244,
+      "end": 1020.204,
+      "start_int": 1018,
+      "timestamp_label": "16:58",
+      "text": "Contract management and otherwise."
+    },
+    {
+      "start": 1021.684,
+      "end": 1024.724,
+      "start_int": 1021,
+      "timestamp_label": "17:01",
+      "text": "So again, INHERENTLY GOVERNMENTAL functions tied with"
+    },
+    {
+      "start": 1024.724,
+      "end": 1028.16,
+      "start_int": 1024,
+      "timestamp_label": "17:04",
+      "text": "that and you can kind of think about you know it makes sense"
+    },
+    {
+      "start": 1028.16,
+      "end": 1031.538,
+      "start_int": 1028,
+      "timestamp_label": "17:08",
+      "text": "why right, it makes sense why you make we make decisions on"
+    },
+    {
+      "start": 1031.538,
+      "end": 1032.834,
+      "start_int": 1031,
+      "timestamp_label": "17:11",
+      "text": "behalf of the taxpayer."
+    },
+    {
+      "start": 1034.154,
+      "end": 1039.198,
+      "start_int": 1034,
+      "timestamp_label": "17:14",
+      "text": "Umm, so we have to protect, you know, outside parties outside"
+    },
+    {
+      "start": 1039.198,
+      "end": 1044.08,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "the government, meaning from making decisions that could be"
+    },
+    {
+      "start": 1044.08,
+      "end": 1046.684,
+      "start_int": 1044,
+      "timestamp_label": "17:24",
+      "text": "in their own personal interests."
+    },
+    {
+      "start": 1047.134,
+      "end": 1047.484,
+      "start_int": 1047,
+      "timestamp_label": "17:27",
+      "text": "Right."
+    },
+    {
+      "start": 1048.284,
+      "end": 1053.254,
+      "start_int": 1048,
+      "timestamp_label": "17:28",
+      "text": "So we're protecting the taxpayer instead of handing over decision"
+    },
+    {
+      "start": 1053.254,
+      "end": 1057.773,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "making to somebody that could use those decisions for their"
+    },
+    {
+      "start": 1057.773,
+      "end": 1062.141,
+      "start_int": 1057,
+      "timestamp_label": "17:37",
+      "text": "own self interest, like writing a law and private citizen"
+    },
+    {
+      "start": 1062.141,
+      "end": 1066.659,
+      "start_int": 1062,
+      "timestamp_label": "17:42",
+      "text": "writing a regulation that we have to follow that would help"
+    },
+    {
+      "start": 1066.659,
+      "end": 1068.844,
+      "start_int": 1066,
+      "timestamp_label": "17:46",
+      "text": "them selves economically now."
+    },
+    {
+      "start": 1070.814,
+      "end": 1073.084,
+      "start_int": 1070,
+      "timestamp_label": "17:50",
+      "text": "We we know that there's influence, right?"
+    },
+    {
+      "start": 1073.094,
+      "end": 1077.148,
+      "start_int": 1073,
+      "timestamp_label": "17:53",
+      "text": "I'm not going to give the full political discussion here, but"
+    },
+    {
+      "start": 1077.148,
+      "end": 1081.203,
+      "start_int": 1077,
+      "timestamp_label": "17:57",
+      "text": "we do know that you know, there are interest groups that work"
+    },
+    {
+      "start": 1081.203,
+      "end": 1085.258,
+      "start_int": 1081,
+      "timestamp_label": "18:01",
+      "text": "with Congress and things like that to to right laws and right"
+    },
+    {
+      "start": 1085.258,
+      "end": 1086.894,
+      "start_int": 1085,
+      "timestamp_label": "18:05",
+      "text": "regulations and policies."
+    },
+    {
+      "start": 1087.024,
+      "end": 1090.724,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "We know that for a fact and and that's fine, they can do that."
+    },
+    {
+      "start": 1090.734,
+      "end": 1095.333,
+      "start_int": 1090,
+      "timestamp_label": "18:10",
+      "text": "But the enacting of it has to be done by, you know, official"
+    },
+    {
+      "start": 1095.333,
+      "end": 1096.464,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "government, OK."
+    },
+    {
+      "start": 1098.664,
+      "end": 1099.094,
+      "start_int": 1098,
+      "timestamp_label": "18:18",
+      "text": "Uh."
+    },
+    {
+      "start": 1099.104,
+      "end": 1103.08,
+      "start_int": 1099,
+      "timestamp_label": "18:19",
+      "text": "Let's see significantly affect life, liberty, or property of"
+    },
+    {
+      "start": 1103.08,
+      "end": 1104.124,
+      "start_int": 1103,
+      "timestamp_label": "18:23",
+      "text": "private persons."
+    },
+    {
+      "start": 1104.364,
+      "end": 1107.413,
+      "start_int": 1104,
+      "timestamp_label": "18:24",
+      "text": "And you can kind of tie lot of the stuff back to the"
+    },
+    {
+      "start": 1107.413,
+      "end": 1108.564,
+      "start_int": 1107,
+      "timestamp_label": "18:27",
+      "text": "Constitution, right?"
+    },
+    {
+      "start": 1109.404,
+      "end": 1112.685,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "Lot of this stuff you can tie back to what's in the"
+    },
+    {
+      "start": 1112.685,
+      "end": 1115.084,
+      "start_int": 1112,
+      "timestamp_label": "18:32",
+      "text": "Constitution, accumulation of points."
+    },
+    {
+      "start": 1115.094,
+      "end": 1118.044,
+      "start_int": 1115,
+      "timestamp_label": "18:35",
+      "text": "Rector control officers or employees of the United States."
+    },
+    {
+      "start": 1119.034,
+      "end": 1123.41,
+      "start_int": 1119,
+      "timestamp_label": "18:39",
+      "text": "So basically you have to be a government employee to be able"
+    },
+    {
+      "start": 1123.41,
+      "end": 1125.994,
+      "start_int": 1123,
+      "timestamp_label": "18:43",
+      "text": "to even higher government employee."
+    },
+    {
+      "start": 1128.184,
+      "end": 1131.026,
+      "start_int": 1128,
+      "timestamp_label": "18:48",
+      "text": "Especially, you know, Commission officers or appointing or"
+    },
+    {
+      "start": 1131.026,
+      "end": 1131.894,
+      "start_int": 1131,
+      "timestamp_label": "18:51",
+      "text": "directing control."
+    },
+    {
+      "start": 1134.254,
+      "end": 1137.606,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "It exert ultimate control over the acquisition, use and"
+    },
+    {
+      "start": 1137.606,
+      "end": 1140.898,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "disposition of property, real or personal, tangible or"
+    },
+    {
+      "start": 1140.898,
+      "end": 1144.55,
+      "start_int": 1140,
+      "timestamp_label": "19:00",
+      "text": "intangible, of the United States and cluding the collection,"
+    },
+    {
+      "start": 1144.55,
+      "end": 1147.184,
+      "start_int": 1144,
+      "timestamp_label": "19:04",
+      "text": "control, and disbursement of federal funds."
+    },
+    {
+      "start": 1147.354,
+      "end": 1152.0,
+      "start_int": 1147,
+      "timestamp_label": "19:07",
+      "text": "So this one kind of a big one for those of you as colors as"
+    },
+    {
+      "start": 1152.0,
+      "end": 1156.414,
+      "start_int": 1152,
+      "timestamp_label": "19:12",
+      "text": "you are, you know delegated certain authorities to maybe"
+    },
+    {
+      "start": 1156.414,
+      "end": 1161.215,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "dispose property or you know make those kind of decisions and"
+    },
+    {
+      "start": 1161.215,
+      "end": 1166.017,
+      "start_int": 1161,
+      "timestamp_label": "19:21",
+      "text": "the collection of that stuff that could lead to modifications"
+    },
+    {
+      "start": 1166.017,
+      "end": 1170.354,
+      "start_int": 1166,
+      "timestamp_label": "19:26",
+      "text": "of contracts, uh or official actions of the government."
+    },
+    {
+      "start": 1170.364,
+      "end": 1174.556,
+      "start_int": 1170,
+      "timestamp_label": "19:30",
+      "text": "So you know, these are kind of things that would fall within"
+    },
+    {
+      "start": 1174.556,
+      "end": 1175.794,
+      "start_int": 1174,
+      "timestamp_label": "19:34",
+      "text": "your realm as COR."
+    },
+    {
+      "start": 1175.804,
+      "end": 1176.964,
+      "start_int": 1175,
+      "timestamp_label": "19:35",
+      "text": "Still, OK?"
+    },
+    {
+      "start": 1188.014,
+      "end": 1191.445,
+      "start_int": 1188,
+      "timestamp_label": "19:48",
+      "text": "Alright, so so here's where it starts getting a little"
+    },
+    {
+      "start": 1191.445,
+      "end": 1195.251,
+      "start_int": 1191,
+      "timestamp_label": "19:51",
+      "text": "interesting, because it's not just categorized as inherently"
+    },
+    {
+      "start": 1195.251,
+      "end": 1198.62,
+      "start_int": 1195,
+      "timestamp_label": "19:55",
+      "text": "governmental functions or non inherently governmental"
+    },
+    {
+      "start": 1198.62,
+      "end": 1199.244,
+      "start_int": 1198,
+      "timestamp_label": "19:58",
+      "text": "functions."
+    },
+    {
+      "start": 1199.664,
+      "end": 1203.3,
+      "start_int": 1199,
+      "timestamp_label": "19:59",
+      "text": "There's also something of significance called acquisition"
+    },
+    {
+      "start": 1203.3,
+      "end": 1206.937,
+      "start_int": 1203,
+      "timestamp_label": "20:03",
+      "text": "function, closely associated with inherently governmental"
+    },
+    {
+      "start": 1206.937,
+      "end": 1207.564,
+      "start_int": 1206,
+      "timestamp_label": "20:06",
+      "text": "functions."
+    },
+    {
+      "start": 1208.264,
+      "end": 1209.914,
+      "start_int": 1208,
+      "timestamp_label": "20:08",
+      "text": "Yes, I said that."
+    },
+    {
+      "start": 1211.444,
+      "end": 1214.912,
+      "start_int": 1211,
+      "timestamp_label": "20:11",
+      "text": "So basically there's like you said or it there could be"
+    },
+    {
+      "start": 1214.912,
+      "end": 1218.008,
+      "start_int": 1214,
+      "timestamp_label": "20:14",
+      "text": "inherently governmental functions that inherently"
+    },
+    {
+      "start": 1218.008,
+      "end": 1221.786,
+      "start_int": 1218,
+      "timestamp_label": "20:18",
+      "text": "governmental functions functions closely associated with the"
+    },
+    {
+      "start": 1221.786,
+      "end": 1223.954,
+      "start_int": 1221,
+      "timestamp_label": "20:21",
+      "text": "inherently governmental functions."
+    },
+    {
+      "start": 1224.064,
+      "end": 1226.25,
+      "start_int": 1224,
+      "timestamp_label": "20:24",
+      "text": "And then there's things that kind of look like inherently"
+    },
+    {
+      "start": 1226.25,
+      "end": 1228.512,
+      "start_int": 1226,
+      "timestamp_label": "20:26",
+      "text": "governmental functions, but are not inherently governmental"
+    },
+    {
+      "start": 1228.512,
+      "end": 1230.134,
+      "start_int": 1228,
+      "timestamp_label": "20:28",
+      "text": "functions, and the kind of goes on and on."
+    },
+    {
+      "start": 1230.144,
+      "end": 1233.88,
+      "start_int": 1230,
+      "timestamp_label": "20:30",
+      "text": "And that's a lot of where the confusion starts popping up on"
+    },
+    {
+      "start": 1233.88,
+      "end": 1235.044,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "some of this stuff."
+    },
+    {
+      "start": 1236.144,
+      "end": 1240.13,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "Umm, so acquisition function closely associated with"
+    },
+    {
+      "start": 1240.13,
+      "end": 1244.642,
+      "start_int": 1240,
+      "timestamp_label": "20:40",
+      "text": "governmental function means supporting and providing advice"
+    },
+    {
+      "start": 1244.642,
+      "end": 1249.305,
+      "start_int": 1244,
+      "timestamp_label": "20:44",
+      "text": "or recommendations with regard to the following activities of"
+    },
+    {
+      "start": 1249.305,
+      "end": 1250.434,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "federal agency."
+    },
+    {
+      "start": 1250.564,
+      "end": 1252.494,
+      "start_int": 1250,
+      "timestamp_label": "20:50",
+      "text": "So we're talking about planning acquisitions."
+    },
+    {
+      "start": 1253.704,
+      "end": 1254.034,
+      "start_int": 1253,
+      "timestamp_label": "20:53",
+      "text": "Uh."
+    },
+    {
+      "start": 1254.044,
+      "end": 1257.141,
+      "start_int": 1254,
+      "timestamp_label": "20:54",
+      "text": "Determining what supplies or services are to be acquired by"
+    },
+    {
+      "start": 1257.141,
+      "end": 1260.084,
+      "start_int": 1257,
+      "timestamp_label": "20:57",
+      "text": "the government, including developing statements of work."
+    },
+    {
+      "start": 1261.554,
+      "end": 1266.069,
+      "start_int": 1261,
+      "timestamp_label": "21:01",
+      "text": "Uh, developing or approving any contractual documents to include"
+    },
+    {
+      "start": 1266.069,
+      "end": 1270.445,
+      "start_int": 1266,
+      "timestamp_label": "21:06",
+      "text": "document defining requirements and send a plans and evaluation"
+    },
+    {
+      "start": 1270.445,
+      "end": 1274.682,
+      "start_int": 1270,
+      "timestamp_label": "21:10",
+      "text": "criteria, evaluating contract proposals, awarding government"
+    },
+    {
+      "start": 1274.682,
+      "end": 1277.114,
+      "start_int": 1274,
+      "timestamp_label": "21:14",
+      "text": "contracts, administering contract?"
+    },
+    {
+      "start": 1277.124,
+      "end": 1280.589,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "Here's COR function here administering contracts,"
+    },
+    {
+      "start": 1280.589,
+      "end": 1284.818,
+      "start_int": 1280,
+      "timestamp_label": "21:20",
+      "text": "including ordering changes or giving technical direction and"
+    },
+    {
+      "start": 1284.818,
+      "end": 1288.699,
+      "start_int": 1284,
+      "timestamp_label": "21:24",
+      "text": "contract performance or contract quantities and valuing"
+    },
+    {
+      "start": 1288.699,
+      "end": 1292.165,
+      "start_int": 1288,
+      "timestamp_label": "21:28",
+      "text": "contractor performance and accepting or rejecting"
+    },
+    {
+      "start": 1292.165,
+      "end": 1294.384,
+      "start_int": 1292,
+      "timestamp_label": "21:32",
+      "text": "contractor products or services."
+    },
+    {
+      "start": 1294.554,
+      "end": 1298.88,
+      "start_int": 1294,
+      "timestamp_label": "21:34",
+      "text": "So that's going to come into a lot of your realm as clears,"
+    },
+    {
+      "start": 1298.88,
+      "end": 1303.566,
+      "start_int": 1298,
+      "timestamp_label": "21:38",
+      "text": "besides maybe you know that one the administration of contracts,"
+    },
+    {
+      "start": 1303.566,
+      "end": 1307.243,
+      "start_int": 1303,
+      "timestamp_label": "21:43",
+      "text": "probably the planning acquisitions would come into"
+    },
+    {
+      "start": 1307.243,
+      "end": 1311.714,
+      "start_int": 1307,
+      "timestamp_label": "21:47",
+      "text": "play determining supplies or services, you know, depending on"
+    },
+    {
+      "start": 1311.714,
+      "end": 1315.968,
+      "start_int": 1311,
+      "timestamp_label": "21:51",
+      "text": "what your role is as a COR, because I know many of you are"
+    },
+    {
+      "start": 1315.968,
+      "end": 1320.005,
+      "start_int": 1315,
+      "timestamp_label": "21:55",
+      "text": "doing cradle to grave, some of you might be more in the"
+    },
+    {
+      "start": 1320.005,
+      "end": 1323.682,
+      "start_int": 1320,
+      "timestamp_label": "22:00",
+      "text": "function of just the administration portion of the"
+    },
+    {
+      "start": 1323.682,
+      "end": 1324.404,
+      "start_int": 1323,
+      "timestamp_label": "22:03",
+      "text": "contracts."
+    },
+    {
+      "start": 1324.714,
+      "end": 1329.771,
+      "start_int": 1324,
+      "timestamp_label": "22:04",
+      "text": "But you know all these are kind of, umm, within the realm of"
+    },
+    {
+      "start": 1329.771,
+      "end": 1331.844,
+      "start_int": 1329,
+      "timestamp_label": "22:09",
+      "text": "what's COR functions are."
+    },
+    {
+      "start": 1332.234,
+      "end": 1335.467,
+      "start_int": 1332,
+      "timestamp_label": "22:12",
+      "text": "So this is kind of talking about, alright, it's closely"
+    },
+    {
+      "start": 1335.467,
+      "end": 1338.932,
+      "start_int": 1335,
+      "timestamp_label": "22:15",
+      "text": "associated with inherently governmental functions and we do"
+    },
+    {
+      "start": 1338.932,
+      "end": 1342.224,
+      "start_int": 1338,
+      "timestamp_label": "22:18",
+      "text": "have contractors that help us with some of these things."
+    },
+    {
+      "start": 1342.694,
+      "end": 1343.204,
+      "start_int": 1342,
+      "timestamp_label": "22:22",
+      "text": "OK."
+    },
+    {
+      "start": 1343.714,
+      "end": 1347.855,
+      "start_int": 1343,
+      "timestamp_label": "22:23",
+      "text": "We do, especially when you're talking about the beginning, pre"
+    },
+    {
+      "start": 1347.855,
+      "end": 1352.063,
+      "start_int": 1347,
+      "timestamp_label": "22:27",
+      "text": "award era here, like maybe part of the planning of acquisitions"
+    },
+    {
+      "start": 1352.063,
+      "end": 1355.35,
+      "start_int": 1352,
+      "timestamp_label": "22:32",
+      "text": "or determining supplies or services we might have"
+    },
+    {
+      "start": 1355.35,
+      "end": 1359.229,
+      "start_int": 1355,
+      "timestamp_label": "22:35",
+      "text": "contractors help us with it because they're not and we can"
+    },
+    {
+      "start": 1359.229,
+      "end": 1362.582,
+      "start_int": 1359,
+      "timestamp_label": "22:39",
+      "text": "do that because they're not technically considered"
+    },
+    {
+      "start": 1362.582,
+      "end": 1364.884,
+      "start_int": 1362,
+      "timestamp_label": "22:42",
+      "text": "inherently governmental functions."
+    },
+    {
+      "start": 1365.474,
+      "end": 1369.324,
+      "start_int": 1365,
+      "timestamp_label": "22:45",
+      "text": "But you know the kind of closely associated with them."
+    },
+    {
+      "start": 1370.394,
+      "end": 1374.407,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "So anytime we do anything like that and get contractor input on"
+    },
+    {
+      "start": 1374.407,
+      "end": 1378.108,
+      "start_int": 1374,
+      "timestamp_label": "22:54",
+      "text": "some of these things, we have to be very cautious that the"
+    },
+    {
+      "start": 1378.108,
+      "end": 1381.244,
+      "start_int": 1378,
+      "timestamp_label": "22:58",
+      "text": "government is the one making the decisions on it."
+    },
+    {
+      "start": 1381.574,
+      "end": 1385.172,
+      "start_int": 1381,
+      "timestamp_label": "23:01",
+      "text": "And it's not something being pushed by the contractor"
+    },
+    {
+      "start": 1385.172,
+      "end": 1388.904,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "themselves that maybe they're just, you know, providing"
+    },
+    {
+      "start": 1388.904,
+      "end": 1392.635,
+      "start_int": 1388,
+      "timestamp_label": "23:08",
+      "text": "expertise and more of an advisory type function when it"
+    },
+    {
+      "start": 1392.635,
+      "end": 1396.434,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "comes to this and not the actual decision making itself."
+    },
+    {
+      "start": 1404.194,
+      "end": 1407.077,
+      "start_int": 1404,
+      "timestamp_label": "23:24",
+      "text": "Alright, so then we have functions considered to be"
+    },
+    {
+      "start": 1407.077,
+      "end": 1410.016,
+      "start_int": 1407,
+      "timestamp_label": "23:27",
+      "text": "inherently governmental functions, or which shall be"
+    },
+    {
+      "start": 1410.016,
+      "end": 1410.904,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "treated as such."
+    },
+    {
+      "start": 1411.134,
+      "end": 1415.054,
+      "start_int": 1411,
+      "timestamp_label": "23:31",
+      "text": "OK, so all these things and this is not all inclusive by the way,"
+    },
+    {
+      "start": 1415.054,
+      "end": 1417.134,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "these are not all inclusive lists."
+    },
+    {
+      "start": 1418.024,
+      "end": 1421.618,
+      "start_int": 1418,
+      "timestamp_label": "23:38",
+      "text": "Umm, but there's some of the things that are pointed out"
+    },
+    {
+      "start": 1421.618,
+      "end": 1424.204,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "within the various laws and regulations."
+    },
+    {
+      "start": 1424.334,
+      "end": 1429.362,
+      "start_int": 1424,
+      "timestamp_label": "23:44",
+      "text": "OK, this particular list comes from the Federal acquisition"
+    },
+    {
+      "start": 1429.362,
+      "end": 1430.284,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "regulation."
+    },
+    {
+      "start": 1430.394,
+      "end": 1437.355,
+      "start_int": 1430,
+      "timestamp_label": "23:50",
+      "text": "The far 7.5, and it's also Appendix A of the office of"
+    },
+    {
+      "start": 1437.355,
+      "end": 1444.064,
+      "start_int": 1437,
+      "timestamp_label": "23:57",
+      "text": "Federal procurement policy OFPP policy letter 11-01."
+    },
+    {
+      "start": 1444.594,
+      "end": 1447.084,
+      "start_int": 1444,
+      "timestamp_label": "24:04",
+      "text": "So that's where this list comes from."
+    },
+    {
+      "start": 1448.974,
+      "end": 1452.744,
+      "start_int": 1448,
+      "timestamp_label": "24:08",
+      "text": "So I'm not gonna read all these to you, but oops, I didn't mean"
+    },
+    {
+      "start": 1452.744,
+      "end": 1453.864,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "to leave it though."
+    },
+    {
+      "start": 1453.954,
+      "end": 1454.654,
+      "start_int": 1453,
+      "timestamp_label": "24:13",
+      "text": "Hold on a second."
+    },
+    {
+      "start": 1458.184,
+      "end": 1461.491,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "Alright, so I'm not gonna read the list to you, but you can"
+    },
+    {
+      "start": 1461.491,
+      "end": 1464.743,
+      "start_int": 1461,
+      "timestamp_label": "24:21",
+      "text": "kind of see why something these things would be inherently"
+    },
+    {
+      "start": 1464.743,
+      "end": 1467.334,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "governmental like command and military forces."
+    },
+    {
+      "start": 1467.384,
+      "end": 1468.094,
+      "start_int": 1467,
+      "timestamp_label": "24:27",
+      "text": "OK."
+    },
+    {
+      "start": 1468.224,
+      "end": 1470.514,
+      "start_int": 1468,
+      "timestamp_label": "24:28",
+      "text": "Makes sense right? Umm."
+    },
+    {
+      "start": 1473.754,
+      "end": 1475.604,
+      "start_int": 1473,
+      "timestamp_label": "24:33",
+      "text": "Approved for your responses."
+    },
+    {
+      "start": 1475.654,
+      "end": 1478.71,
+      "start_int": 1475,
+      "timestamp_label": "24:35",
+      "text": "Of course, that's enacting something from a law, so that"
+    },
+    {
+      "start": 1478.71,
+      "end": 1481.124,
+      "start_int": 1478,
+      "timestamp_label": "24:38",
+      "text": "would be have to be inherently governmental."
+    },
+    {
+      "start": 1482.234,
+      "end": 1483.084,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "Uh, of course."
+    },
+    {
+      "start": 1483.094,
+      "end": 1486.581,
+      "start_int": 1483,
+      "timestamp_label": "24:43",
+      "text": "Anything happened to do with money and so on would be"
+    },
+    {
+      "start": 1486.581,
+      "end": 1489.164,
+      "start_int": 1486,
+      "timestamp_label": "24:46",
+      "text": "inherently governmental and questioned."
+    },
+    {
+      "start": 1489.174,
+      "end": 1492.136,
+      "start_int": 1489,
+      "timestamp_label": "24:49",
+      "text": "How can the government demonstrate is making decisions"
+    },
+    {
+      "start": 1492.136,
+      "end": 1493.644,
+      "start_int": 1492,
+      "timestamp_label": "24:52",
+      "text": "when it may not be apparent?"
+    },
+    {
+      "start": 1493.654,
+      "end": 1494.444,
+      "start_int": 1493,
+      "timestamp_label": "24:53",
+      "text": "OK."
+    },
+    {
+      "start": 1494.544,
+      "end": 1499.134,
+      "start_int": 1494,
+      "timestamp_label": "24:54",
+      "text": "Yeah, basically by the fact that you know these any time we"
+    },
+    {
+      "start": 1499.134,
+      "end": 1502.884,
+      "start_int": 1499,
+      "timestamp_label": "24:59",
+      "text": "basically make decisions on a lot of this stuff."
+    },
+    {
+      "start": 1502.894,
+      "end": 1507.904,
+      "start_int": 1502,
+      "timestamp_label": "25:02",
+      "text": "It's done in writing, so it means to have at least you know"
+    },
+    {
+      "start": 1507.904,
+      "end": 1511.244,
+      "start_int": 1507,
+      "timestamp_label": "25:07",
+      "text": "some government official that would be."
+    },
+    {
+      "start": 1513.194,
+      "end": 1517.534,
+      "start_int": 1513,
+      "timestamp_label": "25:13",
+      "text": "Able to find or, you know, make decision on behalf of the"
+    },
+    {
+      "start": 1517.534,
+      "end": 1519.704,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "government to sign off on it."
+    },
+    {
+      "start": 1519.934,
+      "end": 1525.394,
+      "start_int": 1519,
+      "timestamp_label": "25:19",
+      "text": "So although and that's talking in the major portion of it."
+    },
+    {
+      "start": 1526.274,
+      "end": 1530.745,
+      "start_int": 1526,
+      "timestamp_label": "25:26",
+      "text": "So basically what we're talking about is, you know, there might"
+    },
+    {
+      "start": 1530.745,
+      "end": 1534.797,
+      "start_int": 1530,
+      "timestamp_label": "25:30",
+      "text": "be input from non government employees, but we have to at"
+    },
+    {
+      "start": 1534.797,
+      "end": 1539.269,
+      "start_int": 1534,
+      "timestamp_label": "25:34",
+      "text": "least show that the government is signing off on it and made an"
+    },
+    {
+      "start": 1539.269,
+      "end": 1542.134,
+      "start_int": 1539,
+      "timestamp_label": "25:39",
+      "text": "independent decision based on the input."
+    },
+    {
+      "start": 1542.654,
+      "end": 1543.284,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "OK."
+    },
+    {
+      "start": 1543.734,
+      "end": 1546.919,
+      "start_int": 1543,
+      "timestamp_label": "25:43",
+      "text": "So when it's kind of approaching, especially these"
+    },
+    {
+      "start": 1546.919,
+      "end": 1550.417,
+      "start_int": 1546,
+      "timestamp_label": "25:46",
+      "text": "inherently governmental functions, we need to make sure"
+    },
+    {
+      "start": 1550.417,
+      "end": 1554.04,
+      "start_int": 1550,
+      "timestamp_label": "25:50",
+      "text": "that we are documenting that decision was made, you know,"
+    },
+    {
+      "start": 1554.04,
+      "end": 1556.914,
+      "start_int": 1554,
+      "timestamp_label": "25:54",
+      "text": "independently by the government and not made."
+    },
+    {
+      "start": 1557.234,
+      "end": 1561.206,
+      "start_int": 1557,
+      "timestamp_label": "25:57",
+      "text": "It's fine if there is input from a non and non governmental"
+    },
+    {
+      "start": 1561.206,
+      "end": 1562.134,
+      "start_int": 1561,
+      "timestamp_label": "26:01",
+      "text": "person, right?"
+    },
+    {
+      "start": 1562.934,
+      "end": 1566.383,
+      "start_int": 1562,
+      "timestamp_label": "26:02",
+      "text": "We use that information to help us make decisions, but there has"
+    },
+    {
+      "start": 1566.383,
+      "end": 1569.407,
+      "start_int": 1566,
+      "timestamp_label": "26:06",
+      "text": "to be some, you know, buddy, that can make a decision on"
+    },
+    {
+      "start": 1569.407,
+      "end": 1572.326,
+      "start_int": 1569,
+      "timestamp_label": "26:09",
+      "text": "behalf of the government performing at this inherently"
+    },
+    {
+      "start": 1572.326,
+      "end": 1573.494,
+      "start_int": 1572,
+      "timestamp_label": "26:12",
+      "text": "governmental function."
+    },
+    {
+      "start": 1573.504,
+      "end": 1576.754,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "That's basically the decision maker on it."
+    },
+    {
+      "start": 1583.064,
+      "end": 1583.354,
+      "start_int": 1583,
+      "timestamp_label": "26:23",
+      "text": "Yeah."
+    },
+    {
+      "start": 1584.344,
+      "end": 1586.859,
+      "start_int": 1584,
+      "timestamp_label": "26:24",
+      "text": "And we're usually pretty good about doing that, especially"
+    },
+    {
+      "start": 1586.859,
+      "end": 1588.054,
+      "start_int": 1586,
+      "timestamp_label": "26:26",
+      "text": "when it comes to this stuff."
+    },
+    {
+      "start": 1588.484,
+      "end": 1590.904,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "If we don't, because if we don't, we're in big trouble."
+    },
+    {
+      "start": 1592.964,
+      "end": 1593.684,
+      "start_int": 1592,
+      "timestamp_label": "26:32",
+      "text": "Big trouble."
+    },
+    {
+      "start": 1594.004,
+      "end": 1598.251,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "That's something that, you know, we wanna make sure that we're"
+    },
+    {
+      "start": 1598.251,
+      "end": 1602.498,
+      "start_int": 1598,
+      "timestamp_label": "26:38",
+      "text": "not allowing now government to make decisions on behalf of the"
+    },
+    {
+      "start": 1602.498,
+      "end": 1606.274,
+      "start_int": 1602,
+      "timestamp_label": "26:42",
+      "text": "government are spend money on behalf of the government."
+    },
+    {
+      "start": 1615.744,
+      "end": 1616.874,
+      "start_int": 1615,
+      "timestamp_label": "26:55",
+      "text": "All right, here's some more."
+    },
+    {
+      "start": 1619.364,
+      "end": 1624.164,
+      "start_int": 1619,
+      "timestamp_label": "26:59",
+      "text": "So these are some other areas that I found within the"
+    },
+    {
+      "start": 1624.164,
+      "end": 1629.054,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "regulation that is in respect the prime contracts, OK."
+    },
+    {
+      "start": 1629.124,
+      "end": 1632.134,
+      "start_int": 1629,
+      "timestamp_label": "27:09",
+      "text": "So the last one was based on just functions."
+    },
+    {
+      "start": 1632.144,
+      "end": 1635.945,
+      "start_int": 1632,
+      "timestamp_label": "27:12",
+      "text": "Overall, this one is specifically from the Federal"
+    },
+    {
+      "start": 1635.945,
+      "end": 1639.97,
+      "start_int": 1635,
+      "timestamp_label": "27:15",
+      "text": "acquisition regulation concerning uh, prime contract,"
+    },
+    {
+      "start": 1639.97,
+      "end": 1644.592,
+      "start_int": 1639,
+      "timestamp_label": "27:19",
+      "text": "so determining what's supplies or services are to be acquired"
+    },
+    {
+      "start": 1644.592,
+      "end": 1645.934,
+      "start_int": 1644,
+      "timestamp_label": "27:24",
+      "text": "by the government."
+    },
+    {
+      "start": 1648.674,
+      "end": 1653.729,
+      "start_int": 1648,
+      "timestamp_label": "27:28",
+      "text": "So sometimes we do give a thority to contractors to"
+    },
+    {
+      "start": 1653.729,
+      "end": 1658.784,
+      "start_int": 1653,
+      "timestamp_label": "27:33",
+      "text": "acquire supplies at prices within specified ranges."
+    },
+    {
+      "start": 1660.204,
+      "end": 1663.848,
+      "start_int": 1660,
+      "timestamp_label": "27:40",
+      "text": "Umm, there's subject to other reasonable conditions deemed"
+    },
+    {
+      "start": 1663.848,
+      "end": 1665.454,
+      "start_int": 1663,
+      "timestamp_label": "27:43",
+      "text": "appropriate by the agency."
+    },
+    {
+      "start": 1665.664,
+      "end": 1670.599,
+      "start_int": 1665,
+      "timestamp_label": "27:45",
+      "text": "So there are occasions that they may be acquire contractors,"
+    },
+    {
+      "start": 1670.599,
+      "end": 1675.615,
+      "start_int": 1670,
+      "timestamp_label": "27:50",
+      "text": "acquire supplies or services on behalf of the government, but"
+    },
+    {
+      "start": 1675.615,
+      "end": 1679.822,
+      "start_int": 1675,
+      "timestamp_label": "27:55",
+      "text": "again, it has to be the government's decision to do"
+    },
+    {
+      "start": 1679.822,
+      "end": 1681.764,
+      "start_int": 1679,
+      "timestamp_label": "27:59",
+      "text": "that, right? They don't."
+    },
+    {
+      "start": 1681.774,
+      "end": 1682.594,
+      "start_int": 1681,
+      "timestamp_label": "28:01",
+      "text": "They can't do it."
+    },
+    {
+      "start": 1682.604,
+      "end": 1683.514,
+      "start_int": 1682,
+      "timestamp_label": "28:02",
+      "text": "Go and do those."
+    },
+    {
+      "start": 1683.524,
+      "end": 1686.594,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "Make those decisions and do those actions on their own."
+    },
+    {
+      "start": 1687.124,
+      "end": 1690.225,
+      "start_int": 1687,
+      "timestamp_label": "28:07",
+      "text": "It has to be directed by a contracting officer in order to"
+    },
+    {
+      "start": 1690.225,
+      "end": 1693.064,
+      "start_int": 1690,
+      "timestamp_label": "28:10",
+      "text": "do that as part of the contract and things like that."
+    },
+    {
+      "start": 1695.614,
+      "end": 1699.523,
+      "start_int": 1695,
+      "timestamp_label": "28:15",
+      "text": "What's he participating as a voting member of any source"
+    },
+    {
+      "start": 1699.523,
+      "end": 1703.09,
+      "start_int": 1699,
+      "timestamp_label": "28:19",
+      "text": "selection boards, so kind of contractors or outside"
+    },
+    {
+      "start": 1703.09,
+      "end": 1707.068,
+      "start_int": 1703,
+      "timestamp_label": "28:23",
+      "text": "government cannot be a voting member or source selections"
+    },
+    {
+      "start": 1707.068,
+      "end": 1710.978,
+      "start_int": 1707,
+      "timestamp_label": "28:27",
+      "text": "approving any contractual documents, including documents"
+    },
+    {
+      "start": 1710.978,
+      "end": 1714.956,
+      "start_int": 1710,
+      "timestamp_label": "28:30",
+      "text": "defining requirements, incentive plans and the evaluation"
+    },
+    {
+      "start": 1714.956,
+      "end": 1715.574,
+      "start_int": 1714,
+      "timestamp_label": "28:34",
+      "text": "criteria."
+    },
+    {
+      "start": 1715.984,
+      "end": 1720.836,
+      "start_int": 1715,
+      "timestamp_label": "28:35",
+      "text": "And you notice I say approving it doesn't mean that they can't"
+    },
+    {
+      "start": 1720.836,
+      "end": 1723.764,
+      "start_int": 1720,
+      "timestamp_label": "28:40",
+      "text": "have input into it or assist with it."
+    },
+    {
+      "start": 1724.124,
+      "end": 1726.324,
+      "start_int": 1724,
+      "timestamp_label": "28:44",
+      "text": "Is this the actual proving of the?"
+    },
+    {
+      "start": 1726.524,
+      "end": 1730.154,
+      "start_int": 1726,
+      "timestamp_label": "28:46",
+      "text": "The cannot be done outside of a government employee."
+    },
+    {
+      "start": 1731.204,
+      "end": 1734.694,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "Awarding contracts, administering contracts."
+    },
+    {
+      "start": 1735.894,
+      "end": 1739.766,
+      "start_int": 1735,
+      "timestamp_label": "28:55",
+      "text": "Uh terminating contracts, determining whether contract"
+    },
+    {
+      "start": 1739.766,
+      "end": 1744.343,
+      "start_int": 1739,
+      "timestamp_label": "28:59",
+      "text": "costs are reasonable, allocable, or knowable, participating as a"
+    },
+    {
+      "start": 1744.343,
+      "end": 1747.934,
+      "start_int": 1744,
+      "timestamp_label": "29:04",
+      "text": "voting member of on performance evaluation boards."
+    },
+    {
+      "start": 1750.844,
+      "end": 1754.691,
+      "start_int": 1750,
+      "timestamp_label": "29:10",
+      "text": "So any of that maybe like a award fee or something like that"
+    },
+    {
+      "start": 1754.691,
+      "end": 1754.944,
+      "start_int": 1754,
+      "timestamp_label": "29:14",
+      "text": "too?"
+    },
+    {
+      "start": 1758.264,
+      "end": 1761.968,
+      "start_int": 1758,
+      "timestamp_label": "29:18",
+      "text": "So these are within respect of prime contracts, our dealings"
+    },
+    {
+      "start": 1761.968,
+      "end": 1763.244,
+      "start_int": 1761,
+      "timestamp_label": "29:21",
+      "text": "with our contractors."
+    },
+    {
+      "start": 1767.564,
+      "end": 1769.424,
+      "start_int": 1767,
+      "timestamp_label": "29:27",
+      "text": "All these have to be done by a government employee."
+    },
+    {
+      "start": 1778.424,
+      "end": 1778.934,
+      "start_int": 1778,
+      "timestamp_label": "29:38",
+      "text": "Alright."
+    },
+    {
+      "start": 1779.004,
+      "end": 1780.804,
+      "start_int": 1779,
+      "timestamp_label": "29:39",
+      "text": "And here's one of those other categories."
+    },
+    {
+      "start": 1781.784,
+      "end": 1784.998,
+      "start_int": 1781,
+      "timestamp_label": "29:41",
+      "text": "Yeah, it's kinda talking about before, but functions not"
+    },
+    {
+      "start": 1784.998,
+      "end": 1788.326,
+      "start_int": 1784,
+      "timestamp_label": "29:44",
+      "text": "considered to be inherently governmental, but may approach"
+    },
+    {
+      "start": 1788.326,
+      "end": 1789.624,
+      "start_int": 1788,
+      "timestamp_label": "29:48",
+      "text": "being in that category."
+    },
+    {
+      "start": 1791.444,
+      "end": 1794.129,
+      "start_int": 1791,
+      "timestamp_label": "29:51",
+      "text": "Alright, so then here's why I say it's hard getting a little"
+    },
+    {
+      "start": 1794.129,
+      "end": 1794.394,
+      "start_int": 1794,
+      "timestamp_label": "29:54",
+      "text": "muddy."
+    },
+    {
+      "start": 1794.884,
+      "end": 1796.824,
+      "start_int": 1794,
+      "timestamp_label": "29:54",
+      "text": "Those say, well, can they do it or not?"
+    },
+    {
+      "start": 1796.834,
+      "end": 1800.344,
+      "start_int": 1796,
+      "timestamp_label": "29:56",
+      "text": "Well, yeah, you can have a non government employee."
+    },
+    {
+      "start": 1802.824,
+      "end": 1807.27,
+      "start_int": 1802,
+      "timestamp_label": "30:02",
+      "text": "Do these things, but they're so closely related that you have to"
+    },
+    {
+      "start": 1807.27,
+      "end": 1808.434,
+      "start_int": 1807,
+      "timestamp_label": "30:07",
+      "text": "be very cautious."
+    },
+    {
+      "start": 1813.334,
+      "end": 1815.924,
+      "start_int": 1813,
+      "timestamp_label": "30:13",
+      "text": "Ohh a far as the COR should know."
+    },
+    {
+      "start": 1816.174,
+      "end": 1820.482,
+      "start_int": 1816,
+      "timestamp_label": "30:16",
+      "text": "Yeah, basically Garry, the far the Federal acquisition"
+    },
+    {
+      "start": 1820.482,
+      "end": 1825.182,
+      "start_int": 1820,
+      "timestamp_label": "30:20",
+      "text": "Regulation itself is one that you would need to be familiar"
+    },
+    {
+      "start": 1825.182,
+      "end": 1825.574,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "with."
+    },
+    {
+      "start": 1825.584,
+      "end": 1829.481,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "And then the DFARS defense Federal Acquisition Regulation"
+    },
+    {
+      "start": 1829.481,
+      "end": 1833.512,
+      "start_int": 1829,
+      "timestamp_label": "30:29",
+      "text": "supplement, if you're DoD, I know some people in here might"
+    },
+    {
+      "start": 1833.512,
+      "end": 1837.074,
+      "start_int": 1833,
+      "timestamp_label": "30:33",
+      "text": "not be DoD and they would have their own supplement."
+    },
+    {
+      "start": 1837.664,
+      "end": 1842.434,
+      "start_int": 1837,
+      "timestamp_label": "30:37",
+      "text": "And then if you in whatever specific agency or web."
+    },
+    {
+      "start": 1842.444,
+      "end": 1846.314,
+      "start_int": 1842,
+      "timestamp_label": "30:42",
+      "text": "So if you're with the army or you're with, you know, Navy, Air"
+    },
+    {
+      "start": 1846.314,
+      "end": 1849.754,
+      "start_int": 1846,
+      "timestamp_label": "30:46",
+      "text": "Force, whatever, there's the own supplement there, too."
+    },
+    {
+      "start": 1851.094,
+      "end": 1851.464,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "Yeah."
+    },
+    {
+      "start": 1851.474,
+      "end": 1854.997,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "So the far, the DFARS and whatever specific agency you're"
+    },
+    {
+      "start": 1854.997,
+      "end": 1855.544,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "with are."
+    },
+    {
+      "start": 1855.554,
+      "end": 1858.524,
+      "start_int": 1855,
+      "timestamp_label": "30:55",
+      "text": "You're gonna be your main acquisition regulations."
+    },
+    {
+      "start": 1860.544,
+      "end": 1863.834,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "And then if you're not DoD, then it's going to be the far."
+    },
+    {
+      "start": 1863.964,
+      "end": 1868.852,
+      "start_int": 1863,
+      "timestamp_label": "31:03",
+      "text": "And then whatever your agency supplement is like, VA whatever"
+    },
+    {
+      "start": 1868.852,
+      "end": 1870.824,
+      "start_int": 1868,
+      "timestamp_label": "31:08",
+      "text": "work there I didn't have."
+    },
+    {
+      "start": 1870.834,
+      "end": 1875.369,
+      "start_int": 1870,
+      "timestamp_label": "31:10",
+      "text": "I dealt with the far I dealt with the VAR BAR, which was the"
+    },
+    {
+      "start": 1875.369,
+      "end": 1878.344,
+      "start_int": 1875,
+      "timestamp_label": "31:15",
+      "text": "VA specific, but those are your main 3."
+    },
+    {
+      "start": 1882.424,
+      "end": 1886.625,
+      "start_int": 1882,
+      "timestamp_label": "31:22",
+      "text": "Alright, so some of these things budget preparation,"
+    },
+    {
+      "start": 1886.625,
+      "end": 1890.906,
+      "start_int": 1886,
+      "timestamp_label": "31:26",
+      "text": "reorganization, analysis, development of regulations,"
+    },
+    {
+      "start": 1890.906,
+      "end": 1895.663,
+      "start_int": 1890,
+      "timestamp_label": "31:30",
+      "text": "evaluation of other contractors performance and acquisition"
+    },
+    {
+      "start": 1895.663,
+      "end": 1900.103,
+      "start_int": 1895,
+      "timestamp_label": "31:35",
+      "text": "planning might be areas not considered to be inherently"
+    },
+    {
+      "start": 1900.103,
+      "end": 1901.134,
+      "start_int": 1900,
+      "timestamp_label": "31:40",
+      "text": "governmental."
+    },
+    {
+      "start": 1901.384,
+      "end": 1904.95,
+      "start_int": 1901,
+      "timestamp_label": "31:41",
+      "text": "And you see a lot of these things if you look at it, it's"
+    },
+    {
+      "start": 1904.95,
+      "end": 1906.734,
+      "start_int": 1904,
+      "timestamp_label": "31:44",
+      "text": "it's not the approval, right."
+    },
+    {
+      "start": 1907.244,
+      "end": 1911.568,
+      "start_int": 1907,
+      "timestamp_label": "31:47",
+      "text": "It's not the final say when we look at this stuff, it's more of"
+    },
+    {
+      "start": 1911.568,
+      "end": 1913.934,
+      "start_int": 1911,
+      "timestamp_label": "31:51",
+      "text": "the the administrative work on it."
+    },
+    {
+      "start": 1914.484,
+      "end": 1917.534,
+      "start_int": 1914,
+      "timestamp_label": "31:54",
+      "text": "So yeah, you might have a non government employee helping with"
+    },
+    {
+      "start": 1917.534,
+      "end": 1918.454,
+      "start_int": 1917,
+      "timestamp_label": "31:57",
+      "text": "budget preparation."
+    },
+    {
+      "start": 1920.124,
+      "end": 1923.359,
+      "start_int": 1920,
+      "timestamp_label": "32:00",
+      "text": "Right, but they're not making the final approval of the"
+    },
+    {
+      "start": 1923.359,
+      "end": 1923.764,
+      "start_int": 1923,
+      "timestamp_label": "32:03",
+      "text": "budget."
+    },
+    {
+      "start": 1926.164,
+      "end": 1927.344,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "Uh, let's see, Dave."
+    },
+    {
+      "start": 1927.354,
+      "end": 1930.551,
+      "start_int": 1927,
+      "timestamp_label": "32:07",
+      "text": "I've seen contractors prepare a list of items, tools, regions to"
+    },
+    {
+      "start": 1930.551,
+      "end": 1932.814,
+      "start_int": 1930,
+      "timestamp_label": "32:10",
+      "text": "procure scientific research is inherently go."
+    },
+    {
+      "start": 1932.884,
+      "end": 1935.494,
+      "start_int": 1932,
+      "timestamp_label": "32:12",
+      "text": "Yeah, that's kind of what I was talking about there."
+    },
+    {
+      "start": 1935.584,
+      "end": 1939.273,
+      "start_int": 1935,
+      "timestamp_label": "32:15",
+      "text": "Dave is a lot of those functions, especially when"
+    },
+    {
+      "start": 1939.273,
+      "end": 1943.036,
+      "start_int": 1939,
+      "timestamp_label": "32:19",
+      "text": "you're dealing with the scientific uh research and"
+    },
+    {
+      "start": 1943.036,
+      "end": 1944.734,
+      "start_int": 1943,
+      "timestamp_label": "32:23",
+      "text": "development type stuff."
+    },
+    {
+      "start": 1944.904,
+      "end": 1949.129,
+      "start_int": 1944,
+      "timestamp_label": "32:24",
+      "text": "You're gonna have a lot of probably non government people"
+    },
+    {
+      "start": 1949.129,
+      "end": 1953.865,
+      "start_int": 1949,
+      "timestamp_label": "32:29",
+      "text": "involved in that and that's fine if they're doing functions like"
+    },
+    {
+      "start": 1953.865,
+      "end": 1957.945,
+      "start_int": 1953,
+      "timestamp_label": "32:33",
+      "text": "that, as long as they're not doing the final, you know,"
+    },
+    {
+      "start": 1957.945,
+      "end": 1958.674,
+      "start_int": 1957,
+      "timestamp_label": "32:37",
+      "text": "decisions."
+    },
+    {
+      "start": 1960.374,
+      "end": 1963.144,
+      "start_int": 1960,
+      "timestamp_label": "32:40",
+      "text": "So again, that kind of goes V1 of the things that you wrote."
+    },
+    {
+      "start": 1963.154,
+      "end": 1966.789,
+      "start_int": 1963,
+      "timestamp_label": "32:43",
+      "text": "There are functions that are kind of similar to these not"
+    },
+    {
+      "start": 1966.789,
+      "end": 1970.488,
+      "start_int": 1966,
+      "timestamp_label": "32:46",
+      "text": "considered to be governed inherently governmental, but may"
+    },
+    {
+      "start": 1970.488,
+      "end": 1972.494,
+      "start_int": 1970,
+      "timestamp_label": "32:50",
+      "text": "approach being in that category."
+    },
+    {
+      "start": 1973.764,
+      "end": 1978.716,
+      "start_int": 1973,
+      "timestamp_label": "32:53",
+      "text": "So it's a lot of these things that are administrative and"
+    },
+    {
+      "start": 1978.716,
+      "end": 1983.584,
+      "start_int": 1978,
+      "timestamp_label": "32:58",
+      "text": "advisory but not necessarily making the decisions right."
+    },
+    {
+      "start": 1984.784,
+      "end": 1986.944,
+      "start_int": 1984,
+      "timestamp_label": "33:04",
+      "text": "So that's where that line gets drawn."
+    },
+    {
+      "start": 1989.324,
+      "end": 1994.543,
+      "start_int": 1989,
+      "timestamp_label": "33:09",
+      "text": "Can reason scientific research is a perfect one for that"
+    },
+    {
+      "start": 1994.543,
+      "end": 1999.671,
+      "start_int": 1994,
+      "timestamp_label": "33:14",
+      "text": "because we we relied heavily on the civilian scientific"
+    },
+    {
+      "start": 1999.671,
+      "end": 2003.884,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "community, universities, things like that to."
+    },
+    {
+      "start": 2005.874,
+      "end": 2008.374,
+      "start_int": 2005,
+      "timestamp_label": "33:25",
+      "text": "Come up with the basis of a lot of what we're doing."
+    },
+    {
+      "start": 2019.554,
+      "end": 2021.484,
+      "start_int": 2019,
+      "timestamp_label": "33:39",
+      "text": "And here's more of it."
+    },
+    {
+      "start": 2021.494,
+      "end": 2025.773,
+      "start_int": 2021,
+      "timestamp_label": "33:41",
+      "text": "So kind of continuing the list, contractors providing assistance"
+    },
+    {
+      "start": 2025.773,
+      "end": 2029.854,
+      "start_int": 2025,
+      "timestamp_label": "33:45",
+      "text": "in contract management, your technical evaluation of contract"
+    },
+    {
+      "start": 2029.854,
+      "end": 2034.002,
+      "start_int": 2029,
+      "timestamp_label": "33:49",
+      "text": "proposals, sistance developing a statements of work now I said"
+    },
+    {
+      "start": 2034.002,
+      "end": 2037.689,
+      "start_int": 2034,
+      "timestamp_label": "33:54",
+      "text": "that they cannot approve for your request, but they can"
+    },
+    {
+      "start": 2037.689,
+      "end": 2041.836,
+      "start_int": 2037,
+      "timestamp_label": "33:57",
+      "text": "support and preparing responses for for your requests and foya"
+    },
+    {
+      "start": 2041.836,
+      "end": 2044.404,
+      "start_int": 2041,
+      "timestamp_label": "34:01",
+      "text": "Freedom of Information Act by the way."
+    },
+    {
+      "start": 2044.874,
+      "end": 2048.321,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "So basically oboist any government document that's not"
+    },
+    {
+      "start": 2048.321,
+      "end": 2052.144,
+      "start_int": 2048,
+      "timestamp_label": "34:08",
+      "text": "considered to be, you know, detrimental to protection of the"
+    },
+    {
+      "start": 2052.144,
+      "end": 2055.78,
+      "start_int": 2052,
+      "timestamp_label": "34:12",
+      "text": "country, like something that's considered to be secret or"
+    },
+    {
+      "start": 2055.78,
+      "end": 2057.974,
+      "start_int": 2055,
+      "timestamp_label": "34:15",
+      "text": "classified or something like that."
+    },
+    {
+      "start": 2058.974,
+      "end": 2064.634,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "Umm anybody any citizen can request the government documents"
+    },
+    {
+      "start": 2064.634,
+      "end": 2069.274,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "and they do a foil request in order to get those."
+    },
+    {
+      "start": 2070.264,
+      "end": 2071.574,
+      "start_int": 2070,
+      "timestamp_label": "34:30",
+      "text": "So that's what that's talking about."
+    },
+    {
+      "start": 2071.584,
+      "end": 2074.754,
+      "start_int": 2071,
+      "timestamp_label": "34:31",
+      "text": "Yeah, they can help them prepare it, but they can't make the"
+    },
+    {
+      "start": 2074.754,
+      "end": 2076.574,
+      "start_int": 2074,
+      "timestamp_label": "34:34",
+      "text": "actual decisions on foil requests."
+    },
+    {
+      "start": 2077.104,
+      "end": 2080.464,
+      "start_int": 2077,
+      "timestamp_label": "34:37",
+      "text": "So most agencies we have a government employee that's a"
+    },
+    {
+      "start": 2080.464,
+      "end": 2084.304,
+      "start_int": 2080,
+      "timestamp_label": "34:40",
+      "text": "FOIA officer or something like that, that all these requests go"
+    },
+    {
+      "start": 2084.304,
+      "end": 2084.784,
+      "start_int": 2084,
+      "timestamp_label": "34:44",
+      "text": "through."
+    },
+    {
+      "start": 2087.674,
+      "end": 2091.317,
+      "start_int": 2087,
+      "timestamp_label": "34:47",
+      "text": "Let's see any situation that permits or might permit them to"
+    },
+    {
+      "start": 2091.317,
+      "end": 2094.901,
+      "start_int": 2091,
+      "timestamp_label": "34:51",
+      "text": "gain access to confidential business information and or any"
+    },
+    {
+      "start": 2094.901,
+      "end": 2096.574,
+      "start_int": 2094,
+      "timestamp_label": "34:54",
+      "text": "other sensitive information."
+    },
+    {
+      "start": 2097.444,
+      "end": 2097.944,
+      "start_int": 2097,
+      "timestamp_label": "34:57",
+      "text": "Uh."
+    },
+    {
+      "start": 2097.954,
+      "end": 2101.182,
+      "start_int": 2097,
+      "timestamp_label": "34:57",
+      "text": "Information regarding agency policies and regulation"
+    },
+    {
+      "start": 2101.182,
+      "end": 2104.288,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "expection services, legal advice, interpretations,"
+    },
+    {
+      "start": 2104.288,
+      "end": 2107.334,
+      "start_int": 2104,
+      "timestamp_label": "35:04",
+      "text": "regulations, all those kind of stuff are may not."
+    },
+    {
+      "start": 2107.344,
+      "end": 2111.545,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "You've severed inherently younger mental, but may approach"
+    },
+    {
+      "start": 2111.545,
+      "end": 2113.184,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "being in that category."
+    },
+    {
+      "start": 2122.704,
+      "end": 2123.834,
+      "start_int": 2122,
+      "timestamp_label": "35:22",
+      "text": "Here's some more on the list."
+    },
+    {
+      "start": 2124.924,
+      "end": 2129.842,
+      "start_int": 2124,
+      "timestamp_label": "35:24",
+      "text": "Umm you said any situation where they might be Sue that that they"
+    },
+    {
+      "start": 2129.842,
+      "end": 2133.867,
+      "start_int": 2129,
+      "timestamp_label": "35:29",
+      "text": "are agency employees and representatives of technical"
+    },
+    {
+      "start": 2133.867,
+      "end": 2138.413,
+      "start_int": 2133,
+      "timestamp_label": "35:33",
+      "text": "advisors, the source selection board, our as arbitrators are"
+    },
+    {
+      "start": 2138.413,
+      "end": 2142.214,
+      "start_int": 2138,
+      "timestamp_label": "35:38",
+      "text": "providing alternate methods of dispute resolution."
+    },
+    {
+      "start": 2143.584,
+      "end": 2145.044,
+      "start_int": 2143,
+      "timestamp_label": "35:43",
+      "text": "You know, all this stuff again."
+    },
+    {
+      "start": 2145.984,
+      "end": 2148.284,
+      "start_int": 2145,
+      "timestamp_label": "35:45",
+      "text": "More of these functions that are not considered to be."
+    },
+    {
+      "start": 2155.384,
+      "end": 2159.995,
+      "start_int": 2155,
+      "timestamp_label": "35:55",
+      "text": "Here's a list of things that do not that are not normally"
+    },
+    {
+      "start": 2159.995,
+      "end": 2164.369,
+      "start_int": 2159,
+      "timestamp_label": "35:59",
+      "text": "considered to be inherently governmental functions, so"
+    },
+    {
+      "start": 2164.369,
+      "end": 2168.583,
+      "start_int": 2164,
+      "timestamp_label": "36:04",
+      "text": "gathering information or providing advice, opinions,"
+    },
+    {
+      "start": 2168.583,
+      "end": 2173.354,
+      "start_int": 2168,
+      "timestamp_label": "36:08",
+      "text": "recommendations, or Dias to government officials, they are."
+    },
+    {
+      "start": 2174.544,
+      "end": 2178.11,
+      "start_int": 2174,
+      "timestamp_label": "36:14",
+      "text": "They also do not include functions that are primarily"
+    },
+    {
+      "start": 2178.11,
+      "end": 2182.074,
+      "start_int": 2178,
+      "timestamp_label": "36:18",
+      "text": "ministerial or internal in nature, such as these functions."
+    },
+    {
+      "start": 2182.524,
+      "end": 2185.09,
+      "start_int": 2182,
+      "timestamp_label": "36:22",
+      "text": "So these functions are not considered to be inherently"
+    },
+    {
+      "start": 2185.09,
+      "end": 2186.864,
+      "start_int": 2185,
+      "timestamp_label": "36:25",
+      "text": "governmental kind of cross the board."
+    },
+    {
+      "start": 2193.194,
+      "end": 2194.864,
+      "start_int": 2193,
+      "timestamp_label": "36:33",
+      "text": "These are all listed from the."
+    },
+    {
+      "start": 2196.264,
+      "end": 2199.114,
+      "start_int": 2196,
+      "timestamp_label": "36:36",
+      "text": "OFPP policy letter 11-01."
+    },
+    {
+      "start": 2200.984,
+      "end": 2205.084,
+      "start_int": 2200,
+      "timestamp_label": "36:40",
+      "text": "That's kind of the newest one as far as the policies and."
+    },
+    {
+      "start": 2207.774,
+      "end": 2211.399,
+      "start_int": 2207,
+      "timestamp_label": "36:47",
+      "text": "Inherently governmental functions, one that we're"
+    },
+    {
+      "start": 2211.399,
+      "end": 2215.894,
+      "start_int": 2211,
+      "timestamp_label": "36:51",
+      "text": "probably seeing kind of on the surface the most, is that OFPP"
+    },
+    {
+      "start": 2215.894,
+      "end": 2219.374,
+      "start_int": 2215,
+      "timestamp_label": "36:55",
+      "text": "policy letter 11-01 is kind of give me an idea."
+    },
+    {
+      "start": 2226.114,
+      "end": 2229.881,
+      "start_int": 2226,
+      "timestamp_label": "37:06",
+      "text": "So some of you might be working on contracts along with these"
+    },
+    {
+      "start": 2229.881,
+      "end": 2233.224,
+      "start_int": 2229,
+      "timestamp_label": "37:09",
+      "text": "and just to know that most of these are not considered"
+    },
+    {
+      "start": 2233.224,
+      "end": 2235.594,
+      "start_int": 2233,
+      "timestamp_label": "37:13",
+      "text": "inherently governmental in its nature."
+    },
+    {
+      "start": 2241.894,
+      "end": 2242.524,
+      "start_int": 2241,
+      "timestamp_label": "37:21",
+      "text": "All right."
+    },
+    {
+      "start": 2242.534,
+      "end": 2245.924,
+      "start_int": 2242,
+      "timestamp_label": "37:22",
+      "text": "So let's take a look at the OMB circular."
+    },
+    {
+      "start": 2245.934,
+      "end": 2249.089,
+      "start_int": 2245,
+      "timestamp_label": "37:25",
+      "text": "A-76, like I said, a lot of the functions were talking about"
+    },
+    {
+      "start": 2249.089,
+      "end": 2250.124,
+      "start_int": 2249,
+      "timestamp_label": "37:29",
+      "text": "come from here also."
+    },
+    {
+      "start": 2252.074,
+      "end": 2256.526,
+      "start_int": 2252,
+      "timestamp_label": "37:32",
+      "text": "So this is coming from the OMB executive agency under the"
+    },
+    {
+      "start": 2256.526,
+      "end": 2257.294,
+      "start_int": 2256,
+      "timestamp_label": "37:36",
+      "text": "President."
+    },
+    {
+      "start": 2261.004,
+      "end": 2264.338,
+      "start_int": 2261,
+      "timestamp_label": "37:41",
+      "text": "So since according to the office OMB Circular, A 76 certain"
+    },
+    {
+      "start": 2264.338,
+      "end": 2267.784,
+      "start_int": 2264,
+      "timestamp_label": "37:44",
+      "text": "services and actions that are not considered to be inherently"
+    },
+    {
+      "start": 2267.784,
+      "end": 2271.063,
+      "start_int": 2267,
+      "timestamp_label": "37:47",
+      "text": "governmental functions may approach being in that category"
+    },
+    {
+      "start": 2271.063,
+      "end": 2274.342,
+      "start_int": 2271,
+      "timestamp_label": "37:51",
+      "text": "because of the nature of the function, the manner in which"
+    },
+    {
+      "start": 2274.342,
+      "end": 2277.732,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "the contractor performs the contract, or the manner in which"
+    },
+    {
+      "start": 2277.732,
+      "end": 2280.234,
+      "start_int": 2277,
+      "timestamp_label": "37:57",
+      "text": "government administers contract performance."
+    },
+    {
+      "start": 2280.244,
+      "end": 2285.871,
+      "start_int": 2280,
+      "timestamp_label": "38:00",
+      "text": "So that's what basically the OMB circular A-76 is saying again,"
+    },
+    {
+      "start": 2285.871,
+      "end": 2290.97,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "kind of a source of a lot of those functions that we just"
+    },
+    {
+      "start": 2290.97,
+      "end": 2294.224,
+      "start_int": 2290,
+      "timestamp_label": "38:10",
+      "text": "looked at are covered from the E 76."
+    },
+    {
+      "start": 2294.234,
+      "end": 2299.082,
+      "start_int": 2294,
+      "timestamp_label": "38:14",
+      "text": "So we know that there's another, umm, regulation out there that"
+    },
+    {
+      "start": 2299.082,
+      "end": 2303.704,
+      "start_int": 2299,
+      "timestamp_label": "38:19",
+      "text": "we have to follow considering it, which is the OMB, a 76 and"
+    },
+    {
+      "start": 2303.704,
+      "end": 2308.552,
+      "start_int": 2303,
+      "timestamp_label": "38:23",
+      "text": "I'm not seeing a whole lot more on this one because again a lot"
+    },
+    {
+      "start": 2308.552,
+      "end": 2310.674,
+      "start_int": 2308,
+      "timestamp_label": "38:28",
+      "text": "of them are repetitive. Umm."
+    },
+    {
+      "start": 2313.064,
+      "end": 2317.969,
+      "start_int": 2313,
+      "timestamp_label": "38:33",
+      "text": "Let's see, is there guidance or manual that exists that gives"
+    },
+    {
+      "start": 2317.969,
+      "end": 2322.955,
+      "start_int": 2317,
+      "timestamp_label": "38:37",
+      "text": "more background to each other regs in the far not I concerning"
+    },
+    {
+      "start": 2322.955,
+      "end": 2326.99,
+      "start_int": 2322,
+      "timestamp_label": "38:42",
+      "text": "like everything in the far or like are you talking"
+    },
+    {
+      "start": 2326.99,
+      "end": 2331.342,
+      "start_int": 2326,
+      "timestamp_label": "38:46",
+      "text": "specifically with inherently governmental functions or"
+    },
+    {
+      "start": 2331.342,
+      "end": 2336.011,
+      "start_int": 2331,
+      "timestamp_label": "38:51",
+      "text": "something specific because there's there's not really like"
+    },
+    {
+      "start": 2336.011,
+      "end": 2340.679,
+      "start_int": 2336,
+      "timestamp_label": "38:56",
+      "text": "a he guide you know to help breakdown the far that I'm not"
+    },
+    {
+      "start": 2340.679,
+      "end": 2345.506,
+      "start_int": 2340,
+      "timestamp_label": "39:00",
+      "text": "not that I'm aware of because that's kind of what the far is"
+    },
+    {
+      "start": 2345.506,
+      "end": 2350.491,
+      "start_int": 2345,
+      "timestamp_label": "39:05",
+      "text": "it's kind of like that guy in umm to where it's taking all the"
+    },
+    {
+      "start": 2350.491,
+      "end": 2355.714,
+      "start_int": 2350,
+      "timestamp_label": "39:10",
+      "text": "laws, policies, regulations that concern acquisitions and it kind"
+    },
+    {
+      "start": 2355.714,
+      "end": 2357.534,
+      "start_int": 2355,
+      "timestamp_label": "39:15",
+      "text": "of codifies it and put."
+    },
+    {
+      "start": 2357.674,
+      "end": 2357.934,
+      "start_int": 2357,
+      "timestamp_label": "39:17",
+      "text": "It into."
+    },
+    {
+      "start": 2359.084,
+      "end": 2362.887,
+      "start_int": 2359,
+      "timestamp_label": "39:19",
+      "text": "Umm, the element which is the far, so the far is kind of"
+    },
+    {
+      "start": 2362.887,
+      "end": 2367.091,
+      "start_int": 2362,
+      "timestamp_label": "39:22",
+      "text": "trying to organize and putting all these other things that are"
+    },
+    {
+      "start": 2367.091,
+      "end": 2370.494,
+      "start_int": 2367,
+      "timestamp_label": "39:27",
+      "text": "out there that exist and put them in a regulation."
+    },
+    {
+      "start": 2370.504,
+      "end": 2375.065,
+      "start_int": 2370,
+      "timestamp_label": "39:30",
+      "text": "That's but umm, but it kind of breaks down what each of those"
+    },
+    {
+      "start": 2375.065,
+      "end": 2376.464,
+      "start_int": 2375,
+      "timestamp_label": "39:35",
+      "text": "are into one thing."
+    },
+    {
+      "start": 2377.724,
+      "end": 2379.554,
+      "start_int": 2377,
+      "timestamp_label": "39:37",
+      "text": "See ohh explanation."
+    },
+    {
+      "start": 2379.564,
+      "end": 2382.204,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "OK, explanation of each of the rags and what they do."
+    },
+    {
+      "start": 2385.584,
+      "end": 2386.164,
+      "start_int": 2385,
+      "timestamp_label": "39:45",
+      "text": "Not that I'm."
+    },
+    {
+      "start": 2388.144,
+      "end": 2390.784,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "There might be something within DAU, Sarah."
+    },
+    {
+      "start": 2390.794,
+      "end": 2394.348,
+      "start_int": 2390,
+      "timestamp_label": "39:50",
+      "text": "Go ahead, like send me an email and I could probably get you"
+    },
+    {
+      "start": 2394.348,
+      "end": 2397.96,
+      "start_int": 2394,
+      "timestamp_label": "39:54",
+      "text": "something as far as that goes and I'll put my email up at the"
+    },
+    {
+      "start": 2397.96,
+      "end": 2398.194,
+      "start_int": 2397,
+      "timestamp_label": "39:57",
+      "text": "end."
+    },
+    {
+      "start": 2398.564,
+      "end": 2400.274,
+      "start_int": 2398,
+      "timestamp_label": "39:58",
+      "text": "I know what you're talking about."
+    },
+    {
+      "start": 2400.504,
+      "end": 2401.454,
+      "start_int": 2400,
+      "timestamp_label": "40:00",
+      "text": "I don't know."
+    },
+    {
+      "start": 2401.464,
+      "end": 2406.231,
+      "start_int": 2401,
+      "timestamp_label": "40:01",
+      "text": "There's something exists, but I know where I can possibly find"
+    },
+    {
+      "start": 2406.231,
+      "end": 2407.064,
+      "start_int": 2406,
+      "timestamp_label": "40:06",
+      "text": "if it does."
+    },
+    {
+      "start": 2408.374,
+      "end": 2411.661,
+      "start_int": 2408,
+      "timestamp_label": "40:08",
+      "text": "So yeah, go ahead and send me an email at the words and I think I"
+    },
+    {
+      "start": 2411.661,
+      "end": 2413.504,
+      "start_int": 2411,
+      "timestamp_label": "40:11",
+      "text": "can be able to find it if it exists."
+    },
+    {
+      "start": 2420.184,
+      "end": 2421.434,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "Alright, ohh PP."
+    },
+    {
+      "start": 2421.444,
+      "end": 2423.424,
+      "start_int": 2421,
+      "timestamp_label": "40:21",
+      "text": "Policy letter 11 dance dear one."
+    },
+    {
+      "start": 2423.434,
+      "end": 2427.281,
+      "start_int": 2423,
+      "timestamp_label": "40:23",
+      "text": "So that's one of them that been talking about one of the more"
+    },
+    {
+      "start": 2427.281,
+      "end": 2430.384,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "recent ones and probably the most important part."
+    },
+    {
+      "start": 2432.294,
+      "end": 2439.809,
+      "start_int": 2432,
+      "timestamp_label": "40:32",
+      "text": "Of the OPP policy letter 11-01 is a kind of put these umm tests"
+    },
+    {
+      "start": 2439.809,
+      "end": 2440.514,
+      "start_int": 2439,
+      "timestamp_label": "40:39",
+      "text": "in it."
+    },
+    {
+      "start": 2441.034,
+      "end": 2444.97,
+      "start_int": 2441,
+      "timestamp_label": "40:41",
+      "text": "OK, so cut, put these tests in it and lot of these tests come"
+    },
+    {
+      "start": 2444.97,
+      "end": 2448.906,
+      "start_int": 2444,
+      "timestamp_label": "40:44",
+      "text": "anytime you see something that's like a a test of determining"
+    },
+    {
+      "start": 2448.906,
+      "end": 2452.144,
+      "start_int": 2448,
+      "timestamp_label": "40:48",
+      "text": "whether something is or something isn't something."
+    },
+    {
+      "start": 2452.734,
+      "end": 2455.024,
+      "start_int": 2452,
+      "timestamp_label": "40:52",
+      "text": "It's usually coming from the the courts."
+    },
+    {
+      "start": 2455.214,
+      "end": 2459.352,
+      "start_int": 2455,
+      "timestamp_label": "40:55",
+      "text": "OK, usually it's established based on, you know, judicial"
+    },
+    {
+      "start": 2459.352,
+      "end": 2461.564,
+      "start_int": 2459,
+      "timestamp_label": "40:59",
+      "text": "decisions and things like that."
+    },
+    {
+      "start": 2462.654,
+      "end": 2464.784,
+      "start_int": 2462,
+      "timestamp_label": "41:02",
+      "text": "And I don't think this is an exception to that."
+    },
+    {
+      "start": 2465.334,
+      "end": 2468.975,
+      "start_int": 2465,
+      "timestamp_label": "41:05",
+      "text": "So one of the things this kind of tells us, and this is what's"
+    },
+    {
+      "start": 2468.975,
+      "end": 2472.501,
+      "start_int": 2468,
+      "timestamp_label": "41:08",
+      "text": "going to help you all right, this will help you all and kind"
+    },
+    {
+      "start": 2472.501,
+      "end": 2476.085,
+      "start_int": 2472,
+      "timestamp_label": "41:12",
+      "text": "of making determinations of when you are out there performing"
+    },
+    {
+      "start": 2476.085,
+      "end": 2479.496,
+      "start_int": 2476,
+      "timestamp_label": "41:16",
+      "text": "your duties if inherently governmental functions are being"
+    },
+    {
+      "start": 2479.496,
+      "end": 2481.924,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "performed by somebody that should not be."
+    },
+    {
+      "start": 2483.374,
+      "end": 2487.127,
+      "start_int": 2483,
+      "timestamp_label": "41:23",
+      "text": "And the policy letter establishes the two tests for"
+    },
+    {
+      "start": 2487.127,
+      "end": 2491.096,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "identifying inherently governmental functions, as well"
+    },
+    {
+      "start": 2491.096,
+      "end": 2495.643,
+      "start_int": 2491,
+      "timestamp_label": "41:31",
+      "text": "as defines a critical function as one that is necessary to the"
+    },
+    {
+      "start": 2495.643,
+      "end": 2500.335,
+      "start_int": 2495,
+      "timestamp_label": "41:35",
+      "text": "agency being able to effectively perform and maintain control of"
+    },
+    {
+      "start": 2500.335,
+      "end": 2502.284,
+      "start_int": 2500,
+      "timestamp_label": "41:40",
+      "text": "its mission and operations."
+    },
+    {
+      "start": 2502.474,
+      "end": 2506.268,
+      "start_int": 2502,
+      "timestamp_label": "41:42",
+      "text": "So that's one of the things that we're trying to ensure of is"
+    },
+    {
+      "start": 2506.268,
+      "end": 2506.574,
+      "start_int": 2506,
+      "timestamp_label": "41:46",
+      "text": "that."
+    },
+    {
+      "start": 2508.084,
+      "end": 2513.561,
+      "start_int": 2508,
+      "timestamp_label": "41:48",
+      "text": "Control that the things that the government needs to control as"
+    },
+    {
+      "start": 2513.561,
+      "end": 2518.783,
+      "start_int": 2513,
+      "timestamp_label": "41:53",
+      "text": "far as the programs you are on is not being basically handed"
+    },
+    {
+      "start": 2518.783,
+      "end": 2521.094,
+      "start_int": 2518,
+      "timestamp_label": "41:58",
+      "text": "over to contractors, right."
+    },
+    {
+      "start": 2522.034,
+      "end": 2526.351,
+      "start_int": 2522,
+      "timestamp_label": "42:02",
+      "text": "That although the contractors are performing, maybe the vast"
+    },
+    {
+      "start": 2526.351,
+      "end": 2530.386,
+      "start_int": 2526,
+      "timestamp_label": "42:06",
+      "text": "majority, if not all the functions, they are still under"
+    },
+    {
+      "start": 2530.386,
+      "end": 2532.864,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "the control of the government, OK."
+    },
+    {
+      "start": 2532.874,
+      "end": 2534.524,
+      "start_int": 2532,
+      "timestamp_label": "42:12",
+      "text": "And that's what we're trying to make sure."
+    },
+    {
+      "start": 2534.614,
+      "end": 2537.11,
+      "start_int": 2534,
+      "timestamp_label": "42:14",
+      "text": "And that's when it crosses that line of the decision making and"
+    },
+    {
+      "start": 2537.11,
+      "end": 2537.774,
+      "start_int": 2537,
+      "timestamp_label": "42:17",
+      "text": "things like that."
+    },
+    {
+      "start": 2539.514,
+      "end": 2542.232,
+      "start_int": 2539,
+      "timestamp_label": "42:19",
+      "text": "So the two tests were identifying inherently"
+    },
+    {
+      "start": 2542.232,
+      "end": 2545.736,
+      "start_int": 2542,
+      "timestamp_label": "42:22",
+      "text": "governmental functions and guidance on pre and post award"
+    },
+    {
+      "start": 2545.736,
+      "end": 2549.422,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "management of contracts for critical functions and functions"
+    },
+    {
+      "start": 2549.422,
+      "end": 2552.564,
+      "start_int": 2549,
+      "timestamp_label": "42:29",
+      "text": "closely associated with performance and government."
+    },
+    {
+      "start": 2553.134,
+      "end": 2557.112,
+      "start_int": 2553,
+      "timestamp_label": "42:33",
+      "text": "Inherently, governmental functions are one the nature of"
+    },
+    {
+      "start": 2557.112,
+      "end": 2561.299,
+      "start_int": 2557,
+      "timestamp_label": "42:37",
+      "text": "the function test, and this categorizes functions involving"
+    },
+    {
+      "start": 2561.299,
+      "end": 2565.626,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "the exercise of US sovereign power as inherently governmental"
+    },
+    {
+      "start": 2565.626,
+      "end": 2570.093,
+      "start_int": 2565,
+      "timestamp_label": "42:45",
+      "text": "due to their unique governmental nature, regardless of any type"
+    },
+    {
+      "start": 2570.093,
+      "end": 2573.234,
+      "start_int": 2570,
+      "timestamp_label": "42:50",
+      "text": "or level of discretion associated with them."
+    },
+    {
+      "start": 2574.714,
+      "end": 2575.304,
+      "start_int": 2574,
+      "timestamp_label": "42:54",
+      "text": "OK."
+    },
+    {
+      "start": 2575.354,
+      "end": 2579.551,
+      "start_int": 2575,
+      "timestamp_label": "42:55",
+      "text": "So nature of the function is that a function that would"
+    },
+    {
+      "start": 2579.551,
+      "end": 2584.049,
+      "start_int": 2579,
+      "timestamp_label": "42:59",
+      "text": "require the southern power of the United States to make the"
+    },
+    {
+      "start": 2584.049,
+      "end": 2585.174,
+      "start_int": 2584,
+      "timestamp_label": "43:04",
+      "text": "decision right?"
+    },
+    {
+      "start": 2586.454,
+      "end": 2588.504,
+      "start_int": 2586,
+      "timestamp_label": "43:06",
+      "text": "And then there's the exercise of discretion."
+    },
+    {
+      "start": 2588.514,
+      "end": 2592.282,
+      "start_int": 2588,
+      "timestamp_label": "43:08",
+      "text": "Test prohibits agencies from contracting out functions"
+    },
+    {
+      "start": 2592.282,
+      "end": 2596.53,
+      "start_int": 2592,
+      "timestamp_label": "43:12",
+      "text": "involving the exercise of the secretion that would commit the"
+    },
+    {
+      "start": 2596.53,
+      "end": 2600.641,
+      "start_int": 2596,
+      "timestamp_label": "43:16",
+      "text": "government to a course of action or two or more alternative"
+    },
+    {
+      "start": 2600.641,
+      "end": 2604.957,
+      "start_int": 2600,
+      "timestamp_label": "43:20",
+      "text": "courses of the action exist and decision making is not already"
+    },
+    {
+      "start": 2604.957,
+      "end": 2608.451,
+      "start_int": 2604,
+      "timestamp_label": "43:24",
+      "text": "landed or guided by existing policies, procedures,"
+    },
+    {
+      "start": 2608.451,
+      "end": 2611.124,
+      "start_int": 2608,
+      "timestamp_label": "43:28",
+      "text": "directions, orders and other guidance."
+    },
+    {
+      "start": 2611.574,
+      "end": 2614.058,
+      "start_int": 2611,
+      "timestamp_label": "43:31",
+      "text": "So that's where it's talking about the exercise of"
+    },
+    {
+      "start": 2614.058,
+      "end": 2614.594,
+      "start_int": 2614,
+      "timestamp_label": "43:34",
+      "text": "discretion."
+    },
+    {
+      "start": 2615.964,
+      "end": 2621.119,
+      "start_int": 2615,
+      "timestamp_label": "43:35",
+      "text": "Umm to where prohibiting E agencies from contracting out"
+    },
+    {
+      "start": 2621.119,
+      "end": 2626.093,
+      "start_int": 2621,
+      "timestamp_label": "43:41",
+      "text": "functions that would be considered to be, you know, so"
+    },
+    {
+      "start": 2626.093,
+      "end": 2631.429,
+      "start_int": 2626,
+      "timestamp_label": "43:46",
+      "text": "important to the government that it would need to maintain"
+    },
+    {
+      "start": 2631.429,
+      "end": 2632.424,
+      "start_int": 2631,
+      "timestamp_label": "43:51",
+      "text": "inside, OK."
+    },
+    {
+      "start": 2635.114,
+      "end": 2639.873,
+      "start_int": 2635,
+      "timestamp_label": "43:55",
+      "text": "So workload can be delegated, but not the responsibility and"
+    },
+    {
+      "start": 2639.873,
+      "end": 2641.044,
+      "start_int": 2639,
+      "timestamp_label": "43:59",
+      "text": "QA of the work."
+    },
+    {
+      "start": 2641.054,
+      "end": 2641.944,
+      "start_int": 2641,
+      "timestamp_label": "44:01",
+      "text": "Creative let me see."
+    },
+    {
+      "start": 2641.994,
+      "end": 2647.681,
+      "start_int": 2641,
+      "timestamp_label": "44:01",
+      "text": "So workload can be delegated, but not the responsibility, and"
+    },
+    {
+      "start": 2647.681,
+      "end": 2649.424,
+      "start_int": 2647,
+      "timestamp_label": "44:07",
+      "text": "the QA of the yeah."
+    },
+    {
+      "start": 2649.434,
+      "end": 2655.235,
+      "start_int": 2649,
+      "timestamp_label": "44:09",
+      "text": "So basically, that's what we're doing, Felipe, when when we're"
+    },
+    {
+      "start": 2655.235,
+      "end": 2660.484,
+      "start_int": 2655,
+      "timestamp_label": "44:15",
+      "text": "contracting and we're putting contracts in place, we are"
+    },
+    {
+      "start": 2660.484,
+      "end": 2666.194,
+      "start_int": 2660,
+      "timestamp_label": "44:20",
+      "text": "basically delegating the work to be done by a contractor, OK."
+    },
+    {
+      "start": 2667.214,
+      "end": 2669.104,
+      "start_int": 2667,
+      "timestamp_label": "44:27",
+      "text": "And then we still maintain control."
+    },
+    {
+      "start": 2669.114,
+      "end": 2670.884,
+      "start_int": 2669,
+      "timestamp_label": "44:29",
+      "text": "And what maintains the control one?"
+    },
+    {
+      "start": 2670.894,
+      "end": 2674.585,
+      "start_int": 2670,
+      "timestamp_label": "44:30",
+      "text": "The major thing that maintains the government controls the"
+    },
+    {
+      "start": 2674.585,
+      "end": 2676.024,
+      "start_int": 2674,
+      "timestamp_label": "44:34",
+      "text": "contract itself, right?"
+    },
+    {
+      "start": 2676.074,
+      "end": 2679.873,
+      "start_int": 2676,
+      "timestamp_label": "44:36",
+      "text": "Because the contractor cannot do anything or make any decisions"
+    },
+    {
+      "start": 2679.873,
+      "end": 2682.604,
+      "start_int": 2679,
+      "timestamp_label": "44:39",
+      "text": "that's outside the authority of the contract."
+    },
+    {
+      "start": 2684.004,
+      "end": 2689.045,
+      "start_int": 2684,
+      "timestamp_label": "44:44",
+      "text": "So when you, you know as the QA or COR or whatever, one of the"
+    },
+    {
+      "start": 2689.045,
+      "end": 2694.247,
+      "start_int": 2689,
+      "timestamp_label": "44:49",
+      "text": "main functions you're performing is monitoring to make sure that"
+    },
+    {
+      "start": 2694.247,
+      "end": 2699.449,
+      "start_int": 2694,
+      "timestamp_label": "44:54",
+      "text": "the work that the contractor is doing is within the authority of"
+    },
+    {
+      "start": 2699.449,
+      "end": 2704.65,
+      "start_int": 2699,
+      "timestamp_label": "44:59",
+      "text": "the contract and that there's no decisions being made, you know,"
+    },
+    {
+      "start": 2704.65,
+      "end": 2709.612,
+      "start_int": 2704,
+      "timestamp_label": "45:04",
+      "text": "off the contract or you know, things that are not within that"
+    },
+    {
+      "start": 2709.612,
+      "end": 2714.014,
+      "start_int": 2709,
+      "timestamp_label": "45:09",
+      "text": "have been delegated through the contract that are big."
+    },
+    {
+      "start": 2714.024,
+      "end": 2716.284,
+      "start_int": 2714,
+      "timestamp_label": "45:14",
+      "text": "You sure that none of those functions are being done?"
+    },
+    {
+      "start": 2716.654,
+      "end": 2721.363,
+      "start_int": 2716,
+      "timestamp_label": "45:16",
+      "text": "So that's kind of, you know, a lot of the reason that we have"
+    },
+    {
+      "start": 2721.363,
+      "end": 2725.768,
+      "start_int": 2721,
+      "timestamp_label": "45:21",
+      "text": "QA and like we have COR and things like that is to ensure"
+    },
+    {
+      "start": 2725.768,
+      "end": 2730.478,
+      "start_int": 2725,
+      "timestamp_label": "45:25",
+      "text": "that the performance is being done specified to the contract,"
+    },
+    {
+      "start": 2730.478,
+      "end": 2730.934,
+      "start_int": 2730,
+      "timestamp_label": "45:30",
+      "text": "right?"
+    },
+    {
+      "start": 2731.404,
+      "end": 2733.844,
+      "start_int": 2731,
+      "timestamp_label": "45:31",
+      "text": "So that's how we're maintaining a lot of our authority."
+    },
+    {
+      "start": 2735.184,
+      "end": 2738.613,
+      "start_int": 2735,
+      "timestamp_label": "45:35",
+      "text": "But as we know, there's certain things that you know that are"
+    },
+    {
+      "start": 2738.613,
+      "end": 2741.545,
+      "start_int": 2738,
+      "timestamp_label": "45:38",
+      "text": "being done in reality contractors like ohh well, you"
+    },
+    {
+      "start": 2741.545,
+      "end": 2743.814,
+      "start_int": 2741,
+      "timestamp_label": "45:41",
+      "text": "know it worked better to do it this way."
+    },
+    {
+      "start": 2744.904,
+      "end": 2747.467,
+      "start_int": 2744,
+      "timestamp_label": "45:44",
+      "text": "Well, if it's not in the contract to do it that way, now"
+    },
+    {
+      "start": 2747.467,
+      "end": 2750.165,
+      "start_int": 2747,
+      "timestamp_label": "45:47",
+      "text": "they're making the decision on behalf of the government and"
+    },
+    {
+      "start": 2750.165,
+      "end": 2751.514,
+      "start_int": 2750,
+      "timestamp_label": "45:50",
+      "text": "it's an unauthorized decision."
+    },
+    {
+      "start": 2753.334,
+      "end": 2756.334,
+      "start_int": 2753,
+      "timestamp_label": "45:53",
+      "text": "And we want to keep that from happening as much as possible."
+    },
+    {
+      "start": 2757.714,
+      "end": 2761.148,
+      "start_int": 2757,
+      "timestamp_label": "45:57",
+      "text": "So casters have to be created to specify what works needs to be"
+    },
+    {
+      "start": 2761.148,
+      "end": 2763.564,
+      "start_int": 2761,
+      "timestamp_label": "46:01",
+      "text": "done, and the contractor gonna pick up work."
+    },
+    {
+      "start": 2763.614,
+      "end": 2763.974,
+      "start_int": 2763,
+      "timestamp_label": "46:03",
+      "text": "Correct."
+    },
+    {
+      "start": 2765.234,
+      "end": 2765.704,
+      "start_int": 2765,
+      "timestamp_label": "46:05",
+      "text": "Absolutely."
+    },
+    {
+      "start": 2765.714,
+      "end": 2768.154,
+      "start_int": 2765,
+      "timestamp_label": "46:05",
+      "text": "Correctly there, got it."
+    },
+    {
+      "start": 2771.914,
+      "end": 2772.224,
+      "start_int": 2771,
+      "timestamp_label": "46:11",
+      "text": "Yeah."
+    },
+    {
+      "start": 2772.234,
+      "end": 2776.171,
+      "start_int": 2772,
+      "timestamp_label": "46:12",
+      "text": "And because basically any type of thing that might be outside"
+    },
+    {
+      "start": 2776.171,
+      "end": 2779.284,
+      "start_int": 2776,
+      "timestamp_label": "46:16",
+      "text": "the contract now they're let me put it this way."
+    },
+    {
+      "start": 2779.294,
+      "end": 2782.65,
+      "start_int": 2779,
+      "timestamp_label": "46:19",
+      "text": "So you might be working in the contract, they're saying, hey,"
+    },
+    {
+      "start": 2782.65,
+      "end": 2785.844,
+      "start_int": 2782,
+      "timestamp_label": "46:22",
+      "text": "you know, it would be better if we did it this way, right?"
+    },
+    {
+      "start": 2786.114,
+      "end": 2787.444,
+      "start_int": 2786,
+      "timestamp_label": "46:26",
+      "text": "Or this task would be better."
+    },
+    {
+      "start": 2787.454,
+      "end": 2788.304,
+      "start_int": 2787,
+      "timestamp_label": "46:27",
+      "text": "Hey, what about we?"
+    },
+    {
+      "start": 2788.314,
+      "end": 2793.514,
+      "start_int": 2788,
+      "timestamp_label": "46:28",
+      "text": "How about we do this to improve the performance of the contract,"
+    },
+    {
+      "start": 2793.514,
+      "end": 2793.994,
+      "start_int": 2793,
+      "timestamp_label": "46:33",
+      "text": "right?"
+    },
+    {
+      "start": 2795.614,
+      "end": 2799.865,
+      "start_int": 2795,
+      "timestamp_label": "46:35",
+      "text": "That's fine as long, but the problem the thing we have to do"
+    },
+    {
+      "start": 2799.865,
+      "end": 2802.584,
+      "start_int": 2799,
+      "timestamp_label": "46:39",
+      "text": "then is they should be talking to you."
+    },
+    {
+      "start": 2802.674,
+      "end": 2806.299,
+      "start_int": 2802,
+      "timestamp_label": "46:42",
+      "text": "The contractor is saying, hey, here's these things that we can"
+    },
+    {
+      "start": 2806.299,
+      "end": 2809.291,
+      "start_int": 2806,
+      "timestamp_label": "46:46",
+      "text": "approve are things that we'd like to do to make the"
+    },
+    {
+      "start": 2809.291,
+      "end": 2812.743,
+      "start_int": 2809,
+      "timestamp_label": "46:49",
+      "text": "performance better, should be given to you and then brought"
+    },
+    {
+      "start": 2812.743,
+      "end": 2816.484,
+      "start_int": 2812,
+      "timestamp_label": "46:52",
+      "text": "back to the contracting officer to make the decision whether one"
+    },
+    {
+      "start": 2816.484,
+      "end": 2819.821,
+      "start_int": 2816,
+      "timestamp_label": "46:56",
+      "text": "is within the scope of the contract and if it is, then we"
+    },
+    {
+      "start": 2819.821,
+      "end": 2823.044,
+      "start_int": 2819,
+      "timestamp_label": "46:59",
+      "text": "could do a modification and negotiate that portion out."
+    },
+    {
+      "start": 2823.254,
+      "end": 2826.003,
+      "start_int": 2823,
+      "timestamp_label": "47:03",
+      "text": "If we decide that it's in less interest of the government, it's"
+    },
+    {
+      "start": 2826.003,
+      "end": 2828.624,
+      "start_int": 2826,
+      "timestamp_label": "47:06",
+      "text": "just gotta make sure it's going through the proper channels."
+    },
+    {
+      "start": 2838.244,
+      "end": 2840.024,
+      "start_int": 2838,
+      "timestamp_label": "47:18",
+      "text": "Yeah, I'm sure it is relevant."
+    },
+    {
+      "start": 2841.324,
+      "end": 2844.914,
+      "start_int": 2841,
+      "timestamp_label": "47:21",
+      "text": "Alright, steps before after awarding a contract before"
+    },
+    {
+      "start": 2844.914,
+      "end": 2848.701,
+      "start_int": 2844,
+      "timestamp_label": "47:24",
+      "text": "awarding contract review listings of functions designated"
+    },
+    {
+      "start": 2848.701,
+      "end": 2852.618,
+      "start_int": 2848,
+      "timestamp_label": "47:28",
+      "text": "as inherently governmental in statute and the pendencies of"
+    },
+    {
+      "start": 2852.618,
+      "end": 2853.924,
+      "start_int": 2852,
+      "timestamp_label": "47:32",
+      "text": "Policy letter 11-01."
+    },
+    {
+      "start": 2854.274,
+      "end": 2859.031,
+      "start_int": 2854,
+      "timestamp_label": "47:34",
+      "text": "So basically what we're talking about is, you know, within the"
+    },
+    {
+      "start": 2859.031,
+      "end": 2863.26,
+      "start_int": 2859,
+      "timestamp_label": "47:39",
+      "text": "OFPP policy letter 11-01 within the Federal acquisition"
+    },
+    {
+      "start": 2863.26,
+      "end": 2867.866,
+      "start_int": 2863,
+      "timestamp_label": "47:43",
+      "text": "regulation within a 76 and all that kind of stuff, make sure"
+    },
+    {
+      "start": 2867.866,
+      "end": 2872.85,
+      "start_int": 2867,
+      "timestamp_label": "47:47",
+      "text": "you know that if you are helping to develop save the requirements"
+    },
+    {
+      "start": 2872.85,
+      "end": 2877.305,
+      "start_int": 2872,
+      "timestamp_label": "47:52",
+      "text": "and things like that that you know you're looking at those"
+    },
+    {
+      "start": 2877.305,
+      "end": 2881.761,
+      "start_int": 2877,
+      "timestamp_label": "47:57",
+      "text": "lists and going through those tests to make sure that what"
+    },
+    {
+      "start": 2881.761,
+      "end": 2886.518,
+      "start_int": 2881,
+      "timestamp_label": "48:01",
+      "text": "we're putting in there is a a task that we want the contractor"
+    },
+    {
+      "start": 2886.518,
+      "end": 2890.974,
+      "start_int": 2886,
+      "timestamp_label": "48:06",
+      "text": "to perform is not an inherently governmental function, OK?"
+    },
+    {
+      "start": 2891.074,
+      "end": 2894.507,
+      "start_int": 2891,
+      "timestamp_label": "48:11",
+      "text": "Especially that explicitly listed and then if it's not"
+    },
+    {
+      "start": 2894.507,
+      "end": 2898.377,
+      "start_int": 2894,
+      "timestamp_label": "48:14",
+      "text": "exclusively listed then you know you kind of go through those"
+    },
+    {
+      "start": 2898.377,
+      "end": 2902.31,
+      "start_int": 2898,
+      "timestamp_label": "48:18",
+      "text": "tests and there's violating any of those tests that are in the"
+    },
+    {
+      "start": 2902.31,
+      "end": 2903.184,
+      "start_int": 2902,
+      "timestamp_label": "48:22",
+      "text": "policy letter."
+    },
+    {
+      "start": 2904.704,
+      "end": 2909.365,
+      "start_int": 2904,
+      "timestamp_label": "48:24",
+      "text": "And then of course, after awarding the contract, the big"
+    },
+    {
+      "start": 2909.365,
+      "end": 2914.355,
+      "start_int": 2909,
+      "timestamp_label": "48:29",
+      "text": "portion here for you well also is must monitor both contract"
+    },
+    {
+      "start": 2914.355,
+      "end": 2918.689,
+      "start_int": 2914,
+      "timestamp_label": "48:34",
+      "text": "performance and agency management and make sure that"
+    },
+    {
+      "start": 2918.689,
+      "end": 2923.515,
+      "start_int": 2918,
+      "timestamp_label": "48:38",
+      "text": "contractors are not performing the inherently governmental"
+    },
+    {
+      "start": 2923.515,
+      "end": 2927.523,
+      "start_int": 2923,
+      "timestamp_label": "48:43",
+      "text": "functions that if they are performing inherently"
+    },
+    {
+      "start": 2927.523,
+      "end": 2932.757,
+      "start_int": 2927,
+      "timestamp_label": "48:47",
+      "text": "governmental functions that we quickly reestablish control over"
+    },
+    {
+      "start": 2932.757,
+      "end": 2937.665,
+      "start_int": 2932,
+      "timestamp_label": "48:52",
+      "text": "the responsibility, strengthen the oversight in source, the"
+    },
+    {
+      "start": 2937.665,
+      "end": 2938.074,
+      "start_int": 2937,
+      "timestamp_label": "48:57",
+      "text": "work."
+    },
+    {
+      "start": 2939.454,
+      "end": 2942.714,
+      "start_int": 2939,
+      "timestamp_label": "48:59",
+      "text": "Refrain from exercising any options under the contract and"
+    },
+    {
+      "start": 2942.714,
+      "end": 2946.029,
+      "start_int": 2942,
+      "timestamp_label": "49:02",
+      "text": "maybe terminating that portion of the contract that has the"
+    },
+    {
+      "start": 2946.029,
+      "end": 2947.964,
+      "start_int": 2946,
+      "timestamp_label": "49:06",
+      "text": "inherently governmental functions."
+    },
+    {
+      "start": 2947.974,
+      "end": 2948.644,
+      "start_int": 2947,
+      "timestamp_label": "49:07",
+      "text": "OK."
+    },
+    {
+      "start": 2948.974,
+      "end": 2953.609,
+      "start_int": 2948,
+      "timestamp_label": "49:08",
+      "text": "So that's one of the things that as a COR or QA or any of those"
+    },
+    {
+      "start": 2953.609,
+      "end": 2958.389,
+      "start_int": 2953,
+      "timestamp_label": "49:13",
+      "text": "the contracting officer, anybody that after the award we may have"
+    },
+    {
+      "start": 2958.389,
+      "end": 2962.807,
+      "start_int": 2958,
+      "timestamp_label": "49:18",
+      "text": "put requirements in there and tasks and described within the"
+    },
+    {
+      "start": 2962.807,
+      "end": 2967.443,
+      "start_int": 2962,
+      "timestamp_label": "49:22",
+      "text": "statement of work or performance work statement that is causing"
+    },
+    {
+      "start": 2967.443,
+      "end": 2971.064,
+      "start_int": 2967,
+      "timestamp_label": "49:27",
+      "text": "the contractor to perform inherently governmental"
+    },
+    {
+      "start": 2971.064,
+      "end": 2975.627,
+      "start_int": 2971,
+      "timestamp_label": "49:31",
+      "text": "functions maybe in the burden only) and that we make sure that"
+    },
+    {
+      "start": 2975.627,
+      "end": 2980.19,
+      "start_int": 2975,
+      "timestamp_label": "49:35",
+      "text": "if we identify those things that we do everything we can do to"
+    },
+    {
+      "start": 2980.19,
+      "end": 2984.174,
+      "start_int": 2980,
+      "timestamp_label": "49:40",
+      "text": "reestablish control government control over it, right."
+    },
+    {
+      "start": 2989.524,
+      "end": 2993.392,
+      "start_int": 2989,
+      "timestamp_label": "49:49",
+      "text": "Alright, GAO GAO is another agency that for a lot of this"
+    },
+    {
+      "start": 2993.392,
+      "end": 2996.927,
+      "start_int": 2993,
+      "timestamp_label": "49:53",
+      "text": "decisions that are made inherently governmental have"
+    },
+    {
+      "start": 2996.927,
+      "end": 2997.594,
+      "start_int": 2996,
+      "timestamp_label": "49:56",
+      "text": "been done."
+    },
+    {
+      "start": 2997.884,
+      "end": 3002.509,
+      "start_int": 2997,
+      "timestamp_label": "49:57",
+      "text": "The Government Accountability Office is not a DoD or an"
+    },
+    {
+      "start": 3002.509,
+      "end": 3003.914,
+      "start_int": 3002,
+      "timestamp_label": "50:02",
+      "text": "executive agency."
+    },
+    {
+      "start": 3004.404,
+      "end": 3006.824,
+      "start_int": 3004,
+      "timestamp_label": "50:04",
+      "text": "It is a congressional agency."
+    },
+    {
+      "start": 3007.364,
+      "end": 3011.438,
+      "start_int": 3007,
+      "timestamp_label": "50:07",
+      "text": "So basically, they're GAO is taking a look and making sure"
+    },
+    {
+      "start": 3011.438,
+      "end": 3015.859,
+      "start_int": 3011,
+      "timestamp_label": "50:11",
+      "text": "that umm, the executive branch is doing their part and ensuring"
+    },
+    {
+      "start": 3015.859,
+      "end": 3019.588,
+      "start_int": 3015,
+      "timestamp_label": "50:15",
+      "text": "following our own laws and policies because it's some"
+    },
+    {
+      "start": 3019.588,
+      "end": 3023.663,
+      "start_int": 3019,
+      "timestamp_label": "50:19",
+      "text": "interest to Congress because guess what, Congress gives us"
+    },
+    {
+      "start": 3023.663,
+      "end": 3024.354,
+      "start_int": 3023,
+      "timestamp_label": "50:23",
+      "text": "the money."
+    },
+    {
+      "start": 3024.844,
+      "end": 3028.488,
+      "start_int": 3024,
+      "timestamp_label": "50:24",
+      "text": "So Congress hasn't a an interest in ensuring we're doing what"
+    },
+    {
+      "start": 3028.488,
+      "end": 3031.839,
+      "start_int": 3028,
+      "timestamp_label": "50:28",
+      "text": "we're supposed to be doing because they're giving us the"
+    },
+    {
+      "start": 3031.839,
+      "end": 3033.074,
+      "start_int": 3031,
+      "timestamp_label": "50:31",
+      "text": "money to do it right."
+    },
+    {
+      "start": 3034.904,
+      "end": 3039.297,
+      "start_int": 3034,
+      "timestamp_label": "50:34",
+      "text": "So GAO has addressed inherently governmental functions in two"
+    },
+    {
+      "start": 3039.297,
+      "end": 3043.265,
+      "start_int": 3039,
+      "timestamp_label": "50:39",
+      "text": "contexts in issuing advisory options requests by agency"
+    },
+    {
+      "start": 3043.265,
+      "end": 3047.162,
+      "start_int": 3043,
+      "timestamp_label": "50:43",
+      "text": "officials addressing whether agencies proposed uses of"
+    },
+    {
+      "start": 3047.162,
+      "end": 3049.784,
+      "start_int": 3047,
+      "timestamp_label": "50:47",
+      "text": "appropriated funds as a permissible."
+    },
+    {
+      "start": 3050.264,
+      "end": 3054.71,
+      "start_int": 3050,
+      "timestamp_label": "50:50",
+      "text": "Again, they appropriate the funds to us and deciding bid"
+    },
+    {
+      "start": 3054.71,
+      "end": 3059.0,
+      "start_int": 3054,
+      "timestamp_label": "50:54",
+      "text": "protests when a protester challenges agencies proposed"
+    },
+    {
+      "start": 3059.0,
+      "end": 3063.135,
+      "start_int": 3059,
+      "timestamp_label": "50:59",
+      "text": "contracting out of allegedly inherently governmental"
+    },
+    {
+      "start": 3063.135,
+      "end": 3067.893,
+      "start_int": 3063,
+      "timestamp_label": "51:03",
+      "text": "functions so they received a GAO protests in one making sure"
+    },
+    {
+      "start": 3067.893,
+      "end": 3069.844,
+      "start_int": 3067,
+      "timestamp_label": "51:07",
+      "text": "we're spending the money."
+    },
+    {
+      "start": 3070.714,
+      "end": 3075.603,
+      "start_int": 3070,
+      "timestamp_label": "51:10",
+      "text": "Uh, not inappropriately, as in paying for contractors that do"
+    },
+    {
+      "start": 3075.603,
+      "end": 3080.098,
+      "start_int": 3075,
+      "timestamp_label": "51:15",
+      "text": "inherently governmental functions, and that's GAO's main"
+    },
+    {
+      "start": 3080.098,
+      "end": 3082.464,
+      "start_int": 3080,
+      "timestamp_label": "51:20",
+      "text": "concern when it comes to that."
+    },
+    {
+      "start": 3082.634,
+      "end": 3087.237,
+      "start_int": 3082,
+      "timestamp_label": "51:22",
+      "text": "And they have looked at our records quite often to check"
+    },
+    {
+      "start": 3087.237,
+      "end": 3087.964,
+      "start_int": 3087,
+      "timestamp_label": "51:27",
+      "text": "that out."
+    },
+    {
+      "start": 3088.434,
+      "end": 3092.054,
+      "start_int": 3088,
+      "timestamp_label": "51:28",
+      "text": "They've done a lot of audits in doing that and when they do"
+    },
+    {
+      "start": 3092.054,
+      "end": 3095.977,
+      "start_int": 3092,
+      "timestamp_label": "51:32",
+      "text": "these audits, they're basically running tests of their own, one,"
+    },
+    {
+      "start": 3095.977,
+      "end": 3099.718,
+      "start_int": 3095,
+      "timestamp_label": "51:35",
+      "text": "they're looking for the exercise of substantial discretionary"
+    },
+    {
+      "start": 3099.718,
+      "end": 3102.796,
+      "start_int": 3099,
+      "timestamp_label": "51:39",
+      "text": "authority by government contractors or contractors"
+    },
+    {
+      "start": 3102.796,
+      "end": 3105.874,
+      "start_int": 3102,
+      "timestamp_label": "51:42",
+      "text": "making value judgments on the government's behalf."
+    },
+    {
+      "start": 3107.094,
+      "end": 3111.734,
+      "start_int": 3107,
+      "timestamp_label": "51:47",
+      "text": "So GAO, taking a look and when they're looking for one"
+    },
+    {
+      "start": 3111.734,
+      "end": 3116.037,
+      "start_int": 3111,
+      "timestamp_label": "51:51",
+      "text": "misappropriation by way of inherently governmental"
+    },
+    {
+      "start": 3116.037,
+      "end": 3121.268,
+      "start_int": 3116,
+      "timestamp_label": "51:56",
+      "text": "functions or that protests that this is what they're using to"
+    },
+    {
+      "start": 3121.268,
+      "end": 3123.884,
+      "start_int": 3121,
+      "timestamp_label": "52:01",
+      "text": "make the decisions on that. OK."
+    },
+    {
+      "start": 3129.894,
+      "end": 3131.809,
+      "start_int": 3129,
+      "timestamp_label": "52:09",
+      "text": "I know I'm going fast, but trying to get everything in"
+    },
+    {
+      "start": 3131.809,
+      "end": 3131.984,
+      "start_int": 3131,
+      "timestamp_label": "52:11",
+      "text": "here."
+    },
+    {
+      "start": 3133.074,
+      "end": 3137.113,
+      "start_int": 3133,
+      "timestamp_label": "52:13",
+      "text": "Alright, so GAO classified as inherently governmental, at"
+    },
+    {
+      "start": 3137.113,
+      "end": 3140.944,
+      "start_int": 3137,
+      "timestamp_label": "52:17",
+      "text": "least in certain some circumstances, are these things."
+    },
+    {
+      "start": 3141.574,
+      "end": 3145.508,
+      "start_int": 3141,
+      "timestamp_label": "52:21",
+      "text": "So again, these are functions that are not listed in our"
+    },
+    {
+      "start": 3145.508,
+      "end": 3149.166,
+      "start_int": 3145,
+      "timestamp_label": "52:25",
+      "text": "normal places to look that are considered inherently"
+    },
+    {
+      "start": 3149.166,
+      "end": 3150.064,
+      "start_int": 3149,
+      "timestamp_label": "52:29",
+      "text": "governmental."
+    },
+    {
+      "start": 3150.354,
+      "end": 3151.914,
+      "start_int": 3150,
+      "timestamp_label": "52:30",
+      "text": "Based on GAO decisions."
+    },
+    {
+      "start": 3153.744,
+      "end": 3159.222,
+      "start_int": 3153,
+      "timestamp_label": "52:33",
+      "text": "OK, so you can kind of look at this, you can see it kind of"
+    },
+    {
+      "start": 3159.222,
+      "end": 3163.514,
+      "start_int": 3159,
+      "timestamp_label": "52:39",
+      "text": "falls within the realm of what geos tasks are."
+    },
+    {
+      "start": 3165.864,
+      "end": 3166.744,
+      "start_int": 3165,
+      "timestamp_label": "52:45",
+      "text": "Especially the auditing."
+    },
+    {
+      "start": 3174.864,
+      "end": 3175.294,
+      "start_int": 3174,
+      "timestamp_label": "52:54",
+      "text": "All right."
+    },
+    {
+      "start": 3175.304,
+      "end": 3176.994,
+      "start_int": 3175,
+      "timestamp_label": "52:55",
+      "text": "And then judicial decisions."
+    },
+    {
+      "start": 3177.284,
+      "end": 3181.935,
+      "start_int": 3177,
+      "timestamp_label": "52:57",
+      "text": "So these are all made within these three areas, US Supreme"
+    },
+    {
+      "start": 3181.935,
+      "end": 3186.822,
+      "start_int": 3181,
+      "timestamp_label": "53:01",
+      "text": "Court, Circuit Court of Appeals and the US District Court and"
+    },
+    {
+      "start": 3186.822,
+      "end": 3190.527,
+      "start_int": 3186,
+      "timestamp_label": "53:06",
+      "text": "they basically look at inherently governmental"
+    },
+    {
+      "start": 3190.527,
+      "end": 3195.651,
+      "start_int": 3190,
+      "timestamp_label": "53:10",
+      "text": "functions and two contexts also one is litigation under the Fair"
+    },
+    {
+      "start": 3195.651,
+      "end": 3200.46,
+      "start_int": 3195,
+      "timestamp_label": "53:15",
+      "text": "Act OMB Circular A-76 and the Federal acquisition regulation"
+    },
+    {
+      "start": 3200.46,
+      "end": 3204.954,
+      "start_int": 3200,
+      "timestamp_label": "53:20",
+      "text": "and cases involving the private delegation doctrine. OK."
+    },
+    {
+      "start": 3208.644,
+      "end": 3210.294,
+      "start_int": 3208,
+      "timestamp_label": "53:28",
+      "text": "Private delegation doctrine."
+    },
+    {
+      "start": 3210.304,
+      "end": 3211.114,
+      "start_int": 3210,
+      "timestamp_label": "53:30",
+      "text": "We talked about that."
+    },
+    {
+      "start": 3211.124,
+      "end": 3215.327,
+      "start_int": 3211,
+      "timestamp_label": "53:31",
+      "text": "So there are cases involving this and they basically center"
+    },
+    {
+      "start": 3215.327,
+      "end": 3219.95,
+      "start_int": 3215,
+      "timestamp_label": "53:35",
+      "text": "upon whether a private party was giving a impermissible authority"
+    },
+    {
+      "start": 3219.95,
+      "end": 3223.874,
+      "start_int": 3219,
+      "timestamp_label": "53:39",
+      "text": "to legislate or make rules on behalf of the government."
+    },
+    {
+      "start": 3223.924,
+      "end": 3229.965,
+      "start_int": 3223,
+      "timestamp_label": "53:43",
+      "text": "OK, so basically private citizen controlling the government and"
+    },
+    {
+      "start": 3229.965,
+      "end": 3234.024,
+      "start_int": 3229,
+      "timestamp_label": "53:49",
+      "text": "making legislation based on it rulemaking."
+    },
+    {
+      "start": 3236.094,
+      "end": 3238.184,
+      "start_int": 3236,
+      "timestamp_label": "53:56",
+      "text": "So that's what the federal courts are looking at."
+    },
+    {
+      "start": 3238.574,
+      "end": 3241.174,
+      "start_int": 3238,
+      "timestamp_label": "53:58",
+      "text": "So they're looking at violations of of law."
+    },
+    {
+      "start": 3243.644,
+      "end": 3247.426,
+      "start_int": 3243,
+      "timestamp_label": "54:03",
+      "text": "The constitutional violations would kind of looking at it"
+    },
+    {
+      "start": 3247.426,
+      "end": 3251.274,
+      "start_int": 3247,
+      "timestamp_label": "54:07",
+      "text": "alright, so they have two tests within the federal courts."
+    },
+    {
+      "start": 3251.524,
+      "end": 3256.226,
+      "start_int": 3251,
+      "timestamp_label": "54:11",
+      "text": "That is the degree to which a private party exercises stantial"
+    },
+    {
+      "start": 3256.226,
+      "end": 3260.331,
+      "start_int": 3256,
+      "timestamp_label": "54:16",
+      "text": "to discretion and making judgments on the government's"
+    },
+    {
+      "start": 3260.331,
+      "end": 3260.854,
+      "start_int": 3260,
+      "timestamp_label": "54:20",
+      "text": "behalf."
+    },
+    {
+      "start": 3260.924,
+      "end": 3264.134,
+      "start_int": 3260,
+      "timestamp_label": "54:20",
+      "text": "And like I said, this is nearly identical to GAO."
+    },
+    {
+      "start": 3264.664,
+      "end": 3266.484,
+      "start_int": 3264,
+      "timestamp_label": "54:24",
+      "text": "OK, same type of test."
+    },
+    {
+      "start": 3268.864,
+      "end": 3272.667,
+      "start_int": 3268,
+      "timestamp_label": "54:28",
+      "text": "So when it's dealing with the constitution, umm, been dealing"
+    },
+    {
+      "start": 3272.667,
+      "end": 3275.674,
+      "start_int": 3272,
+      "timestamp_label": "54:32",
+      "text": "with what the courts will be kind of looking at."
+    },
+    {
+      "start": 3276.084,
+      "end": 3279.79,
+      "start_int": 3276,
+      "timestamp_label": "54:36",
+      "text": "This is the types of things that they're looking at, like"
+    },
+    {
+      "start": 3279.79,
+      "end": 3283.114,
+      "start_int": 3279,
+      "timestamp_label": "54:39",
+      "text": "conducting elections, exercising the power of them."
+    },
+    {
+      "start": 3283.124,
+      "end": 3287.18,
+      "start_int": 3283,
+      "timestamp_label": "54:43",
+      "text": "That domain basically seizing property, providing police"
+    },
+    {
+      "start": 3287.18,
+      "end": 3291.094,
+      "start_int": 3287,
+      "timestamp_label": "54:47",
+      "text": "services, you know, all these types of things would be"
+    },
+    {
+      "start": 3291.094,
+      "end": 3295.292,
+      "start_int": 3291,
+      "timestamp_label": "54:51",
+      "text": "constitutional authorities and ensuring that, you know, we"
+    },
+    {
+      "start": 3295.292,
+      "end": 3299.348,
+      "start_int": 3295,
+      "timestamp_label": "54:55",
+      "text": "don't have private citizens and contractors and you know"
+    },
+    {
+      "start": 3299.348,
+      "end": 3303.903,
+      "start_int": 3299,
+      "timestamp_label": "54:59",
+      "text": "somebody outside the authority of the government, the sovereign"
+    },
+    {
+      "start": 3303.903,
+      "end": 3308.101,
+      "start_int": 3303,
+      "timestamp_label": "55:03",
+      "text": "power of the government making these kind of decisions and"
+    },
+    {
+      "start": 3308.101,
+      "end": 3310.094,
+      "start_int": 3308,
+      "timestamp_label": "55:08",
+      "text": "doing these types of things."
+    },
+    {
+      "start": 3312.154,
+      "end": 3315.971,
+      "start_int": 3312,
+      "timestamp_label": "55:12",
+      "text": "Like I said, the the most important thing is that for you,"
+    },
+    {
+      "start": 3315.971,
+      "end": 3320.176,
+      "start_int": 3315,
+      "timestamp_label": "55:15",
+      "text": "as COR maybe now having a better understanding what these things"
+    },
+    {
+      "start": 3320.176,
+      "end": 3324.122,
+      "start_int": 3320,
+      "timestamp_label": "55:20",
+      "text": "are and how they're looked at as, as COR, the most important"
+    },
+    {
+      "start": 3324.122,
+      "end": 3327.616,
+      "start_int": 3324,
+      "timestamp_label": "55:24",
+      "text": "thing is that, you know, when you are helping develop"
+    },
+    {
+      "start": 3327.616,
+      "end": 3331.498,
+      "start_int": 3327,
+      "timestamp_label": "55:27",
+      "text": "requirements, I know some of you might be COR's and program"
+    },
+    {
+      "start": 3331.498,
+      "end": 3335.574,
+      "start_int": 3331,
+      "timestamp_label": "55:31",
+      "text": "managers at the same time and you're writing requirements that"
+    },
+    {
+      "start": 3335.574,
+      "end": 3338.938,
+      "start_int": 3335,
+      "timestamp_label": "55:35",
+      "text": "you're very cautious when writing performance, work"
+    },
+    {
+      "start": 3338.938,
+      "end": 3343.208,
+      "start_int": 3338,
+      "timestamp_label": "55:38",
+      "text": "statements or statements of work that you are not writing it in a"
+    },
+    {
+      "start": 3343.208,
+      "end": 3346.895,
+      "start_int": 3343,
+      "timestamp_label": "55:43",
+      "text": "way to where a contractor might be performing inherently"
+    },
+    {
+      "start": 3346.895,
+      "end": 3348.384,
+      "start_int": 3346,
+      "timestamp_label": "55:46",
+      "text": "governmental functions."
+    },
+    {
+      "start": 3349.694,
+      "end": 3354.016,
+      "start_int": 3349,
+      "timestamp_label": "55:49",
+      "text": "And then as part of the administration of the contract"
+    },
+    {
+      "start": 3354.016,
+      "end": 3358.81,
+      "start_int": 3354,
+      "timestamp_label": "55:54",
+      "text": "and the monitoring, the contract that you're on sharing that"
+    },
+    {
+      "start": 3358.81,
+      "end": 3363.29,
+      "start_int": 3358,
+      "timestamp_label": "55:58",
+      "text": "contractors are not making decisions that are inherently"
+    },
+    {
+      "start": 3363.29,
+      "end": 3368.241,
+      "start_int": 3363,
+      "timestamp_label": "56:03",
+      "text": "governmental and that if they are by function of, you know the"
+    },
+    {
+      "start": 3368.241,
+      "end": 3373.035,
+      "start_int": 3368,
+      "timestamp_label": "56:08",
+      "text": "contract or whatever, that we you quickly ACT to ensure that"
+    },
+    {
+      "start": 3373.035,
+      "end": 3377.044,
+      "start_int": 3373,
+      "timestamp_label": "56:13",
+      "text": "you know government control is taken back on that."
+    },
+    {
+      "start": 3377.384,
+      "end": 3380.168,
+      "start_int": 3377,
+      "timestamp_label": "56:17",
+      "text": "And if it has something to do with how requirements are"
+    },
+    {
+      "start": 3380.168,
+      "end": 3383.25,
+      "start_int": 3380,
+      "timestamp_label": "56:20",
+      "text": "written in the contract, you know basically just get what the"
+    },
+    {
+      "start": 3383.25,
+      "end": 3384.444,
+      "start_int": 3383,
+      "timestamp_label": "56:23",
+      "text": "contracting officer say."
+    },
+    {
+      "start": 3384.454,
+      "end": 3388.198,
+      "start_int": 3384,
+      "timestamp_label": "56:24",
+      "text": "Hey, contracting officers performing tasks that appear to"
+    },
+    {
+      "start": 3388.198,
+      "end": 3391.943,
+      "start_int": 3388,
+      "timestamp_label": "56:28",
+      "text": "be inherently governmental functions and then actions can"
+    },
+    {
+      "start": 3391.943,
+      "end": 3394.914,
+      "start_int": 3391,
+      "timestamp_label": "56:31",
+      "text": "be made very quickly as far as that goes, OK."
+    },
+    {
+      "start": 3396.184,
+      "end": 3399.404,
+      "start_int": 3396,
+      "timestamp_label": "56:36",
+      "text": "So that's kind of the main things within the COR that you"
+    },
+    {
+      "start": 3399.404,
+      "end": 3403.014,
+      "start_int": 3399,
+      "timestamp_label": "56:39",
+      "text": "know, one you have to understand what they are to identify them."
+    },
+    {
+      "start": 3403.304,
+      "end": 3407.508,
+      "start_int": 3403,
+      "timestamp_label": "56:43",
+      "text": "And then if you identify it that you're taking action to the stop"
+    },
+    {
+      "start": 3407.508,
+      "end": 3407.954,
+      "start_int": 3407,
+      "timestamp_label": "56:47",
+      "text": "it, OK?"
+    },
+    {
+      "start": 3410.804,
+      "end": 3413.664,
+      "start_int": 3410,
+      "timestamp_label": "56:50",
+      "text": "But I know we just have just a couple minutes left."
+    },
+    {
+      "start": 3415.434,
+      "end": 3418.806,
+      "start_int": 3415,
+      "timestamp_label": "56:55",
+      "text": "Said ten meetings were contractors with big government"
+    },
+    {
+      "start": 3418.806,
+      "end": 3421.504,
+      "start_int": 3418,
+      "timestamp_label": "56:58",
+      "text": "contractor run meetings and make decisions."
+    },
+    {
+      "start": 3421.514,
+      "end": 3422.564,
+      "start_int": 3421,
+      "timestamp_label": "57:01",
+      "text": "And like everyone persons."
+    },
+    {
+      "start": 3422.704,
+      "end": 3425.014,
+      "start_int": 3422,
+      "timestamp_label": "57:02",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 3425.024,
+      "end": 3427.174,
+      "start_int": 3425,
+      "timestamp_label": "57:05",
+      "text": "You gotta be very cautious of that."
+    },
+    {
+      "start": 3427.624,
+      "end": 3430.224,
+      "start_int": 3427,
+      "timestamp_label": "57:07",
+      "text": "Sometimes they can't."
+    },
+    {
+      "start": 3430.294,
+      "end": 3432.917,
+      "start_int": 3430,
+      "timestamp_label": "57:10",
+      "text": "They can't make the sense somebody has to be put into"
+    },
+    {
+      "start": 3432.917,
+      "end": 3434.424,
+      "start_int": 3432,
+      "timestamp_label": "57:12",
+      "text": "decision and writing somewhere."
+    },
+    {
+      "start": 3435.664,
+      "end": 3439.888,
+      "start_int": 3435,
+      "timestamp_label": "57:15",
+      "text": "And you know, if the government, you know, person is the one"
+    },
+    {
+      "start": 3439.888,
+      "end": 3442.104,
+      "start_int": 3439,
+      "timestamp_label": "57:19",
+      "text": "making that decision in the end."
+    },
+    {
+      "start": 3442.554,
+      "end": 3445.609,
+      "start_int": 3442,
+      "timestamp_label": "57:22",
+      "text": "You know, if that's what's important and maybe you know,"
+    },
+    {
+      "start": 3445.609,
+      "end": 3449.092,
+      "start_int": 3445,
+      "timestamp_label": "57:25",
+      "text": "Marsha, maybe it's somebody that making decisions that shouldn't"
+    },
+    {
+      "start": 3449.092,
+      "end": 3451.344,
+      "start_int": 3449,
+      "timestamp_label": "57:29",
+      "text": "be and that might be one of those things."
+    },
+    {
+      "start": 3451.454,
+      "end": 3454.454,
+      "start_int": 3451,
+      "timestamp_label": "57:31",
+      "text": "And there's nothing wrong with you going in and questioning"
+    },
+    {
+      "start": 3454.454,
+      "end": 3457.154,
+      "start_int": 3454,
+      "timestamp_label": "57:34",
+      "text": "that and being like, hey, you know, I noticed there's"
+    },
+    {
+      "start": 3457.154,
+      "end": 3460.254,
+      "start_int": 3457,
+      "timestamp_label": "57:37",
+      "text": "decisions being made on behalf of the government, and I don't"
+    },
+    {
+      "start": 3460.254,
+      "end": 3463.104,
+      "start_int": 3460,
+      "timestamp_label": "57:40",
+      "text": "see it government person involved in the decision making"
+    },
+    {
+      "start": 3463.104,
+      "end": 3463.504,
+      "start_int": 3463,
+      "timestamp_label": "57:43",
+      "text": "of this."
+    },
+    {
+      "start": 3464.934,
+      "end": 3468.574,
+      "start_int": 3464,
+      "timestamp_label": "57:44",
+      "text": "So that's something that, you know, you might want to bring to"
+    },
+    {
+      "start": 3468.574,
+      "end": 3471.809,
+      "start_int": 3468,
+      "timestamp_label": "57:48",
+      "text": "the attention, especially when you're, you know, to the"
+    },
+    {
+      "start": 3471.809,
+      "end": 3475.218,
+      "start_int": 3471,
+      "timestamp_label": "57:51",
+      "text": "contracting officer especially saying, hey, you know it it"
+    },
+    {
+      "start": 3475.218,
+      "end": 3478.627,
+      "start_int": 3475,
+      "timestamp_label": "57:55",
+      "text": "appears like contractors are making decisions on behalf of"
+    },
+    {
+      "start": 3478.627,
+      "end": 3479.494,
+      "start_int": 3478,
+      "timestamp_label": "57:58",
+      "text": "the government."
+    },
+    {
+      "start": 3479.504,
+      "end": 3483.286,
+      "start_int": 3479,
+      "timestamp_label": "57:59",
+      "text": "And this doesn't seem right because maybe there are meetings"
+    },
+    {
+      "start": 3483.286,
+      "end": 3487.069,
+      "start_int": 3483,
+      "timestamp_label": "58:03",
+      "text": "happening that you know the appropriate government personnel"
+    },
+    {
+      "start": 3487.069,
+      "end": 3490.294,
+      "start_int": 3487,
+      "timestamp_label": "58:07",
+      "text": "are not aware of and we need to be part of that so."
+    },
+    {
+      "start": 3492.404,
+      "end": 3493.064,
+      "start_int": 3492,
+      "timestamp_label": "58:12",
+      "text": "Yeah, sure."
+    },
+    {
+      "start": 3493.074,
+      "end": 3493.384,
+      "start_int": 3493,
+      "timestamp_label": "58:13",
+      "text": "Go ahead."
+    },
+    {
+      "start": 3494.284,
+      "end": 3494.664,
+      "start_int": 3494,
+      "timestamp_label": "58:14",
+      "text": "Hello."
+    },
+    {
+      "start": 3495.054,
+      "end": 3496.064,
+      "start_int": 3495,
+      "timestamp_label": "58:15",
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3496.074,
+      "end": 3500.819,
+      "start_int": 3496,
+      "timestamp_label": "58:16",
+      "text": "I was listening carefully, but I was wondering that all this can"
+    },
+    {
+      "start": 3499.264,
+      "end": 3499.474,
+      "start_int": 3499,
+      "timestamp_label": "58:19",
+      "text": "I."
+    },
+    {
+      "start": 3500.819,
+      "end": 3504.835,
+      "start_int": 3500,
+      "timestamp_label": "58:20",
+      "text": "be done in two or three paragraphs and it's 100% clear"
+    },
+    {
+      "start": 3504.835,
+      "end": 3509.07,
+      "start_int": 3504,
+      "timestamp_label": "58:24",
+      "text": "that you know government task and performed by government"
+    },
+    {
+      "start": 3509.07,
+      "end": 3511.334,
+      "start_int": 3509,
+      "timestamp_label": "58:29",
+      "text": "employee who has the authority."
+    },
+    {
+      "start": 3512.424,
+      "end": 3516.234,
+      "start_int": 3512,
+      "timestamp_label": "58:32",
+      "text": "That's a very simple and it's been the contact for far drive"
+    },
+    {
+      "start": 3514.134,
+      "end": 3514.284,
+      "start_int": 3514,
+      "timestamp_label": "58:34",
+      "text": "But."
+    },
+    {
+      "start": 3516.234,
+      "end": 3516.984,
+      "start_int": 3516,
+      "timestamp_label": "58:36",
+      "text": "for classes."
+    },
+    {
+      "start": 3517.214,
+      "end": 3518.474,
+      "start_int": 3517,
+      "timestamp_label": "58:37",
+      "text": "So what's so confusing?"
+    },
+    {
+      "start": 3517.804,
+      "end": 3518.044,
+      "start_int": 3517,
+      "timestamp_label": "58:37",
+      "text": "Right."
+    },
+    {
+      "start": 3518.484,
+      "end": 3521.61,
+      "start_int": 3518,
+      "timestamp_label": "58:38",
+      "text": "But when you put so many it could this and this 500 if I"
+    },
+    {
+      "start": 3521.61,
+      "end": 3524.846,
+      "start_int": 3521,
+      "timestamp_label": "58:41",
+      "text": "have to pass the exam, I'm failed because I couldn't write"
+    },
+    {
+      "start": 3524.846,
+      "end": 3527.754,
+      "start_int": 3524,
+      "timestamp_label": "58:44",
+      "text": "down all other things which are totally unnecessary."
+    },
+    {
+      "start": 3528.784,
+      "end": 3532.962,
+      "start_int": 3528,
+      "timestamp_label": "58:48",
+      "text": "So why would making the government so complex when we"
+    },
+    {
+      "start": 3530.074,
+      "end": 3530.334,
+      "start_int": 3530,
+      "timestamp_label": "58:50",
+      "text": "Yeah."
+    },
+    {
+      "start": 3532.962,
+      "end": 3537.76,
+      "start_int": 3532,
+      "timestamp_label": "58:52",
+      "text": "know this task has done as per contact and the person who has"
+    },
+    {
+      "start": 3533.084,
+      "end": 3533.524,
+      "start_int": 3533,
+      "timestamp_label": "58:53",
+      "text": "Yeah."
+    },
+    {
+      "start": 3537.76,
+      "end": 3538.534,
+      "start_int": 3537,
+      "timestamp_label": "58:57",
+      "text": "authority?"
+    },
+    {
+      "start": 3538.544,
+      "end": 3541.774,
+      "start_int": 3538,
+      "timestamp_label": "58:58",
+      "text": "For example, you had authority sign without your signature."
+    },
+    {
+      "start": 3541.194,
+      "end": 3541.594,
+      "start_int": 3541,
+      "timestamp_label": "59:01",
+      "text": "Right."
+    },
+    {
+      "start": 3541.784,
+      "end": 3542.564,
+      "start_int": 3541,
+      "timestamp_label": "59:01",
+      "text": "Doesn't matter what."
+    },
+    {
+      "start": 3542.574,
+      "end": 3543.094,
+      "start_int": 3542,
+      "timestamp_label": "59:02",
+      "text": "Who does?"
+    },
+    {
+      "start": 3543.104,
+      "end": 3545.514,
+      "start_int": 3543,
+      "timestamp_label": "59:03",
+      "text": "It will not be expect except except it."
+    },
+    {
+      "start": 3545.664,
+      "end": 3546.414,
+      "start_int": 3545,
+      "timestamp_label": "59:05",
+      "text": "Simple as that."
+    },
+    {
+      "start": 3546.424,
+      "end": 3547.824,
+      "start_int": 3546,
+      "timestamp_label": "59:06",
+      "text": "One, I'm a gutter."
+    },
+    {
+      "start": 3547.334,
+      "end": 3551.094,
+      "start_int": 3547,
+      "timestamp_label": "59:07",
+      "text": "Yeah, I think I I think you, yeah."
+    },
+    {
+      "start": 3548.854,
+      "end": 3550.894,
+      "start_int": 3548,
+      "timestamp_label": "59:08",
+      "text": "And let me just finish one more sentence."
+    },
+    {
+      "start": 3551.074,
+      "end": 3552.824,
+      "start_int": 3551,
+      "timestamp_label": "59:11",
+      "text": "I may ask him are people advice?"
+    },
+    {
+      "start": 3552.834,
+      "end": 3555.144,
+      "start_int": 3552,
+      "timestamp_label": "59:12",
+      "text": "Do my work type for me and this and this."
+    },
+    {
+      "start": 3555.254,
+      "end": 3557.744,
+      "start_int": 3555,
+      "timestamp_label": "59:15",
+      "text": "But I'm opening door to security."
+    },
+    {
+      "start": 3557.754,
+      "end": 3561.076,
+      "start_int": 3557,
+      "timestamp_label": "59:17",
+      "text": "Other thing they will get all the information clerk does all"
+    },
+    {
+      "start": 3561.076,
+      "end": 3562.384,
+      "start_int": 3561,
+      "timestamp_label": "59:21",
+      "text": "the work for government."
+    },
+    {
+      "start": 3562.534,
+      "end": 3565.024,
+      "start_int": 3562,
+      "timestamp_label": "59:22",
+      "text": "I said not a government apply sent to me."
+    },
+    {
+      "start": 3565.074,
+      "end": 3565.734,
+      "start_int": 3565,
+      "timestamp_label": "59:25",
+      "text": "Sign it."
+    },
+    {
+      "start": 3565.814,
+      "end": 3569.814,
+      "start_int": 3565,
+      "timestamp_label": "59:25",
+      "text": "I don't sign anything kind of stuff, but we are opening those"
+    },
+    {
+      "start": 3569.814,
+      "end": 3573.364,
+      "start_int": 3569,
+      "timestamp_label": "59:29",
+      "text": "doors that possibly also the person who has authority."
+    },
+    {
+      "start": 3573.574,
+      "end": 3574.734,
+      "start_int": 3573,
+      "timestamp_label": "59:33",
+      "text": "That's the final 30."
+    },
+    {
+      "start": 3574.744,
+      "end": 3576.744,
+      "start_int": 3574,
+      "timestamp_label": "59:34",
+      "text": "Doesn't matter what the contract is, is it?"
+    },
+    {
+      "start": 3576.984,
+      "end": 3577.564,
+      "start_int": 3576,
+      "timestamp_label": "59:36",
+      "text": "Exactly."
+    },
+    {
+      "start": 3577.074,
+      "end": 3578.124,
+      "start_int": 3577,
+      "timestamp_label": "59:37",
+      "text": "He can recommend it?"
+    },
+    {
+      "start": 3578.134,
+      "end": 3578.464,
+      "start_int": 3578,
+      "timestamp_label": "59:38",
+      "text": "Yeah."
+    },
+    {
+      "start": 3578.474,
+      "end": 3579.824,
+      "start_int": 3578,
+      "timestamp_label": "59:38",
+      "text": "Does this process is better?"
+    },
+    {
+      "start": 3580.184,
+      "end": 3583.555,
+      "start_int": 3580,
+      "timestamp_label": "59:40",
+      "text": "We can change the contract because contract and know how to"
+    },
+    {
+      "start": 3583.555,
+      "end": 3584.174,
+      "start_int": 3583,
+      "timestamp_label": "59:43",
+      "text": "do the job."
+    },
+    {
+      "start": 3584.284,
+      "end": 3588.255,
+      "start_int": 3584,
+      "timestamp_label": "59:44",
+      "text": "We don't tell them how to do the job, you know, so those are"
+    },
+    {
+      "start": 3588.255,
+      "end": 3590.274,
+      "start_int": 3588,
+      "timestamp_label": "59:48",
+      "text": "common sense things in my view."
+    },
+    {
+      "start": 3591.944,
+      "end": 3592.444,
+      "start_int": 3591,
+      "timestamp_label": "59:51",
+      "text": "Yeah."
+    },
+    {
+      "start": 3592.054,
+      "end": 3592.434,
+      "start_int": 3592,
+      "timestamp_label": "59:52",
+      "text": "Thank you."
+    },
+    {
+      "start": 3592.454,
+      "end": 3595.706,
+      "start_int": 3592,
+      "timestamp_label": "59:52",
+      "text": "And I think a lot of you kind of answered your own question there"
+    },
+    {
+      "start": 3595.706,
+      "end": 3595.904,
+      "start_int": 3595,
+      "timestamp_label": "59:55",
+      "text": "too."
+    },
+    {
+      "start": 3595.914,
+      "end": 3599.932,
+      "start_int": 3595,
+      "timestamp_label": "59:55",
+      "text": "As far as the complexities and why we make it that way, because"
+    },
+    {
+      "start": 3599.932,
+      "end": 3603.448,
+      "start_int": 3599,
+      "timestamp_label": "59:59",
+      "text": "I think a lot of what we're dealing with is complex and"
+    },
+    {
+      "start": 3603.448,
+      "end": 3606.714,
+      "start_int": 3603,
+      "timestamp_label": "1:00:03",
+      "text": "that's why I think at times somebody things can be."
+    },
+    {
+      "start": 3609.844,
+      "end": 3614.07,
+      "start_int": 3609,
+      "timestamp_label": "1:00:09",
+      "text": "Isn't looked over it it not caught and be put into some of"
+    },
+    {
+      "start": 3614.07,
+      "end": 3616.864,
+      "start_int": 3614,
+      "timestamp_label": "1:00:14",
+      "text": "these contracts where it shouldn't be."
+    },
+    {
+      "start": 3617.094,
+      "end": 3620.239,
+      "start_int": 3617,
+      "timestamp_label": "1:00:17",
+      "text": "And that's just something we have to, you know, look out for"
+    },
+    {
+      "start": 3617.584,
+      "end": 3618.054,
+      "start_int": 3617,
+      "timestamp_label": "1:00:17",
+      "text": "Driving."
+    },
+    {
+      "start": 3620.239,
+      "end": 3623.024,
+      "start_int": 3620,
+      "timestamp_label": "1:00:20",
+      "text": "too, because we are dealing with very complex things."
+    },
+    {
+      "start": 3624.114,
+      "end": 3625.634,
+      "start_int": 3624,
+      "timestamp_label": "1:00:24",
+      "text": "Uh, but you're absolutely right."
+    },
+    {
+      "start": 3625.644,
+      "end": 3628.794,
+      "start_int": 3625,
+      "timestamp_label": "1:00:25",
+      "text": "You know the we could have a lot of different people involved in"
+    },
+    {
+      "start": 3628.794,
+      "end": 3631.605,
+      "start_int": 3628,
+      "timestamp_label": "1:00:28",
+      "text": "it, but when it comes to that final decision, we know who"
+    },
+    {
+      "start": 3631.605,
+      "end": 3633.254,
+      "start_int": 3631,
+      "timestamp_label": "1:00:31",
+      "text": "needs to make the final decision."
+    },
+    {
+      "start": 3633.964,
+      "end": 3635.074,
+      "start_int": 3633,
+      "timestamp_label": "1:00:33",
+      "text": "True, right, right."
+    },
+    {
+      "start": 3635.534,
+      "end": 3636.214,
+      "start_int": 3635,
+      "timestamp_label": "1:00:35",
+      "text": "The important part?"
+    },
+    {
+      "start": 3637.164,
+      "end": 3638.474,
+      "start_int": 3637,
+      "timestamp_label": "1:00:37",
+      "text": "Alright, but thank you everybody."
+    },
+    {
+      "start": 3637.684,
+      "end": 3638.044,
+      "start_int": 3637,
+      "timestamp_label": "1:00:37",
+      "text": "Thank you."
+    },
+    {
+      "start": 3638.484,
+      "end": 3639.284,
+      "start_int": 3638,
+      "timestamp_label": "1:00:38",
+      "text": "Appreciate it."
+    },
+    {
+      "start": 3641.394,
+      "end": 3642.974,
+      "start_int": 3641,
+      "timestamp_label": "1:00:41",
+      "text": "Thank you for joining me on this."
+    },
+    {
+      "start": 3643.044,
+      "end": 3645.794,
+      "start_int": 3643,
+      "timestamp_label": "1:00:43",
+      "text": "If you have any questions or anything, please let me know."
+    },
+    {
+      "start": 3645.804,
+      "end": 3646.734,
+      "start_int": 3645,
+      "timestamp_label": "1:00:45",
+      "text": "Here's my email."
+    },
+    {
+      "start": 3646.744,
+      "end": 3650.513,
+      "start_int": 3646,
+      "timestamp_label": "1:00:46",
+      "text": "Go ahead and send me if you have any questions that we didn't get"
+    },
+    {
+      "start": 3650.513,
+      "end": 3652.684,
+      "start_int": 3650,
+      "timestamp_label": "1:00:50",
+      "text": "to feel free to email me at any time."
+    },
+    {
+      "start": 3652.734,
+      "end": 3654.894,
+      "start_int": 3652,
+      "timestamp_label": "1:00:52",
+      "text": "I will get back to you and really enjoyed it."
+    },
+    {
+      "start": 3654.904,
+      "end": 3655.634,
+      "start_int": 3654,
+      "timestamp_label": "1:00:54",
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3662.754,
+      "end": 3667.552,
+      "start_int": 3662,
+      "timestamp_label": "1:01:02",
+      "text": "Hey folks, let me go ahead and conclude today's course office"
+    },
+    {
+      "start": 3667.552,
+      "end": 3672.584,
+      "start_int": 3667,
+      "timestamp_label": "1:01:07",
+      "text": "hours I have shared in the chat the survey link already for you."
+    },
+    {
+      "start": 3672.734,
+      "end": 3676.994,
+      "start_int": 3672,
+      "timestamp_label": "1:01:12",
+      "text": "So thank you all who attended the core office hours today that"
+    },
+    {
+      "start": 3676.994,
+      "end": 3679.564,
+      "start_int": 3676,
+      "timestamp_label": "1:01:16",
+      "text": "officially concludes today's session."
+    },
+    {
+      "start": 3679.854,
+      "end": 3682.844,
+      "start_int": 3679,
+      "timestamp_label": "1:01:19",
+      "text": "If you have any difficulties accessing the survey, I"
+    },
+    {
+      "start": 3682.844,
+      "end": 3686.117,
+      "start_int": 3682,
+      "timestamp_label": "1:01:22",
+      "text": "recommend transitioning and using a personal device and I"
+    },
+    {
+      "start": 3686.117,
+      "end": 3689.672,
+      "start_int": 3686,
+      "timestamp_label": "1:01:26",
+      "text": "invite you to join us during our next core office hours, which"
+    },
+    {
+      "start": 3689.672,
+      "end": 3693.001,
+      "start_int": 3689,
+      "timestamp_label": "1:01:29",
+      "text": "will take place on Tuesday, September 3rd at 11:45 Eastern"
+    },
+    {
+      "start": 3693.001,
+      "end": 3693.284,
+      "start_int": 3693,
+      "timestamp_label": "1:01:33",
+      "text": "Time."
+    },
+    {
+      "start": 3693.704,
+      "end": 3695.634,
+      "start_int": 3693,
+      "timestamp_label": "1:01:33",
+      "text": "Goodbye everyone, and I hope you all have a good week."
+    },
+    {
+      "start": 3695.644,
+      "end": 3695.994,
+      "start_int": 3695,
+      "timestamp_label": "1:01:35",
+      "text": "Take care."
+    }
+  ]
+}

@@ -1,0 +1,7285 @@
+{
+  "id": "2024-10-22-piee-open-forum-cor-office-hours-10222024",
+  "title": "PIEE Open Forum - COR Office Hours 10/22/2024",
+  "date": "2024-10-22",
+  "event_url": "https://www.waru.edu/events/cor-office-hours-148",
+  "entry_id": "1_pan8pggu",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_pan8pggu/version/100011",
+  "cues": [
+    {
+      "start": 7.108,
+      "end": 8.188,
+      "start_int": 7,
+      "timestamp_label": "0:07",
+      "text": "Hello everyone."
+    },
+    {
+      "start": 8.188,
+      "end": 12.172,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "I do see it's 11:45 Eastern Time. So let's go ahead and get"
+    },
+    {
+      "start": 12.172,
+      "end": 14.828,
+      "start_int": 12,
+      "timestamp_label": "0:12",
+      "text": "started with today's core office hours."
+    },
+    {
+      "start": 14.948,
+      "end": 18.322,
+      "start_int": 14,
+      "timestamp_label": "0:14",
+      "text": "Hello all and welcome to the core community of no not the"
+    },
+    {
+      "start": 18.322,
+      "end": 19.428,
+      "start_int": 18,
+      "timestamp_label": "0:18",
+      "text": "community practice."
+    },
+    {
+      "start": 19.548,
+      "end": 20.828,
+      "start_int": 19,
+      "timestamp_label": "0:19",
+      "text": "Welcome to the core office hours."
+    },
+    {
+      "start": 20.828,
+      "end": 24.081,
+      "start_int": 20,
+      "timestamp_label": "0:20",
+      "text": "Sorry, before we begin, I would like to start off with a few"
+    },
+    {
+      "start": 24.081,
+      "end": 25.628,
+      "start_int": 24,
+      "timestamp_label": "0:24",
+      "text": "administrative announcements."
+    },
+    {
+      "start": 25.908,
+      "end": 29.106,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "Firstly, I am currently sharing my screen so if you do not see"
+    },
+    {
+      "start": 29.106,
+      "end": 32.305,
+      "start_int": 29,
+      "timestamp_label": "0:29",
+      "text": "the shared screen, I recommend that you leave this meeting and"
+    },
+    {
+      "start": 32.305,
+      "end": 35.148,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "rejoin via web browser only to refresh that connection."
+    },
+    {
+      "start": 35.948,
+      "end": 39.214,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "Also I want to let everyone know that mikes are not required for"
+    },
+    {
+      "start": 39.214,
+      "end": 39.868,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "this meeting."
+    },
+    {
+      "start": 40.528,
+      "end": 41.248,
+      "start_int": 40,
+      "timestamp_label": "0:40",
+      "text": "At least."
+    },
+    {
+      "start": 43.108,
+      "end": 46.203,
+      "start_int": 43,
+      "timestamp_label": "0:43",
+      "text": "Not unmuted, so please take a moment to make sure that your"
+    },
+    {
+      "start": 46.203,
+      "end": 49.247,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "mics are muted unless you're actively asking a question or"
+    },
+    {
+      "start": 49.247,
+      "end": 52.601,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "participating in a conversation while you're muting your mics. I"
+    },
+    {
+      "start": 52.601,
+      "end": 55.8,
+      "start_int": 52,
+      "timestamp_label": "0:52",
+      "text": "I want you to double check to make sure that your cameras are"
+    },
+    {
+      "start": 55.8,
+      "end": 57.348,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "fully turned off, which means."
+    },
+    {
+      "start": 57.348,
+      "end": 60.108,
+      "start_int": 57,
+      "timestamp_label": "0:57",
+      "text": "That there's a slash over that camera icon."
+    },
+    {
+      "start": 60.268,
+      "end": 62.934,
+      "start_int": 60,
+      "timestamp_label": "1:00",
+      "text": "So if you could double check, that would be greatly"
+    },
+    {
+      "start": 62.934,
+      "end": 66.061,
+      "start_int": 62,
+      "timestamp_label": "1:02",
+      "text": "appreciated as well and for everyone's awareness the session"
+    },
+    {
+      "start": 66.061,
+      "end": 69.239,
+      "start_int": 66,
+      "timestamp_label": "1:06",
+      "text": "is being recorded and will be posted on the core community of"
+    },
+    {
+      "start": 69.239,
+      "end": 71.188,
+      "start_int": 69,
+      "timestamp_label": "1:09",
+      "text": "practice by the end of the day today."
+    },
+    {
+      "start": 72.188,
+      "end": 75.003,
+      "start_int": 72,
+      "timestamp_label": "1:12",
+      "text": "Towards the end of the session, I'm going to share with you a"
+    },
+    {
+      "start": 75.003,
+      "end": 75.548,
+      "start_int": 75,
+      "timestamp_label": "1:15",
+      "text": "survey link."
+    },
+    {
+      "start": 76.208,
+      "end": 80.688,
+      "start_int": 76,
+      "timestamp_label": "1:16",
+      "text": "Attendees can earn one CLP for attending the entire hour."
+    },
+    {
+      "start": 80.808,
+      "end": 83.93,
+      "start_int": 80,
+      "timestamp_label": "1:20",
+      "text": "Just be mindful that clps have to be approved by your"
+    },
+    {
+      "start": 83.93,
+      "end": 86.994,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "supervisors as they have final say, one requesting a"
+    },
+    {
+      "start": 86.994,
+      "end": 87.688,
+      "start_int": 86,
+      "timestamp_label": "1:26",
+      "text": "certificate."
+    },
+    {
+      "start": 87.688,
+      "end": 90.501,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "Remember to follow your organizational guidance"
+    },
+    {
+      "start": 90.501,
+      "end": 94.077,
+      "start_int": 90,
+      "timestamp_label": "1:30",
+      "text": "regarding requesting continuous learning points and remember"
+    },
+    {
+      "start": 94.077,
+      "end": 97.77,
+      "start_int": 94,
+      "timestamp_label": "1:34",
+      "text": "that CLP for DAU events will not post automatically to your CL"
+    },
+    {
+      "start": 97.77,
+      "end": 100.408,
+      "start_int": 97,
+      "timestamp_label": "1:37",
+      "text": "transcript and must be requested separately."
+    },
+    {
+      "start": 101.508,
+      "end": 105.007,
+      "start_int": 101,
+      "timestamp_label": "1:41",
+      "text": "For those in acquisition coded positions, you can request"
+    },
+    {
+      "start": 105.007,
+      "end": 108.205,
+      "start_int": 105,
+      "timestamp_label": "1:45",
+      "text": "continuous learning points through your organization"
+    },
+    {
+      "start": 108.205,
+      "end": 108.628,
+      "start_int": 108,
+      "timestamp_label": "1:48",
+      "text": "system."
+    },
+    {
+      "start": 109.368,
+      "end": 113.293,
+      "start_int": 109,
+      "timestamp_label": "1:49",
+      "text": "By attaching the certificate of attendance there for Coors and"
+    },
+    {
+      "start": 113.293,
+      "end": 116.72,
+      "start_int": 113,
+      "timestamp_label": "1:53",
+      "text": "non acquisition positions, you may manually track your"
+    },
+    {
+      "start": 116.72,
+      "end": 120.023,
+      "start_int": 116,
+      "timestamp_label": "1:56",
+      "text": "attendance for the mandatory core refresher training"
+    },
+    {
+      "start": 120.023,
+      "end": 123.948,
+      "start_int": 120,
+      "timestamp_label": "2:00",
+      "text": "requirements. If by chance you missed a link in the chat, that"
+    },
+    {
+      "start": 123.948,
+      "end": 127.874,
+      "start_int": 123,
+      "timestamp_label": "2:03",
+      "text": "survey link is already available to you on the DAU events page"
+    },
+    {
+      "start": 127.874,
+      "end": 128.248,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "which."
+    },
+    {
+      "start": 128.248,
+      "end": 133.728,
+      "start_int": 128,
+      "timestamp_label": "2:08",
+      "text": "Isdau.edu/events now for today's."
+    },
+    {
+      "start": 135.148,
+      "end": 138.948,
+      "start_int": 135,
+      "timestamp_label": "2:15",
+      "text": "Core topic, we're having a pie open form."
+    },
+    {
+      "start": 139.148,
+      "end": 142.468,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "Let me go ahead and get that screen up and ready for us."
+    },
+    {
+      "start": 143.258,
+      "end": 144.818,
+      "start_int": 143,
+      "timestamp_label": "2:23",
+      "text": "Michael, are you on the line?"
+    },
+    {
+      "start": 147.078,
+      "end": 148.238,
+      "start_int": 147,
+      "timestamp_label": "2:27",
+      "text": "Yes, I am, Evelyn."
+    },
+    {
+      "start": 148.948,
+      "end": 153.228,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "Wonderful. I have gone ahead and I have shared my screen."
+    },
+    {
+      "start": 150.738,
+      "end": 151.058,
+      "start_int": 150,
+      "timestamp_label": "2:30",
+      "text": "Playlist."
+    },
+    {
+      "start": 153.228,
+      "end": 154.548,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "Do you see the shared screen?"
+    },
+    {
+      "start": 156.878,
+      "end": 158.518,
+      "start_int": 156,
+      "timestamp_label": "2:36",
+      "text": "Yes, yes, I do."
+    },
+    {
+      "start": 158.508,
+      "end": 159.988,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "But awesome."
+    },
+    {
+      "start": 160.148,
+      "end": 162.108,
+      "start_int": 160,
+      "timestamp_label": "2:40",
+      "text": "I'll go ahead and pass the mic to you then."
+    },
+    {
+      "start": 163.428,
+      "end": 164.068,
+      "start_int": 163,
+      "timestamp_label": "2:43",
+      "text": "Thank you."
+    },
+    {
+      "start": 165.348,
+      "end": 167.748,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "We're going to use a few questions in."
+    },
+    {
+      "start": 173.548,
+      "end": 175.028,
+      "start_int": 173,
+      "timestamp_label": "2:53",
+      "text": "Michael have accidentally muted you."
+    },
+    {
+      "start": 175.028,
+      "end": 176.588,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "Do you mind Unmuting momentarily?"
+    },
+    {
+      "start": 182.548,
+      "end": 185.708,
+      "start_int": 182,
+      "timestamp_label": "3:02",
+      "text": "Oh, alrighty. We've got a mentimeter."
+    },
+    {
+      "start": 185.708,
+      "end": 187.388,
+      "start_int": 185,
+      "timestamp_label": "3:05",
+      "text": "Questions in the very beginning."
+    },
+    {
+      "start": 187.388,
+      "end": 190.348,
+      "start_int": 187,
+      "timestamp_label": "3:07",
+      "text": "It'll give us kind of a ground base and."
+    },
+    {
+      "start": 193.068,
+      "end": 197.809,
+      "start_int": 193,
+      "timestamp_label": "3:13",
+      "text": "Some more information that I can use to help tailor some of my"
+    },
+    {
+      "start": 197.809,
+      "end": 198.788,
+      "start_int": 197,
+      "timestamp_label": "3:17",
+      "text": "thoughts and."
+    },
+    {
+      "start": 200.628,
+      "end": 204.628,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "Questions to the group in the in the in the session here."
+    },
+    {
+      "start": 205.108,
+      "end": 209.156,
+      "start_int": 205,
+      "timestamp_label": "3:25",
+      "text": "What I what I also put into chat was just asking if there's any"
+    },
+    {
+      "start": 209.156,
+      "end": 212.508,
+      "start_int": 209,
+      "timestamp_label": "3:29",
+      "text": "people who are cores, who've been cores for a while."
+    },
+    {
+      "start": 213.028,
+      "end": 216.933,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "And managed to take some three-year core refresher"
+    },
+    {
+      "start": 216.933,
+      "end": 218.388,
+      "start_int": 216,
+      "timestamp_label": "3:36",
+      "text": "training from DAUI."
+    },
+    {
+      "start": 218.388,
+      "end": 220.228,
+      "start_int": 218,
+      "timestamp_label": "3:38",
+      "text": "Was interested if any of you."
+    },
+    {
+      "start": 221.788,
+      "end": 225.421,
+      "start_int": 221,
+      "timestamp_label": "3:41",
+      "text": "Have a course that you might recommend for that refresher"
+    },
+    {
+      "start": 225.421,
+      "end": 229.556,
+      "start_int": 225,
+      "timestamp_label": "3:45",
+      "text": "training because the contracting office gets to specify that, and"
+    },
+    {
+      "start": 229.556,
+      "end": 233.503,
+      "start_int": 229,
+      "timestamp_label": "3:49",
+      "text": "that's one of the things as a a core coordinator that I get to"
+    },
+    {
+      "start": 233.503,
+      "end": 237.388,
+      "start_int": 233,
+      "timestamp_label": "3:53",
+      "text": "do is compile that list, and I'd like to revise the list and."
+    },
+    {
+      "start": 239.508,
+      "end": 241.908,
+      "start_int": 239,
+      "timestamp_label": "3:59",
+      "text": "Make use of good offering."
+    },
+    {
+      "start": 242.508,
+      "end": 246.658,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "The DAU has the you have found useful and get some feedback if"
+    },
+    {
+      "start": 246.658,
+      "end": 250.941,
+      "start_int": 246,
+      "timestamp_label": "4:06",
+      "text": "the if I don't get any feedback in the chat that's probably just"
+    },
+    {
+      "start": 250.941,
+      "end": 254.959,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "an indication that most of our attendees haven't been around"
+    },
+    {
+      "start": 254.959,
+      "end": 258.188,
+      "start_int": 254,
+      "timestamp_label": "4:14",
+      "text": "for the three years necessary for the refresher."
+    },
+    {
+      "start": 258.388,
+      "end": 261.868,
+      "start_int": 258,
+      "timestamp_label": "4:18",
+      "text": "So that'll just be another data point in my world."
+    },
+    {
+      "start": 264.118,
+      "end": 267.398,
+      "start_int": 264,
+      "timestamp_label": "4:24",
+      "text": "Helps me know to focus on some of the introductory aspects."
+    },
+    {
+      "start": 267.398,
+      "end": 272.265,
+      "start_int": 267,
+      "timestamp_label": "4:27",
+      "text": "Here you've got the mentimeter that you could go into and use"
+    },
+    {
+      "start": 272.265,
+      "end": 275.798,
+      "start_int": 272,
+      "timestamp_label": "4:32",
+      "text": "this code in order to make available to you."
+    },
+    {
+      "start": 278.028,
+      "end": 282.028,
+      "start_int": 278,
+      "timestamp_label": "4:38",
+      "text": "The mentimeter so that we could go through our questions."
+    },
+    {
+      "start": 284.638,
+      "end": 287.038,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "Evelyn. Has this been OK? I was gonna say."
+    },
+    {
+      "start": 289.228,
+      "end": 291.388,
+      "start_int": 289,
+      "timestamp_label": "4:49",
+      "text": "They've probably got them mentimeter, right?"
+    },
+    {
+      "start": 291.388,
+      "end": 298.432,
+      "start_int": 291,
+      "timestamp_label": "4:51",
+      "text": "So we've got a Pi web-based training that is a good use for"
+    },
+    {
+      "start": 298.432,
+      "end": 304.655,
+      "start_int": 298,
+      "timestamp_label": "4:58",
+      "text": "both the cores and your contractors to go in and get"
+    },
+    {
+      "start": 304.655,
+      "end": 307.708,
+      "start_int": 304,
+      "timestamp_label": "5:04",
+      "text": "familiarity in the system."
+    },
+    {
+      "start": 309.388,
+      "end": 315.064,
+      "start_int": 309,
+      "timestamp_label": "5:09",
+      "text": "In role based training that's specific to the application that"
+    },
+    {
+      "start": 315.064,
+      "end": 319.028,
+      "start_int": 315,
+      "timestamp_label": "5:15",
+      "text": "you want and I would count on that for you."
+    },
+    {
+      "start": 319.608,
+      "end": 323.99,
+      "start_int": 319,
+      "timestamp_label": "5:19",
+      "text": "Initial awareness and understanding of making use of"
+    },
+    {
+      "start": 323.99,
+      "end": 329.033,
+      "start_int": 323,
+      "timestamp_label": "5:23",
+      "text": "the roles that you have and if over a contractor needs to be"
+    },
+    {
+      "start": 329.033,
+      "end": 333.994,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "oriented as a new vendor to this, it's available to them as"
+    },
+    {
+      "start": 333.994,
+      "end": 334.408,
+      "start_int": 333,
+      "timestamp_label": "5:33",
+      "text": "well."
+    },
+    {
+      "start": 334.808,
+      "end": 339.048,
+      "start_int": 334,
+      "timestamp_label": "5:34",
+      "text": "There's a public facing web-based training page. You"
+    },
+    {
+      "start": 339.048,
+      "end": 344.248,
+      "start_int": 339,
+      "timestamp_label": "5:39",
+      "text": "don't have to log in and have an account in order to get to this"
+    },
+    {
+      "start": 344.248,
+      "end": 345.928,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "site at that address."
+    },
+    {
+      "start": 346.908,
+      "end": 350.339,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "Also, when you get into the system, you also have on your"
+    },
+    {
+      "start": 350.339,
+      "end": 351.108,
+      "start_int": 350,
+      "timestamp_label": "5:50",
+      "text": "landing page."
+    },
+    {
+      "start": 351.958,
+      "end": 356.161,
+      "start_int": 351,
+      "timestamp_label": "5:51",
+      "text": "Inside your account you have an opportunity to access the the"
+    },
+    {
+      "start": 356.161,
+      "end": 360.228,
+      "start_int": 356,
+      "timestamp_label": "5:56",
+      "text": "web-based training as well. So keep in mind it's a valuable"
+    },
+    {
+      "start": 360.228,
+      "end": 362.398,
+      "start_int": 360,
+      "timestamp_label": "6:00",
+      "text": "link. One of your most valuable."
+    },
+    {
+      "start": 363.948,
+      "end": 367.188,
+      "start_int": 363,
+      "timestamp_label": "6:03",
+      "text": "And I see that Wendy had mentioned CLC 106."
+    },
+    {
+      "start": 367.668,
+      "end": 369.748,
+      "start_int": 367,
+      "timestamp_label": "6:07",
+      "text": "The basics got it."
+    },
+    {
+      "start": 370.028,
+      "end": 370.588,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "Thank you."
+    },
+    {
+      "start": 372.268,
+      "end": 376.707,
+      "start_int": 372,
+      "timestamp_label": "6:12",
+      "text": "That's core with a mission focus. And so now we've got AII"
+    },
+    {
+      "start": 376.707,
+      "end": 378.588,
+      "start_int": 376,
+      "timestamp_label": "6:16",
+      "text": "think this is pretty the."
+    },
+    {
+      "start": 380.468,
+      "end": 382.268,
+      "start_int": 380,
+      "timestamp_label": "6:20",
+      "text": "Locations of our folks."
+    },
+    {
+      "start": 382.588,
+      "end": 384.428,
+      "start_int": 382,
+      "timestamp_label": "6:22",
+      "text": "We got a good geographic spread."
+    },
+    {
+      "start": 385.698,
+      "end": 388.978,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "Maybe not. Not so much at the Northern plateau."
+    },
+    {
+      "start": 388.978,
+      "end": 391.338,
+      "start_int": 388,
+      "timestamp_label": "6:28",
+      "text": "There nobody from."
+    },
+    {
+      "start": 393.028,
+      "end": 394.348,
+      "start_int": 393,
+      "timestamp_label": "6:33",
+      "text": "South Dakota, North Dakota."
+    },
+    {
+      "start": 396.168,
+      "end": 396.288,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "Umm."
+    },
+    {
+      "start": 401.098,
+      "end": 402.498,
+      "start_int": 401,
+      "timestamp_label": "6:41",
+      "text": "I'm out in California."
+    },
+    {
+      "start": 402.778,
+      "end": 407.744,
+      "start_int": 402,
+      "timestamp_label": "6:42",
+      "text": "I I work at Edwards Air Force Base, so I would be another blue"
+    },
+    {
+      "start": 407.744,
+      "end": 412.315,
+      "start_int": 407,
+      "timestamp_label": "6:47",
+      "text": "dot in the California space there if I if I got the plunk"
+    },
+    {
+      "start": 412.315,
+      "end": 413.498,
+      "start_int": 412,
+      "timestamp_label": "6:52",
+      "text": "down something."
+    },
+    {
+      "start": 415.748,
+      "end": 417.028,
+      "start_int": 415,
+      "timestamp_label": "6:55",
+      "text": "South of where?"
+    },
+    {
+      "start": 417.028,
+      "end": 419.148,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "Where Mr. Bailey is at China Lake."
+    },
+    {
+      "start": 420.788,
+      "end": 422.628,
+      "start_int": 420,
+      "timestamp_label": "7:00",
+      "text": "Oh, and we've got Tinker as well."
+    },
+    {
+      "start": 428.298,
+      "end": 430.138,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "Let's go on, maybe to the next slide."
+    },
+    {
+      "start": 431.018,
+      "end": 432.658,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "Quite a few in the DC area."
+    },
+    {
+      "start": 435.378,
+      "end": 436.218,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "So we've got."
+    },
+    {
+      "start": 440.968,
+      "end": 445.528,
+      "start_int": 440,
+      "timestamp_label": "7:20",
+      "text": "A lot of cores, some core coordinators, qapc."
+    },
+    {
+      "start": 450.508,
+      "end": 454.227,
+      "start_int": 450,
+      "timestamp_label": "7:30",
+      "text": "The size of the font tells me something to the population"
+    },
+    {
+      "start": 454.227,
+      "end": 454.548,
+      "start_int": 454,
+      "timestamp_label": "7:34",
+      "text": "here."
+    },
+    {
+      "start": 457.508,
+      "end": 457.628,
+      "start_int": 457,
+      "timestamp_label": "7:37",
+      "text": "Dla."
+    },
+    {
+      "start": 461.088,
+      "end": 464.088,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "I'm curious the folks from DLA what is what is your?"
+    },
+    {
+      "start": 465.628,
+      "end": 470.083,
+      "start_int": 465,
+      "timestamp_label": "7:45",
+      "text": "Specialty your purpose or role in the system, if you if you got"
+    },
+    {
+      "start": 470.083,
+      "end": 472.868,
+      "start_int": 470,
+      "timestamp_label": "7:50",
+      "text": "any any input there oh program manager."
+    },
+    {
+      "start": 480.988,
+      "end": 483.388,
+      "start_int": 480,
+      "timestamp_label": "8:00",
+      "text": "We got somebody else checking in from China Lake."
+    },
+    {
+      "start": 491.188,
+      "end": 491.708,
+      "start_int": 491,
+      "timestamp_label": "8:11",
+      "text": "I'll."
+    },
+    {
+      "start": 494.838,
+      "end": 495.518,
+      "start_int": 494,
+      "timestamp_label": "8:14",
+      "text": "Today, Glenn?"
+    },
+    {
+      "start": 499.108,
+      "end": 502.184,
+      "start_int": 499,
+      "timestamp_label": "8:19",
+      "text": "Eglin Air Force Base. Geographically, it's the"
+    },
+    {
+      "start": 502.184,
+      "end": 502.708,
+      "start_int": 502,
+      "timestamp_label": "8:22",
+      "text": "largest."
+    },
+    {
+      "start": 502.708,
+      "end": 503.868,
+      "start_int": 502,
+      "timestamp_label": "8:22",
+      "text": "It's the largest base."
+    },
+    {
+      "start": 505.948,
+      "end": 506.948,
+      "start_int": 505,
+      "timestamp_label": "8:25",
+      "text": "In the Air Force."
+    },
+    {
+      "start": 509.068,
+      "end": 513.704,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "If you take away the the the area over water though Edwards"
+    },
+    {
+      "start": 513.704,
+      "end": 515.868,
+      "start_int": 513,
+      "timestamp_label": "8:33",
+      "text": "Edwards gets to be as large."
+    },
+    {
+      "start": 517.548,
+      "end": 517.868,
+      "start_int": 517,
+      "timestamp_label": "8:37",
+      "text": "All righty."
+    },
+    {
+      "start": 519.828,
+      "end": 523.442,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "And contracting officers that that's that's a good, that's a"
+    },
+    {
+      "start": 523.442,
+      "end": 526.108,
+      "start_int": 523,
+      "timestamp_label": "8:43",
+      "text": "good source to have here. I think there was."
+    },
+    {
+      "start": 527.978,
+      "end": 528.498,
+      "start_int": 527,
+      "timestamp_label": "8:47",
+      "text": "OK."
+    },
+    {
+      "start": 530.828,
+      "end": 532.308,
+      "start_int": 530,
+      "timestamp_label": "8:50",
+      "text": "And contract specialists."
+    },
+    {
+      "start": 535.278,
+      "end": 538.238,
+      "start_int": 535,
+      "timestamp_label": "8:55",
+      "text": "Alternate Core primary core OK."
+    },
+    {
+      "start": 540.188,
+      "end": 540.668,
+      "start_int": 540,
+      "timestamp_label": "9:00",
+      "text": "The planner."
+    },
+    {
+      "start": 542.468,
+      "end": 542.828,
+      "start_int": 542,
+      "timestamp_label": "9:02",
+      "text": "And GPC."
+    },
+    {
+      "start": 542.908,
+      "end": 544.508,
+      "start_int": 542,
+      "timestamp_label": "9:02",
+      "text": "That's interesting."
+    },
+    {
+      "start": 544.868,
+      "end": 549.463,
+      "start_int": 544,
+      "timestamp_label": "9:04",
+      "text": "So if you have a a question in GPC world, I might I might as it"
+    },
+    {
+      "start": 549.463,
+      "end": 553.268,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "relates to PIE, I might be able to help too because."
+    },
+    {
+      "start": 554.918,
+      "end": 561.335,
+      "start_int": 554,
+      "timestamp_label": "9:14",
+      "text": "I have a role. When I have had a role in in GPC and helping them"
+    },
+    {
+      "start": 561.335,
+      "end": 567.159,
+      "start_int": 561,
+      "timestamp_label": "9:21",
+      "text": "I'm I'm one of the roles I've done is a coordinator in GPC"
+    },
+    {
+      "start": 567.159,
+      "end": 568.838,
+      "start_int": 567,
+      "timestamp_label": "9:27",
+      "text": "program AOPC and."
+    },
+    {
+      "start": 571.398,
+      "end": 574.478,
+      "start_int": 571,
+      "timestamp_label": "9:31",
+      "text": "Also, the essentially the pygam rolls for GPC."
+    },
+    {
+      "start": 577.188,
+      "end": 580.662,
+      "start_int": 577,
+      "timestamp_label": "9:37",
+      "text": "Question it if a core has done training for Type B"
+    },
+    {
+      "start": 580.662,
+      "end": 581.548,
+      "start_int": 580,
+      "timestamp_label": "9:40",
+      "text": "requirements."
+    },
+    {
+      "start": 581.908,
+      "end": 586.466,
+      "start_int": 581,
+      "timestamp_label": "9:41",
+      "text": "The CL222 and they are cores for a type A requirement 106. Should"
+    },
+    {
+      "start": 586.466,
+      "end": 590.816,
+      "start_int": 586,
+      "timestamp_label": "9:46",
+      "text": "the course required to take the type a requirements since they"
+    },
+    {
+      "start": 590.816,
+      "end": 595.029,
+      "start_int": 590,
+      "timestamp_label": "9:50",
+      "text": "already completed training for Type B requirements, which in"
+    },
+    {
+      "start": 595.029,
+      "end": 598.068,
+      "start_int": 595,
+      "timestamp_label": "9:55",
+      "text": "essence they are more complex requirements."
+    },
+    {
+      "start": 598.628,
+      "end": 601.708,
+      "start_int": 598,
+      "timestamp_label": "9:58",
+      "text": "Thank you so much for asking that question I have found."
+    },
+    {
+      "start": 602.518,
+      "end": 607.358,
+      "start_int": 602,
+      "timestamp_label": "10:02",
+      "text": "That folks, sometimes in the absence of a clear."
+    },
+    {
+      "start": 608.478,
+      "end": 609.398,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "Direction."
+    },
+    {
+      "start": 611.438,
+      "end": 615.992,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "They'll end up taking both the the Type B and type A training"
+    },
+    {
+      "start": 615.992,
+      "end": 620.62,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "sometimes, and in the type A and type B trainings. They're not"
+    },
+    {
+      "start": 620.62,
+      "end": 625.395,
+      "start_int": 620,
+      "timestamp_label": "10:20",
+      "text": "necessary to have both for your initial core training. If you're"
+    },
+    {
+      "start": 625.395,
+      "end": 626.718,
+      "start_int": 625,
+      "timestamp_label": "10:25",
+      "text": "a type a contract."
+    },
+    {
+      "start": 628.478,
+      "end": 632.489,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "Type A would suffice if your type B the Type B training would"
+    },
+    {
+      "start": 632.489,
+      "end": 636.631,
+      "start_int": 632,
+      "timestamp_label": "10:32",
+      "text": "suffice. If you happen to take Type B training and your initial"
+    },
+    {
+      "start": 636.631,
+      "end": 640.772,
+      "start_int": 636,
+      "timestamp_label": "10:36",
+      "text": "assignment is to type a type a contract, you don't have to also"
+    },
+    {
+      "start": 640.772,
+      "end": 641.678,
+      "start_int": 640,
+      "timestamp_label": "10:40",
+      "text": "take the type."
+    },
+    {
+      "start": 642.458,
+      "end": 647.331,
+      "start_int": 642,
+      "timestamp_label": "10:42",
+      "text": "A training type B suffices to when you've met the requirements"
+    },
+    {
+      "start": 647.331,
+      "end": 651.972,
+      "start_int": 647,
+      "timestamp_label": "10:47",
+      "text": "for Type B training, you've met the requirements for type A"
+    },
+    {
+      "start": 651.972,
+      "end": 652.978,
+      "start_int": 651,
+      "timestamp_label": "10:51",
+      "text": "training and."
+    },
+    {
+      "start": 655.708,
+      "end": 656.388,
+      "start_int": 655,
+      "timestamp_label": "10:55",
+      "text": "Did I answer?"
+    },
+    {
+      "start": 656.388,
+      "end": 659.068,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "Did I answer that question? Penis."
+    },
+    {
+      "start": 661.598,
+      "end": 663.758,
+      "start_int": 661,
+      "timestamp_label": "11:01",
+      "text": "So the modules that you."
+    },
+    {
+      "start": 665.438,
+      "end": 667.038,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "Here I got something covering my screen."
+    },
+    {
+      "start": 667.238,
+      "end": 670.398,
+      "start_int": 667,
+      "timestamp_label": "11:07",
+      "text": "Want to learn about today? So we've got jam SPM."
+    },
+    {
+      "start": 673.438,
+      "end": 677.838,
+      "start_int": 673,
+      "timestamp_label": "11:13",
+      "text": "Whaf eda my invoice and GFP."
+    },
+    {
+      "start": 677.838,
+      "end": 680.638,
+      "start_int": 677,
+      "timestamp_label": "11:17",
+      "text": "All righty. I'm gonna."
+    },
+    {
+      "start": 689.888,
+      "end": 691.928,
+      "start_int": 689,
+      "timestamp_label": "11:29",
+      "text": "We'll see what we can get through."
+    },
+    {
+      "start": 693.478,
+      "end": 693.678,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "Today."
+    },
+    {
+      "start": 702.118,
+      "end": 706.263,
+      "start_int": 702,
+      "timestamp_label": "11:42",
+      "text": "My invoice is an interesting thing because it's available to"
+    },
+    {
+      "start": 706.263,
+      "end": 708.438,
+      "start_int": 706,
+      "timestamp_label": "11:46",
+      "text": "contractors as well, and it has."
+    },
+    {
+      "start": 710.198,
+      "end": 712.158,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "Like voucher number on it or."
+    },
+    {
+      "start": 714.158,
+      "end": 719.146,
+      "start_int": 714,
+      "timestamp_label": "11:54",
+      "text": "The the details payment details you can you can understand why"
+    },
+    {
+      "start": 719.146,
+      "end": 723.502,
+      "start_int": 719,
+      "timestamp_label": "11:59",
+      "text": "the contractor would be very interested in having that"
+    },
+    {
+      "start": 723.502,
+      "end": 728.491,
+      "start_int": 723,
+      "timestamp_label": "12:03",
+      "text": "information knowing when their payment has been issued. And so"
+    },
+    {
+      "start": 728.491,
+      "end": 733.004,
+      "start_int": 728,
+      "timestamp_label": "12:08",
+      "text": "the my invoice is is an interesting application for that"
+    },
+    {
+      "start": 733.004,
+      "end": 733.638,
+      "start_int": 733,
+      "timestamp_label": "12:13",
+      "text": "purpose."
+    },
+    {
+      "start": 734.328,
+      "end": 737.088,
+      "start_int": 734,
+      "timestamp_label": "12:14",
+      "text": "And it's pretty streamlined too. Alrighty."
+    },
+    {
+      "start": 739.268,
+      "end": 740.148,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "So the."
+    },
+    {
+      "start": 743.878,
+      "end": 748.038,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "I think we'll we'll go in and ask you about any questions."
+    },
+    {
+      "start": 748.358,
+      "end": 753.222,
+      "start_int": 748,
+      "timestamp_label": "12:28",
+      "text": "I made a note of the priority of things that are set here and I"
+    },
+    {
+      "start": 753.222,
+      "end": 756.718,
+      "start_int": 753,
+      "timestamp_label": "12:33",
+      "text": "have one or two things that we might go over."
+    },
+    {
+      "start": 757.318,
+      "end": 761.69,
+      "start_int": 757,
+      "timestamp_label": "12:37",
+      "text": "Probably more specific to jam SPM if we get any quiet quiet"
+    },
+    {
+      "start": 761.69,
+      "end": 762.638,
+      "start_int": 761,
+      "timestamp_label": "12:41",
+      "text": "periods here."
+    },
+    {
+      "start": 766.438,
+      "end": 768.278,
+      "start_int": 766,
+      "timestamp_label": "12:46",
+      "text": "And let's see."
+    },
+    {
+      "start": 769.878,
+      "end": 769.918,
+      "start_int": 769,
+      "timestamp_label": "12:49",
+      "text": "The."
+    },
+    {
+      "start": 773.918,
+      "end": 773.998,
+      "start_int": 773,
+      "timestamp_label": "12:53",
+      "text": "Uh."
+    },
+    {
+      "start": 775.858,
+      "end": 777.818,
+      "start_int": 775,
+      "timestamp_label": "12:55",
+      "text": "Question to the core, OK."
+    },
+    {
+      "start": 785.688,
+      "end": 785.728,
+      "start_int": 785,
+      "timestamp_label": "13:05",
+      "text": "K."
+    },
+    {
+      "start": 785.728,
+      "end": 788.208,
+      "start_int": 785,
+      "timestamp_label": "13:05",
+      "text": "Let's look at any more questions that I got coming in."
+    },
+    {
+      "start": 793.748,
+      "end": 795.188,
+      "start_int": 793,
+      "timestamp_label": "13:13",
+      "text": "So I'm interested in seeing."
+    },
+    {
+      "start": 796.758,
+      "end": 798.918,
+      "start_int": 796,
+      "timestamp_label": "13:16",
+      "text": "Your roles so."
+    },
+    {
+      "start": 801.318,
+      "end": 805.518,
+      "start_int": 801,
+      "timestamp_label": "13:21",
+      "text": "We got EDA, EDA roles."
+    },
+    {
+      "start": 805.558,
+      "end": 807.118,
+      "start_int": 805,
+      "timestamp_label": "13:25",
+      "text": "Is that EDA contracts?"
+    },
+    {
+      "start": 807.118,
+      "end": 808.838,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "Eda advanced reporting."
+    },
+    {
+      "start": 811.478,
+      "end": 812.718,
+      "start_int": 811,
+      "timestamp_label": "13:31",
+      "text": "What other all gams?"
+    },
+    {
+      "start": 812.718,
+      "end": 814.278,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "We got a couple gams."
+    },
+    {
+      "start": 815.878,
+      "end": 818.905,
+      "start_int": 815,
+      "timestamp_label": "13:35",
+      "text": "And the administrator roles. Those might have been games as"
+    },
+    {
+      "start": 818.905,
+      "end": 819.158,
+      "start_int": 818,
+      "timestamp_label": "13:38",
+      "text": "well."
+    },
+    {
+      "start": 822.088,
+      "end": 824.488,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "DD577 appointing authority."
+    },
+    {
+      "start": 825.958,
+      "end": 826.798,
+      "start_int": 825,
+      "timestamp_label": "13:45",
+      "text": "That's over kinda."
+    },
+    {
+      "start": 826.798,
+      "end": 830.598,
+      "start_int": 826,
+      "timestamp_label": "13:46",
+      "text": "On the FM side, all righty. And then we've got."
+    },
+    {
+      "start": 832.158,
+      "end": 834.758,
+      "start_int": 832,
+      "timestamp_label": "13:52",
+      "text": "L the LPO acceptor is often a Navy role."
+    },
+    {
+      "start": 835.678,
+      "end": 837.398,
+      "start_int": 835,
+      "timestamp_label": "13:55",
+      "text": "Then we got a number of cores."
+    },
+    {
+      "start": 840.588,
+      "end": 840.988,
+      "start_int": 840,
+      "timestamp_label": "14:00",
+      "text": "And then."
+    },
+    {
+      "start": 846.388,
+      "end": 846.908,
+      "start_int": 846,
+      "timestamp_label": "14:06",
+      "text": "I see."
+    },
+    {
+      "start": 852.108,
+      "end": 854.148,
+      "start_int": 852,
+      "timestamp_label": "14:12",
+      "text": "Yeah. And the."
+    },
+    {
+      "start": 859.048,
+      "end": 861.168,
+      "start_int": 859,
+      "timestamp_label": "14:19",
+      "text": "Somebody's asking about the."
+    },
+    {
+      "start": 862.718,
+      "end": 865.158,
+      "start_int": 862,
+      "timestamp_label": "14:22",
+      "text": "The core refresher training three-year requirement."
+    },
+    {
+      "start": 865.358,
+      "end": 870.302,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "Let me just mention what that is the do D 5000.72 that sets up"
+    },
+    {
+      "start": 870.302,
+      "end": 875.168,
+      "start_int": 870,
+      "timestamp_label": "14:30",
+      "text": "the core, essentially the core qualifications that cores need"
+    },
+    {
+      "start": 875.168,
+      "end": 879.798,
+      "start_int": 875,
+      "timestamp_label": "14:35",
+      "text": "to meet in order to be appointed at the core. It has in it"
+    },
+    {
+      "start": 879.798,
+      "end": 884.664,
+      "start_int": 879,
+      "timestamp_label": "14:39",
+      "text": "training requirements and it has essentially initial training"
+    },
+    {
+      "start": 884.664,
+      "end": 885.998,
+      "start_int": 884,
+      "timestamp_label": "14:44",
+      "text": "requirements and."
+    },
+    {
+      "start": 885.998,
+      "end": 888.558,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "Then training requirements that come after that."
+    },
+    {
+      "start": 889.438,
+      "end": 892.518,
+      "start_int": 889,
+      "timestamp_label": "14:49",
+      "text": "And part of what it's said in that document is a requirement."
+    },
+    {
+      "start": 893.058,
+      "end": 897.82,
+      "start_int": 893,
+      "timestamp_label": "14:53",
+      "text": "For three-year core refresher training and the cores who are"
+    },
+    {
+      "start": 897.82,
+      "end": 902.035,
+      "start_int": 897,
+      "timestamp_label": "14:57",
+      "text": "type A cores will be taking 8 hours of core refresher"
+    },
+    {
+      "start": 902.035,
+      "end": 902.738,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "training."
+    },
+    {
+      "start": 902.738,
+      "end": 904.058,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "That's what they're required."
+    },
+    {
+      "start": 904.458,
+      "end": 908.86,
+      "start_int": 904,
+      "timestamp_label": "15:04",
+      "text": "And those with either a Type B or Type C core appointment"
+    },
+    {
+      "start": 908.86,
+      "end": 913.262,
+      "start_int": 908,
+      "timestamp_label": "15:08",
+      "text": "requirement will will need to accomplish 16 hours of core"
+    },
+    {
+      "start": 913.262,
+      "end": 916.981,
+      "start_int": 913,
+      "timestamp_label": "15:13",
+      "text": "refresher training the three-year core refresher"
+    },
+    {
+      "start": 916.981,
+      "end": 921.763,
+      "start_int": 916,
+      "timestamp_label": "15:16",
+      "text": "training. So when they've been a core for three years, they'll"
+    },
+    {
+      "start": 921.763,
+      "end": 922.978,
+      "start_int": 921,
+      "timestamp_label": "15:21",
+      "text": "need to do that."
+    },
+    {
+      "start": 923.348,
+      "end": 927.686,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "And the wording of the Todi is that that training is"
+    },
+    {
+      "start": 927.686,
+      "end": 928.668,
+      "start_int": 927,
+      "timestamp_label": "15:27",
+      "text": "established."
+    },
+    {
+      "start": 930.238,
+      "end": 935.236,
+      "start_int": 930,
+      "timestamp_label": "15:30",
+      "text": "What training is required for for a core is established by the"
+    },
+    {
+      "start": 935.236,
+      "end": 940.393,
+      "start_int": 935,
+      "timestamp_label": "15:35",
+      "text": "contracting office and so in my office I make a list of training"
+    },
+    {
+      "start": 940.393,
+      "end": 944.678,
+      "start_int": 940,
+      "timestamp_label": "15:40",
+      "text": "that could meet this and we distribute that to folks."
+    },
+    {
+      "start": 944.758,
+      "end": 948.924,
+      "start_int": 944,
+      "timestamp_label": "15:44",
+      "text": "And the list the list in my office happens to have aged a"
+    },
+    {
+      "start": 948.924,
+      "end": 951.438,
+      "start_int": 948,
+      "timestamp_label": "15:48",
+      "text": "bit and I need to go back into it."
+    },
+    {
+      "start": 953.278,
+      "end": 955.838,
+      "start_int": 953,
+      "timestamp_label": "15:53",
+      "text": "Somebody had asked about CLC 2/22 and."
+    },
+    {
+      "start": 956.438,
+      "end": 961.82,
+      "start_int": 956,
+      "timestamp_label": "15:56",
+      "text": "106 those are trainings that will satisfy a core refresher"
+    },
+    {
+      "start": 961.82,
+      "end": 966.838,
+      "start_int": 961,
+      "timestamp_label": "16:01",
+      "text": "training. If you're contracting office feels to do so."
+    },
+    {
+      "start": 967.078,
+      "end": 969.718,
+      "start_int": 967,
+      "timestamp_label": "16:07",
+      "text": "And in my world, they would."
+    },
+    {
+      "start": 969.878,
+      "end": 973.457,
+      "start_int": 969,
+      "timestamp_label": "16:09",
+      "text": "I'm also looking for other trainings that people might find"
+    },
+    {
+      "start": 973.457,
+      "end": 976.977,
+      "start_int": 973,
+      "timestamp_label": "16:13",
+      "text": "valuable and to add to that equation so that it rounds out"
+    },
+    {
+      "start": 976.977,
+      "end": 980.318,
+      "start_int": 976,
+      "timestamp_label": "16:16",
+      "text": "their abilities and helps them in their in their world."
+    },
+    {
+      "start": 982.708,
+      "end": 983.788,
+      "start_int": 982,
+      "timestamp_label": "16:22",
+      "text": "And we have somebody."
+    },
+    {
+      "start": 988.788,
+      "end": 992.868,
+      "start_int": 988,
+      "timestamp_label": "16:28",
+      "text": "Somebody, Tony. Ends of Anna zoo."
+    },
+    {
+      "start": 994.718,
+      "end": 995.318,
+      "start_int": 994,
+      "timestamp_label": "16:34",
+      "text": "Arvizu."
+    },
+    {
+      "start": 996.998,
+      "end": 1000.078,
+      "start_int": 996,
+      "timestamp_label": "16:36",
+      "text": "Is asking about coordination among."
+    },
+    {
+      "start": 1001.878,
+      "end": 1007.472,
+      "start_int": 1001,
+      "timestamp_label": "16:41",
+      "text": "Core coordinators and so I'd like for you to consider that in"
+    },
+    {
+      "start": 1007.472,
+      "end": 1012.615,
+      "start_int": 1007,
+      "timestamp_label": "16:47",
+      "text": "any assistance, and then I'm going to put down my e-mail"
+    },
+    {
+      "start": 1012.615,
+      "end": 1017.758,
+      "start_int": 1012,
+      "timestamp_label": "16:52",
+      "text": "address if people want to contact me about other things."
+    },
+    {
+      "start": 1022.198,
+      "end": 1022.958,
+      "start_int": 1022,
+      "timestamp_label": "17:02",
+      "text": "We might."
+    },
+    {
+      "start": 1024.518,
+      "end": 1026.678,
+      "start_int": 1024,
+      "timestamp_label": "17:04",
+      "text": "We might establish some correspondence that."
+    },
+    {
+      "start": 1028.878,
+      "end": 1033.061,
+      "start_int": 1028,
+      "timestamp_label": "17:08",
+      "text": "Would help if you wanted us to elaborate on anything that we"
+    },
+    {
+      "start": 1033.061,
+      "end": 1035.118,
+      "start_int": 1033,
+      "timestamp_label": "17:13",
+      "text": "didn't get to in this meeting."
+    },
+    {
+      "start": 1035.878,
+      "end": 1038.878,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "I'm sometimes in touch with folks."
+    },
+    {
+      "start": 1040.518,
+      "end": 1040.758,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "And."
+    },
+    {
+      "start": 1042.398,
+      "end": 1044.558,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "Thank you so much Don Miller for putting that in."
+    },
+    {
+      "start": 1046.768,
+      "end": 1051.022,
+      "start_int": 1046,
+      "timestamp_label": "17:26",
+      "text": "And now the question from Tiffany is should course have to"
+    },
+    {
+      "start": 1051.022,
+      "end": 1052.248,
+      "start_int": 1051,
+      "timestamp_label": "17:31",
+      "text": "take CLC Zero 59?"
+    },
+    {
+      "start": 1052.728,
+      "end": 1056.168,
+      "start_int": 1052,
+      "timestamp_label": "17:32",
+      "text": "That's a really interesting question and."
+    },
+    {
+      "start": 1058.158,
+      "end": 1063.062,
+      "start_int": 1058,
+      "timestamp_label": "17:38",
+      "text": "You may need to look to the support and interpretations that"
+    },
+    {
+      "start": 1063.062,
+      "end": 1066.278,
+      "start_int": 1063,
+      "timestamp_label": "17:43",
+      "text": "come from your particular organization."
+    },
+    {
+      "start": 1068.678,
+      "end": 1072.998,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "All I can, all I can really say authoritatively is what we."
+    },
+    {
+      "start": 1074.718,
+      "end": 1079.838,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "Had determined in our own world for our own training."
+    },
+    {
+      "start": 1080.708,
+      "end": 1082.468,
+      "start_int": 1080,
+      "timestamp_label": "18:00",
+      "text": "Is that?"
+    },
+    {
+      "start": 1084.478,
+      "end": 1089.398,
+      "start_int": 1084,
+      "timestamp_label": "18:04",
+      "text": "Cores who are relied upon."
+    },
+    {
+      "start": 1091.078,
+      "end": 1096.815,
+      "start_int": 1091,
+      "timestamp_label": "18:11",
+      "text": "For their input into subcontracting could be, would"
+    },
+    {
+      "start": 1096.815,
+      "end": 1103.765,
+      "start_int": 1096,
+      "timestamp_label": "18:16",
+      "text": "be required, and so we say as directed, because COC zero 59 is"
+    },
+    {
+      "start": 1103.765,
+      "end": 1107.958,
+      "start_int": 1103,
+      "timestamp_label": "18:23",
+      "text": "about managing of subcontracting and."
+    },
+    {
+      "start": 1109.638,
+      "end": 1112.194,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "Their cores are cores are mentioned in the input"
+    },
+    {
+      "start": 1112.194,
+      "end": 1113.238,
+      "start_int": 1112,
+      "timestamp_label": "18:32",
+      "text": "implementation memo."
+    },
+    {
+      "start": 1115.208,
+      "end": 1119.711,
+      "start_int": 1115,
+      "timestamp_label": "18:35",
+      "text": "But you may want to take a close read and see if that"
+    },
+    {
+      "start": 1119.711,
+      "end": 1124.048,
+      "start_int": 1119,
+      "timestamp_label": "18:39",
+      "text": "automatically places that training into your world."
+    },
+    {
+      "start": 1125.598,
+      "end": 1128.318,
+      "start_int": 1125,
+      "timestamp_label": "18:45",
+      "text": "It's it's a it."
+    },
+    {
+      "start": 1128.318,
+      "end": 1132.878,
+      "start_int": 1128,
+      "timestamp_label": "18:48",
+      "text": "The training is is, it is."
+    },
+    {
+      "start": 1134.518,
+      "end": 1141.193,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "Involved and we thought it most relevant in locally when our"
+    },
+    {
+      "start": 1141.193,
+      "end": 1144.038,
+      "start_int": 1141,
+      "timestamp_label": "19:01",
+      "text": "cores have subcontracting."
+    },
+    {
+      "start": 1144.458,
+      "end": 1148.457,
+      "start_int": 1144,
+      "timestamp_label": "19:04",
+      "text": "On their contract that we would then require them to take it"
+    },
+    {
+      "start": 1148.457,
+      "end": 1152.456,
+      "start_int": 1148,
+      "timestamp_label": "19:08",
+      "text": "instead of all of our cores to take it initially and we felt"
+    },
+    {
+      "start": 1152.456,
+      "end": 1156.193,
+      "start_int": 1152,
+      "timestamp_label": "19:12",
+      "text": "from the wording of the implementation memo that we were"
+    },
+    {
+      "start": 1156.193,
+      "end": 1157.898,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "on good ground to do that."
+    },
+    {
+      "start": 1158.098,
+      "end": 1162.689,
+      "start_int": 1158,
+      "timestamp_label": "19:18",
+      "text": "But that was our local reading, and it's it's perhaps a minority"
+    },
+    {
+      "start": 1162.689,
+      "end": 1165.938,
+      "start_int": 1162,
+      "timestamp_label": "19:22",
+      "text": "opinion and not the one that a lot of people."
+    },
+    {
+      "start": 1170.248,
+      "end": 1174.891,
+      "start_int": 1170,
+      "timestamp_label": "19:30",
+      "text": "And and Tony, could you send me an e-mail request so that when I"
+    },
+    {
+      "start": 1174.891,
+      "end": 1179.533,
+      "start_int": 1174,
+      "timestamp_label": "19:34",
+      "text": "do come up with a core refresher training list, I could probably"
+    },
+    {
+      "start": 1179.533,
+      "end": 1183.819,
+      "start_int": 1179,
+      "timestamp_label": "19:39",
+      "text": "send it to you and I would probably when I come up with the"
+    },
+    {
+      "start": 1183.819,
+      "end": 1187.248,
+      "start_int": 1183,
+      "timestamp_label": "19:43",
+      "text": "list, I'll probably send it, send it to like C."
+    },
+    {
+      "start": 1187.248,
+      "end": 1192.765,
+      "start_int": 1187,
+      "timestamp_label": "19:47",
+      "text": "Baker and and it could be made available to the to the"
+    },
+    {
+      "start": 1192.765,
+      "end": 1193.768,
+      "start_int": 1192,
+      "timestamp_label": "19:52",
+      "text": "community."
+    },
+    {
+      "start": 1194.578,
+      "end": 1195.858,
+      "start_int": 1194,
+      "timestamp_label": "19:54",
+      "text": "Core community of practice."
+    },
+    {
+      "start": 1195.858,
+      "end": 1200.458,
+      "start_int": 1195,
+      "timestamp_label": "19:55",
+      "text": "I think there might be or might have been, a list of."
+    },
+    {
+      "start": 1202.338,
+      "end": 1205.058,
+      "start_int": 1202,
+      "timestamp_label": "20:02",
+      "text": "That I provided a number of years ago."
+    },
+    {
+      "start": 1206.658,
+      "end": 1209.914,
+      "start_int": 1206,
+      "timestamp_label": "20:06",
+      "text": "That's rattled around in the community on one of its pages"
+    },
+    {
+      "start": 1209.914,
+      "end": 1212.618,
+      "start_int": 1209,
+      "timestamp_label": "20:09",
+      "text": "and might still be there, but I'll work on that."
+    },
+    {
+      "start": 1214.778,
+      "end": 1219.099,
+      "start_int": 1214,
+      "timestamp_label": "20:14",
+      "text": "On on a list I need. It takes some work to establish the"
+    },
+    {
+      "start": 1219.099,
+      "end": 1223.876,
+      "start_int": 1219,
+      "timestamp_label": "20:19",
+      "text": "currency of the courses and try and include a a wide range and"
+    },
+    {
+      "start": 1223.876,
+      "end": 1224.938,
+      "start_int": 1223,
+      "timestamp_label": "20:23",
+      "text": "an acceptable."
+    },
+    {
+      "start": 1227.348,
+      "end": 1228.708,
+      "start_int": 1227,
+      "timestamp_label": "20:27",
+      "text": "Of acceptable content."
+    },
+    {
+      "start": 1228.828,
+      "end": 1233.28,
+      "start_int": 1228,
+      "timestamp_label": "20:28",
+      "text": "And so Don Miller is telling us that they require the course to"
+    },
+    {
+      "start": 1233.28,
+      "end": 1233.628,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "take."
+    },
+    {
+      "start": 1235.138,
+      "end": 1235.778,
+      "start_int": 1235,
+      "timestamp_label": "20:35",
+      "text": "Fact zero 89."
+    },
+    {
+      "start": 1237.418,
+      "end": 1242.869,
+      "start_int": 1237,
+      "timestamp_label": "20:37",
+      "text": "Writing quality past performance evaluations from the DAU Virtual"
+    },
+    {
+      "start": 1242.869,
+      "end": 1247.578,
+      "start_int": 1242,
+      "timestamp_label": "20:42",
+      "text": "Campus and one trick about that is that fact zero 89 is."
+    },
+    {
+      "start": 1249.258,
+      "end": 1253.483,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "An original offering from FAI. You can take it through DAU, but"
+    },
+    {
+      "start": 1253.483,
+      "end": 1257.378,
+      "start_int": 1253,
+      "timestamp_label": "20:53",
+      "text": "if you search dau's catalogue you won't find it initially."
+    },
+    {
+      "start": 1257.578,
+      "end": 1260.818,
+      "start_int": 1257,
+      "timestamp_label": "20:57",
+      "text": "What you need to do is log into cornerstone on demand."
+    },
+    {
+      "start": 1261.478,
+      "end": 1266.46,
+      "start_int": 1261,
+      "timestamp_label": "21:01",
+      "text": "And then search for the fax zero 89 I give our folks a link and I"
+    },
+    {
+      "start": 1266.46,
+      "end": 1271.215,
+      "start_int": 1266,
+      "timestamp_label": "21:06",
+      "text": "might if I stay in at the end of our of our session here, if I"
+    },
+    {
+      "start": 1271.215,
+      "end": 1276.122,
+      "start_int": 1271,
+      "timestamp_label": "21:11",
+      "text": "remember or somebody reminds me, I might be able to populate the"
+    },
+    {
+      "start": 1276.122,
+      "end": 1277.858,
+      "start_int": 1276,
+      "timestamp_label": "21:16",
+      "text": "link and maybe it will."
+    },
+    {
+      "start": 1277.858,
+      "end": 1281.547,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "Work that people after they're logged in, they could just hit"
+    },
+    {
+      "start": 1281.547,
+      "end": 1284.998,
+      "start_int": 1281,
+      "timestamp_label": "21:21",
+      "text": "this link and then it would take them to the fax zero 89."
+    },
+    {
+      "start": 1286.498,
+      "end": 1288.618,
+      "start_int": 1286,
+      "timestamp_label": "21:26",
+      "text": "Writing Quality pass performance evaluations."
+    },
+    {
+      "start": 1288.778,
+      "end": 1293.418,
+      "start_int": 1288,
+      "timestamp_label": "21:28",
+      "text": "That's going to help in the cpars world for folks, and I do."
+    },
+    {
+      "start": 1293.698,
+      "end": 1294.258,
+      "start_int": 1293,
+      "timestamp_label": "21:33",
+      "text": "I do."
+    },
+    {
+      "start": 1295.518,
+      "end": 1299.359,
+      "start_int": 1295,
+      "timestamp_label": "21:35",
+      "text": "Recommend that course. I think the things that put us in"
+    },
+    {
+      "start": 1299.359,
+      "end": 1303.538,
+      "start_int": 1299,
+      "timestamp_label": "21:39",
+      "text": "possession of better writing skills are helpful. In fact, I'm"
+    },
+    {
+      "start": 1303.538,
+      "end": 1306.638,
+      "start_int": 1303,
+      "timestamp_label": "21:43",
+      "text": "kind of on a search now to find a new course."
+    },
+    {
+      "start": 1306.758,
+      "end": 1312.028,
+      "start_int": 1306,
+      "timestamp_label": "21:46",
+      "text": "There was a Harvard, a Harvard HBS module. The DAU used to have"
+    },
+    {
+      "start": 1312.028,
+      "end": 1316.146,
+      "start_int": 1312,
+      "timestamp_label": "21:52",
+      "text": "on writing, and it's been replaced now with other"
+    },
+    {
+      "start": 1316.146,
+      "end": 1321.169,
+      "start_int": 1316,
+      "timestamp_label": "21:56",
+      "text": "offerings that we can obtain through DAU on writing. And I I"
+    },
+    {
+      "start": 1321.169,
+      "end": 1323.558,
+      "start_int": 1321,
+      "timestamp_label": "22:01",
+      "text": "plan on trying to search out."
+    },
+    {
+      "start": 1324.338,
+      "end": 1328.16,
+      "start_int": 1324,
+      "timestamp_label": "22:04",
+      "text": "One that I one or two that I might recommend to folks. I'm"
+    },
+    {
+      "start": 1328.16,
+      "end": 1328.938,
+      "start_int": 1328,
+      "timestamp_label": "22:08",
+      "text": "still early."
+    },
+    {
+      "start": 1329.518,
+      "end": 1332.198,
+      "start_int": 1329,
+      "timestamp_label": "22:09",
+      "text": "I'm in the aspirational stage for doing that."
+    },
+    {
+      "start": 1332.238,
+      "end": 1335.078,
+      "start_int": 1332,
+      "timestamp_label": "22:12",
+      "text": "Oh, thank you for putting that link in, Don."
+    },
+    {
+      "start": 1343.188,
+      "end": 1345.584,
+      "start_int": 1343,
+      "timestamp_label": "22:23",
+      "text": "Michael, this is Evelyn. That officially wraps up the meni"
+    },
+    {
+      "start": 1344.928,
+      "end": 1345.128,
+      "start_int": 1344,
+      "timestamp_label": "22:24",
+      "text": "Yes."
+    },
+    {
+      "start": 1345.584,
+      "end": 1345.828,
+      "start_int": 1345,
+      "timestamp_label": "22:25",
+      "text": "meter."
+    },
+    {
+      "start": 1345.828,
+      "end": 1348.059,
+      "start_int": 1345,
+      "timestamp_label": "22:25",
+      "text": "So if you would like to share your screen at anytime, you're"
+    },
+    {
+      "start": 1348.059,
+      "end": 1348.828,
+      "start_int": 1348,
+      "timestamp_label": "22:28",
+      "text": "more than welcome to."
+    },
+    {
+      "start": 1349.468,
+      "end": 1350.028,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "Oh great."
+    },
+    {
+      "start": 1350.028,
+      "end": 1350.948,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "Thank you."
+    },
+    {
+      "start": 1352.618,
+      "end": 1353.298,
+      "start_int": 1352,
+      "timestamp_label": "22:32",
+      "text": "I will."
+    },
+    {
+      "start": 1353.298,
+      "end": 1355.098,
+      "start_int": 1353,
+      "timestamp_label": "22:33",
+      "text": "Pretty soon. Let's see."
+    },
+    {
+      "start": 1355.098,
+      "end": 1357.538,
+      "start_int": 1355,
+      "timestamp_label": "22:35",
+      "text": "I was gonna try and paste something of my own."
+    },
+    {
+      "start": 1358.098,
+      "end": 1359.778,
+      "start_int": 1358,
+      "timestamp_label": "22:38",
+      "text": "Somebody shared their e-mail."
+    },
+    {
+      "start": 1361.378,
+      "end": 1361.858,
+      "start_int": 1361,
+      "timestamp_label": "22:41",
+      "text": "And I was gonna."
+    },
+    {
+      "start": 1361.858,
+      "end": 1365.298,
+      "start_int": 1361,
+      "timestamp_label": "22:41",
+      "text": "I think they were asking more or less for something now."
+    },
+    {
+      "start": 1365.298,
+      "end": 1368.258,
+      "start_int": 1365,
+      "timestamp_label": "22:45",
+      "text": "My screen just went weird there."
+    },
+    {
+      "start": 1368.258,
+      "end": 1370.578,
+      "start_int": 1368,
+      "timestamp_label": "22:48",
+      "text": "Now I've got my screen back OK."
+    },
+    {
+      "start": 1372.858,
+      "end": 1373.658,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "I'm going to."
+    },
+    {
+      "start": 1375.988,
+      "end": 1380.736,
+      "start_int": 1375,
+      "timestamp_label": "22:55",
+      "text": "I'm interested now in any questions that people have in"
+    },
+    {
+      "start": 1380.736,
+      "end": 1385.57,
+      "start_int": 1380,
+      "timestamp_label": "23:00",
+      "text": "their in their modules that they're used used to want to"
+    },
+    {
+      "start": 1385.57,
+      "end": 1390.743,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "know about, aspire to learn in π. If you need instruction on"
+    },
+    {
+      "start": 1390.743,
+      "end": 1395.916,
+      "start_int": 1390,
+      "timestamp_label": "23:10",
+      "text": "getting 2π, we could also go over that. What I've done right"
+    },
+    {
+      "start": 1395.916,
+      "end": 1397.188,
+      "start_int": 1395,
+      "timestamp_label": "23:15",
+      "text": "here is I've I."
+    },
+    {
+      "start": 1397.308,
+      "end": 1397.828,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "Gotten."
+    },
+    {
+      "start": 1399.418,
+      "end": 1399.458,
+      "start_int": 1399,
+      "timestamp_label": "23:19",
+      "text": "A."
+    },
+    {
+      "start": 1400.338,
+      "end": 1404.345,
+      "start_int": 1400,
+      "timestamp_label": "23:20",
+      "text": "A training account and I'm gonna open that up and just show you"
+    },
+    {
+      "start": 1404.345,
+      "end": 1404.658,
+      "start_int": 1404,
+      "timestamp_label": "23:24",
+      "text": "from."
+    },
+    {
+      "start": 1406.978,
+      "end": 1411.298,
+      "start_int": 1406,
+      "timestamp_label": "23:26",
+      "text": "From the basis of already being in the account. What?"
+    },
+    {
+      "start": 1412.858,
+      "end": 1416.195,
+      "start_int": 1412,
+      "timestamp_label": "23:32",
+      "text": "What it first looks like, and then we're gonna go and do a"
+    },
+    {
+      "start": 1416.195,
+      "end": 1419.703,
+      "start_int": 1416,
+      "timestamp_label": "23:36",
+      "text": "little navigation, probably into jam spam, which is the joint"
+    },
+    {
+      "start": 1419.703,
+      "end": 1420.778,
+      "start_int": 1419,
+      "timestamp_label": "23:39",
+      "text": "appointment module."
+    },
+    {
+      "start": 1422.498,
+      "end": 1423.218,
+      "start_int": 1422,
+      "timestamp_label": "23:42",
+      "text": "Surveillance."
+    },
+    {
+      "start": 1426.728,
+      "end": 1426.808,
+      "start_int": 1426,
+      "timestamp_label": "23:46",
+      "text": "Uh."
+    },
+    {
+      "start": 1427.548,
+      "end": 1428.148,
+      "start_int": 1427,
+      "timestamp_label": "23:47",
+      "text": "And."
+    },
+    {
+      "start": 1429.738,
+      "end": 1430.698,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "Performance monitoring module."
+    },
+    {
+      "start": 1432.498,
+      "end": 1436.931,
+      "start_int": 1432,
+      "timestamp_label": "23:52",
+      "text": "In the Pi application and remember π stands for the"
+    },
+    {
+      "start": 1436.931,
+      "end": 1441.621,
+      "start_int": 1436,
+      "timestamp_label": "23:56",
+      "text": "procurement integrated enterprise environment and so Π"
+    },
+    {
+      "start": 1441.621,
+      "end": 1447.163,
+      "start_int": 1441,
+      "timestamp_label": "24:01",
+      "text": "is a home to a number of systems that will help you in your your"
+    },
+    {
+      "start": 1447.163,
+      "end": 1448.698,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "acquisition world."
+    },
+    {
+      "start": 1448.938,
+      "end": 1455.896,
+      "start_int": 1448,
+      "timestamp_label": "24:08",
+      "text": "It'll help, among other things, get you registered into your Pi"
+    },
+    {
+      "start": 1455.896,
+      "end": 1457.418,
+      "start_int": 1455,
+      "timestamp_label": "24:15",
+      "text": "SPM core role."
+    },
+    {
+      "start": 1458.428,
+      "end": 1460.148,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "So that your training can be there."
+    },
+    {
+      "start": 1460.148,
+      "end": 1465.268,
+      "start_int": 1460,
+      "timestamp_label": "24:20",
+      "text": "Your appointment document gets handled and there's a repository"
+    },
+    {
+      "start": 1465.268,
+      "end": 1469.108,
+      "start_int": 1465,
+      "timestamp_label": "24:25",
+      "text": "for you to put surveillance documents into SPM."
+    },
+    {
+      "start": 1471.058,
+      "end": 1473.858,
+      "start_int": 1471,
+      "timestamp_label": "24:31",
+      "text": "Your training can be found in the joint appointment module."
+    },
+    {
+      "start": 1474.018,
+      "end": 1476.712,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "There's also another place to enter it, which is under my"
+    },
+    {
+      "start": 1476.712,
+      "end": 1479.545,
+      "start_int": 1476,
+      "timestamp_label": "24:36",
+      "text": "account. In fact, I'm going to share my screen and then show"
+    },
+    {
+      "start": 1479.545,
+      "end": 1481.218,
+      "start_int": 1479,
+      "timestamp_label": "24:39",
+      "text": "you how you can find your training."
+    },
+    {
+      "start": 1482.898,
+      "end": 1483.218,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "Let's see."
+    },
+    {
+      "start": 1483.218,
+      "end": 1483.818,
+      "start_int": 1483,
+      "timestamp_label": "24:43",
+      "text": "Let's look."
+    },
+    {
+      "start": 1486.038,
+      "end": 1489.678,
+      "start_int": 1486,
+      "timestamp_label": "24:46",
+      "text": "Sharing my screen is I'm gonna share an entire screen."
+    },
+    {
+      "start": 1491.218,
+      "end": 1492.058,
+      "start_int": 1491,
+      "timestamp_label": "24:51",
+      "text": "I talk out loud."
+    },
+    {
+      "start": 1492.058,
+      "end": 1496.482,
+      "start_int": 1492,
+      "timestamp_label": "24:52",
+      "text": "I'm more likely to make successful navigation, so pardon"
+    },
+    {
+      "start": 1496.482,
+      "end": 1499.898,
+      "start_int": 1496,
+      "timestamp_label": "24:56",
+      "text": "me for talking to myself for just a moment."
+    },
+    {
+      "start": 1503.098,
+      "end": 1504.578,
+      "start_int": 1503,
+      "timestamp_label": "25:03",
+      "text": "Are you able to see my screen now?"
+    },
+    {
+      "start": 1507.238,
+      "end": 1508.158,
+      "start_int": 1507,
+      "timestamp_label": "25:07",
+      "text": "Yes, we can see your screen."
+    },
+    {
+      "start": 1509.158,
+      "end": 1509.838,
+      "start_int": 1509,
+      "timestamp_label": "25:09",
+      "text": "Oh great."
+    },
+    {
+      "start": 1510.118,
+      "end": 1511.118,
+      "start_int": 1510,
+      "timestamp_label": "25:10",
+      "text": "So I'm in."
+    },
+    {
+      "start": 1511.158,
+      "end": 1511.198,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "A."
+    },
+    {
+      "start": 1511.198,
+      "end": 1512.518,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "I'm in a training screen."
+    },
+    {
+      "start": 1514.058,
+      "end": 1517.889,
+      "start_int": 1514,
+      "timestamp_label": "25:14",
+      "text": "It's much the same as the the real world environment."
+    },
+    {
+      "start": 1517.889,
+      "end": 1521.578,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "Occasionally just before they implement changes to."
+    },
+    {
+      "start": 1521.948,
+      "end": 1526.285,
+      "start_int": 1521,
+      "timestamp_label": "25:21",
+      "text": "A real world, a real world production system. They'll put"
+    },
+    {
+      "start": 1526.285,
+      "end": 1528.828,
+      "start_int": 1526,
+      "timestamp_label": "25:26",
+      "text": "them into into this system first."
+    },
+    {
+      "start": 1530.858,
+      "end": 1533.538,
+      "start_int": 1530,
+      "timestamp_label": "25:30",
+      "text": "With you and want to see the."
+    },
+    {
+      "start": 1533.418,
+      "end": 1537.843,
+      "start_int": 1533,
+      "timestamp_label": "25:33",
+      "text": "Current state of your training. You're gonna look under my"
+    },
+    {
+      "start": 1537.843,
+      "end": 1542.793,
+      "start_int": 1537,
+      "timestamp_label": "25:37",
+      "text": "account or going to jam in order to do that, let's first use just"
+    },
+    {
+      "start": 1542.793,
+      "end": 1543.618,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "this. This."
+    },
+    {
+      "start": 1543.898,
+      "end": 1545.458,
+      "start_int": 1543,
+      "timestamp_label": "25:43",
+      "text": "Whoops. We'll go back."
+    },
+    {
+      "start": 1547.128,
+      "end": 1548.288,
+      "start_int": 1547,
+      "timestamp_label": "25:47",
+      "text": "Of course it's expired."
+    },
+    {
+      "start": 1554.488,
+      "end": 1556.048,
+      "start_int": 1554,
+      "timestamp_label": "25:54",
+      "text": "Right here is mod one."
+    },
+    {
+      "start": 1555.288,
+      "end": 1557.008,
+      "start_int": 1555,
+      "timestamp_label": "25:55",
+      "text": "And then we'll go into."
+    },
+    {
+      "start": 1556.808,
+      "end": 1558.848,
+      "start_int": 1556,
+      "timestamp_label": "25:56",
+      "text": "Mod one is not in there."
+    },
+    {
+      "start": 1558.848,
+      "end": 1559.888,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "They did not put the."
+    },
+    {
+      "start": 1559.088,
+      "end": 1559.168,
+      "start_int": 1559,
+      "timestamp_label": "25:59",
+      "text": "Uh."
+    },
+    {
+      "start": 1559.978,
+      "end": 1565.614,
+      "start_int": 1559,
+      "timestamp_label": "25:59",
+      "text": "Jam or the the training and the training is is you're able to"
+    },
+    {
+      "start": 1565.614,
+      "end": 1571.25,
+      "start_int": 1565,
+      "timestamp_label": "26:05",
+      "text": "locate your training from both jam and in this main screen my"
+    },
+    {
+      "start": 1571.25,
+      "end": 1577.069,
+      "start_int": 1571,
+      "timestamp_label": "26:11",
+      "text": "account. The landing page in π under my account and you come in"
+    },
+    {
+      "start": 1577.069,
+      "end": 1580.978,
+      "start_int": 1577,
+      "timestamp_label": "26:17",
+      "text": "here, you'll be able to go to my training."
+    },
+    {
+      "start": 1583.998,
+      "end": 1588.863,
+      "start_int": 1583,
+      "timestamp_label": "26:23",
+      "text": "And then you see and I don't have a well curated list of my"
+    },
+    {
+      "start": 1588.863,
+      "end": 1589.998,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "training here."
+    },
+    {
+      "start": 1590.318,
+      "end": 1594.353,
+      "start_int": 1590,
+      "timestamp_label": "26:30",
+      "text": "These are things that I've put up sort of as samples. I might"
+    },
+    {
+      "start": 1594.353,
+      "end": 1598.259,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "not even have actual proper certificates because I'm in the"
+    },
+    {
+      "start": 1598.259,
+      "end": 1600.798,
+      "start_int": 1598,
+      "timestamp_label": "26:38",
+      "text": "training system and I uploaded things."
+    },
+    {
+      "start": 1600.798,
+      "end": 1602.998,
+      "start_int": 1600,
+      "timestamp_label": "26:40",
+      "text": "Maybe some dummy documents even."
+    },
+    {
+      "start": 1604.538,
+      "end": 1608.501,
+      "start_int": 1604,
+      "timestamp_label": "26:44",
+      "text": "To put in certain training information that I was doing and"
+    },
+    {
+      "start": 1608.501,
+      "end": 1612.729,
+      "start_int": 1608,
+      "timestamp_label": "26:48",
+      "text": "testing it at A at a particular times, but then I would put it,"
+    },
+    {
+      "start": 1612.729,
+      "end": 1616.098,
+      "start_int": 1612,
+      "timestamp_label": "26:52",
+      "text": "I'd put in my core training and then it becomes a."
+    },
+    {
+      "start": 1617.018,
+      "end": 1621.46,
+      "start_int": 1617,
+      "timestamp_label": "26:57",
+      "text": "Visible here and you you can edit what's in your training."
+    },
+    {
+      "start": 1621.46,
+      "end": 1625.978,
+      "start_int": 1621,
+      "timestamp_label": "27:01",
+      "text": "Sometimes if you got something that no is no longer needed."
+    },
+    {
+      "start": 1625.978,
+      "end": 1629.916,
+      "start_int": 1625,
+      "timestamp_label": "27:05",
+      "text": "But I would say you might want to keep some historical record"
+    },
+    {
+      "start": 1629.916,
+      "end": 1633.538,
+      "start_int": 1629,
+      "timestamp_label": "27:09",
+      "text": "of your training too, because if an inspector ever asks."
+    },
+    {
+      "start": 1635.338,
+      "end": 1636.058,
+      "start_int": 1635,
+      "timestamp_label": "27:15",
+      "text": "You could."
+    },
+    {
+      "start": 1636.858,
+      "end": 1640.433,
+      "start_int": 1636,
+      "timestamp_label": "27:16",
+      "text": "You could be in the best stead with them if you'd were to show"
+    },
+    {
+      "start": 1640.433,
+      "end": 1643.894,
+      "start_int": 1640,
+      "timestamp_label": "27:20",
+      "text": "them that you've been qualified throughout your time as as a"
+    },
+    {
+      "start": 1643.894,
+      "end": 1644.178,
+      "start_int": 1643,
+      "timestamp_label": "27:23",
+      "text": "core."
+    },
+    {
+      "start": 1644.498,
+      "end": 1648.08,
+      "start_int": 1644,
+      "timestamp_label": "27:24",
+      "text": "All right. So if I were going to add more training, I'd click"
+    },
+    {
+      "start": 1648.08,
+      "end": 1649.178,
+      "start_int": 1648,
+      "timestamp_label": "27:28",
+      "text": "under add training."
+    },
+    {
+      "start": 1649.838,
+      "end": 1653.815,
+      "start_int": 1649,
+      "timestamp_label": "27:29",
+      "text": "And then I get an ad core training which gets more"
+    },
+    {
+      "start": 1653.815,
+      "end": 1658.181,
+      "start_int": 1653,
+      "timestamp_label": "27:33",
+      "text": "particular then you get a a chance to select among drop"
+    },
+    {
+      "start": 1658.181,
+      "end": 1663.25,
+      "start_int": 1658,
+      "timestamp_label": "27:38",
+      "text": "downs of different trainings and then you might also have to use"
+    },
+    {
+      "start": 1663.25,
+      "end": 1663.718,
+      "start_int": 1663,
+      "timestamp_label": "27:43",
+      "text": "other."
+    },
+    {
+      "start": 1668.958,
+      "end": 1671.358,
+      "start_int": 1668,
+      "timestamp_label": "27:48",
+      "text": "And when you do that."
+    },
+    {
+      "start": 1672.898,
+      "end": 1676.732,
+      "start_int": 1672,
+      "timestamp_label": "27:52",
+      "text": "You then get a chance to name the filename for your training"
+    },
+    {
+      "start": 1676.732,
+      "end": 1680.441,
+      "start_int": 1676,
+      "timestamp_label": "27:56",
+      "text": "and that may be very useful in the Air Force. For example,"
+    },
+    {
+      "start": 1680.441,
+      "end": 1684.149,
+      "start_int": 1680,
+      "timestamp_label": "28:00",
+      "text": "there's contract specific training that we upload and it's"
+    },
+    {
+      "start": 1684.149,
+      "end": 1687.858,
+      "start_int": 1684,
+      "timestamp_label": "28:04",
+      "text": "an Air Force requirement. There's actually under the do D."
+    },
+    {
+      "start": 1687.858,
+      "end": 1689.938,
+      "start_int": 1687,
+      "timestamp_label": "28:07",
+      "text": "It's mentioned in the do D that there's."
+    },
+    {
+      "start": 1693.098,
+      "end": 1696.818,
+      "start_int": 1693,
+      "timestamp_label": "28:13",
+      "text": "A contract orientation provided by the contracting officer."
+    },
+    {
+      "start": 1698.198,
+      "end": 1699.358,
+      "start_int": 1698,
+      "timestamp_label": "28:18",
+      "text": "Similar things."
+    },
+    {
+      "start": 1699.358,
+      "end": 1704.069,
+      "start_int": 1699,
+      "timestamp_label": "28:19",
+      "text": "Kind of the same idea, but in the Air Force we we we we have"
+    },
+    {
+      "start": 1704.069,
+      "end": 1708.935,
+      "start_int": 1704,
+      "timestamp_label": "28:24",
+      "text": "more immediately speak to it as contract specific training and"
+    },
+    {
+      "start": 1708.935,
+      "end": 1713.878,
+      "start_int": 1708,
+      "timestamp_label": "28:28",
+      "text": "so I would have folks probably refer to that as other training."
+    },
+    {
+      "start": 1717.168,
+      "end": 1720.73,
+      "start_int": 1717,
+      "timestamp_label": "28:37",
+      "text": "And then for them when they upload their training, I'm"
+    },
+    {
+      "start": 1720.73,
+      "end": 1724.876,
+      "start_int": 1720,
+      "timestamp_label": "28:40",
+      "text": "always very particular and ask them to name the contract number"
+    },
+    {
+      "start": 1724.876,
+      "end": 1728.568,
+      "start_int": 1724,
+      "timestamp_label": "28:44",
+      "text": "for their contract specific training in the actual file."
+    },
+    {
+      "start": 1728.568,
+      "end": 1732.285,
+      "start_int": 1728,
+      "timestamp_label": "28:48",
+      "text": "Name that they upload because that makes looking up their"
+    },
+    {
+      "start": 1732.285,
+      "end": 1734.528,
+      "start_int": 1732,
+      "timestamp_label": "28:52",
+      "text": "training a lot easier and helpful."
+    },
+    {
+      "start": 1738.258,
+      "end": 1741.898,
+      "start_int": 1738,
+      "timestamp_label": "28:58",
+      "text": "Any questions on this this training bit?"
+    },
+    {
+      "start": 1743.458,
+      "end": 1746.766,
+      "start_int": 1743,
+      "timestamp_label": "29:03",
+      "text": "Uploading your training and maintaining it so somebody here"
+    },
+    {
+      "start": 1746.766,
+      "end": 1747.538,
+      "start_int": 1746,
+      "timestamp_label": "29:06",
+      "text": "is telling us."
+    },
+    {
+      "start": 1749.618,
+      "end": 1753.028,
+      "start_int": 1749,
+      "timestamp_label": "29:09",
+      "text": "I received an expiring e-mail about some training in π, not"
+    },
+    {
+      "start": 1753.028,
+      "end": 1753.938,
+      "start_int": 1753,
+      "timestamp_label": "29:13",
+      "text": "cyber awareness."
+    },
+    {
+      "start": 1754.138,
+      "end": 1756.018,
+      "start_int": 1754,
+      "timestamp_label": "29:14",
+      "text": "I've uploaded 3 year refresher."
+    },
+    {
+      "start": 1756.018,
+      "end": 1757.778,
+      "start_int": 1756,
+      "timestamp_label": "29:16",
+      "text": "Any idea what it references?"
+    },
+    {
+      "start": 1757.898,
+      "end": 1759.418,
+      "start_int": 1757,
+      "timestamp_label": "29:17",
+      "text": "This is an interesting thing."
+    },
+    {
+      "start": 1760.108,
+      "end": 1762.748,
+      "start_int": 1760,
+      "timestamp_label": "29:20",
+      "text": "The e-mail that that."
+    },
+    {
+      "start": 1763.918,
+      "end": 1767.638,
+      "start_int": 1763,
+      "timestamp_label": "29:23",
+      "text": "The cords receive about their training."
+    },
+    {
+      "start": 1769.188,
+      "end": 1774.338,
+      "start_int": 1769,
+      "timestamp_label": "29:29",
+      "text": "Is not specific to tell you which training you are required"
+    },
+    {
+      "start": 1774.338,
+      "end": 1779.747,
+      "start_int": 1774,
+      "timestamp_label": "29:34",
+      "text": "to upload. And it's nonspecific because the nature of the data"
+    },
+    {
+      "start": 1779.747,
+      "end": 1785.241,
+      "start_int": 1779,
+      "timestamp_label": "29:39",
+      "text": "that they capture for training when you looked in this training"
+    },
+    {
+      "start": 1785.241,
+      "end": 1787.988,
+      "start_int": 1785,
+      "timestamp_label": "29:45",
+      "text": "module and it said GPC training."
+    },
+    {
+      "start": 1789.668,
+      "end": 1793.462,
+      "start_int": 1789,
+      "timestamp_label": "29:49",
+      "text": "And GPC training. If you were to upload, perhaps you're in the"
+    },
+    {
+      "start": 1793.462,
+      "end": 1794.788,
+      "start_int": 1793,
+      "timestamp_label": "29:53",
+      "text": "GPC world if you were."
+    },
+    {
+      "start": 1797.048,
+      "end": 1799.848,
+      "start_int": 1797,
+      "timestamp_label": "29:57",
+      "text": "If you were to upload GPC training."
+    },
+    {
+      "start": 1801.388,
+      "end": 1808.668,
+      "start_int": 1801,
+      "timestamp_label": "30:01",
+      "text": "It asks for the the renewal period and it asks for."
+    },
+    {
+      "start": 1810.308,
+      "end": 1811.948,
+      "start_int": 1810,
+      "timestamp_label": "30:10",
+      "text": "The date of expiration."
+    },
+    {
+      "start": 1812.308,
+      "end": 1815.028,
+      "start_int": 1812,
+      "timestamp_label": "30:12",
+      "text": "So there are additional fields that get put in."
+    },
+    {
+      "start": 1817.268,
+      "end": 1821.603,
+      "start_int": 1817,
+      "timestamp_label": "30:17",
+      "text": "In in our core training world, we don't have those fields and"
+    },
+    {
+      "start": 1821.603,
+      "end": 1825.729,
+      "start_int": 1821,
+      "timestamp_label": "30:21",
+      "text": "so we don't get asked. And so the system knows when you've"
+    },
+    {
+      "start": 1825.729,
+      "end": 1826.988,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "uploaded training."
+    },
+    {
+      "start": 1827.538,
+      "end": 1831.833,
+      "start_int": 1827,
+      "timestamp_label": "30:27",
+      "text": "It knows the year out from the training you've uploaded, and so"
+    },
+    {
+      "start": 1831.833,
+      "end": 1835.726,
+      "start_int": 1831,
+      "timestamp_label": "30:31",
+      "text": "it may give you an expiration based on that. In our world"
+    },
+    {
+      "start": 1835.726,
+      "end": 1839.955,
+      "start_int": 1835,
+      "timestamp_label": "30:35",
+      "text": "where our cores have to do an annual ethics training in, in my"
+    },
+    {
+      "start": 1839.955,
+      "end": 1843.378,
+      "start_int": 1839,
+      "timestamp_label": "30:39",
+      "text": "world our cores will do an annual ethics training."
+    },
+    {
+      "start": 1844.138,
+      "end": 1848.281,
+      "start_int": 1844,
+      "timestamp_label": "30:44",
+      "text": "That means every year their date from the ethics training is one"
+    },
+    {
+      "start": 1848.281,
+      "end": 1851.659,
+      "start_int": 1848,
+      "timestamp_label": "30:48",
+      "text": "that triggers for their announcement. But there they"
+    },
+    {
+      "start": 1851.659,
+      "end": 1851.978,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "also."
+    },
+    {
+      "start": 1852.788,
+      "end": 1856.489,
+      "start_int": 1852,
+      "timestamp_label": "30:52",
+      "text": "Comprehended in the announcement might be that they need"
+    },
+    {
+      "start": 1856.489,
+      "end": 1857.788,
+      "start_int": 1856,
+      "timestamp_label": "30:56",
+      "text": "additional training."
+    },
+    {
+      "start": 1858.168,
+      "end": 1860.048,
+      "start_int": 1858,
+      "timestamp_label": "30:58",
+      "text": "Like maybe there's C tip training?"
+    },
+    {
+      "start": 1860.328,
+      "end": 1861.168,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "Or maybe."
+    },
+    {
+      "start": 1862.708,
+      "end": 1867.158,
+      "start_int": 1862,
+      "timestamp_label": "31:02",
+      "text": "There there core refresher training would also need and"
+    },
+    {
+      "start": 1867.158,
+      "end": 1871.45,
+      "start_int": 1867,
+      "timestamp_label": "31:07",
+      "text": "that you need to do is specifically look at what your"
+    },
+    {
+      "start": 1871.45,
+      "end": 1874.788,
+      "start_int": 1871,
+      "timestamp_label": "31:11",
+      "text": "training is and think through what it is."
+    },
+    {
+      "start": 1876.468,
+      "end": 1878.388,
+      "start_int": 1876,
+      "timestamp_label": "31:16",
+      "text": "The calendar is telling you about your training."
+    },
+    {
+      "start": 1881.028,
+      "end": 1882.108,
+      "start_int": 1881,
+      "timestamp_label": "31:21",
+      "text": "The hours."
+    },
+    {
+      "start": 1885.098,
+      "end": 1888.368,
+      "start_int": 1885,
+      "timestamp_label": "31:25",
+      "text": "The hours training somebody's asking about the meaning of the"
+    },
+    {
+      "start": 1888.368,
+      "end": 1889.898,
+      "start_int": 1888,
+      "timestamp_label": "31:28",
+      "text": "hours training, I'm not sure."
+    },
+    {
+      "start": 1889.898,
+      "end": 1894.618,
+      "start_int": 1889,
+      "timestamp_label": "31:29",
+      "text": "It's always a consistent data feed from DAU. Sometimes the"
+    },
+    {
+      "start": 1894.618,
+      "end": 1899.818,
+      "start_int": 1894,
+      "timestamp_label": "31:34",
+      "text": "data feed into the training from DAU is successful and you might"
+    },
+    {
+      "start": 1899.818,
+      "end": 1904.378,
+      "start_int": 1899,
+      "timestamp_label": "31:39",
+      "text": "not even have to upload training for a DAU course you've"
+    },
+    {
+      "start": 1904.378,
+      "end": 1905.178,
+      "start_int": 1904,
+      "timestamp_label": "31:44",
+      "text": "completed."
+    },
+    {
+      "start": 1905.818,
+      "end": 1909.841,
+      "start_int": 1905,
+      "timestamp_label": "31:45",
+      "text": "But if it's a historical course, or sometimes, maybe even"
+    },
+    {
+      "start": 1909.841,
+      "end": 1914.073,
+      "start_int": 1909,
+      "timestamp_label": "31:49",
+      "text": "contemporaneous, but the link didn't do its job for you, you"
+    },
+    {
+      "start": 1914.073,
+      "end": 1914.698,
+      "start_int": 1914,
+      "timestamp_label": "31:54",
+      "text": "may have."
+    },
+    {
+      "start": 1915.238,
+      "end": 1919.105,
+      "start_int": 1915,
+      "timestamp_label": "31:55",
+      "text": "Manually upload training and when you manually upload"
+    },
+    {
+      "start": 1919.105,
+      "end": 1923.689,
+      "start_int": 1919,
+      "timestamp_label": "31:59",
+      "text": "training you might not get the ability to edit the hours and so"
+    },
+    {
+      "start": 1923.689,
+      "end": 1925.838,
+      "start_int": 1923,
+      "timestamp_label": "32:03",
+      "text": "it might show zero or nothing."
+    },
+    {
+      "start": 1926.398,
+      "end": 1930.458,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "And so in my training here, the hours isn't always always"
+    },
+    {
+      "start": 1930.458,
+      "end": 1931.158,
+      "start_int": 1930,
+      "timestamp_label": "32:10",
+      "text": "specified."
+    },
+    {
+      "start": 1931.998,
+      "end": 1934.958,
+      "start_int": 1931,
+      "timestamp_label": "32:11",
+      "text": "I've got zero hours there and I wish."
+    },
+    {
+      "start": 1934.958,
+      "end": 1938.628,
+      "start_int": 1934,
+      "timestamp_label": "32:14",
+      "text": "In my world, I wish that I could put in a reliable number there"
+    },
+    {
+      "start": 1938.628,
+      "end": 1939.718,
+      "start_int": 1938,
+      "timestamp_label": "32:18",
+      "text": "so that I can know."
+    },
+    {
+      "start": 1940.508,
+      "end": 1944.06,
+      "start_int": 1940,
+      "timestamp_label": "32:20",
+      "text": "In fact, it's it's easier to keep track of a core refresher"
+    },
+    {
+      "start": 1944.06,
+      "end": 1947.732,
+      "start_int": 1944,
+      "timestamp_label": "32:24",
+      "text": "training requirement if you're a core coordinator and look at"
+    },
+    {
+      "start": 1947.732,
+      "end": 1948.028,
+      "start_int": 1947,
+      "timestamp_label": "32:27",
+      "text": "your."
+    },
+    {
+      "start": 1948.728,
+      "end": 1950.768,
+      "start_int": 1948,
+      "timestamp_label": "32:28",
+      "text": "Coors and look at an individual core."
+    },
+    {
+      "start": 1950.888,
+      "end": 1954.924,
+      "start_int": 1950,
+      "timestamp_label": "32:30",
+      "text": "It's easier if they've got the hours listed for the training"
+    },
+    {
+      "start": 1954.924,
+      "end": 1959.027,
+      "start_int": 1954,
+      "timestamp_label": "32:34",
+      "text": "they took towards their their refresher, because remember, if"
+    },
+    {
+      "start": 1959.027,
+      "end": 1962.998,
+      "start_int": 1959,
+      "timestamp_label": "32:39",
+      "text": "they're a type, A core they're shooting for eight hours and"
+    },
+    {
+      "start": 1962.998,
+      "end": 1967.101,
+      "start_int": 1962,
+      "timestamp_label": "32:42",
+      "text": "they might do that in multiple trainings. And so you, you may"
+    },
+    {
+      "start": 1967.101,
+      "end": 1968.888,
+      "start_int": 1967,
+      "timestamp_label": "32:47",
+      "text": "add up the hours and it if."
+    },
+    {
+      "start": 1968.888,
+      "end": 1970.848,
+      "start_int": 1968,
+      "timestamp_label": "32:48",
+      "text": "The hours display that could be a help."
+    },
+    {
+      "start": 1971.088,
+      "end": 1974.443,
+      "start_int": 1971,
+      "timestamp_label": "32:51",
+      "text": "Otherwise, clicking in or sometimes if a certificate"
+    },
+    {
+      "start": 1974.443,
+      "end": 1978.368,
+      "start_int": 1974,
+      "timestamp_label": "32:54",
+      "text": "doesn't put the hours on it, you may even need to go over to."
+    },
+    {
+      "start": 1978.898,
+      "end": 1984.292,
+      "start_int": 1978,
+      "timestamp_label": "32:58",
+      "text": "Place like Dau's I catalog in order to determine how many clps"
+    },
+    {
+      "start": 1984.292,
+      "end": 1989.514,
+      "start_int": 1984,
+      "timestamp_label": "33:04",
+      "text": "of course does count for and then you help to establish when"
+    },
+    {
+      "start": 1989.514,
+      "end": 1994.138,
+      "start_int": 1989,
+      "timestamp_label": "33:09",
+      "text": "your core has met their eight or 16 hour requirement."
+    },
+    {
+      "start": 1996.148,
+      "end": 1999.887,
+      "start_int": 1996,
+      "timestamp_label": "33:16",
+      "text": "I have also as a core coordinator, considered issuing"
+    },
+    {
+      "start": 1999.887,
+      "end": 2004.11,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "a special certificate to people once they accomplished their"
+    },
+    {
+      "start": 2004.11,
+      "end": 2007.988,
+      "start_int": 2004,
+      "timestamp_label": "33:24",
+      "text": "core refresher training, and I just haven't kept at it."
+    },
+    {
+      "start": 2008.348,
+      "end": 2012.78,
+      "start_int": 2008,
+      "timestamp_label": "33:28",
+      "text": "But it I began to establish it as a local practice and maybe"
+    },
+    {
+      "start": 2012.78,
+      "end": 2015.468,
+      "start_int": 2012,
+      "timestamp_label": "33:32",
+      "text": "folks might want to do this so that."
+    },
+    {
+      "start": 2015.888,
+      "end": 2020.099,
+      "start_int": 2015,
+      "timestamp_label": "33:35",
+      "text": "It it it helps that you establish a refresher saying you"
+    },
+    {
+      "start": 2020.099,
+      "end": 2024.754,
+      "start_int": 2020,
+      "timestamp_label": "33:40",
+      "text": "met your 8 or 16 hour and the the core coordinator could issue"
+    },
+    {
+      "start": 2024.754,
+      "end": 2029.408,
+      "start_int": 2024,
+      "timestamp_label": "33:44",
+      "text": "a certificate to that core with a certain date and said you're"
+    },
+    {
+      "start": 2029.408,
+      "end": 2033.767,
+      "start_int": 2029,
+      "timestamp_label": "33:49",
+      "text": "good. I might even issue a future date on this certificate"
+    },
+    {
+      "start": 2033.767,
+      "end": 2034.728,
+      "start_int": 2033,
+      "timestamp_label": "33:53",
+      "text": "and say when."
+    },
+    {
+      "start": 2034.728,
+      "end": 2038.227,
+      "start_int": 2034,
+      "timestamp_label": "33:54",
+      "text": "It expires three years without and then identify that they're"
+    },
+    {
+      "start": 2038.227,
+      "end": 2041.557,
+      "start_int": 2038,
+      "timestamp_label": "33:58",
+      "text": "good until the expiration date of this, and then when they"
+    },
+    {
+      "start": 2041.557,
+      "end": 2043.928,
+      "start_int": 2041,
+      "timestamp_label": "34:01",
+      "text": "upload that certificate, they do it, say."
+    },
+    {
+      "start": 2044.708,
+      "end": 2047.388,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "Under core refresher and then make sure the file name."
+    },
+    {
+      "start": 2048.008,
+      "end": 2049.808,
+      "start_int": 2048,
+      "timestamp_label": "34:08",
+      "text": "Is a good file name to help them."
+    },
+    {
+      "start": 2051.348,
+      "end": 2054.784,
+      "start_int": 2051,
+      "timestamp_label": "34:11",
+      "text": "Kind of announce what that is and what they what they what"
+    },
+    {
+      "start": 2054.784,
+      "end": 2058.336,
+      "start_int": 2054,
+      "timestamp_label": "34:14",
+      "text": "they established there were a few questions I wanted to make"
+    },
+    {
+      "start": 2058.336,
+      "end": 2059.268,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "sure I got here."
+    },
+    {
+      "start": 2064.258,
+      "end": 2064.578,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "Hey."
+    },
+    {
+      "start": 2066.068,
+      "end": 2068.748,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "Computer screen is being just a little sticky."
+    },
+    {
+      "start": 2069.588,
+      "end": 2071.628,
+      "start_int": 2069,
+      "timestamp_label": "34:29",
+      "text": "Somebody's asking. Please verify."
+    },
+    {
+      "start": 2073.188,
+      "end": 2076.517,
+      "start_int": 2073,
+      "timestamp_label": "34:33",
+      "text": "Has info to course when searching by contract number and"
+    },
+    {
+      "start": 2076.517,
+      "end": 2079.788,
+      "start_int": 2076,
+      "timestamp_label": "34:36",
+      "text": "Jam Jam will not recognize contract number with dashes."
+    },
+    {
+      "start": 2079.908,
+      "end": 2083.953,
+      "start_int": 2079,
+      "timestamp_label": "34:39",
+      "text": "However, SPM and EDA are smart enough to discard the dashes and"
+    },
+    {
+      "start": 2083.953,
+      "end": 2085.028,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "give you results."
+    },
+    {
+      "start": 2085.308,
+      "end": 2087.108,
+      "start_int": 2085,
+      "timestamp_label": "34:45",
+      "text": "I just learned something, Tom."
+    },
+    {
+      "start": 2087.748,
+      "end": 2093.748,
+      "start_int": 2087,
+      "timestamp_label": "34:47",
+      "text": "I I have searched in in SVM and EDA without dashes and so I"
+    },
+    {
+      "start": 2093.748,
+      "end": 2097.748,
+      "start_int": 2093,
+      "timestamp_label": "34:53",
+      "text": "didn't know that it that it the system."
+    },
+    {
+      "start": 2098.808,
+      "end": 2103.768,
+      "start_int": 2098,
+      "timestamp_label": "34:58",
+      "text": "Pm and EDA would would take dashes and and disregard them."
+    },
+    {
+      "start": 2105.308,
+      "end": 2106.988,
+      "start_int": 2105,
+      "timestamp_label": "35:05",
+      "text": "So you've given me one more tool."
+    },
+    {
+      "start": 2107.148,
+      "end": 2111.499,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "Yes. When? When you're entering contracts in, you might just"
+    },
+    {
+      "start": 2111.499,
+      "end": 2115.637,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "want to develop the habit moving forward of entering your"
+    },
+    {
+      "start": 2115.637,
+      "end": 2118.348,
+      "start_int": 2115,
+      "timestamp_label": "35:15",
+      "text": "contracts numbers without the dashes."
+    },
+    {
+      "start": 2120.028,
+      "end": 2124.428,
+      "start_int": 2120,
+      "timestamp_label": "35:20",
+      "text": "When? When the DoD standardized the identifiers for contracts."
+    },
+    {
+      "start": 2126.148,
+      "end": 2128.028,
+      "start_int": 2126,
+      "timestamp_label": "35:26",
+      "text": "Across all of DoD."
+    },
+    {
+      "start": 2128.648,
+      "end": 2132.46,
+      "start_int": 2128,
+      "timestamp_label": "35:28",
+      "text": "I'm trying to remember if this even went further than Dodi"
+    },
+    {
+      "start": 2132.46,
+      "end": 2132.848,
+      "start_int": 2132,
+      "timestamp_label": "35:32",
+      "text": "won't."
+    },
+    {
+      "start": 2132.848,
+      "end": 2137.447,
+      "start_int": 2132,
+      "timestamp_label": "35:32",
+      "text": "I won't say so because I don't know for sure when we did this,"
+    },
+    {
+      "start": 2137.447,
+      "end": 2141.609,
+      "start_int": 2137,
+      "timestamp_label": "35:37",
+      "text": "we took many different agencies and we made sure that we"
+    },
+    {
+      "start": 2141.609,
+      "end": 2145.844,
+      "start_int": 2141,
+      "timestamp_label": "35:41",
+      "text": "standardized the contract and order numbers so that order"
+    },
+    {
+      "start": 2145.844,
+      "end": 2149.568,
+      "start_int": 2145,
+      "timestamp_label": "35:45",
+      "text": "numbers even on your IDIQ the indefinite delivery."
+    },
+    {
+      "start": 2151.108,
+      "end": 2154.275,
+      "start_int": 2151,
+      "timestamp_label": "35:51",
+      "text": "Indefinite quantity type contracts, even the order"
+    },
+    {
+      "start": 2154.275,
+      "end": 2155.828,
+      "start_int": 2154,
+      "timestamp_label": "35:54",
+      "text": "numbers get standardized."
+    },
+    {
+      "start": 2157.508,
+      "end": 2161.108,
+      "start_int": 2157,
+      "timestamp_label": "35:57",
+      "text": "Used to be in the old school, you have a contract."
+    },
+    {
+      "start": 2161.758,
+      "end": 2164.118,
+      "start_int": 2161,
+      "timestamp_label": "36:01",
+      "text": "And then an order number might be a very simple thing."
+    },
+    {
+      "start": 2165.668,
+      "end": 2167.508,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "001002."
+    },
+    {
+      "start": 2169.308,
+      "end": 2173.436,
+      "start_int": 2169,
+      "timestamp_label": "36:09",
+      "text": "Well, now we've gotten to a system where every contract and"
+    },
+    {
+      "start": 2173.436,
+      "end": 2177.632,
+      "start_int": 2173,
+      "timestamp_label": "36:13",
+      "text": "every order in DoD is a unique number throughout all of DoD."
+    },
+    {
+      "start": 2177.632,
+      "end": 2181.898,
+      "start_int": 2177,
+      "timestamp_label": "36:17",
+      "text": "And we took away dashes because dashes might might come in in"
+    },
+    {
+      "start": 2181.898,
+      "end": 2184.788,
+      "start_int": 2181,
+      "timestamp_label": "36:21",
+      "text": "different places in a in a in a document."
+    },
+    {
+      "start": 2184.948,
+      "end": 2189.098,
+      "start_int": 2184,
+      "timestamp_label": "36:24",
+      "text": "And it's not essential to the numbering, and so to make sure"
+    },
+    {
+      "start": 2189.098,
+      "end": 2191.548,
+      "start_int": 2189,
+      "timestamp_label": "36:29",
+      "text": "that everybody has a unique number."
+    },
+    {
+      "start": 2192.768,
+      "end": 2198.848,
+      "start_int": 2192,
+      "timestamp_label": "36:32",
+      "text": "We've removed dashes from the. It's called a PID procurement."
+    },
+    {
+      "start": 2200.388,
+      "end": 2203.28,
+      "start_int": 2200,
+      "timestamp_label": "36:40",
+      "text": "Well, procurement identifier, but I can't remember what the"
+    },
+    {
+      "start": 2203.28,
+      "end": 2204.148,
+      "start_int": 2203,
+      "timestamp_label": "36:43",
+      "text": "second I would be."
+    },
+    {
+      "start": 2205.828,
+      "end": 2209.108,
+      "start_int": 2205,
+      "timestamp_label": "36:45",
+      "text": "Piid if anybody has that, pop it into chat."
+    },
+    {
+      "start": 2209.108,
+      "end": 2210.908,
+      "start_int": 2209,
+      "timestamp_label": "36:49",
+      "text": "Maybe so."
+    },
+    {
+      "start": 2210.908,
+      "end": 2214.934,
+      "start_int": 2210,
+      "timestamp_label": "36:50",
+      "text": "When we standardize that, that was the beginning of some really"
+    },
+    {
+      "start": 2214.934,
+      "end": 2218.268,
+      "start_int": 2214,
+      "timestamp_label": "36:54",
+      "text": "pretty unique and sophisticated things in our world."
+    },
+    {
+      "start": 2218.548,
+      "end": 2223.348,
+      "start_int": 2218,
+      "timestamp_label": "36:58",
+      "text": "Our electronic document access became electronic data access."
+    },
+    {
+      "start": 2224.168,
+      "end": 2227.63,
+      "start_int": 2224,
+      "timestamp_label": "37:04",
+      "text": "In our documents inside that system became electronically"
+    },
+    {
+      "start": 2227.63,
+      "end": 2228.168,
+      "start_int": 2227,
+      "timestamp_label": "37:07",
+      "text": "readable."
+    },
+    {
+      "start": 2228.288,
+      "end": 2230.488,
+      "start_int": 2228,
+      "timestamp_label": "37:08",
+      "text": "That's why your SPM and core modules."
+    },
+    {
+      "start": 2232.028,
+      "end": 2236.663,
+      "start_int": 2232,
+      "timestamp_label": "37:12",
+      "text": "Now take smart forms as pretty much their major emphasis, and"
+    },
+    {
+      "start": 2236.663,
+      "end": 2241.449,
+      "start_int": 2236,
+      "timestamp_label": "37:16",
+      "text": "in there each of the data fields is readable and ultimately the"
+    },
+    {
+      "start": 2241.449,
+      "end": 2246.234,
+      "start_int": 2241,
+      "timestamp_label": "37:21",
+      "text": "system can pull it out, put data into reports and not just you,"
+    },
+    {
+      "start": 2246.234,
+      "end": 2250.72,
+      "start_int": 2246,
+      "timestamp_label": "37:26",
+      "text": "don't just get like a scanned PDF that goes into the system"
+    },
+    {
+      "start": 2250.72,
+      "end": 2251.468,
+      "start_int": 2250,
+      "timestamp_label": "37:30",
+      "text": "which ISN."
+    },
+    {
+      "start": 2251.588,
+      "end": 2254.388,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "A very readable by by our computers."
+    },
+    {
+      "start": 2255.078,
+      "end": 2257.998,
+      "start_int": 2255,
+      "timestamp_label": "37:35",
+      "text": "And doesn't give as good a repository of data."
+    },
+    {
+      "start": 2258.438,
+      "end": 2262.558,
+      "start_int": 2258,
+      "timestamp_label": "37:38",
+      "text": "So that's kind of a rundown of the contract number convention."
+    },
+    {
+      "start": 2267.418,
+      "end": 2271.193,
+      "start_int": 2267,
+      "timestamp_label": "37:47",
+      "text": "And somebody's just saying that they need to update their"
+    },
+    {
+      "start": 2271.193,
+      "end": 2274.058,
+      "start_int": 2271,
+      "timestamp_label": "37:51",
+      "text": "account for their cyber awareness training."
+    },
+    {
+      "start": 2274.058,
+      "end": 2278.436,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "Yes, that's an interesting thing. In your profile, you want"
+    },
+    {
+      "start": 2278.436,
+      "end": 2282.522,
+      "start_int": 2278,
+      "timestamp_label": "37:58",
+      "text": "to have your current cyber awareness date. That profile"
+    },
+    {
+      "start": 2282.522,
+      "end": 2286.827,
+      "start_int": 2282,
+      "timestamp_label": "38:02",
+      "text": "information can get you bounced from active status in your"
+    },
+    {
+      "start": 2286.827,
+      "end": 2287.338,
+      "start_int": 2286,
+      "timestamp_label": "38:06",
+      "text": "system."
+    },
+    {
+      "start": 2288.908,
+      "end": 2292.629,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "If you're cyber awareness training date goes away or I"
+    },
+    {
+      "start": 2292.629,
+      "end": 2296.35,
+      "start_int": 2292,
+      "timestamp_label": "38:12",
+      "text": "mean gets aged out over a year and I don't require the"
+    },
+    {
+      "start": 2296.35,
+      "end": 2300.681,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "cyberawareness certificate for my folks 'cause I see nowhere in"
+    },
+    {
+      "start": 2300.681,
+      "end": 2302.508,
+      "start_int": 2300,
+      "timestamp_label": "38:20",
+      "text": "writing that it's required."
+    },
+    {
+      "start": 2302.908,
+      "end": 2307.843,
+      "start_int": 2302,
+      "timestamp_label": "38:22",
+      "text": "But I do require that they have a current cyber awareness date"
+    },
+    {
+      "start": 2307.843,
+      "end": 2308.548,
+      "start_int": 2307,
+      "timestamp_label": "38:27",
+      "text": "in their."
+    },
+    {
+      "start": 2309.278,
+      "end": 2314.598,
+      "start_int": 2309,
+      "timestamp_label": "38:29",
+      "text": "Their their profile in Pi. We might if I if my account hasn't."
+    },
+    {
+      "start": 2319.748,
+      "end": 2321.308,
+      "start_int": 2319,
+      "timestamp_label": "38:39",
+      "text": "My account hasn't aged out."
+    },
+    {
+      "start": 2321.308,
+      "end": 2322.788,
+      "start_int": 2321,
+      "timestamp_label": "38:41",
+      "text": "Maybe we'll look at my profile."
+    },
+    {
+      "start": 2325.998,
+      "end": 2327.798,
+      "start_int": 2325,
+      "timestamp_label": "38:45",
+      "text": "Look at some information in my profile."
+    },
+    {
+      "start": 2330.628,
+      "end": 2333.428,
+      "start_int": 2330,
+      "timestamp_label": "38:50",
+      "text": "Your home organization, DODAK is an interesting thing."
+    },
+    {
+      "start": 2335.108,
+      "end": 2337.268,
+      "start_int": 2335,
+      "timestamp_label": "38:55",
+      "text": "My cyber awareness date is in my profile."
+    },
+    {
+      "start": 2338.908,
+      "end": 2341.988,
+      "start_int": 2338,
+      "timestamp_label": "38:58",
+      "text": "And I'm still good in this system in this test system."
+    },
+    {
+      "start": 2343.888,
+      "end": 2348.364,
+      "start_int": 2343,
+      "timestamp_label": "39:03",
+      "text": "'Cause you go one year out from here. I'm still good until May"
+    },
+    {
+      "start": 2348.364,
+      "end": 2349.928,
+      "start_int": 2348,
+      "timestamp_label": "39:08",
+      "text": "of 2025 and then this."
+    },
+    {
+      "start": 2349.928,
+      "end": 2354.816,
+      "start_int": 2349,
+      "timestamp_label": "39:09",
+      "text": "I put it this is a Navy doodak. I put that for my purposes in"
+    },
+    {
+      "start": 2354.816,
+      "end": 2359.074,
+      "start_int": 2354,
+      "timestamp_label": "39:14",
+      "text": "the test system because I got added to some contracts"
+    },
+    {
+      "start": 2359.074,
+      "end": 2363.49,
+      "start_int": 2359,
+      "timestamp_label": "39:19",
+      "text": "originally in my original populating of the test system"
+    },
+    {
+      "start": 2363.49,
+      "end": 2366.408,
+      "start_int": 2363,
+      "timestamp_label": "39:23",
+      "text": "for Navy, and my homework do DAC is."
+    },
+    {
+      "start": 2367.598,
+      "end": 2372.008,
+      "start_int": 2367,
+      "timestamp_label": "39:27",
+      "text": "For my core world, it helps most if if it's the issue by dodoc"
+    },
+    {
+      "start": 2372.008,
+      "end": 2376.138,
+      "start_int": 2372,
+      "timestamp_label": "39:32",
+      "text": "for your contract in your core world. But the system won't"
+    },
+    {
+      "start": 2376.138,
+      "end": 2379.358,
+      "start_int": 2376,
+      "timestamp_label": "39:36",
+      "text": "necessarily break if something else is there."
+    },
+    {
+      "start": 2379.438,
+      "end": 2383.472,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "Sometimes woff acceptors get to be made cores after they're a"
+    },
+    {
+      "start": 2383.472,
+      "end": 2384.318,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "WAF acceptor."
+    },
+    {
+      "start": 2384.318,
+      "end": 2388.521,
+      "start_int": 2384,
+      "timestamp_label": "39:44",
+      "text": "And that could mean that their homework dodec is something"
+    },
+    {
+      "start": 2388.521,
+      "end": 2388.878,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "else."
+    },
+    {
+      "start": 2389.078,
+      "end": 2392.158,
+      "start_int": 2389,
+      "timestamp_label": "39:49",
+      "text": "And the system won't necessarily break, but it is."
+    },
+    {
+      "start": 2392.478,
+      "end": 2396.981,
+      "start_int": 2392,
+      "timestamp_label": "39:52",
+      "text": "It is pretty interesting that when they make a role request in"
+    },
+    {
+      "start": 2396.981,
+      "end": 2401.413,
+      "start_int": 2396,
+      "timestamp_label": "39:56",
+      "text": "the system, if you've got your homework dodec, it defaults to"
+    },
+    {
+      "start": 2401.413,
+      "end": 2404.558,
+      "start_int": 2401,
+      "timestamp_label": "40:01",
+      "text": "try and populate the role request for that."
+    },
+    {
+      "start": 2405.358,
+      "end": 2408.01,
+      "start_int": 2405,
+      "timestamp_label": "40:05",
+      "text": "And occasionally I end up with folks with a role that isn't"
+    },
+    {
+      "start": 2408.01,
+      "end": 2408.718,
+      "start_int": 2408,
+      "timestamp_label": "40:08",
+      "text": "useful for them."
+    },
+    {
+      "start": 2409.618,
+      "end": 2415.296,
+      "start_int": 2409,
+      "timestamp_label": "40:09",
+      "text": "If they have a a homework do DAC that's based on like their WAF"
+    },
+    {
+      "start": 2415.296,
+      "end": 2416.538,
+      "start_int": 2415,
+      "timestamp_label": "40:15",
+      "text": "acceptor role."
+    },
+    {
+      "start": 2416.698,
+      "end": 2422.614,
+      "start_int": 2416,
+      "timestamp_label": "40:16",
+      "text": "So the most helpful dodec to use is a homework do deck is the 1st"
+    },
+    {
+      "start": 2422.614,
+      "end": 2424.138,
+      "start_int": 2422,
+      "timestamp_label": "40:22",
+      "text": "6 digits of your."
+    },
+    {
+      "start": 2425.678,
+      "end": 2429.163,
+      "start_int": 2425,
+      "timestamp_label": "40:25",
+      "text": "Contract to which you're assigned and the DODEC is an"
+    },
+    {
+      "start": 2429.163,
+      "end": 2431.358,
+      "start_int": 2429,
+      "timestamp_label": "40:29",
+      "text": "activity code established by DoD."
+    },
+    {
+      "start": 2433.718,
+      "end": 2440.478,
+      "start_int": 2433,
+      "timestamp_label": "40:33",
+      "text": "Sometimes in in in π language we call it a location code."
+    },
+    {
+      "start": 2441.468,
+      "end": 2447.243,
+      "start_int": 2441,
+      "timestamp_label": "40:41",
+      "text": "Because there are nuances to location codes for a WAFF"
+    },
+    {
+      "start": 2447.243,
+      "end": 2448.188,
+      "start_int": 2447,
+      "timestamp_label": "40:47",
+      "text": "acceptor."
+    },
+    {
+      "start": 2448.588,
+      "end": 2452.568,
+      "start_int": 2448,
+      "timestamp_label": "40:48",
+      "text": "Technically it's abpn, which is different than a dodec for"
+    },
+    {
+      "start": 2452.568,
+      "end": 2456.548,
+      "start_int": 2452,
+      "timestamp_label": "40:52",
+      "text": "certain systems purposes, but location code is the overall"
+    },
+    {
+      "start": 2456.548,
+      "end": 2460.663,
+      "start_int": 2456,
+      "timestamp_label": "40:56",
+      "text": "thing and somebody asked, not sure if covered it, but if you"
+    },
+    {
+      "start": 2460.663,
+      "end": 2464.643,
+      "start_int": 2460,
+      "timestamp_label": "41:00",
+      "text": "can show how a core can update their OGE file or month and"
+    },
+    {
+      "start": 2464.643,
+      "end": 2465.588,
+      "start_int": 2464,
+      "timestamp_label": "41:04",
+      "text": "year, I think."
+    },
+    {
+      "start": 2466.518,
+      "end": 2470.874,
+      "start_int": 2466,
+      "timestamp_label": "41:06",
+      "text": "The only time was to go into the core Info tab on the Jam main"
+    },
+    {
+      "start": 2470.874,
+      "end": 2471.358,
+      "start_int": 2470,
+      "timestamp_label": "41:10",
+      "text": "screen."
+    },
+    {
+      "start": 2472.928,
+      "end": 2476.488,
+      "start_int": 2472,
+      "timestamp_label": "41:12",
+      "text": "Forget to do this each year and it's not obvious how to do it."
+    },
+    {
+      "start": 2476.488,
+      "end": 2477.288,
+      "start_int": 2476,
+      "timestamp_label": "41:16",
+      "text": "Let's go take a look."
+    },
+    {
+      "start": 2487.258,
+      "end": 2490.178,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "Think we're gonna need to go into the test system?"
+    },
+    {
+      "start": 2490.178,
+      "end": 2494.851,
+      "start_int": 2490,
+      "timestamp_label": "41:30",
+      "text": "'Cause, we're into the we're into the Π module, but we were"
+    },
+    {
+      "start": 2494.851,
+      "end": 2496.098,
+      "start_int": 2494,
+      "timestamp_label": "41:34",
+      "text": "into my account."
+    },
+    {
+      "start": 2496.098,
+      "end": 2500.305,
+      "start_int": 2496,
+      "timestamp_label": "41:36",
+      "text": "Now we're going back into our test system. We're gonna go into"
+    },
+    {
+      "start": 2500.305,
+      "end": 2503.378,
+      "start_int": 2500,
+      "timestamp_label": "41:40",
+      "text": "jam and take a look where we were just asked."
+    },
+    {
+      "start": 2507.128,
+      "end": 2510.768,
+      "start_int": 2507,
+      "timestamp_label": "41:47",
+      "text": "In Jam, we were asked to go into."
+    },
+    {
+      "start": 2513.958,
+      "end": 2516.398,
+      "start_int": 2513,
+      "timestamp_label": "41:53",
+      "text": "The core information tab."
+    },
+    {
+      "start": 2520.108,
+      "end": 2524.677,
+      "start_int": 2520,
+      "timestamp_label": "42:00",
+      "text": "Or information tab. So when you're in jam and you have an"
+    },
+    {
+      "start": 2524.677,
+      "end": 2529.482,
+      "start_int": 2524,
+      "timestamp_label": "42:04",
+      "text": "active SPM core role, you'll be able to get to jam, and once"
+    },
+    {
+      "start": 2529.482,
+      "end": 2532.948,
+      "start_int": 2529,
+      "timestamp_label": "42:09",
+      "text": "you've populated your core information tab."
+    },
+    {
+      "start": 2532.948,
+      "end": 2536.788,
+      "start_int": 2532,
+      "timestamp_label": "42:12",
+      "text": "Just by the way, and you fill out all the mandatory fields."
+    },
+    {
+      "start": 2536.788,
+      "end": 2540.972,
+      "start_int": 2536,
+      "timestamp_label": "42:16",
+      "text": "You then will get a possibility to create your appointment. This"
+    },
+    {
+      "start": 2540.972,
+      "end": 2545.092,
+      "start_int": 2540,
+      "timestamp_label": "42:20",
+      "text": "tab for create appointment does not appear until you filled out"
+    },
+    {
+      "start": 2545.092,
+      "end": 2546.508,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "your core information."
+    },
+    {
+      "start": 2547.318,
+      "end": 2549.478,
+      "start_int": 2547,
+      "timestamp_label": "42:27",
+      "text": "And core information is marked with."
+    },
+    {
+      "start": 2550.528,
+      "end": 2556.155,
+      "start_int": 2550,
+      "timestamp_label": "42:30",
+      "text": "Asterisks for the information that's required, OGE 450 filer."
+    },
+    {
+      "start": 2556.155,
+      "end": 2561.147,
+      "start_int": 2556,
+      "timestamp_label": "42:36",
+      "text": "I actually am, but I just probably didn't want, didn't"
+    },
+    {
+      "start": 2561.147,
+      "end": 2566.048,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "market or didn't want to market here. So we're going."
+    },
+    {
+      "start": 2567.598,
+      "end": 2567.758,
+      "start_int": 2567,
+      "timestamp_label": "42:47",
+      "text": "To."
+    },
+    {
+      "start": 2572.078,
+      "end": 2572.878,
+      "start_int": 2572,
+      "timestamp_label": "42:52",
+      "text": "Trying to remember."
+    },
+    {
+      "start": 2582.768,
+      "end": 2583.048,
+      "start_int": 2582,
+      "timestamp_label": "43:02",
+      "text": "Oops."
+    },
+    {
+      "start": 2587.848,
+      "end": 2591.208,
+      "start_int": 2587,
+      "timestamp_label": "43:07",
+      "text": "And then I put in 2024."
+    },
+    {
+      "start": 2594.128,
+      "end": 2598.009,
+      "start_int": 2594,
+      "timestamp_label": "43:14",
+      "text": "All right. So if you happen to be an OGE 450 filer and want to"
+    },
+    {
+      "start": 2598.009,
+      "end": 2602.013,
+      "start_int": 2598,
+      "timestamp_label": "43:18",
+      "text": "update in your core information, that's where you're going to be"
+    },
+    {
+      "start": 2602.013,
+      "end": 2605.217,
+      "start_int": 2602,
+      "timestamp_label": "43:22",
+      "text": "able to do it in core information and that ought to"
+    },
+    {
+      "start": 2605.217,
+      "end": 2607.928,
+      "start_int": 2605,
+      "timestamp_label": "43:25",
+      "text": "apply and show in your different contracts."
+    },
+    {
+      "start": 2610.548,
+      "end": 2611.188,
+      "start_int": 2610,
+      "timestamp_label": "43:30",
+      "text": "Thank you, Tom."
+    },
+    {
+      "start": 2616.098,
+      "end": 2617.978,
+      "start_int": 2616,
+      "timestamp_label": "43:36",
+      "text": "Yeah, for Wayne."
+    },
+    {
+      "start": 2617.978,
+      "end": 2621.738,
+      "start_int": 2617,
+      "timestamp_label": "43:37",
+      "text": "Did that resolve? Were you able to get into into π now?"
+    },
+    {
+      "start": 2627.948,
+      "end": 2632.206,
+      "start_int": 2627,
+      "timestamp_label": "43:47",
+      "text": "Oh, and somebody says they do a a refresher certificate and on"
+    },
+    {
+      "start": 2632.206,
+      "end": 2636.668,
+      "start_int": 2632,
+      "timestamp_label": "43:52",
+      "text": "the back list the course courses used for the refresher training."
+    },
+    {
+      "start": 2637.148,
+      "end": 2640.515,
+      "start_int": 2637,
+      "timestamp_label": "43:57",
+      "text": "Yeah, yeah, I think that would that would be a nice thing"
+    },
+    {
+      "start": 2640.515,
+      "end": 2642.548,
+      "start_int": 2640,
+      "timestamp_label": "44:00",
+      "text": "procurement instrument identifier."
+    },
+    {
+      "start": 2644.798,
+      "end": 2647.238,
+      "start_int": 2644,
+      "timestamp_label": "44:04",
+      "text": "Cool. That's what PID stands for."
+    },
+    {
+      "start": 2649.348,
+      "end": 2652.628,
+      "start_int": 2649,
+      "timestamp_label": "44:09",
+      "text": "So great to be able to Crowdsource some things."
+    },
+    {
+      "start": 2654.448,
+      "end": 2655.728,
+      "start_int": 2654,
+      "timestamp_label": "44:14",
+      "text": "You're a good memory out there."
+    },
+    {
+      "start": 2656.488,
+      "end": 2657.528,
+      "start_int": 2656,
+      "timestamp_label": "44:16",
+      "text": "We all work good together."
+    },
+    {
+      "start": 2666.818,
+      "end": 2668.058,
+      "start_int": 2666,
+      "timestamp_label": "44:26",
+      "text": "And."
+    },
+    {
+      "start": 2673.198,
+      "end": 2674.358,
+      "start_int": 2673,
+      "timestamp_label": "44:33",
+      "text": "Victoria which?"
+    },
+    {
+      "start": 2674.398,
+      "end": 2677.577,
+      "start_int": 2674,
+      "timestamp_label": "44:34",
+      "text": "Which field do we have to make yes to nominate yourself as a"
+    },
+    {
+      "start": 2677.577,
+      "end": 2677.838,
+      "start_int": 2677,
+      "timestamp_label": "44:37",
+      "text": "core?"
+    },
+    {
+      "start": 2684.798,
+      "end": 2689.527,
+      "start_int": 2684,
+      "timestamp_label": "44:44",
+      "text": "Oh, I think maybe you were thinking of is that the OGE 455"
+    },
+    {
+      "start": 2689.527,
+      "end": 2694.417,
+      "start_int": 2689,
+      "timestamp_label": "44:49",
+      "text": "or well, OGE, 450. Filer has certain criteria to to join and"
+    },
+    {
+      "start": 2694.417,
+      "end": 2699.548,
+      "start_int": 2694,
+      "timestamp_label": "44:54",
+      "text": "not everybody, not everybody is designated by their contracting"
+    },
+    {
+      "start": 2699.548,
+      "end": 2704.518,
+      "start_int": 2699,
+      "timestamp_label": "44:59",
+      "text": "officer as the OGE 450 filer. You might have agency or local."
+    },
+    {
+      "start": 2704.518,
+      "end": 2707.998,
+      "start_int": 2704,
+      "timestamp_label": "45:04",
+      "text": "Procedures that supersede that and that dictate that that"
+    },
+    {
+      "start": 2707.998,
+      "end": 2710.878,
+      "start_int": 2707,
+      "timestamp_label": "45:07",
+      "text": "answer would need to be yes, and then go ahead."
+    },
+    {
+      "start": 2711.678,
+      "end": 2717.318,
+      "start_int": 2711,
+      "timestamp_label": "45:11",
+      "text": "But it's the criteria itself is mentioned in the do D."
+    },
+    {
+      "start": 2719.998,
+      "end": 2720.078,
+      "start_int": 2719,
+      "timestamp_label": "45:19",
+      "text": "Uh."
+    },
+    {
+      "start": 2721.858,
+      "end": 2725.738,
+      "start_int": 2721,
+      "timestamp_label": "45:21",
+      "text": "I'm not certain if I'll be able to find it really fast."
+    },
+    {
+      "start": 2727.888,
+      "end": 2729.728,
+      "start_int": 2727,
+      "timestamp_label": "45:27",
+      "text": "Maybe we can."
+    },
+    {
+      "start": 2739.838,
+      "end": 2740.638,
+      "start_int": 2739,
+      "timestamp_label": "45:39",
+      "text": "Get rid of this."
+    },
+    {
+      "start": 2749.748,
+      "end": 2749.908,
+      "start_int": 2749,
+      "timestamp_label": "45:49",
+      "text": "Dear."
+    },
+    {
+      "start": 2754.258,
+      "end": 2754.418,
+      "start_int": 2754,
+      "timestamp_label": "45:54",
+      "text": "K."
+    },
+    {
+      "start": 2754.658,
+      "end": 2756.058,
+      "start_int": 2754,
+      "timestamp_label": "45:54",
+      "text": "The contracting officer."
+    },
+    {
+      "start": 2756.098,
+      "end": 2758.978,
+      "start_int": 2756,
+      "timestamp_label": "45:56",
+      "text": "This is under contracting officer."
+    },
+    {
+      "start": 2761.318,
+      "end": 2762.238,
+      "start_int": 2761,
+      "timestamp_label": "46:01",
+      "text": "DoD policy."
+    },
+    {
+      "start": 2764.298,
+      "end": 2768.678,
+      "start_int": 2764,
+      "timestamp_label": "46:04",
+      "text": "We're saying the contracting officer will determine whether"
+    },
+    {
+      "start": 2768.678,
+      "end": 2773.205,
+      "start_int": 2768,
+      "timestamp_label": "46:08",
+      "text": "the duties and responsibilities of the core meet the criteria"
+    },
+    {
+      "start": 2773.205,
+      "end": 2777.294,
+      "start_int": 2773,
+      "timestamp_label": "46:13",
+      "text": "for filing confidential financial disclosure report OGE"
+    },
+    {
+      "start": 2777.294,
+      "end": 2781.675,
+      "start_int": 2777,
+      "timestamp_label": "46:17",
+      "text": "form 450 as set forth in this section are talking about the"
+    },
+    {
+      "start": 2781.675,
+      "end": 2785.618,
+      "start_int": 2781,
+      "timestamp_label": "46:21",
+      "text": "Code of Federal Regulations and the the Do D5000 dot."
+    },
+    {
+      "start": 2785.618,
+      "end": 2786.578,
+      "start_int": 2785,
+      "timestamp_label": "46:25",
+      "text": "07R."
+    },
+    {
+      "start": 2788.118,
+      "end": 2788.998,
+      "start_int": 2788,
+      "timestamp_label": "46:28",
+      "text": "And then they tell us."
+    },
+    {
+      "start": 2790.678,
+      "end": 2794.416,
+      "start_int": 2790,
+      "timestamp_label": "46:30",
+      "text": "That corres designated 450 or will will submit new entrant"
+    },
+    {
+      "start": 2794.416,
+      "end": 2797.078,
+      "start_int": 2794,
+      "timestamp_label": "46:34",
+      "text": "report and, if applicable, annual report."
+    },
+    {
+      "start": 2797.668,
+      "end": 2802.751,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "Thereafter to the to the supervisors through. So here's a"
+    },
+    {
+      "start": 2802.751,
+      "end": 2803.628,
+      "start_int": 2802,
+      "timestamp_label": "46:42",
+      "text": "paragraph."
+    },
+    {
+      "start": 2805.438,
+      "end": 2805.478,
+      "start_int": 2805,
+      "timestamp_label": "46:45",
+      "text": "F."
+    },
+    {
+      "start": 2807.558,
+      "end": 2807.718,
+      "start_int": 2807,
+      "timestamp_label": "46:47",
+      "text": "In."
+    },
+    {
+      "start": 2810.768,
+      "end": 2814.968,
+      "start_int": 2810,
+      "timestamp_label": "46:50",
+      "text": "Under 3 three is that."
+    },
+    {
+      "start": 2814.968,
+      "end": 2818.608,
+      "start_int": 2814,
+      "timestamp_label": "46:54",
+      "text": "No, no, it's just FF under 3."
+    },
+    {
+      "start": 2820.238,
+      "end": 2822.118,
+      "start_int": 2820,
+      "timestamp_label": "47:00",
+      "text": "There in enclosure."
+    },
+    {
+      "start": 2822.798,
+      "end": 2824.558,
+      "start_int": 2822,
+      "timestamp_label": "47:02",
+      "text": "Well, maybe it's not an enclosure."
+    },
+    {
+      "start": 2824.558,
+      "end": 2825.758,
+      "start_int": 2824,
+      "timestamp_label": "47:04",
+      "text": "It might be the original."
+    },
+    {
+      "start": 2827.558,
+      "end": 2829.358,
+      "start_int": 2827,
+      "timestamp_label": "47:07",
+      "text": "Yeah, under the paragraph 3F."
+    },
+    {
+      "start": 2830.918,
+      "end": 2834.69,
+      "start_int": 2830,
+      "timestamp_label": "47:10",
+      "text": "So that's where you where your contracting officer wants to get"
+    },
+    {
+      "start": 2834.69,
+      "end": 2837.638,
+      "start_int": 2834,
+      "timestamp_label": "47:14",
+      "text": "more informed on criteria they could start there."
+    },
+    {
+      "start": 2840.848,
+      "end": 2845.193,
+      "start_int": 2840,
+      "timestamp_label": "47:20",
+      "text": "Oh, did we look the is my supervisor showing as a"
+    },
+    {
+      "start": 2845.193,
+      "end": 2847.888,
+      "start_int": 2845,
+      "timestamp_label": "47:25",
+      "text": "contractor in my in my profile."
+    },
+    {
+      "start": 2851.898,
+      "end": 2854.018,
+      "start_int": 2851,
+      "timestamp_label": "47:31",
+      "text": "Oh yeah, yeah, this is interesting."
+    },
+    {
+      "start": 2855.558,
+      "end": 2857.238,
+      "start_int": 2855,
+      "timestamp_label": "47:35",
+      "text": "As a as a means in my."
+    },
+    {
+      "start": 2859.278,
+      "end": 2860.158,
+      "start_int": 2859,
+      "timestamp_label": "47:39",
+      "text": "In my."
+    },
+    {
+      "start": 2864.518,
+      "end": 2869.751,
+      "start_int": 2864,
+      "timestamp_label": "47:44",
+      "text": "In my test program, the people who are working in the PMO, they"
+    },
+    {
+      "start": 2869.751,
+      "end": 2870.078,
+      "start_int": 2869,
+      "timestamp_label": "47:49",
+      "text": "are."
+    },
+    {
+      "start": 2871.038,
+      "end": 2871.598,
+      "start_int": 2871,
+      "timestamp_label": "47:51",
+      "text": "They are."
+    },
+    {
+      "start": 2871.598,
+      "end": 2875.585,
+      "start_int": 2871,
+      "timestamp_label": "47:51",
+      "text": "They've they've been sources of help to me and so those"
+    },
+    {
+      "start": 2875.585,
+      "end": 2878.078,
+      "start_int": 2875,
+      "timestamp_label": "47:55",
+      "text": "contractor emails are the helpful."
+    },
+    {
+      "start": 2879.638,
+      "end": 2883.339,
+      "start_int": 2879,
+      "timestamp_label": "47:59",
+      "text": "Folks, I'm probably going to transition and get my own"
+    },
+    {
+      "start": 2883.339,
+      "end": 2886.838,
+      "start_int": 2883,
+      "timestamp_label": "48:03",
+      "text": "supervisor in the my real world supervisor in here."
+    },
+    {
+      "start": 2887.118,
+      "end": 2890.358,
+      "start_int": 2887,
+      "timestamp_label": "48:07",
+      "text": "I think May is retired, but this is an e-mail address."
+    },
+    {
+      "start": 2890.358,
+      "end": 2893.758,
+      "start_int": 2890,
+      "timestamp_label": "48:10",
+      "text": "Probably if somebody who's currently there right now."
+    },
+    {
+      "start": 2894.418,
+      "end": 2895.178,
+      "start_int": 2894,
+      "timestamp_label": "48:14",
+      "text": "Who could help?"
+    },
+    {
+      "start": 2895.538,
+      "end": 2899.14,
+      "start_int": 2895,
+      "timestamp_label": "48:15",
+      "text": "And so my requests for different roles and things in the test"
+    },
+    {
+      "start": 2899.14,
+      "end": 2900.418,
+      "start_int": 2899,
+      "timestamp_label": "48:19",
+      "text": "system get worked out."
+    },
+    {
+      "start": 2900.818,
+      "end": 2904.058,
+      "start_int": 2900,
+      "timestamp_label": "48:20",
+      "text": "Thank you for for joshing me there, Gary."
+    },
+    {
+      "start": 2904.058,
+      "end": 2906.818,
+      "start_int": 2904,
+      "timestamp_label": "48:24",
+      "text": "Yes, that, that that is weird."
+    },
+    {
+      "start": 2907.098,
+      "end": 2909.298,
+      "start_int": 2907,
+      "timestamp_label": "48:27",
+      "text": "You wouldn't want in your real world system."
+    },
+    {
+      "start": 2910.838,
+      "end": 2913.638,
+      "start_int": 2910,
+      "timestamp_label": "48:30",
+      "text": "Your supervisor to be a contractor."
+    },
+    {
+      "start": 2915.358,
+      "end": 2916.998,
+      "start_int": 2915,
+      "timestamp_label": "48:35",
+      "text": "In in in as a π GAM."
+    },
+    {
+      "start": 2916.998,
+      "end": 2920.438,
+      "start_int": 2916,
+      "timestamp_label": "48:36",
+      "text": "Occasionally I'll see a government support contractor"
+    },
+    {
+      "start": 2920.438,
+      "end": 2924.196,
+      "start_int": 2920,
+      "timestamp_label": "48:40",
+      "text": "who has a sponsor and the sponsor for a government support"
+    },
+    {
+      "start": 2924.196,
+      "end": 2925.598,
+      "start_int": 2924,
+      "timestamp_label": "48:44",
+      "text": "contractor would be a."
+    },
+    {
+      "start": 2926.148,
+      "end": 2929.961,
+      "start_int": 2926,
+      "timestamp_label": "48:46",
+      "text": "Would be a government person for us in, in our world, the way"
+    },
+    {
+      "start": 2929.961,
+      "end": 2931.068,
+      "start_int": 2929,
+      "timestamp_label": "48:49",
+      "text": "that we do things."
+    },
+    {
+      "start": 2935.248,
+      "end": 2935.928,
+      "start_int": 2935,
+      "timestamp_label": "48:55",
+      "text": "And."
+    },
+    {
+      "start": 2938.998,
+      "end": 2939.398,
+      "start_int": 2938,
+      "timestamp_label": "48:58",
+      "text": "The."
+    },
+    {
+      "start": 2947.058,
+      "end": 2947.378,
+      "start_int": 2947,
+      "timestamp_label": "49:07",
+      "text": "The."
+    },
+    {
+      "start": 2950.168,
+      "end": 2953.851,
+      "start_int": 2950,
+      "timestamp_label": "49:10",
+      "text": "Somebody new to the government and AOR and training not yet"
+    },
+    {
+      "start": 2953.851,
+      "end": 2955.448,
+      "start_int": 2953,
+      "timestamp_label": "49:13",
+      "text": "authorized to sign off so."
+    },
+    {
+      "start": 2956.998,
+      "end": 2961.518,
+      "start_int": 2956,
+      "timestamp_label": "49:16",
+      "text": "Rushika, Ravel. You are an AOR and that is that is in the C"
+    },
+    {
+      "start": 2961.518,
+      "end": 2966.19,
+      "start_int": 2961,
+      "timestamp_label": "49:21",
+      "text": "parse system. The contractor Performance Assessment Reporting"
+    },
+    {
+      "start": 2966.19,
+      "end": 2971.012,
+      "start_int": 2966,
+      "timestamp_label": "49:26",
+      "text": "system and often are people in the C PAR system are also AO. Rs"
+    },
+    {
+      "start": 2971.012,
+      "end": 2975.457,
+      "start_int": 2971,
+      "timestamp_label": "49:31",
+      "text": "are often the cores because they're most familiar with the"
+    },
+    {
+      "start": 2975.457,
+      "end": 2977.718,
+      "start_int": 2975,
+      "timestamp_label": "49:35",
+      "text": "performance on a contract and."
+    },
+    {
+      "start": 2977.808,
+      "end": 2981.46,
+      "start_int": 2977,
+      "timestamp_label": "49:37",
+      "text": "They they keep the record of the performance and gather"
+    },
+    {
+      "start": 2981.46,
+      "end": 2985.634,
+      "start_int": 2981,
+      "timestamp_label": "49:41",
+      "text": "surveillance information, and so that's that's really good that"
+    },
+    {
+      "start": 2985.634,
+      "end": 2989.547,
+      "start_int": 2985,
+      "timestamp_label": "49:45",
+      "text": "that you start off with the awareness and gain it from this"
+    },
+    {
+      "start": 2989.547,
+      "end": 2993.591,
+      "start_int": 2989,
+      "timestamp_label": "49:49",
+      "text": "community. It gives you tools and can help you Orient to your"
+    },
+    {
+      "start": 2993.591,
+      "end": 2995.678,
+      "start_int": 2993,
+      "timestamp_label": "49:53",
+      "text": "world. One of the things that I."
+    },
+    {
+      "start": 2995.778,
+      "end": 2998.596,
+      "start_int": 2995,
+      "timestamp_label": "49:55",
+      "text": "Produce folks, too, in the beginning are the different"
+    },
+    {
+      "start": 2998.596,
+      "end": 3001.875,
+      "start_int": 2998,
+      "timestamp_label": "49:58",
+      "text": "systems names and the different roles in different systems that"
+    },
+    {
+      "start": 3001.875,
+      "end": 3003.618,
+      "start_int": 3001,
+      "timestamp_label": "50:01",
+      "text": "are occupied by different people."
+    },
+    {
+      "start": 3005.438,
+      "end": 3011.438,
+      "start_int": 3005,
+      "timestamp_label": "50:05",
+      "text": "Probably nobody in DoD on their desk has a plaque that says AOR."
+    },
+    {
+      "start": 3013.158,
+      "end": 3013.798,
+      "start_int": 3013,
+      "timestamp_label": "50:13",
+      "text": "It it, it isn't."
+    },
+    {
+      "start": 3013.918,
+      "end": 3017.344,
+      "start_int": 3013,
+      "timestamp_label": "50:13",
+      "text": "It isn't their main job function. Their main job"
+    },
+    {
+      "start": 3017.344,
+      "end": 3021.68,
+      "start_int": 3017,
+      "timestamp_label": "50:17",
+      "text": "description, but knowing what an AOR is and does and where to"
+    },
+    {
+      "start": 3021.68,
+      "end": 3023.918,
+      "start_int": 3021,
+      "timestamp_label": "50:21",
+      "text": "find help for that does help us."
+    },
+    {
+      "start": 3023.958,
+      "end": 3026.918,
+      "start_int": 3023,
+      "timestamp_label": "50:23",
+      "text": "And knowing also in the core world that if you're a core."
+    },
+    {
+      "start": 3027.618,
+      "end": 3030.458,
+      "start_int": 3027,
+      "timestamp_label": "50:27",
+      "text": "And your contract is registered in C parse."
+    },
+    {
+      "start": 3030.458,
+      "end": 3035.404,
+      "start_int": 3030,
+      "timestamp_label": "50:30",
+      "text": "You will probably be turned to for that A0A 0R role and for"
+    },
+    {
+      "start": 3035.404,
+      "end": 3039.196,
+      "start_int": 3035,
+      "timestamp_label": "50:35",
+      "text": "support for the annual contractor Performance"
+    },
+    {
+      "start": 3039.196,
+      "end": 3044.142,
+      "start_int": 3039,
+      "timestamp_label": "50:39",
+      "text": "Assessment reporting system evaluations. And I do have some"
+    },
+    {
+      "start": 3044.142,
+      "end": 3049.17,
+      "start_int": 3044,
+      "timestamp_label": "50:44",
+      "text": "facility in that pie in that C pars world as well. If people"
+    },
+    {
+      "start": 3049.17,
+      "end": 3052.138,
+      "start_int": 3049,
+      "timestamp_label": "50:49",
+      "text": "have questions that they wanted to."
+    },
+    {
+      "start": 3052.138,
+      "end": 3054.985,
+      "start_int": 3052,
+      "timestamp_label": "50:52",
+      "text": "E-mail me at there's a chance that I might be able to help you"
+    },
+    {
+      "start": 3054.985,
+      "end": 3055.618,
+      "start_int": 3054,
+      "timestamp_label": "50:54",
+      "text": "in your world."
+    },
+    {
+      "start": 3056.478,
+      "end": 3059.545,
+      "start_int": 3056,
+      "timestamp_label": "50:56",
+      "text": "If you come up with some question, we just didn't, this"
+    },
+    {
+      "start": 3059.545,
+      "end": 3060.038,
+      "start_int": 3059,
+      "timestamp_label": "50:59",
+      "text": "is a pie."
+    },
+    {
+      "start": 3060.628,
+      "end": 3062.388,
+      "start_int": 3060,
+      "timestamp_label": "51:00",
+      "text": "Pie, pie hours right now."
+    },
+    {
+      "start": 3062.988,
+      "end": 3066.382,
+      "start_int": 3062,
+      "timestamp_label": "51:02",
+      "text": "But there are things that I might be able to help with and"
+    },
+    {
+      "start": 3066.382,
+      "end": 3069.028,
+      "start_int": 3066,
+      "timestamp_label": "51:06",
+      "text": "somebody says I just received a new contract."
+    },
+    {
+      "start": 3069.028,
+      "end": 3071.028,
+      "start_int": 3069,
+      "timestamp_label": "51:09",
+      "text": "Do I have to create an appointment for one?"
+    },
+    {
+      "start": 3072.598,
+      "end": 3074.158,
+      "start_int": 3072,
+      "timestamp_label": "51:12",
+      "text": "That or will your KO do that?"
+    },
+    {
+      "start": 3074.158,
+      "end": 3075.918,
+      "start_int": 3074,
+      "timestamp_label": "51:14",
+      "text": "Because right now it's not showing up."
+    },
+    {
+      "start": 3076.198,
+      "end": 3077.598,
+      "start_int": 3076,
+      "timestamp_label": "51:16",
+      "text": "That's a good question."
+    },
+    {
+      "start": 3082.178,
+      "end": 3085.458,
+      "start_int": 3082,
+      "timestamp_label": "51:22",
+      "text": "It may depend on your local organization's practice."
+    },
+    {
+      "start": 3086.998,
+      "end": 3090.398,
+      "start_int": 3086,
+      "timestamp_label": "51:26",
+      "text": "We have a local interpretation in the Air Force."
+    },
+    {
+      "start": 3090.518,
+      "end": 3094.87,
+      "start_int": 3090,
+      "timestamp_label": "51:30",
+      "text": "We're still required under the DAFF far if the core is not"
+    },
+    {
+      "start": 3094.87,
+      "end": 3096.198,
+      "start_int": 3094,
+      "timestamp_label": "51:34",
+      "text": "already nominated."
+    },
+    {
+      "start": 3097.798,
+      "end": 3102.456,
+      "start_int": 3097,
+      "timestamp_label": "51:37",
+      "text": "To create a request for core support and this might harken"
+    },
+    {
+      "start": 3102.456,
+      "end": 3107.193,
+      "start_int": 3102,
+      "timestamp_label": "51:42",
+      "text": "back to the the time period when the regulation supported a"
+    },
+    {
+      "start": 3107.193,
+      "end": 3112.01,
+      "start_int": 3107,
+      "timestamp_label": "51:47",
+      "text": "different system in court tool and the only only way a court"
+    },
+    {
+      "start": 3112.01,
+      "end": 3115.958,
+      "start_int": 3112,
+      "timestamp_label": "51:52",
+      "text": "could get nominated was by their core supervisor."
+    },
+    {
+      "start": 3116.598,
+      "end": 3120.613,
+      "start_int": 3116,
+      "timestamp_label": "51:56",
+      "text": "And the contracting officer was without the ability to nominate"
+    },
+    {
+      "start": 3120.613,
+      "end": 3122.998,
+      "start_int": 3120,
+      "timestamp_label": "52:00",
+      "text": "or appoint a core through the system."
+    },
+    {
+      "start": 3123.558,
+      "end": 3127.787,
+      "start_int": 3123,
+      "timestamp_label": "52:03",
+      "text": "And now they've given that ability after award for the"
+    },
+    {
+      "start": 3127.787,
+      "end": 3131.786,
+      "start_int": 3127,
+      "timestamp_label": "52:07",
+      "text": "contracting officer to be able to initiate the core"
+    },
+    {
+      "start": 3131.786,
+      "end": 3136.093,
+      "start_int": 3131,
+      "timestamp_label": "52:11",
+      "text": "appointment, the contract specialist can initiate it as"
+    },
+    {
+      "start": 3136.093,
+      "end": 3136.478,
+      "start_int": 3136,
+      "timestamp_label": "52:16",
+      "text": "well."
+    },
+    {
+      "start": 3136.718,
+      "end": 3140.173,
+      "start_int": 3136,
+      "timestamp_label": "52:16",
+      "text": "But the contracting officer would have to get involved at"
+    },
+    {
+      "start": 3140.173,
+      "end": 3142.438,
+      "start_int": 3140,
+      "timestamp_label": "52:20",
+      "text": "some point, and that's a possibility."
+    },
+    {
+      "start": 3142.438,
+      "end": 3145.445,
+      "start_int": 3142,
+      "timestamp_label": "52:22",
+      "text": "But they didn't change in the Air Force, the regulation and"
+    },
+    {
+      "start": 3145.445,
+      "end": 3146.598,
+      "start_int": 3145,
+      "timestamp_label": "52:25",
+      "text": "the DAF bars that said."
+    },
+    {
+      "start": 3146.728,
+      "end": 3147.808,
+      "start_int": 3146,
+      "timestamp_label": "52:26",
+      "text": "The core is not already."
+    },
+    {
+      "start": 3149.358,
+      "end": 3152.836,
+      "start_int": 3149,
+      "timestamp_label": "52:29",
+      "text": "Nominated the Contracting Officer shall initiate a request"
+    },
+    {
+      "start": 3152.836,
+      "end": 3156.49,
+      "start_int": 3152,
+      "timestamp_label": "52:32",
+      "text": "for core support and there's no place in the system relief to"
+    },
+    {
+      "start": 3156.49,
+      "end": 3158.318,
+      "start_int": 3156,
+      "timestamp_label": "52:36",
+      "text": "put a request for core support."
+    },
+    {
+      "start": 3158.398,
+      "end": 3162.37,
+      "start_int": 3158,
+      "timestamp_label": "52:38",
+      "text": "So I just don't want want to bother with an extra document"
+    },
+    {
+      "start": 3162.37,
+      "end": 3166.815,
+      "start_int": 3162,
+      "timestamp_label": "52:42",
+      "text": "and without a clear place for it to reside. It's another question"
+    },
+    {
+      "start": 3166.815,
+      "end": 3170.922,
+      "start_int": 3166,
+      "timestamp_label": "52:46",
+      "text": "that an auditor could come in and ask if we've done that. So"
+    },
+    {
+      "start": 3170.922,
+      "end": 3174.491,
+      "start_int": 3170,
+      "timestamp_label": "52:50",
+      "text": "until they change that, our local practice just most"
+    },
+    {
+      "start": 3174.491,
+      "end": 3175.838,
+      "start_int": 3174,
+      "timestamp_label": "52:54",
+      "text": "convenient to us is."
+    },
+    {
+      "start": 3175.838,
+      "end": 3178.973,
+      "start_int": 3175,
+      "timestamp_label": "52:55",
+      "text": "Typically, to have the course self nominate, so then the"
+    },
+    {
+      "start": 3178.973,
+      "end": 3179.358,
+      "start_int": 3178,
+      "timestamp_label": "52:58",
+      "text": "answer."
+    },
+    {
+      "start": 3179.778,
+      "end": 3182.887,
+      "start_int": 3179,
+      "timestamp_label": "52:59",
+      "text": "As the core has already self nominated and that separate"
+    },
+    {
+      "start": 3182.887,
+      "end": 3185.178,
+      "start_int": 3182,
+      "timestamp_label": "53:02",
+      "text": "request for core support isn't necessary."
+    },
+    {
+      "start": 3185.258,
+      "end": 3189.218,
+      "start_int": 3185,
+      "timestamp_label": "53:05",
+      "text": "But that's just an Air Force DAF farce rule and procedure."
+    },
+    {
+      "start": 3189.578,
+      "end": 3193.965,
+      "start_int": 3189,
+      "timestamp_label": "53:09",
+      "text": "Your world may differ where you have a different procedure, so"
+    },
+    {
+      "start": 3193.965,
+      "end": 3197.864,
+      "start_int": 3193,
+      "timestamp_label": "53:13",
+      "text": "it's the core that can self nominate or after award the"
+    },
+    {
+      "start": 3197.864,
+      "end": 3202.251,
+      "start_int": 3197,
+      "timestamp_label": "53:17",
+      "text": "contracting officer or contract specialist can initiate a core"
+    },
+    {
+      "start": 3202.251,
+      "end": 3206.499,
+      "start_int": 3202,
+      "timestamp_label": "53:22",
+      "text": "nomination and it's the create appointment is similar in jam"
+    },
+    {
+      "start": 3206.499,
+      "end": 3206.778,
+      "start_int": 3206,
+      "timestamp_label": "53:26",
+      "text": "for."
+    },
+    {
+      "start": 3207.558,
+      "end": 3209.998,
+      "start_int": 3207,
+      "timestamp_label": "53:27",
+      "text": "Either one to begin this thing."
+    },
+    {
+      "start": 3212.078,
+      "end": 3212.238,
+      "start_int": 3212,
+      "timestamp_label": "53:32",
+      "text": "Uh."
+    },
+    {
+      "start": 3215.238,
+      "end": 3215.318,
+      "start_int": 3215,
+      "timestamp_label": "53:35",
+      "text": "Oh."
+    },
+    {
+      "start": 3216.948,
+      "end": 3218.708,
+      "start_int": 3216,
+      "timestamp_label": "53:36",
+      "text": "Some go ahead."
+    },
+    {
+      "start": 3219.798,
+      "end": 3220.198,
+      "start_int": 3219,
+      "timestamp_label": "53:39",
+      "text": "He said."
+    },
+    {
+      "start": 3220.198,
+      "end": 3221.198,
+      "start_int": 3220,
+      "timestamp_label": "53:40",
+      "text": "I'm stuck."
+    },
+    {
+      "start": 3221.198,
+      "end": 3222.798,
+      "start_int": 3221,
+      "timestamp_label": "53:41",
+      "text": "I got stuck on this step."
+    },
+    {
+      "start": 3222.798,
+      "end": 3226.438,
+      "start_int": 3222,
+      "timestamp_label": "53:42",
+      "text": "She was trying to self nominate and I'm a Q."
+    },
+    {
+      "start": 3226.638,
+      "end": 3231.141,
+      "start_int": 3226,
+      "timestamp_label": "53:46",
+      "text": "A S I I work for my qapc and so I help at this step because it"
+    },
+    {
+      "start": 3231.141,
+      "end": 3234.358,
+      "start_int": 3231,
+      "timestamp_label": "53:51",
+      "text": "happens so often that people will get stuck."
+    },
+    {
+      "start": 3234.398,
+      "end": 3238.529,
+      "start_int": 3234,
+      "timestamp_label": "53:54",
+      "text": "The core gets stuck at the step. I just wanted to make a comment"
+    },
+    {
+      "start": 3238.529,
+      "end": 3242.596,
+      "start_int": 3238,
+      "timestamp_label": "53:58",
+      "text": "if if your core information is not completely filled out, where"
+    },
+    {
+      "start": 3242.596,
+      "end": 3245.838,
+      "start_int": 3242,
+      "timestamp_label": "54:02",
+      "text": "the asterisks are, then when you go to the create."
+    },
+    {
+      "start": 3247.078,
+      "end": 3250.358,
+      "start_int": 3247,
+      "timestamp_label": "54:07",
+      "text": "Appointment. The drop down won't allow you."
+    },
+    {
+      "start": 3251.048,
+      "end": 3253.248,
+      "start_int": 3251,
+      "timestamp_label": "54:11",
+      "text": "To self nominate, you won't have that option."
+    },
+    {
+      "start": 3253.568,
+      "end": 3257.214,
+      "start_int": 3253,
+      "timestamp_label": "54:13",
+      "text": "And that happens almost, I'd say more than 50% of the time. The"
+    },
+    {
+      "start": 3257.214,
+      "end": 3260.632,
+      "start_int": 3257,
+      "timestamp_label": "54:17",
+      "text": "course do not completely fill out their core information at"
+    },
+    {
+      "start": 3260.632,
+      "end": 3261.088,
+      "start_int": 3260,
+      "timestamp_label": "54:20",
+      "text": "the top."
+    },
+    {
+      "start": 3261.088,
+      "end": 3261.328,
+      "start_int": 3261,
+      "timestamp_label": "54:21",
+      "text": "You can."
+    },
+    {
+      "start": 3261.328,
+      "end": 3262.528,
+      "start_int": 3261,
+      "timestamp_label": "54:21",
+      "text": "I can see it on your screen."
+    },
+    {
+      "start": 3264.078,
+      "end": 3268.638,
+      "start_int": 3264,
+      "timestamp_label": "54:24",
+      "text": "They just skip over the the ones with the asterisk and they just."
+    },
+    {
+      "start": 3268.638,
+      "end": 3271.358,
+      "start_int": 3268,
+      "timestamp_label": "54:28",
+      "text": "I don't know why, but it's a very small little asterisk."
+    },
+    {
+      "start": 3273.158,
+      "end": 3274.878,
+      "start_int": 3273,
+      "timestamp_label": "54:33",
+      "text": "So you won't have the option."
+    },
+    {
+      "start": 3276.478,
+      "end": 3279.516,
+      "start_int": 3276,
+      "timestamp_label": "54:36",
+      "text": "The drop down won't be there for you to self nominate, so maybe"
+    },
+    {
+      "start": 3279.516,
+      "end": 3280.798,
+      "start_int": 3279,
+      "timestamp_label": "54:39",
+      "text": "that's where she got stuck."
+    },
+    {
+      "start": 3281.328,
+      "end": 3281.568,
+      "start_int": 3281,
+      "timestamp_label": "54:41",
+      "text": "No, no."
+    },
+    {
+      "start": 3285.208,
+      "end": 3286.848,
+      "start_int": 3285,
+      "timestamp_label": "54:45",
+      "text": "Yeah, there's a possibility there."
+    },
+    {
+      "start": 3286.848,
+      "end": 3291.529,
+      "start_int": 3286,
+      "timestamp_label": "54:46",
+      "text": "So your core information and let me just while we've got core"
+    },
+    {
+      "start": 3291.529,
+      "end": 3296.362,
+      "start_int": 3291,
+      "timestamp_label": "54:51",
+      "text": "information in front of us, let me mention a couple things that"
+    },
+    {
+      "start": 3296.362,
+      "end": 3300.439,
+      "start_int": 3296,
+      "timestamp_label": "54:56",
+      "text": "could be gotchas. Just eventually you want to try and"
+    },
+    {
+      "start": 3300.439,
+      "end": 3305.347,
+      "start_int": 3300,
+      "timestamp_label": "55:00",
+      "text": "figure information. I sometimes have our folks, they get tripped"
+    },
+    {
+      "start": 3305.347,
+      "end": 3308.368,
+      "start_int": 3305,
+      "timestamp_label": "55:05",
+      "text": "up sometimes this agency experience as."
+    },
+    {
+      "start": 3308.368,
+      "end": 3311.728,
+      "start_int": 3308,
+      "timestamp_label": "55:08",
+      "text": "A default it starts out at less than six months."
+    },
+    {
+      "start": 3311.728,
+      "end": 3313.208,
+      "start_int": 3311,
+      "timestamp_label": "55:11",
+      "text": "That's what it says to begin with."
+    },
+    {
+      "start": 3314.038,
+      "end": 3316.358,
+      "start_int": 3314,
+      "timestamp_label": "55:14",
+      "text": "And if they don't change that?"
+    },
+    {
+      "start": 3317.428,
+      "end": 3322.173,
+      "start_int": 3317,
+      "timestamp_label": "55:17",
+      "text": "It will take this answer and run with it, and there'll be an"
+    },
+    {
+      "start": 3322.173,
+      "end": 3326.919,
+      "start_int": 3322,
+      "timestamp_label": "55:22",
+      "text": "appointed core with less than six months training, no agency"
+    },
+    {
+      "start": 3326.919,
+      "end": 3331.586,
+      "start_int": 3326,
+      "timestamp_label": "55:26",
+      "text": "experience noted, and the Dodi actually requires that cores"
+    },
+    {
+      "start": 3331.586,
+      "end": 3335.865,
+      "start_int": 3331,
+      "timestamp_label": "55:31",
+      "text": "have six months agency experience or more to be a core"
+    },
+    {
+      "start": 3335.865,
+      "end": 3338.588,
+      "start_int": 3335,
+      "timestamp_label": "55:35",
+      "text": "or request a waiver from the CONT."
+    },
+    {
+      "start": 3338.868,
+      "end": 3341.828,
+      "start_int": 3338,
+      "timestamp_label": "55:38",
+      "text": "Officer and so."
+    },
+    {
+      "start": 3342.638,
+      "end": 3345.504,
+      "start_int": 3342,
+      "timestamp_label": "55:42",
+      "text": "To get us out of a system where we're automatically non"
+    },
+    {
+      "start": 3345.504,
+      "end": 3348.677,
+      "start_int": 3345,
+      "timestamp_label": "55:45",
+      "text": "compliant because if they put in less than six months just by"
+    },
+    {
+      "start": 3348.677,
+      "end": 3350.878,
+      "start_int": 3348,
+      "timestamp_label": "55:48",
+      "text": "mistake because they didn't touch it then."
+    },
+    {
+      "start": 3352.848,
+      "end": 3353.808,
+      "start_int": 3352,
+      "timestamp_label": "55:52",
+      "text": "Then they."
+    },
+    {
+      "start": 3356.368,
+      "end": 3357.568,
+      "start_int": 3356,
+      "timestamp_label": "55:56",
+      "text": "They'd be out of compliance."
+    },
+    {
+      "start": 3357.568,
+      "end": 3361.861,
+      "start_int": 3357,
+      "timestamp_label": "55:57",
+      "text": "So if they change this and then also when you're working in this"
+    },
+    {
+      "start": 3361.861,
+      "end": 3366.154,
+      "start_int": 3361,
+      "timestamp_label": "56:01",
+      "text": "tab, press save often because if you time out from this it won't"
+    },
+    {
+      "start": 3366.154,
+      "end": 3370.183,
+      "start_int": 3366,
+      "timestamp_label": "56:06",
+      "text": "have saved your work and you thought you have made a change."
+    },
+    {
+      "start": 3370.183,
+      "end": 3374.278,
+      "start_int": 3370,
+      "timestamp_label": "56:10",
+      "text": "That's a pretty good habit to any any anything you're in and."
+    },
+    {
+      "start": 3374.278,
+      "end": 3377.568,
+      "start_int": 3374,
+      "timestamp_label": "56:14",
+      "text": "Then two our auditors are getting a little bit more."
+    },
+    {
+      "start": 3379.118,
+      "end": 3383.637,
+      "start_int": 3379,
+      "timestamp_label": "56:19",
+      "text": "Interested in the concept of what experience the cores have,"
+    },
+    {
+      "start": 3383.637,
+      "end": 3385.638,
+      "start_int": 3383,
+      "timestamp_label": "56:23",
+      "text": "so I would be more verbose."
+    },
+    {
+      "start": 3386.218,
+      "end": 3391.949,
+      "start_int": 3386,
+      "timestamp_label": "56:26",
+      "text": "I'm probably not that not that much in the clear here by just"
+    },
+    {
+      "start": 3391.949,
+      "end": 3397.218,
+      "start_int": 3391,
+      "timestamp_label": "56:31",
+      "text": "putting experience as 17 years, 11 year 1102 experience."
+    },
+    {
+      "start": 3397.458,
+      "end": 3401.52,
+      "start_int": 3397,
+      "timestamp_label": "56:37",
+      "text": "I think you might want to fill this out with more things"
+    },
+    {
+      "start": 3401.52,
+      "end": 3403.658,
+      "start_int": 3401,
+      "timestamp_label": "56:41",
+      "text": "detailing your qualifications."
+    },
+    {
+      "start": 3403.858,
+      "end": 3407.432,
+      "start_int": 3403,
+      "timestamp_label": "56:43",
+      "text": "And then also, there's actually competencies that get discussed"
+    },
+    {
+      "start": 3407.432,
+      "end": 3410.058,
+      "start_int": 3407,
+      "timestamp_label": "56:47",
+      "text": "in the do D that you might want to go look at?"
+    },
+    {
+      "start": 3408.428,
+      "end": 3409.468,
+      "start_int": 3408,
+      "timestamp_label": "56:48",
+      "text": "We look for education."
+    },
+    {
+      "start": 3411.198,
+      "end": 3412.478,
+      "start_int": 3411,
+      "timestamp_label": "56:51",
+      "text": "Geographical Hicks government."
+    },
+    {
+      "start": 3412.078,
+      "end": 3412.438,
+      "start_int": 3412,
+      "timestamp_label": "56:52",
+      "text": "And."
+    },
+    {
+      "start": 3414.658,
+      "end": 3415.178,
+      "start_int": 3414,
+      "timestamp_label": "56:54",
+      "text": "No."
+    },
+    {
+      "start": 3417.118,
+      "end": 3417.678,
+      "start_int": 3417,
+      "timestamp_label": "56:57",
+      "text": "And."
+    },
+    {
+      "start": 3423.608,
+      "end": 3427.597,
+      "start_int": 3423,
+      "timestamp_label": "57:03",
+      "text": "And Tom, if you remind me, you asked a question about EDA, we"
+    },
+    {
+      "start": 3427.597,
+      "end": 3431.264,
+      "start_int": 3427,
+      "timestamp_label": "57:07",
+      "text": "might try and experiment on one kind of search 'cause. I"
+    },
+    {
+      "start": 3431.264,
+      "end": 3435.254,
+      "start_int": 3431,
+      "timestamp_label": "57:11",
+      "text": "simplify my EDA searches for contracts just by 1 little thing"
+    },
+    {
+      "start": 3435.254,
+      "end": 3439.372,
+      "start_int": 3435,
+      "timestamp_label": "57:15",
+      "text": "and it isn't a. It isn't really what you want to make major mod"
+    },
+    {
+      "start": 3439.372,
+      "end": 3439.758,
+      "start_int": 3439,
+      "timestamp_label": "57:19",
+      "text": "stand."
+    },
+    {
+      "start": 3439.808,
+      "end": 3441.568,
+      "start_int": 3439,
+      "timestamp_label": "57:19",
+      "text": "Out, but you can."
+    },
+    {
+      "start": 3441.728,
+      "end": 3445.424,
+      "start_int": 3441,
+      "timestamp_label": "57:21",
+      "text": "You can maybe change it so that you're not going to get any"
+    },
+    {
+      "start": 3445.424,
+      "end": 3447.888,
+      "start_int": 3445,
+      "timestamp_label": "57:25",
+      "text": "orders and so you see nothing but mods."
+    },
+    {
+      "start": 3447.888,
+      "end": 3449.408,
+      "start_int": 3447,
+      "timestamp_label": "57:27",
+      "text": "But if you got hundreds of mods."
+    },
+    {
+      "start": 3450.918,
+      "end": 3454.612,
+      "start_int": 3450,
+      "timestamp_label": "57:30",
+      "text": "Yeah, I don't know how to make A1 mod that's more major to"
+    },
+    {
+      "start": 3454.612,
+      "end": 3455.238,
+      "start_int": 3454,
+      "timestamp_label": "57:34",
+      "text": "stand out."
+    },
+    {
+      "start": 3457.278,
+      "end": 3457.318,
+      "start_int": 3457,
+      "timestamp_label": "57:37",
+      "text": "I."
+    },
+    {
+      "start": 3457.958,
+      "end": 3462.251,
+      "start_int": 3457,
+      "timestamp_label": "57:37",
+      "text": "Think also we might be succeeding in getting conformed"
+    },
+    {
+      "start": 3462.251,
+      "end": 3462.798,
+      "start_int": 3462,
+      "timestamp_label": "57:42",
+      "text": "copies."
+    },
+    {
+      "start": 3462.798,
+      "end": 3466.367,
+      "start_int": 3462,
+      "timestamp_label": "57:42",
+      "text": "More available to us, which might be helpful in that world,"
+    },
+    {
+      "start": 3466.367,
+      "end": 3470.294,
+      "start_int": 3466,
+      "timestamp_label": "57:46",
+      "text": "but I don't know for sure if you stay after, maybe we can try and"
+    },
+    {
+      "start": 3466.798,
+      "end": 3467.358,
+      "start_int": 3466,
+      "timestamp_label": "57:46",
+      "text": "My other phone."
+    },
+    {
+      "start": 3470.294,
+      "end": 3473.745,
+      "start_int": 3470,
+      "timestamp_label": "57:50",
+      "text": "discuss this and see if we get any hope for a little more"
+    },
+    {
+      "start": 3473.745,
+      "end": 3476.958,
+      "start_int": 3473,
+      "timestamp_label": "57:53",
+      "text": "insight and somebody's telling us if in the pie drop."
+    },
+    {
+      "start": 3476.958,
+      "end": 3480.841,
+      "start_int": 3476,
+      "timestamp_label": "57:56",
+      "text": "Down menu to self nominate doesn't appear to work without"
+    },
+    {
+      "start": 3480.841,
+      "end": 3483.118,
+      "start_int": 3480,
+      "timestamp_label": "58:00",
+      "text": "that marked yes no the 450 filer."
+    },
+    {
+      "start": 3483.918,
+      "end": 3487.897,
+      "start_int": 3483,
+      "timestamp_label": "58:03",
+      "text": "That that'll, that'll be OK. 'cause most of my most of mine"
+    },
+    {
+      "start": 3487.897,
+      "end": 3489.158,
+      "start_int": 3487,
+      "timestamp_label": "58:07",
+      "text": "are not 450 filers."
+    },
+    {
+      "start": 3490.748,
+      "end": 3490.868,
+      "start_int": 3490,
+      "timestamp_label": "58:10",
+      "text": "Umm."
+    },
+    {
+      "start": 3494.148,
+      "end": 3498.932,
+      "start_int": 3494,
+      "timestamp_label": "58:14",
+      "text": "It's also possible the system is reading something. If somebody"
+    },
+    {
+      "start": 3498.932,
+      "end": 3501.548,
+      "start_int": 3498,
+      "timestamp_label": "58:18",
+      "text": "is. I was gonna say if somebody's."
+    },
+    {
+      "start": 3503.738,
+      "end": 3507.857,
+      "start_int": 3503,
+      "timestamp_label": "58:23",
+      "text": "In my experience, a 450 filer doesn't have to be marked yes in"
+    },
+    {
+      "start": 3507.857,
+      "end": 3512.108,
+      "start_int": 3507,
+      "timestamp_label": "58:27",
+      "text": "order to go ahead and we saw one in the test system where it was"
+    },
+    {
+      "start": 3512.108,
+      "end": 3515.378,
+      "start_int": 3512,
+      "timestamp_label": "58:32",
+      "text": "marked no and that had already been appointed so."
+    },
+    {
+      "start": 3516.918,
+      "end": 3521.127,
+      "start_int": 3516,
+      "timestamp_label": "58:36",
+      "text": "It in your own world. You can also see if you've been marked"
+    },
+    {
+      "start": 3521.127,
+      "end": 3525.198,
+      "start_int": 3521,
+      "timestamp_label": "58:41",
+      "text": "as a 450 filer by looking at your core designation letter."
+    },
+    {
+      "start": 3526.038,
+      "end": 3532.061,
+      "start_int": 3526,
+      "timestamp_label": "58:46",
+      "text": "Somebody's probably dropped it, OK. And then people wanted to"
+    },
+    {
+      "start": 3532.061,
+      "end": 3532.838,
+      "start_int": 3532,
+      "timestamp_label": "58:52",
+      "text": "know on."
+    },
+    {
+      "start": 3534.518,
+      "end": 3534.598,
+      "start_int": 3534,
+      "timestamp_label": "58:54",
+      "text": "The."
+    },
+    {
+      "start": 3540.408,
+      "end": 3542.608,
+      "start_int": 3540,
+      "timestamp_label": "59:00",
+      "text": "The the Seth is asking."
+    },
+    {
+      "start": 3542.608,
+      "end": 3546.931,
+      "start_int": 3542,
+      "timestamp_label": "59:02",
+      "text": "Seth Oser is asking about the drop down menu. Self nominate"
+    },
+    {
+      "start": 3546.931,
+      "end": 3551.542,
+      "start_int": 3546,
+      "timestamp_label": "59:06",
+      "text": "doesn't work. The Selfnominate will tend to work if they've got"
+    },
+    {
+      "start": 3551.542,
+      "end": 3553.488,
+      "start_int": 3551,
+      "timestamp_label": "59:11",
+      "text": "all of the required fields."
+    },
+    {
+      "start": 3553.488,
+      "end": 3557.704,
+      "start_int": 3553,
+      "timestamp_label": "59:13",
+      "text": "Everything within an asterisk in core information updated and"
+    },
+    {
+      "start": 3557.704,
+      "end": 3560.288,
+      "start_int": 3557,
+      "timestamp_label": "59:17",
+      "text": "then they'll be able to go ahead and."
+    },
+    {
+      "start": 3561.838,
+      "end": 3563.798,
+      "start_int": 3561,
+      "timestamp_label": "59:21",
+      "text": "Their quote create appointment tab will appear."
+    },
+    {
+      "start": 3563.798,
+      "end": 3567.514,
+      "start_int": 3563,
+      "timestamp_label": "59:23",
+      "text": "Generally this doesn't appear unless all of the required"
+    },
+    {
+      "start": 3567.514,
+      "end": 3571.296,
+      "start_int": 3567,
+      "timestamp_label": "59:27",
+      "text": "fields are this so mark all the required fields, save the"
+    },
+    {
+      "start": 3571.296,
+      "end": 3574.947,
+      "start_int": 3571,
+      "timestamp_label": "59:31",
+      "text": "document and then they should be able to see the create"
+    },
+    {
+      "start": 3574.947,
+      "end": 3578.533,
+      "start_int": 3574,
+      "timestamp_label": "59:34",
+      "text": "appointment and go ahead with the self nomination. You"
+    },
+    {
+      "start": 3578.533,
+      "end": 3581.598,
+      "start_int": 3578,
+      "timestamp_label": "59:38",
+      "text": "generally don't have to resort to the Co or C."
+    },
+    {
+      "start": 3581.688,
+      "end": 3584.408,
+      "start_int": 3581,
+      "timestamp_label": "59:41",
+      "text": "Yes, doing the nomination for the core."
+    },
+    {
+      "start": 3585.508,
+      "end": 3589.677,
+      "start_int": 3585,
+      "timestamp_label": "59:45",
+      "text": "Because of that feature, this feature should should be able to"
+    },
+    {
+      "start": 3589.677,
+      "end": 3590.868,
+      "start_int": 3589,
+      "timestamp_label": "59:49",
+      "text": "work for the core."
+    },
+    {
+      "start": 3593.948,
+      "end": 3596.668,
+      "start_int": 3593,
+      "timestamp_label": "59:53",
+      "text": "Michael, hey, this is Eric Vance."
+    },
+    {
+      "start": 3594.978,
+      "end": 3595.298,
+      "start_int": 3594,
+      "timestamp_label": "59:54",
+      "text": "Yes."
+    },
+    {
+      "start": 3598.208,
+      "end": 3602.352,
+      "start_int": 3598,
+      "timestamp_label": "59:58",
+      "text": "I saw some comments about that one as well, and we figured out"
+    },
+    {
+      "start": 3602.352,
+      "end": 3606.233,
+      "start_int": 3602,
+      "timestamp_label": "1:00:02",
+      "text": "when you build your account in Pi, you build your original"
+    },
+    {
+      "start": 3606.233,
+      "end": 3607.088,
+      "start_int": 3606,
+      "timestamp_label": "1:00:06",
+      "text": "profile in π."
+    },
+    {
+      "start": 3607.248,
+      "end": 3610.288,
+      "start_int": 3607,
+      "timestamp_label": "1:00:07",
+      "text": "It does not ask for all the questions that jam requires."
+    },
+    {
+      "start": 3610.648,
+      "end": 3614.979,
+      "start_int": 3610,
+      "timestamp_label": "1:00:10",
+      "text": "So you actually as a core have to go back into the system and"
+    },
+    {
+      "start": 3614.979,
+      "end": 3615.888,
+      "start_int": 3614,
+      "timestamp_label": "1:00:14",
+      "text": "fill them in?"
+    },
+    {
+      "start": 3616.368,
+      "end": 3618.963,
+      "start_int": 3616,
+      "timestamp_label": "1:00:16",
+      "text": "It's not like initially you don't actually even have a"
+    },
+    {
+      "start": 3618.963,
+      "end": 3620.048,
+      "start_int": 3618,
+      "timestamp_label": "1:00:18",
+      "text": "choice to fill them in."
+    },
+    {
+      "start": 3620.408,
+      "end": 3622.368,
+      "start_int": 3620,
+      "timestamp_label": "1:00:20",
+      "text": "It's not until after you get your."
+    },
+    {
+      "start": 3623.288,
+      "end": 3625.728,
+      "start_int": 3623,
+      "timestamp_label": "1:00:23",
+      "text": "Jam rolls as a core, your jam and spam rules as a core."
+    },
+    {
+      "start": 3625.728,
+      "end": 3626.688,
+      "start_int": 3625,
+      "timestamp_label": "1:00:25",
+      "text": "Then you go back in."
+    },
+    {
+      "start": 3627.448,
+      "end": 3631.528,
+      "start_int": 3627,
+      "timestamp_label": "1:00:27",
+      "text": "Update those fields and at that point you can do the nominee."
+    },
+    {
+      "start": 3630.238,
+      "end": 3633.265,
+      "start_int": 3630,
+      "timestamp_label": "1:00:30",
+      "text": "Do you remember which fields which fields might require"
+    },
+    {
+      "start": 3633.265,
+      "end": 3634.238,
+      "start_int": 3633,
+      "timestamp_label": "1:00:33",
+      "text": "further attention?"
+    },
+    {
+      "start": 3634.878,
+      "end": 3637.958,
+      "start_int": 3634,
+      "timestamp_label": "1:00:34",
+      "text": "It's the OTE 450 filer."
+    },
+    {
+      "start": 3639.528,
+      "end": 3641.008,
+      "start_int": 3639,
+      "timestamp_label": "1:00:39",
+      "text": "Certified acquisition professional."
+    },
+    {
+      "start": 3641.008,
+      "end": 3643.966,
+      "start_int": 3641,
+      "timestamp_label": "1:00:41",
+      "text": "Pretty much the white ones that you that we're seeing right up"
+    },
+    {
+      "start": 3643.966,
+      "end": 3644.248,
+      "start_int": 3643,
+      "timestamp_label": "1:00:43",
+      "text": "there."
+    },
+    {
+      "start": 3645.888,
+      "end": 3648.248,
+      "start_int": 3645,
+      "timestamp_label": "1:00:45",
+      "text": "Those are the ones that it's asking for, and it's also you"
+    },
+    {
+      "start": 3648.248,
+      "end": 3650.568,
+      "start_int": 3648,
+      "timestamp_label": "1:00:48",
+      "text": "got to make sure your training is updated in my training."
+    },
+    {
+      "start": 3652.668,
+      "end": 3656.556,
+      "start_int": 3652,
+      "timestamp_label": "1:00:52",
+      "text": "So those are the things that I tell all of our cores. Once you"
+    },
+    {
+      "start": 3656.556,
+      "end": 3660.445,
+      "start_int": 3656,
+      "timestamp_label": "1:00:56",
+      "text": "get the core roll, then go into GM, check to make sure all the"
+    },
+    {
+      "start": 3660.445,
+      "end": 3664.149,
+      "start_int": 3660,
+      "timestamp_label": "1:01:00",
+      "text": "asterisk fields are filled in because they won't be for you"
+    },
+    {
+      "start": 3664.149,
+      "end": 3667.914,
+      "start_int": 3664,
+      "timestamp_label": "1:01:04",
+      "text": "your core competencies down their agency experience will not"
+    },
+    {
+      "start": 3667.914,
+      "end": 3668.408,
+      "start_int": 3667,
+      "timestamp_label": "1:01:07",
+      "text": "be fill."
+    },
+    {
+      "start": 3668.408,
+      "end": 3668.548,
+      "start_int": 3668,
+      "timestamp_label": "1:01:08",
+      "text": "In."
+    },
+    {
+      "start": 3670.728,
+      "end": 3673.488,
+      "start_int": 3670,
+      "timestamp_label": "1:01:10",
+      "text": "At that point you'll be able to do the nomination."
+    },
+    {
+      "start": 3675.218,
+      "end": 3680.003,
+      "start_int": 3675,
+      "timestamp_label": "1:01:15",
+      "text": "So so if folks including Eric, if you get to a field that had"
+    },
+    {
+      "start": 3680.003,
+      "end": 3684.479,
+      "start_int": 3680,
+      "timestamp_label": "1:01:20",
+      "text": "to be populated later in your profile and your nomination"
+    },
+    {
+      "start": 3684.479,
+      "end": 3689.186,
+      "start_int": 3684,
+      "timestamp_label": "1:01:24",
+      "text": "would not proceed until that happens, I'd like to know which"
+    },
+    {
+      "start": 3689.186,
+      "end": 3693.74,
+      "start_int": 3689,
+      "timestamp_label": "1:01:29",
+      "text": "specific fields those are, because if it makes sense, then"
+    },
+    {
+      "start": 3693.74,
+      "end": 3695.438,
+      "start_int": 3693,
+      "timestamp_label": "1:01:33",
+      "text": "we're fine, but if it."
+    },
+    {
+      "start": 3695.438,
+      "end": 3699.778,
+      "start_int": 3695,
+      "timestamp_label": "1:01:35",
+      "text": "Something that that is a bug, you know, rather than a feature."
+    },
+    {
+      "start": 3700.558,
+      "end": 3704.898,
+      "start_int": 3700,
+      "timestamp_label": "1:01:40",
+      "text": "Will want to surface that to the help desk because the system"
+    },
+    {
+      "start": 3704.198,
+      "end": 3704.358,
+      "start_int": 3704,
+      "timestamp_label": "1:01:44",
+      "text": "Yeah."
+    },
+    {
+      "start": 3704.898,
+      "end": 3706.158,
+      "start_int": 3704,
+      "timestamp_label": "1:01:44",
+      "text": "evolves over time."
+    },
+    {
+      "start": 3706.728,
+      "end": 3710.985,
+      "start_int": 3706,
+      "timestamp_label": "1:01:46",
+      "text": "And if there's, if there's bug, bug, things that keep us from"
+    },
+    {
+      "start": 3707.378,
+      "end": 3707.778,
+      "start_int": 3707,
+      "timestamp_label": "1:01:47",
+      "text": "It's."
+    },
+    {
+      "start": 3710.985,
+      "end": 3714.761,
+      "start_int": 3710,
+      "timestamp_label": "1:01:50",
+      "text": "progressing, they can work on those fixes. And there's"
+    },
+    {
+      "start": 3714.761,
+      "end": 3718.812,
+      "start_int": 3714,
+      "timestamp_label": "1:01:54",
+      "text": "constant efforts behind the scenes to make improvements in"
+    },
+    {
+      "start": 3714.818,
+      "end": 3714.898,
+      "start_int": 3714,
+      "timestamp_label": "1:01:54",
+      "text": "No."
+    },
+    {
+      "start": 3718.812,
+      "end": 3719.568,
+      "start_int": 3718,
+      "timestamp_label": "1:01:58",
+      "text": "the system."
+    },
+    {
+      "start": 3720.248,
+      "end": 3724.506,
+      "start_int": 3720,
+      "timestamp_label": "1:02:00",
+      "text": "It isn't just one and done, the system is always going to stay"
+    },
+    {
+      "start": 3724.506,
+      "end": 3726.128,
+      "start_int": 3724,
+      "timestamp_label": "1:02:04",
+      "text": "as it is. It's evolving."
+    },
+    {
+      "start": 3727.088,
+      "end": 3729.568,
+      "start_int": 3727,
+      "timestamp_label": "1:02:07",
+      "text": "For what I can tell you, it's the fields."
+    },
+    {
+      "start": 3729.568,
+      "end": 3730.048,
+      "start_int": 3729,
+      "timestamp_label": "1:02:09",
+      "text": "Make sense?"
+    },
+    {
+      "start": 3730.048,
+      "end": 3733.873,
+      "start_int": 3730,
+      "timestamp_label": "1:02:10",
+      "text": "It's the asterisk fields that we're looking at here for those,"
+    },
+    {
+      "start": 3733.873,
+      "end": 3736.848,
+      "start_int": 3733,
+      "timestamp_label": "1:02:13",
+      "text": "the core competencies, agency experience OT 455."
+    },
+    {
+      "start": 3737.088,
+      "end": 3740.234,
+      "start_int": 3737,
+      "timestamp_label": "1:02:17",
+      "text": "It's just when you build your profile originally in Pi, it"
+    },
+    {
+      "start": 3740.234,
+      "end": 3741.728,
+      "start_int": 3740,
+      "timestamp_label": "1:02:20",
+      "text": "doesn't ask those questions."
+    },
+    {
+      "start": 3742.168,
+      "end": 3744.848,
+      "start_int": 3742,
+      "timestamp_label": "1:02:22",
+      "text": "So then people go well. I've got the core role."
+    },
+    {
+      "start": 3744.848,
+      "end": 3748.968,
+      "start_int": 3744,
+      "timestamp_label": "1:02:24",
+      "text": "I should be able to nominate you now. Have to go into jam."
+    },
+    {
+      "start": 3749.528,
+      "end": 3751.848,
+      "start_int": 3749,
+      "timestamp_label": "1:02:29",
+      "text": "Update your profile."
+    },
+    {
+      "start": 3752.638,
+      "end": 3752.798,
+      "start_int": 3752,
+      "timestamp_label": "1:02:32",
+      "text": "Yeah."
+    },
+    {
+      "start": 3752.648,
+      "end": 3755.763,
+      "start_int": 3752,
+      "timestamp_label": "1:02:32",
+      "text": "Update your training and at that point you'll have all your"
+    },
+    {
+      "start": 3755.763,
+      "end": 3757.528,
+      "start_int": 3755,
+      "timestamp_label": "1:02:35",
+      "text": "asterisks and then you can do it."
+    },
+    {
+      "start": 3757.528,
+      "end": 3758.848,
+      "start_int": 3757,
+      "timestamp_label": "1:02:37",
+      "text": "And I will attach."
+    },
+    {
+      "start": 3757.738,
+      "end": 3757.778,
+      "start_int": 3757,
+      "timestamp_label": "1:02:37",
+      "text": "K."
+    },
+    {
+      "start": 3758.418,
+      "end": 3761.993,
+      "start_int": 3758,
+      "timestamp_label": "1:02:38",
+      "text": "So you're saying? So you're saying that the going back into"
+    },
+    {
+      "start": 3761.993,
+      "end": 3765.21,
+      "start_int": 3761,
+      "timestamp_label": "1:02:41",
+      "text": "your profile isn't necessary, but fixing them in core"
+    },
+    {
+      "start": 3765.21,
+      "end": 3767.058,
+      "start_int": 3765,
+      "timestamp_label": "1:02:45",
+      "text": "information is necessary? Yeah."
+    },
+    {
+      "start": 3765.858,
+      "end": 3768.618,
+      "start_int": 3765,
+      "timestamp_label": "1:02:45",
+      "text": "Yes, and I'll attach."
+    },
+    {
+      "start": 3768.658,
+      "end": 3771.579,
+      "start_int": 3768,
+      "timestamp_label": "1:02:48",
+      "text": "I've got a PowerPoint that I send out to the course so I can"
+    },
+    {
+      "start": 3771.579,
+      "end": 3774.549,
+      "start_int": 3771,
+      "timestamp_label": "1:02:51",
+      "text": "attach that to people who look at it as two. Once you get the"
+    },
+    {
+      "start": 3774.549,
+      "end": 3775.938,
+      "start_int": 3774,
+      "timestamp_label": "1:02:54",
+      "text": "role, what do you have to do?"
+    },
+    {
+      "start": 3779.208,
+      "end": 3780.688,
+      "start_int": 3779,
+      "timestamp_label": "1:02:59",
+      "text": "Thank you so."
+    },
+    {
+      "start": 3782.218,
+      "end": 3787.997,
+      "start_int": 3782,
+      "timestamp_label": "1:03:02",
+      "text": "We reach our time, so I'm gonna answer question for Ida. After"
+    },
+    {
+      "start": 3787.997,
+      "end": 3789.098,
+      "start_int": 3787,
+      "timestamp_label": "1:03:07",
+      "text": "we sign out."
+    },
+    {
+      "start": 3789.098,
+      "end": 3793.025,
+      "start_int": 3789,
+      "timestamp_label": "1:03:09",
+      "text": "So she's asking what exception policy for agency experience"
+    },
+    {
+      "start": 3793.025,
+      "end": 3794.138,
+      "start_int": 3793,
+      "timestamp_label": "1:03:13",
+      "text": "under six months."
+    },
+    {
+      "start": 3794.178,
+      "end": 3797.732,
+      "start_int": 3794,
+      "timestamp_label": "1:03:14",
+      "text": "So we're going to turn to Evelyn now and then anybody wants to"
+    },
+    {
+      "start": 3797.732,
+      "end": 3800.778,
+      "start_int": 3797,
+      "timestamp_label": "1:03:17",
+      "text": "stick around and finish up, you can talk to me after."
+    },
+    {
+      "start": 3803.298,
+      "end": 3804.018,
+      "start_int": 3803,
+      "timestamp_label": "1:03:23",
+      "text": "Awesome, Michael."
+    },
+    {
+      "start": 3804.018,
+      "end": 3807.264,
+      "start_int": 3804,
+      "timestamp_label": "1:03:24",
+      "text": "Thank you so much for being our guest speaker and hanging on a"
+    },
+    {
+      "start": 3807.264,
+      "end": 3810.355,
+      "start_int": 3807,
+      "timestamp_label": "1:03:27",
+      "text": "little bit after to answer the last question, everyone that"
+    },
+    {
+      "start": 3810.355,
+      "end": 3813.138,
+      "start_int": 3810,
+      "timestamp_label": "1:03:30",
+      "text": "officially concludes today score Office hour session."
+    },
+    {
+      "start": 3813.338,
+      "end": 3815.218,
+      "start_int": 3813,
+      "timestamp_label": "1:03:33",
+      "text": "Thank you all for being here."
+    },
+    {
+      "start": 3815.258,
+      "end": 3819.539,
+      "start_int": 3815,
+      "timestamp_label": "1:03:35",
+      "text": "Let me go ahead and send the survey link to you in the chat"
+    },
+    {
+      "start": 3819.539,
+      "end": 3820.538,
+      "start_int": 3819,
+      "timestamp_label": "1:03:39",
+      "text": "one more time."
+    },
+    {
+      "start": 3820.938,
+      "end": 3824.014,
+      "start_int": 3820,
+      "timestamp_label": "1:03:40",
+      "text": "Please remember to access the brief survey at the link that"
+    },
+    {
+      "start": 3824.014,
+      "end": 3827.295,
+      "start_int": 3824,
+      "timestamp_label": "1:03:44",
+      "text": "I've already provided to access to give us one feedback and two"
+    },
+    {
+      "start": 3827.295,
+      "end": 3830.218,
+      "start_int": 3827,
+      "timestamp_label": "1:03:47",
+      "text": "to request a certificate of attendance. Please remember."
+    },
+    {
+      "start": 3831.008,
+      "end": 3834.454,
+      "start_int": 3831,
+      "timestamp_label": "1:03:51",
+      "text": "To follow your organizations guidance regarding requesting"
+    },
+    {
+      "start": 3834.454,
+      "end": 3834.688,
+      "start_int": 3834,
+      "timestamp_label": "1:03:54",
+      "text": "CLP."
+    },
+    {
+      "start": 3835.538,
+      "end": 3838.67,
+      "start_int": 3835,
+      "timestamp_label": "1:03:55",
+      "text": "And remember that CLP is for DAU events, will not post"
+    },
+    {
+      "start": 3838.67,
+      "end": 3840.778,
+      "start_int": 3838,
+      "timestamp_label": "1:03:58",
+      "text": "automatically to your CL transcript."
+    },
+    {
+      "start": 3840.778,
+      "end": 3844.089,
+      "start_int": 3840,
+      "timestamp_label": "1:04:00",
+      "text": "And it must be requested separately. If you are unable to"
+    },
+    {
+      "start": 3844.089,
+      "end": 3847.229,
+      "start_int": 3844,
+      "timestamp_label": "1:04:04",
+      "text": "see or access the survey, I recommend using a personal"
+    },
+    {
+      "start": 3847.229,
+      "end": 3850.826,
+      "start_int": 3847,
+      "timestamp_label": "1:04:07",
+      "text": "device and please join us for the next core office hours which"
+    },
+    {
+      "start": 3850.826,
+      "end": 3853.338,
+      "start_int": 3850,
+      "timestamp_label": "1:04:10",
+      "text": "will take place next Tuesday, October 29th."
+    },
+    {
+      "start": 3853.818,
+      "end": 3855.258,
+      "start_int": 3853,
+      "timestamp_label": "1:04:13",
+      "text": "Take care everyone and thank you."
+    }
+  ]
+}

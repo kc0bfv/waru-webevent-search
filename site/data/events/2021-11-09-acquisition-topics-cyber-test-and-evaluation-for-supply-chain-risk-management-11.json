@@ -1,0 +1,6592 @@
+{
+  "id": "2021-11-09-acquisition-topics-cyber-test-and-evaluation-for-supply-chain-risk-management-11",
+  "title": "Acquisition Topics Cyber Test and Evaluation for Supply Chain Risk Management 11.9.21",
+  "date": "2021-11-09",
+  "event_url": "https://www.waru.edu/events/acquisition-topics-cyber-test-and-evaluation-supply-chain-risk-management",
+  "entry_id": "1_jplm520a",
+  "partner_id": "2203981",
+  "uiconf_id": "39997971",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_jplm520a/version/100001",
+  "cues": [
+    {
+      "start": 3.03,
+      "end": 6.37,
+      "start_int": 3,
+      "timestamp_label": "0:03",
+      "text": "&gt;&gt; I'd like to welcome everybody to today's DAU event."
+    },
+    {
+      "start": 6.37,
+      "end": 11.14,
+      "start_int": 6,
+      "timestamp_label": "0:06",
+      "text": "We have the Cyber Testing Evaluation for Supply Chain Risk Management."
+    },
+    {
+      "start": 11.14,
+      "end": 12.8,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "My name is Emmett Simmons."
+    },
+    {
+      "start": 12.8,
+      "end": 15.07,
+      "start_int": 12,
+      "timestamp_label": "0:12",
+      "text": "I'm the producer for today's event."
+    },
+    {
+      "start": 15.07,
+      "end": 18.97,
+      "start_int": 15,
+      "timestamp_label": "0:15",
+      "text": "We also have Miss Elly Millar as our host."
+    },
+    {
+      "start": 22.59,
+      "end": 24.01,
+      "start_int": 22,
+      "timestamp_label": "0:22",
+      "text": "The agenda for today."
+    },
+    {
+      "start": 24.01,
+      "end": 25.54,
+      "start_int": 24,
+      "timestamp_label": "0:24",
+      "text": "Microphones will be muted."
+    },
+    {
+      "start": 25.54,
+      "end": 27.9,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "The session is being recorded."
+    },
+    {
+      "start": 27.9,
+      "end": 33.7,
+      "start_int": 27,
+      "timestamp_label": "0:27",
+      "text": "It will be posted to dau.edu/dau-webcast which is at the bottom."
+    },
+    {
+      "start": 33.7,
+      "end": 35.19,
+      "start_int": 33,
+      "timestamp_label": "0:33",
+      "text": "We are taking questions today."
+    },
+    {
+      "start": 35.19,
+      "end": 37.4,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "Please submit your questions via the chat."
+    },
+    {
+      "start": 37.4,
+      "end": 41.94,
+      "start_int": 37,
+      "timestamp_label": "0:37",
+      "text": "We will respond verbally to your questions so -- towards the end of the event."
+    },
+    {
+      "start": 41.94,
+      "end": 43.25,
+      "start_int": 41,
+      "timestamp_label": "0:41",
+      "text": "There is a survey at the end."
+    },
+    {
+      "start": 43.25,
+      "end": 46.85,
+      "start_int": 43,
+      "timestamp_label": "0:43",
+      "text": "We will post the survey link in the chat."
+    },
+    {
+      "start": 46.85,
+      "end": 48.08,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "Takes a couple minutes to fill out."
+    },
+    {
+      "start": 48.08,
+      "end": 49.48,
+      "start_int": 48,
+      "timestamp_label": "0:48",
+      "text": "We would appreciate it."
+    },
+    {
+      "start": 49.48,
+      "end": 52.28,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "If you're here for CLPs, the session does qualify for up"
+    },
+    {
+      "start": 52.28,
+      "end": 54.08,
+      "start_int": 52,
+      "timestamp_label": "0:52",
+      "text": "to 1.5 CLPs with supervisor approval."
+    },
+    {
+      "start": 54.08,
+      "end": 54.61,
+      "start_int": 54,
+      "timestamp_label": "0:54",
+      "text": "It is not automatic."
+    },
+    {
+      "start": 54.61,
+      "end": 55.93,
+      "start_int": 54,
+      "timestamp_label": "0:54",
+      "text": "You will need to apply for it."
+    },
+    {
+      "start": 55.93,
+      "end": 57.73,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "There is a link at the end of the survey that you can copy and paste"
+    },
+    {
+      "start": 57.73,
+      "end": 59.77,
+      "start_int": 57,
+      "timestamp_label": "0:57",
+      "text": "to get your CLP certificate and to present to your supervisor for approval."
+    },
+    {
+      "start": 59.77,
+      "end": 61.09,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "Now I'm going to turn it over to Miss Elly Millar."
+    },
+    {
+      "start": 61.09,
+      "end": 62.17,
+      "start_int": 61,
+      "timestamp_label": "1:01",
+      "text": "2"
+    },
+    {
+      "start": 62.17,
+      "end": 65.43,
+      "start_int": 62,
+      "timestamp_label": "1:02",
+      "text": "&gt;&gt; Welcome everybody to today's webcast: Cyber Testing Evaluation"
+    },
+    {
+      "start": 65.43,
+      "end": 69.22,
+      "start_int": 65,
+      "timestamp_label": "1:05",
+      "text": "for Supply Chain Risk Management."
+    },
+    {
+      "start": 69.22,
+      "end": 83.8,
+      "start_int": 69,
+      "timestamp_label": "1:09",
+      "text": "My name as Emmett has introduced is Elly Millar, and I'm your host for today's event."
+    },
+    {
+      "start": 83.8,
+      "end": 88.09,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "Before I introduce you to our guest speaker, I'm going to take a few minutes to introduce you"
+    },
+    {
+      "start": 88.09,
+      "end": 93.43,
+      "start_int": 88,
+      "timestamp_label": "1:28",
+      "text": "to the DAU Cybersecurity Enterprise Team and capabilities."
+    },
+    {
+      "start": 93.43,
+      "end": 96.55,
+      "start_int": 93,
+      "timestamp_label": "1:33",
+      "text": "Cybersecurity Enterprise Team is federated across US"
+    },
+    {
+      "start": 96.55,
+      "end": 100.95,
+      "start_int": 96,
+      "timestamp_label": "1:36",
+      "text": "in about eight different fiscal locations attached to one of these four regions"
+    },
+    {
+      "start": 100.95,
+      "end": 106.66,
+      "start_int": 100,
+      "timestamp_label": "1:40",
+      "text": "that you see, which enables us to support all of our customers virtually or in person."
+    },
+    {
+      "start": 106.66,
+      "end": 109.96,
+      "start_int": 106,
+      "timestamp_label": "1:46",
+      "text": "In addition to providing cybersecurity courses and workshops,"
+    },
+    {
+      "start": 109.96,
+      "end": 115.77,
+      "start_int": 109,
+      "timestamp_label": "1:49",
+      "text": "we assist organizations solve cyber challenges through consulting, embed or through short-"
+    },
+    {
+      "start": 115.77,
+      "end": 118.94,
+      "start_int": 115,
+      "timestamp_label": "1:55",
+      "text": "and long-term mission assistance."
+    },
+    {
+      "start": 118.94,
+      "end": 123.5,
+      "start_int": 118,
+      "timestamp_label": "1:58",
+      "text": "Our faculty members have real world, private-sector, and you'd experience backed"
+    },
+    {
+      "start": 123.5,
+      "end": 128.68,
+      "start_int": 123,
+      "timestamp_label": "2:03",
+      "text": "by industry certifications and continuing education to deliver cybersecurity education"
+    },
+    {
+      "start": 128.68,
+      "end": 133.4,
+      "start_int": 128,
+      "timestamp_label": "2:08",
+      "text": "and consulting in the many different areas such as Cloud Security, Cybersecurity,"
+    },
+    {
+      "start": 133.4,
+      "end": 137.1,
+      "start_int": 133,
+      "timestamp_label": "2:13",
+      "text": "Maturity Model Certification, Cyber Test and Evaluation,"
+    },
+    {
+      "start": 137.1,
+      "end": 139.75,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "Cyber Resiliency Engineering to highlight a few."
+    },
+    {
+      "start": 139.75,
+      "end": 143.87,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "You can find our course offerings and register"
+    },
+    {
+      "start": 143.87,
+      "end": 148.88,
+      "start_int": 143,
+      "timestamp_label": "2:23",
+      "text": "on DAU's cornerstone on demand website dau.csod.com."
+    },
+    {
+      "start": 148.88,
+      "end": 151.37,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "Some of these courses are part of our credentials."
+    },
+    {
+      "start": 151.37,
+      "end": 155.42,
+      "start_int": 151,
+      "timestamp_label": "2:31",
+      "text": "There are currently two credentials online: Program Protection and Cybersecurity"
+    },
+    {
+      "start": 155.42,
+      "end": 157.56,
+      "start_int": 155,
+      "timestamp_label": "2:35",
+      "text": "for Program Managers credentials."
+    },
+    {
+      "start": 157.56,
+      "end": 161.54,
+      "start_int": 157,
+      "timestamp_label": "2:37",
+      "text": "And we're in the process of developing Cyber Resiliency Introduction"
+    },
+    {
+      "start": 161.54,
+      "end": 164.75,
+      "start_int": 161,
+      "timestamp_label": "2:41",
+      "text": "and Practitioner Credentials."
+    },
+    {
+      "start": 164.75,
+      "end": 168.89,
+      "start_int": 164,
+      "timestamp_label": "2:44",
+      "text": "We also offer various workshop as listed here on the left side."
+    },
+    {
+      "start": 168.89,
+      "end": 171.83,
+      "start_int": 168,
+      "timestamp_label": "2:48",
+      "text": "If you are defense industry or partners, you may be interested"
+    },
+    {
+      "start": 171.83,
+      "end": 175.76,
+      "start_int": 171,
+      "timestamp_label": "2:51",
+      "text": "in the Cybersecurity Maturity Model certification and DFARS training,"
+    },
+    {
+      "start": 175.76,
+      "end": 179.56,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "which is offered in many different formats on a regular basis."
+    },
+    {
+      "start": 179.56,
+      "end": 182.52,
+      "start_int": 179,
+      "timestamp_label": "2:59",
+      "text": "Cyber training range is a unique workshop we offer here at DAU."
+    },
+    {
+      "start": 182.52,
+      "end": 188.28,
+      "start_int": 182,
+      "timestamp_label": "3:02",
+      "text": "It's 90% hands on where you get to use open-source tools such as Kali Linux"
+    },
+    {
+      "start": 188.28,
+      "end": 194.3,
+      "start_int": 188,
+      "timestamp_label": "3:08",
+      "text": "and Metasploit to hack business systems, as well as a weapons system all in virtual environment."
+    },
+    {
+      "start": 194.3,
+      "end": 196.88,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "We currently offer it twice a month virtually."
+    },
+    {
+      "start": 196.88,
+      "end": 200.34,
+      "start_int": 196,
+      "timestamp_label": "3:16",
+      "text": "It's intended for a broader audience to gain a better understanding"
+    },
+    {
+      "start": 200.34,
+      "end": 204.2,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "of how cyber adversaries think so we can do better defense."
+    },
+    {
+      "start": 204.2,
+      "end": 207.86,
+      "start_int": 204,
+      "timestamp_label": "3:24",
+      "text": "Absolutely no experience necessary."
+    },
+    {
+      "start": 207.86,
+      "end": 210.39,
+      "start_int": 207,
+      "timestamp_label": "3:27",
+      "text": "We also conduct cyber tabletop workshops."
+    },
+    {
+      "start": 210.39,
+      "end": 214.03,
+      "start_int": 210,
+      "timestamp_label": "3:30",
+      "text": "Cyber tabletop is one of the mission-based cyber risk assessments"
+    },
+    {
+      "start": 214.03,
+      "end": 217.52,
+      "start_int": 214,
+      "timestamp_label": "3:34",
+      "text": "which is directed by DOD 5009.89."
+    },
+    {
+      "start": 217.52,
+      "end": 223.35,
+      "start_int": 217,
+      "timestamp_label": "3:37",
+      "text": "If you didn't know already, DOD cyber tabletop guide version two came out in September"
+    },
+    {
+      "start": 223.35,
+      "end": 227.52,
+      "start_int": 223,
+      "timestamp_label": "3:43",
+      "text": "of this year, and we have updated the workshop to reflect the changes."
+    },
+    {
+      "start": 227.52,
+      "end": 232.1,
+      "start_int": 227,
+      "timestamp_label": "3:47",
+      "text": "In this workshop, you'll gain foundational knowledge on cyber tabletop methodology as well"
+    },
+    {
+      "start": 232.1,
+      "end": 235.85,
+      "start_int": 232,
+      "timestamp_label": "3:52",
+      "text": "as attack surface characterizations through discussions and exercises."
+    },
+    {
+      "start": 235.85,
+      "end": 241.74,
+      "start_int": 235,
+      "timestamp_label": "3:55",
+      "text": "And taking this workshop is the first step in getting certified as a CTT facilitator,"
+    },
+    {
+      "start": 241.74,
+      "end": 244.27,
+      "start_int": 241,
+      "timestamp_label": "4:01",
+      "text": "and it's offered once a month virtually."
+    },
+    {
+      "start": 244.27,
+      "end": 248.9,
+      "start_int": 244,
+      "timestamp_label": "4:04",
+      "text": "You can register for both cyber training range and cyber tabletop workshop again"
+    },
+    {
+      "start": 248.9,
+      "end": 251.93,
+      "start_int": 248,
+      "timestamp_label": "4:08",
+      "text": "on DAU's Cornerstone on demand website."
+    },
+    {
+      "start": 251.93,
+      "end": 259.01,
+      "start_int": 251,
+      "timestamp_label": "4:11",
+      "text": "Lastly, we're currently working with NAVAIR to build the Advanced Cyber Training Range."
+    },
+    {
+      "start": 259.01,
+      "end": 263.43,
+      "start_int": 259,
+      "timestamp_label": "4:19",
+      "text": "What you see in the picture are fiscal benches in our mid-Atlantic campus."
+    },
+    {
+      "start": 263.43,
+      "end": 268.35,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "There are from left to right automotive bench, avionics bench, and navigation bench"
+    },
+    {
+      "start": 268.35,
+      "end": 271.23,
+      "start_int": 268,
+      "timestamp_label": "4:28",
+      "text": "where you'll have the opportunity to test and hack"
+    },
+    {
+      "start": 271.23,
+      "end": 275.26,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "into these systems using non-traditional protocols such as CAN [phonetic]"
+    },
+    {
+      "start": 275.26,
+      "end": 279.17,
+      "start_int": 275,
+      "timestamp_label": "4:35",
+      "text": "and 1553 bus [phonetic] in person, so please stay tuned"
+    },
+    {
+      "start": 279.17,
+      "end": 281.69,
+      "start_int": 279,
+      "timestamp_label": "4:39",
+      "text": "for our advanced cyber training range workshop."
+    },
+    {
+      "start": 281.69,
+      "end": 286.79,
+      "start_int": 281,
+      "timestamp_label": "4:41",
+      "text": "If you have any questions regarding any of our offerings or collaboration opportunities,"
+    },
+    {
+      "start": 286.79,
+      "end": 291.34,
+      "start_int": 286,
+      "timestamp_label": "4:46",
+      "text": "please email us at cybersecurity@dau.edu and also check"
+    },
+    {
+      "start": 291.34,
+      "end": 296.51,
+      "start_int": 291,
+      "timestamp_label": "4:51",
+      "text": "out DAU Cybersecurity Community of Practice."
+    },
+    {
+      "start": 296.51,
+      "end": 299.17,
+      "start_int": 296,
+      "timestamp_label": "4:56",
+      "text": "Today's presentation regarding Cyber Testing Evaluation"
+    },
+    {
+      "start": 299.17,
+      "end": 302.71,
+      "start_int": 299,
+      "timestamp_label": "4:59",
+      "text": "for Supply Chain Risk Management is a very important topic."
+    },
+    {
+      "start": 302.71,
+      "end": 308.62,
+      "start_int": 302,
+      "timestamp_label": "5:02",
+      "text": "It was reported that supply chain attacks rose by 42% in the fourth quarter of 2021"
+    },
+    {
+      "start": 308.62,
+      "end": 313.48,
+      "start_int": 308,
+      "timestamp_label": "5:08",
+      "text": "in US impacting up to 7 million people and the problem is global."
+    },
+    {
+      "start": 313.48,
+      "end": 318.17,
+      "start_int": 313,
+      "timestamp_label": "5:13",
+      "text": "The European Union cybersecurity agency who is the body responsible"
+    },
+    {
+      "start": 318.17,
+      "end": 323.19,
+      "start_int": 318,
+      "timestamp_label": "5:18",
+      "text": "for European level coordinated actions on cybersecurity and emerging technologies"
+    },
+    {
+      "start": 323.19,
+      "end": 326.89,
+      "start_int": 323,
+      "timestamp_label": "5:23",
+      "text": "like artificial intelligence and 5G conducted a study"
+    },
+    {
+      "start": 326.89,
+      "end": 332.34,
+      "start_int": 326,
+      "timestamp_label": "5:26",
+      "text": "on 24 supply chain attacks from January 2020 to July 2021."
+    },
+    {
+      "start": 332.34,
+      "end": 336.0,
+      "start_int": 332,
+      "timestamp_label": "5:32",
+      "text": "They found that supply chain attacks are getting more sophisticated"
+    },
+    {
+      "start": 336.0,
+      "end": 340.01,
+      "start_int": 336,
+      "timestamp_label": "5:36",
+      "text": "and more advanced persistent threat actors are conducting the attacks,"
+    },
+    {
+      "start": 340.01,
+      "end": 343.25,
+      "start_int": 340,
+      "timestamp_label": "5:40",
+      "text": "making traditional cybersecurity measures insufficient to defend"
+    },
+    {
+      "start": 343.25,
+      "end": 345.74,
+      "start_int": 343,
+      "timestamp_label": "5:43",
+      "text": "against supply chain cyber threats."
+    },
+    {
+      "start": 345.74,
+      "end": 349.41,
+      "start_int": 345,
+      "timestamp_label": "5:45",
+      "text": "So, what does this mean for DOD warfighting capabilities?"
+    },
+    {
+      "start": 349.41,
+      "end": 354.44,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "Miss Sarah Standard joins us today to present cyber testing evaluation strategies"
+    },
+    {
+      "start": 354.44,
+      "end": 359.83,
+      "start_int": 354,
+      "timestamp_label": "5:54",
+      "text": "and activities to address cyber threats to supply chain of DOD weapons systems."
+    },
+    {
+      "start": 359.83,
+      "end": 361.95,
+      "start_int": 359,
+      "timestamp_label": "5:59",
+      "text": "Miss Standard is a retired Navy captain."
+    },
+    {
+      "start": 361.95,
+      "end": 367.06,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "Her carrier includes instructing calculus and cybersecurity at Naval Academy,"
+    },
+    {
+      "start": 367.06,
+      "end": 369.47,
+      "start_int": 367,
+      "timestamp_label": "6:07",
+      "text": "as well as teaching cyber warfare at NAVAIR."
+    },
+    {
+      "start": 369.47,
+      "end": 373.25,
+      "start_int": 369,
+      "timestamp_label": "6:09",
+      "text": "In 2016, she transitioned to serve as the Cybersecurity"
+    },
+    {
+      "start": 373.25,
+      "end": 375.53,
+      "start_int": 373,
+      "timestamp_label": "6:13",
+      "text": "and Interoperability Technical Director."
+    },
+    {
+      "start": 375.53,
+      "end": 380.71,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "And now she's the Director for Developmental Test Evaluation and Assessments in the office"
+    },
+    {
+      "start": 380.71,
+      "end": 383.75,
+      "start_int": 380,
+      "timestamp_label": "6:20",
+      "text": "of Undersecretary of Defense for Research and Engineering."
+    },
+    {
+      "start": 383.75,
+      "end": 389.16,
+      "start_int": 383,
+      "timestamp_label": "6:23",
+      "text": "What I would add to that is that there isn't a cybersecurity effort, especially at the USD"
+    },
+    {
+      "start": 389.16,
+      "end": 392.14,
+      "start_int": 389,
+      "timestamp_label": "6:29",
+      "text": "and joint level that doesn't have her fingerprints on it."
+    },
+    {
+      "start": 392.14,
+      "end": 395.07,
+      "start_int": 392,
+      "timestamp_label": "6:32",
+      "text": "She's either championing it or advocating for it,"
+    },
+    {
+      "start": 395.07,
+      "end": 398.8,
+      "start_int": 395,
+      "timestamp_label": "6:35",
+      "text": "which goes to show you her great passion for DOD and cybersecurity."
+    },
+    {
+      "start": 398.8,
+      "end": 402.58,
+      "start_int": 398,
+      "timestamp_label": "6:38",
+      "text": "So, without further ado, Sarah, over to you."
+    },
+    {
+      "start": 402.58,
+      "end": 403.99,
+      "start_int": 402,
+      "timestamp_label": "6:42",
+      "text": "&gt;&gt; Wow, what a great introduction."
+    },
+    {
+      "start": 403.99,
+      "end": 408.82,
+      "start_int": 403,
+      "timestamp_label": "6:43",
+      "text": "I am not the Director for Developmental Test Evaluation Assessments."
+    },
+    {
+      "start": 408.82,
+      "end": 409.96,
+      "start_int": 408,
+      "timestamp_label": "6:48",
+      "text": "I do work for him, though."
+    },
+    {
+      "start": 409.96,
+      "end": 412.72,
+      "start_int": 409,
+      "timestamp_label": "6:49",
+      "text": "So, I appreciate that."
+    },
+    {
+      "start": 412.72,
+      "end": 414.96,
+      "start_int": 412,
+      "timestamp_label": "6:52",
+      "text": "Okay, so welcome everybody."
+    },
+    {
+      "start": 414.96,
+      "end": 417.95,
+      "start_int": 414,
+      "timestamp_label": "6:54",
+      "text": "And thank you for making the time today to come."
+    },
+    {
+      "start": 417.95,
+      "end": 422.45,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "And thanks to DAU for the opportunity to present."
+    },
+    {
+      "start": 422.45,
+      "end": 426.92,
+      "start_int": 422,
+      "timestamp_label": "7:02",
+      "text": "Can I get a confirmation that you can see my slides?"
+    },
+    {
+      "start": 426.92,
+      "end": 428.02,
+      "start_int": 426,
+      "timestamp_label": "7:06",
+      "text": "&gt;&gt;Yes, Sarah."
+    },
+    {
+      "start": 428.02,
+      "end": 429.25,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "&gt;&gt; Awesome."
+    },
+    {
+      "start": 429.25,
+      "end": 434.43,
+      "start_int": 429,
+      "timestamp_label": "7:09",
+      "text": "Okay. So, with that introduction, I guess I don't have anything else to say on this slide."
+    },
+    {
+      "start": 434.43,
+      "end": 439.9,
+      "start_int": 434,
+      "timestamp_label": "7:14",
+      "text": "But I'm really happy to be here and look forward to your questions."
+    },
+    {
+      "start": 439.9,
+      "end": 445.58,
+      "start_int": 439,
+      "timestamp_label": "7:19",
+      "text": "So, bottom line up front, I would like to present some draft guidance that is designed"
+    },
+    {
+      "start": 445.58,
+      "end": 451.32,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "to help perform cyber test and evaluation that focuses on preventing, identifying, mitigating"
+    },
+    {
+      "start": 451.32,
+      "end": 453.58,
+      "start_int": 451,
+      "timestamp_label": "7:31",
+      "text": "and deterring cyberspace threats to the supply chain."
+    },
+    {
+      "start": 453.58,
+      "end": 458.49,
+      "start_int": 453,
+      "timestamp_label": "7:33",
+      "text": "So, these are cyber supply chain focus types of threats that we're focused on."
+    },
+    {
+      "start": 458.49,
+      "end": 462.86,
+      "start_int": 458,
+      "timestamp_label": "7:38",
+      "text": "My focus obviously, is on DOD acquisition programs, and in particular weapons systems,"
+    },
+    {
+      "start": 462.86,
+      "end": 467.78,
+      "start_int": 462,
+      "timestamp_label": "7:42",
+      "text": "and on the DOD cyber test and evaluation processes, which include hardware,"
+    },
+    {
+      "start": 467.78,
+      "end": 470.33,
+      "start_int": 467,
+      "timestamp_label": "7:47",
+      "text": "firmware and software insurance, which, of course,"
+    },
+    {
+      "start": 470.33,
+      "end": 475.26,
+      "start_int": 470,
+      "timestamp_label": "7:50",
+      "text": "are integral to reducing risk in cyber supply chain."
+    },
+    {
+      "start": 475.26,
+      "end": 481.06,
+      "start_int": 475,
+      "timestamp_label": "7:55",
+      "text": "While I will focus on the motivation behind this guidance and the approach itself."
+    },
+    {
+      "start": 481.06,
+      "end": 483.65,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "I'm on slide three now."
+    },
+    {
+      "start": 483.65,
+      "end": 487.89,
+      "start_int": 483,
+      "timestamp_label": "8:03",
+      "text": "So, supply -- the unique attributes of the supply chain, which I would like to discuss"
+    },
+    {
+      "start": 487.89,
+      "end": 494.01,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "as our motivation for this guidance, very complex, complicated attack surfaces."
+    },
+    {
+      "start": 494.01,
+      "end": 498.44,
+      "start_int": 494,
+      "timestamp_label": "8:14",
+      "text": "When you look at your end product, your system and its attack surface, it's a very --"
+    },
+    {
+      "start": 498.44,
+      "end": 502.8,
+      "start_int": 498,
+      "timestamp_label": "8:18",
+      "text": "well, it's pretty much not as infinite,"
+    },
+    {
+      "start": 502.8,
+      "end": 506.04,
+      "start_int": 502,
+      "timestamp_label": "8:22",
+      "text": "or seemingly as infinite as the supply chain itself."
+    },
+    {
+      "start": 506.04,
+      "end": 508.71,
+      "start_int": 506,
+      "timestamp_label": "8:26",
+      "text": "So, we'll take a look at that a little bit more."
+    },
+    {
+      "start": 508.71,
+      "end": 514.07,
+      "start_int": 508,
+      "timestamp_label": "8:28",
+      "text": "Understanding, as Elly mentioned, you know, this global nature of supply chain risk,"
+    },
+    {
+      "start": 514.07,
+      "end": 518.39,
+      "start_int": 514,
+      "timestamp_label": "8:34",
+      "text": "and we're all in a supply chain crisis right now, of course in our country is."
+    },
+    {
+      "start": 518.39,
+      "end": 522.08,
+      "start_int": 518,
+      "timestamp_label": "8:38",
+      "text": "So, global web of interconnected suppliers, manufacturers,"
+    },
+    {
+      "start": 522.08,
+      "end": 525.26,
+      "start_int": 522,
+      "timestamp_label": "8:42",
+      "text": "all the way down to those mom-and-pop shops that everyone likes to talk"
+    },
+    {
+      "start": 525.26,
+      "end": 528.46,
+      "start_int": 525,
+      "timestamp_label": "8:45",
+      "text": "about the mom-and-pop store fronts."
+    },
+    {
+      "start": 528.46,
+      "end": 532.67,
+      "start_int": 528,
+      "timestamp_label": "8:48",
+      "text": "You know, the transportation, the infrastructure, all of these have massive,"
+    },
+    {
+      "start": 532.67,
+      "end": 538.77,
+      "start_int": 532,
+      "timestamp_label": "8:52",
+      "text": "unknown and undiscovered dependencies for DOD weapons systems and DOD systems in general."
+    },
+    {
+      "start": 538.77,
+      "end": 540.95,
+      "start_int": 538,
+      "timestamp_label": "8:58",
+      "text": "It's a very dynamic supply chain."
+    },
+    {
+      "start": 540.95,
+      "end": 542.98,
+      "start_int": 540,
+      "timestamp_label": "9:00",
+      "text": "It's very dynamic, always changing."
+    },
+    {
+      "start": 542.98,
+      "end": 548.19,
+      "start_int": 542,
+      "timestamp_label": "9:02",
+      "text": "And it's very hard to perform that identify, protect, detect, respond, and recover,"
+    },
+    {
+      "start": 548.19,
+      "end": 552.83,
+      "start_int": 548,
+      "timestamp_label": "9:08",
+      "text": "the cybersecurity framework that NIST has published, against the supply chain."
+    },
+    {
+      "start": 552.83,
+      "end": 559.12,
+      "start_int": 552,
+      "timestamp_label": "9:12",
+      "text": "Timing is unbounded, and we are being targeted by advanced threats."
+    },
+    {
+      "start": 559.12,
+      "end": 561.78,
+      "start_int": 559,
+      "timestamp_label": "9:19",
+      "text": "I'm going on to Slide four."
+    },
+    {
+      "start": 561.78,
+      "end": 566.33,
+      "start_int": 561,
+      "timestamp_label": "9:21",
+      "text": "So, on the right-hand side, this depiction is called a wheel of access."
+    },
+    {
+      "start": 566.33,
+      "end": 571.88,
+      "start_int": 566,
+      "timestamp_label": "9:26",
+      "text": "And the Air Force first developed a wheel of access and we have modified it and expanded it"
+    },
+    {
+      "start": 571.88,
+      "end": 576.42,
+      "start_int": 571,
+      "timestamp_label": "9:31",
+      "text": "to add the critical infrastructure component, and add developmental"
+    },
+    {
+      "start": 576.42,
+      "end": 579.22,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "and test environments, processes, and tools."
+    },
+    {
+      "start": 579.22,
+      "end": 584.93,
+      "start_int": 579,
+      "timestamp_label": "9:39",
+      "text": "So, this is also generalized so that any system can be considered in this wheel have access."
+    },
+    {
+      "start": 584.93,
+      "end": 589.07,
+      "start_int": 584,
+      "timestamp_label": "9:44",
+      "text": "And when you take a look at this wheel of access and you think about the supply chain,"
+    },
+    {
+      "start": 589.07,
+      "end": 595.78,
+      "start_int": 589,
+      "timestamp_label": "9:49",
+      "text": "every single element, every single component, every single little spot on this data,"
+    },
+    {
+      "start": 595.78,
+      "end": 600.44,
+      "start_int": 595,
+      "timestamp_label": "9:55",
+      "text": "whether it be data, whether it be a system, piece of hardware, firmware, it --"
+    },
+    {
+      "start": 600.44,
+      "end": 602.84,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "they all have their own supply chains."
+    },
+    {
+      "start": 602.84,
+      "end": 611.85,
+      "start_int": 602,
+      "timestamp_label": "10:02",
+      "text": "And that makes it overwhelmingly exponential in trying to understand where that risk could be."
+    },
+    {
+      "start": 611.85,
+      "end": 616.32,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "So, this -- the hardware, the firmware, the software components can all be modified,"
+    },
+    {
+      "start": 616.32,
+      "end": 619.61,
+      "start_int": 616,
+      "timestamp_label": "10:16",
+      "text": "and we have to try to get our hands on this."
+    },
+    {
+      "start": 619.61,
+      "end": 623.11,
+      "start_int": 619,
+      "timestamp_label": "10:19",
+      "text": "And we propose that cyber test evaluation can help."
+    },
+    {
+      "start": 623.11,
+      "end": 628.66,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "Understanding that the development and test environments, processes, and tools are not part"
+    },
+    {
+      "start": 628.66,
+      "end": 634.45,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "of the program managers, like tested evaluation master plan won't be documenting"
+    },
+    {
+      "start": 634.45,
+      "end": 640.22,
+      "start_int": 634,
+      "timestamp_label": "10:34",
+      "text": "that necessarily, but you need a strategy to understand what those environments,"
+    },
+    {
+      "start": 640.22,
+      "end": 644.73,
+      "start_int": 640,
+      "timestamp_label": "10:40",
+      "text": "those processes, and tools might introduce in terms of risk through the supply chain."
+    },
+    {
+      "start": 644.73,
+      "end": 645.75,
+      "start_int": 644,
+      "timestamp_label": "10:44",
+      "text": "On slide five."
+    },
+    {
+      "start": 645.75,
+      "end": 651.97,
+      "start_int": 645,
+      "timestamp_label": "10:45",
+      "text": "I'm going to break down now into each of those areas -- those attributes, so very dynamic."
+    },
+    {
+      "start": 651.97,
+      "end": 654.36,
+      "start_int": 651,
+      "timestamp_label": "10:51",
+      "text": "So, supply chain is constantly evolving."
+    },
+    {
+      "start": 654.36,
+      "end": 656.95,
+      "start_int": 654,
+      "timestamp_label": "10:54",
+      "text": "There are market forces on suppliers,"
+    },
+    {
+      "start": 656.95,
+      "end": 659.87,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "they change their designs, they change what they're doing."
+    },
+    {
+      "start": 659.87,
+      "end": 663.87,
+      "start_int": 659,
+      "timestamp_label": "10:59",
+      "text": "They aren't bounded to make it the same way for DOD every time, right?"
+    },
+    {
+      "start": 663.87,
+      "end": 665.54,
+      "start_int": 663,
+      "timestamp_label": "11:03",
+      "text": "They have profit and loss drivers."
+    },
+    {
+      "start": 665.54,
+      "end": 668.12,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "They have mergers and acquisitions."
+    },
+    {
+      "start": 668.12,
+      "end": 670.46,
+      "start_int": 668,
+      "timestamp_label": "11:08",
+      "text": "All the time, things are constantly changing."
+    },
+    {
+      "start": 670.46,
+      "end": 674.75,
+      "start_int": 670,
+      "timestamp_label": "11:10",
+      "text": "And that the business relationships they have, who they're trusting, all those,"
+    },
+    {
+      "start": 674.75,
+      "end": 678.04,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "again, are continuously changing."
+    },
+    {
+      "start": 678.04,
+      "end": 682.84,
+      "start_int": 678,
+      "timestamp_label": "11:18",
+      "text": "And disruptions to the supply chain cause the dynamic aspect"
+    },
+    {
+      "start": 682.84,
+      "end": 685.28,
+      "start_int": 682,
+      "timestamp_label": "11:22",
+      "text": "of the supply chain to evolve as well."
+    },
+    {
+      "start": 685.28,
+      "end": 691.06,
+      "start_int": 685,
+      "timestamp_label": "11:25",
+      "text": "You've got ransomware, we saw the Columbia Pipeline and how that disrupt the gas supplies"
+    },
+    {
+      "start": 691.06,
+      "end": 695.27,
+      "start_int": 691,
+      "timestamp_label": "11:31",
+      "text": "on the East Coast, everybody panicking going out and buying, you know,"
+    },
+    {
+      "start": 695.27,
+      "end": 698.69,
+      "start_int": 695,
+      "timestamp_label": "11:35",
+      "text": "tons of gas, so they wouldn't have no gas."
+    },
+    {
+      "start": 698.69,
+      "end": 703.66,
+      "start_int": 698,
+      "timestamp_label": "11:38",
+      "text": "And then we're seeing this -- all those ships that sitting out on the coast of California"
+    },
+    {
+      "start": 703.66,
+      "end": 708.39,
+      "start_int": 703,
+      "timestamp_label": "11:43",
+      "text": "with because we don't have enough drivers to handle the influx."
+    },
+    {
+      "start": 708.39,
+      "end": 711.19,
+      "start_int": 708,
+      "timestamp_label": "11:48",
+      "text": "Those aren't even supplied cyber supply chain problems, right?"
+    },
+    {
+      "start": 711.19,
+      "end": 716.03,
+      "start_int": 711,
+      "timestamp_label": "11:51",
+      "text": "Well, this, the Columbia Pipeline was but what's going on on the east"
+    },
+    {
+      "start": 716.03,
+      "end": 721.43,
+      "start_int": 716,
+      "timestamp_label": "11:56",
+      "text": "on the West Coast is not the same as what can happen in cyberspace."
+    },
+    {
+      "start": 721.43,
+      "end": 726.99,
+      "start_int": 721,
+      "timestamp_label": "12:01",
+      "text": "So, those disruptions in cyberspace are a big, you know, big concern and they're growing."
+    },
+    {
+      "start": 726.99,
+      "end": 731.87,
+      "start_int": 726,
+      "timestamp_label": "12:06",
+      "text": "Ransomware is predicted to grow even greater in 2022."
+    },
+    {
+      "start": 731.87,
+      "end": 737.97,
+      "start_int": 731,
+      "timestamp_label": "12:11",
+      "text": "War, natural disasters like the pandemic are in, they all can cause disruptions and the --"
+    },
+    {
+      "start": 737.97,
+      "end": 743.37,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "even the mergers and acquisitions can change -- can disrupt your supply chain."
+    },
+    {
+      "start": 743.37,
+      "end": 750.45,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "Those trust relationships, who that particular company trusts, that changes."
+    },
+    {
+      "start": 750.45,
+      "end": 751.56,
+      "start_int": 750,
+      "timestamp_label": "12:30",
+      "text": "The ownership changes."
+    },
+    {
+      "start": 751.56,
+      "end": 753.45,
+      "start_int": 751,
+      "timestamp_label": "12:31",
+      "text": "The investors change."
+    },
+    {
+      "start": 753.45,
+      "end": 756.15,
+      "start_int": 753,
+      "timestamp_label": "12:33",
+      "text": "Who's writing the code changes."
+    },
+    {
+      "start": 756.15,
+      "end": 760.52,
+      "start_int": 756,
+      "timestamp_label": "12:36",
+      "text": "The technology itself and the digital ecosystem, whether they're using --"
+    },
+    {
+      "start": 760.52,
+      "end": 764.67,
+      "start_int": 760,
+      "timestamp_label": "12:40",
+      "text": "when they move to the commercial cloud and how well they're securing that environment."
+    },
+    {
+      "start": 764.67,
+      "end": 771.08,
+      "start_int": 764,
+      "timestamp_label": "12:44",
+      "text": "We hear a lot of times in the open-source news about you know, commercial cloud configurations"
+    },
+    {
+      "start": 771.08,
+      "end": 774.29,
+      "start_int": 771,
+      "timestamp_label": "12:51",
+      "text": "by the you know, whoever is using that commercial cloud,"
+    },
+    {
+      "start": 774.29,
+      "end": 776.9,
+      "start_int": 774,
+      "timestamp_label": "12:54",
+      "text": "causing an exposure and a data breach."
+    },
+    {
+      "start": 776.9,
+      "end": 779.86,
+      "start_int": 776,
+      "timestamp_label": "12:56",
+      "text": "And then, yeah, so the workforce."
+    },
+    {
+      "start": 779.86,
+      "end": 780.96,
+      "start_int": 779,
+      "timestamp_label": "12:59",
+      "text": "The foreign coders."
+    },
+    {
+      "start": 780.96,
+      "end": 787.35,
+      "start_int": 780,
+      "timestamp_label": "13:00",
+      "text": "How do we know we have foreign coders that we don't want writing code on our system?"
+    },
+    {
+      "start": 787.35,
+      "end": 789.69,
+      "start_int": 787,
+      "timestamp_label": "13:07",
+      "text": "Moving on to slide six."
+    },
+    {
+      "start": 789.69,
+      "end": 793.33,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "So, it's very difficult to detect supply chain attacks."
+    },
+    {
+      "start": 793.33,
+      "end": 796.85,
+      "start_int": 793,
+      "timestamp_label": "13:13",
+      "text": "And they're -- they can be much more sophisticated."
+    },
+    {
+      "start": 796.85,
+      "end": 801.76,
+      "start_int": 796,
+      "timestamp_label": "13:16",
+      "text": ".They can happen from any point in the design to development to production."
+    },
+    {
+      "start": 801.76,
+      "end": 805.23,
+      "start_int": 801,
+      "timestamp_label": "13:21",
+      "text": "And they may or may not show up at the time of testing."
+    },
+    {
+      "start": 805.23,
+      "end": 811.37,
+      "start_int": 805,
+      "timestamp_label": "13:25",
+      "text": "They may be set to actively evade detection, lying dormant without any observable behavior"
+    },
+    {
+      "start": 811.37,
+      "end": 819.34,
+      "start_int": 811,
+      "timestamp_label": "13:31",
+      "text": "until a trigger that the adversary themselves has pre-planned and pre-programmed is activated."
+    },
+    {
+      "start": 819.34,
+      "end": 821.57,
+      "start_int": 819,
+      "timestamp_label": "13:39",
+      "text": "And they can happen in any part of the system."
+    },
+    {
+      "start": 821.57,
+      "end": 824.08,
+      "start_int": 821,
+      "timestamp_label": "13:41",
+      "text": "So, we tend to focus a lot on our critical parts."
+    },
+    {
+      "start": 824.08,
+      "end": 828.05,
+      "start_int": 824,
+      "timestamp_label": "13:44",
+      "text": "But even our non-critical parts can facilitate a compromise"
+    },
+    {
+      "start": 828.05,
+      "end": 831.11,
+      "start_int": 828,
+      "timestamp_label": "13:48",
+      "text": "to the critical functionality of the system."
+    },
+    {
+      "start": 831.11,
+      "end": 836.39,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "And anytime we do software updates, we don't always know could there be you know,"
+    },
+    {
+      "start": 836.39,
+      "end": 838.65,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "this is a perfect example of SolarWinds."
+    },
+    {
+      "start": 838.65,
+      "end": 844.71,
+      "start_int": 838,
+      "timestamp_label": "13:58",
+      "text": "Right? How do you know that your software is not compromised?"
+    },
+    {
+      "start": 844.71,
+      "end": 851.48,
+      "start_int": 844,
+      "timestamp_label": "14:04",
+      "text": "And the challenge is that these threats are not something the intelligence community can have"
+    },
+    {
+      "start": 851.48,
+      "end": 853.19,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "knowledge of in advance."
+    },
+    {
+      "start": 853.19,
+      "end": 856.4,
+      "start_int": 853,
+      "timestamp_label": "14:13",
+      "text": "They can happen, you know, one day there's no threat."
+    },
+    {
+      "start": 856.4,
+      "end": 858.92,
+      "start_int": 856,
+      "timestamp_label": "14:16",
+      "text": "The very next day, now you have a breach."
+    },
+    {
+      "start": 858.92,
+      "end": 863.96,
+      "start_int": 858,
+      "timestamp_label": "14:18",
+      "text": "So, this complex interaction between these components in our systems, the hardware,"
+    },
+    {
+      "start": 863.96,
+      "end": 872.78,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "the software and the firmware, that supply chain complexity is manifested in that complexity"
+    },
+    {
+      "start": 872.78,
+      "end": 875.14,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "of how these things work together as well."
+    },
+    {
+      "start": 875.14,
+      "end": 877.37,
+      "start_int": 875,
+      "timestamp_label": "14:35",
+      "text": "Moving on to slide seven."
+    },
+    {
+      "start": 878.61,
+      "end": 885.84,
+      "start_int": 878,
+      "timestamp_label": "14:38",
+      "text": "So anytime, anyplace, is when we can have a supply chain compromise to be --"
+    },
+    {
+      "start": 885.84,
+      "end": 889.75,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "unless we've really understood where the risks might come from."
+    },
+    {
+      "start": 889.75,
+      "end": 895.96,
+      "start_int": 889,
+      "timestamp_label": "14:49",
+      "text": "So, supply chain compromises may show up at any point in your acquisition lifecycle"
+    },
+    {
+      "start": 895.96,
+      "end": 899.83,
+      "start_int": 895,
+      "timestamp_label": "14:55",
+      "text": "and through daily updates, as we talked about before and this notion of trust,"
+    },
+    {
+      "start": 899.83,
+      "end": 903.27,
+      "start_int": 899,
+      "timestamp_label": "14:59",
+      "text": "we talked about -- I mentioned earlier as well,"
+    },
+    {
+      "start": 903.27,
+      "end": 907.51,
+      "start_int": 903,
+      "timestamp_label": "15:03",
+      "text": "any supplier at any tier can be targeted by an advanced threat actor."
+    },
+    {
+      "start": 907.51,
+      "end": 913.13,
+      "start_int": 907,
+      "timestamp_label": "15:07",
+      "text": "And it's a matter of that advanced threat actor understanding who is involved"
+    },
+    {
+      "start": 913.13,
+      "end": 915.61,
+      "start_int": 913,
+      "timestamp_label": "15:13",
+      "text": "in our supply chain, sometimes perhaps better than us."
+    },
+    {
+      "start": 915.61,
+      "end": 919.49,
+      "start_int": 915,
+      "timestamp_label": "15:15",
+      "text": "So, they can have an ongoing presence on that lower tier supplier"
+    },
+    {
+      "start": 919.49,
+      "end": 922.24,
+      "start_int": 919,
+      "timestamp_label": "15:19",
+      "text": "that we don't have visibility into."
+    },
+    {
+      "start": 922.24,
+      "end": 928.16,
+      "start_int": 922,
+      "timestamp_label": "15:22",
+      "text": "They can have a dormant implant there that won't be triggered in test."
+    },
+    {
+      "start": 928.16,
+      "end": 932.6,
+      "start_int": 928,
+      "timestamp_label": "15:28",
+      "text": "And they can also be attacking other lower tier trusted suppliers"
+    },
+    {
+      "start": 932.6,
+      "end": 935.58,
+      "start_int": 932,
+      "timestamp_label": "15:32",
+      "text": "that aren't even in our supply chain of interest."
+    },
+    {
+      "start": 935.58,
+      "end": 943.99,
+      "start_int": 935,
+      "timestamp_label": "15:35",
+      "text": "So, when we look at this term, trusted supplier and we think about how we're inheriting trust"
+    },
+    {
+      "start": 943.99,
+      "end": 951.03,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "or forwarding that trust up our supply chain, it's a tough thing to get your head around."
+    },
+    {
+      "start": 951.03,
+      "end": 956.02,
+      "start_int": 951,
+      "timestamp_label": "15:51",
+      "text": "Because the adversaries in cyberspace, exploit trust."
+    },
+    {
+      "start": 956.02,
+      "end": 958.3,
+      "start_int": 956,
+      "timestamp_label": "15:56",
+      "text": "That's exactly the thing they go after."
+    },
+    {
+      "start": 958.3,
+      "end": 961.27,
+      "start_int": 958,
+      "timestamp_label": "15:58",
+      "text": "So, the more we trust, the more challenges we have."
+    },
+    {
+      "start": 961.27,
+      "end": 964.66,
+      "start_int": 961,
+      "timestamp_label": "16:01",
+      "text": "So, current, you know, trend toward zero trust."
+    },
+    {
+      "start": 964.66,
+      "end": 965.46,
+      "start_int": 964,
+      "timestamp_label": "16:04",
+      "text": "Will that help?"
+    },
+    {
+      "start": 965.46,
+      "end": 966.8,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "We certainly hope so."
+    },
+    {
+      "start": 966.8,
+      "end": 970.33,
+      "start_int": 966,
+      "timestamp_label": "16:06",
+      "text": "But there is no silver bullet in this case."
+    },
+    {
+      "start": 970.33,
+      "end": 975.25,
+      "start_int": 970,
+      "timestamp_label": "16:10",
+      "text": "The DOD does have efforts around building and maintaining trust within the supply chain."
+    },
+    {
+      "start": 975.25,
+      "end": 979.7,
+      "start_int": 975,
+      "timestamp_label": "16:15",
+      "text": "The CIO is working that and so there is there are efforts,"
+    },
+    {
+      "start": 979.7,
+      "end": 982.83,
+      "start_int": 979,
+      "timestamp_label": "16:19",
+      "text": "but we're we still have a ways to go."
+    },
+    {
+      "start": 982.83,
+      "end": 985.18,
+      "start_int": 982,
+      "timestamp_label": "16:22",
+      "text": "Moving on to slide eight."
+    },
+    {
+      "start": 985.18,
+      "end": 990.58,
+      "start_int": 985,
+      "timestamp_label": "16:25",
+      "text": "So, there are tools that we know of that can help mitigate supply chain risk."
+    },
+    {
+      "start": 990.58,
+      "end": 995.1,
+      "start_int": 990,
+      "timestamp_label": "16:30",
+      "text": "The first tool is having visibility into your supply chain."
+    },
+    {
+      "start": 995.1,
+      "end": 999.39,
+      "start_int": 995,
+      "timestamp_label": "16:35",
+      "text": "There are automated tools that can support that threat characterization"
+    },
+    {
+      "start": 999.39,
+      "end": 1003.18,
+      "start_int": 999,
+      "timestamp_label": "16:39",
+      "text": "and the supply chain illumination and automated capability"
+    },
+    {
+      "start": 1003.18,
+      "end": 1008.35,
+      "start_int": 1003,
+      "timestamp_label": "16:43",
+      "text": "to continually illuminate your supply chain, which is critical if you want to be able"
+    },
+    {
+      "start": 1008.35,
+      "end": 1010.87,
+      "start_int": 1008,
+      "timestamp_label": "16:48",
+      "text": "to understand the supply chain's attack surface."
+    },
+    {
+      "start": 1010.87,
+      "end": 1016.12,
+      "start_int": 1010,
+      "timestamp_label": "16:50",
+      "text": "So, attack surface characterization is another tool that you need in your toolbox"
+    },
+    {
+      "start": 1016.12,
+      "end": 1018.21,
+      "start_int": 1016,
+      "timestamp_label": "16:56",
+      "text": "for mitigating supply chain risk."
+    },
+    {
+      "start": 1018.21,
+      "end": 1022.95,
+      "start_int": 1018,
+      "timestamp_label": "16:58",
+      "text": "You use -- informed by obviously, Criticality Analysis, an important aspect"
+    },
+    {
+      "start": 1022.95,
+      "end": 1026.25,
+      "start_int": 1022,
+      "timestamp_label": "17:02",
+      "text": "of understanding your attack -- the attack surface of the supply chain,"
+    },
+    {
+      "start": 1026.25,
+      "end": 1030.83,
+      "start_int": 1026,
+      "timestamp_label": "17:06",
+      "text": "but also mission based cyber risk assessments which you heard Elly mention at the beginning."
+    },
+    {
+      "start": 1030.83,
+      "end": 1033.27,
+      "start_int": 1030,
+      "timestamp_label": "17:10",
+      "text": "The cyber tabletop being one example."
+    },
+    {
+      "start": 1033.27,
+      "end": 1039.86,
+      "start_int": 1033,
+      "timestamp_label": "17:13",
+      "text": "Usually, every cyber tabletop will include supply chain analysis and attacks"
+    },
+    {
+      "start": 1039.86,
+      "end": 1042.52,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "through the supply chain proposed during those events."
+    },
+    {
+      "start": 1042.52,
+      "end": 1047.36,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "So, in terms of contract requirements, that is another tool"
+    },
+    {
+      "start": 1047.36,
+      "end": 1049.46,
+      "start_int": 1047,
+      "timestamp_label": "17:27",
+      "text": "to hold our contractors accountable."
+    },
+    {
+      "start": 1049.46,
+      "end": 1050.86,
+      "start_int": 1049,
+      "timestamp_label": "17:29",
+      "text": "DOD needs to do that."
+    },
+    {
+      "start": 1050.86,
+      "end": 1053.09,
+      "start_int": 1050,
+      "timestamp_label": "17:30",
+      "text": "We need to hold our contractors accountable."
+    },
+    {
+      "start": 1053.09,
+      "end": 1057.61,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "Having a slowdown requirement of the clauses that we include."
+    },
+    {
+      "start": 1057.61,
+      "end": 1063.65,
+      "start_int": 1057,
+      "timestamp_label": "17:37",
+      "text": "So, there are many DFARS and FAR clauses that are either in the works or in place"
+    },
+    {
+      "start": 1063.65,
+      "end": 1069.72,
+      "start_int": 1063,
+      "timestamp_label": "17:43",
+      "text": "that can help with holding the contractor accountable with respect to supply chain risk."
+    },
+    {
+      "start": 1069.72,
+      "end": 1073.44,
+      "start_int": 1069,
+      "timestamp_label": "17:49",
+      "text": "And I encourage programs to use those."
+    },
+    {
+      "start": 1073.44,
+      "end": 1077.27,
+      "start_int": 1073,
+      "timestamp_label": "17:53",
+      "text": "The challenge is that those contract requirements don't include cyber tests"
+    },
+    {
+      "start": 1077.27,
+      "end": 1078.57,
+      "start_int": 1077,
+      "timestamp_label": "17:57",
+      "text": "and evaluation."
+    },
+    {
+      "start": 1078.57,
+      "end": 1084.15,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "So, that is something that a program has to deliberately include in their contract in order"
+    },
+    {
+      "start": 1084.15,
+      "end": 1090.23,
+      "start_int": 1084,
+      "timestamp_label": "18:04",
+      "text": "to ask the supplier to do the Cyber Test and Evaluation of even trusted suppliers"
+    },
+    {
+      "start": 1090.23,
+      "end": 1095.99,
+      "start_int": 1090,
+      "timestamp_label": "18:10",
+      "text": "so that they can understand if there is risk or if there's a compromise occurring."
+    },
+    {
+      "start": 1095.99,
+      "end": 1099.94,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "Another tool is to plan ahead to make sure you have the specialized tools,"
+    },
+    {
+      "start": 1099.94,
+      "end": 1101.68,
+      "start_int": 1099,
+      "timestamp_label": "18:19",
+      "text": "techniques, and test personnel."
+    },
+    {
+      "start": 1101.68,
+      "end": 1104.82,
+      "start_int": 1101,
+      "timestamp_label": "18:21",
+      "text": "Hardware or software -- hardware analysis"
+    },
+    {
+      "start": 1104.82,
+      "end": 1108.4,
+      "start_int": 1104,
+      "timestamp_label": "18:24",
+      "text": "and hardware assurance testing is a little bit different than software --"
+    },
+    {
+      "start": 1108.4,
+      "end": 1112.24,
+      "start_int": 1108,
+      "timestamp_label": "18:28",
+      "text": "a lot different, frankly, than software assurance testing."
+    },
+    {
+      "start": 1112.24,
+      "end": 1118.79,
+      "start_int": 1112,
+      "timestamp_label": "18:32",
+      "text": "So, understanding what is needed and is an important tool to have in your toolbox."
+    },
+    {
+      "start": 1118.79,
+      "end": 1121.99,
+      "start_int": 1118,
+      "timestamp_label": "18:38",
+      "text": "Continuous iterative and targeted Cyber Test and Evaluation,"
+    },
+    {
+      "start": 1121.99,
+      "end": 1123.83,
+      "start_int": 1121,
+      "timestamp_label": "18:41",
+      "text": "which we're going to talk about here."
+    },
+    {
+      "start": 1123.83,
+      "end": 1129.47,
+      "start_int": 1123,
+      "timestamp_label": "18:43",
+      "text": "Both contractors, I mean, the contractors and the developers need to be doing that."
+    },
+    {
+      "start": 1129.47,
+      "end": 1134.39,
+      "start_int": 1129,
+      "timestamp_label": "18:49",
+      "text": "And we also want to hold our -- ask our contractors to improve the design --"
+    },
+    {
+      "start": 1134.39,
+      "end": 1139.63,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "the engineering for resilience by being able to engineer a system that well"
+    },
+    {
+      "start": 1139.63,
+      "end": 1145.1,
+      "start_int": 1139,
+      "timestamp_label": "18:59",
+      "text": "as my Apotek [phonetic] friend Blast [phonetic] likes to say is design the system"
+    },
+    {
+      "start": 1145.1,
+      "end": 1148.23,
+      "start_int": 1145,
+      "timestamp_label": "19:05",
+      "text": "to be a honey badger system so that it doesn't care"
+    },
+    {
+      "start": 1148.23,
+      "end": 1150.38,
+      "start_int": 1148,
+      "timestamp_label": "19:08",
+      "text": "if there is a compromise in the supply chain."
+    },
+    {
+      "start": 1150.38,
+      "end": 1156.51,
+      "start_int": 1150,
+      "timestamp_label": "19:10",
+      "text": "It has been designed to be able to withstand any compromise."
+    },
+    {
+      "start": 1156.51,
+      "end": 1160.22,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "That's the holy grail of where we want to be."
+    },
+    {
+      "start": 1160.22,
+      "end": 1162.24,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "It's a -- that's a big, big problem, though."
+    },
+    {
+      "start": 1162.24,
+      "end": 1169.02,
+      "start_int": 1162,
+      "timestamp_label": "19:22",
+      "text": "So, how does that system monitor, respond to, and recover in its capabilities"
+    },
+    {
+      "start": 1169.02,
+      "end": 1173.48,
+      "start_int": 1169,
+      "timestamp_label": "19:29",
+      "text": "so that the mission and system won't be --"
+    },
+    {
+      "start": 1173.48,
+      "end": 1177.15,
+      "start_int": 1173,
+      "timestamp_label": "19:33",
+      "text": "the compromises won't impact that mission is what I want to say."
+    },
+    {
+      "start": 1177.15,
+      "end": 1177.88,
+      "start_int": 1177,
+      "timestamp_label": "19:37",
+      "text": "All right."
+    },
+    {
+      "start": 1177.88,
+      "end": 1180.24,
+      "start_int": 1177,
+      "timestamp_label": "19:37",
+      "text": "Moving on to slide nine."
+    },
+    {
+      "start": 1180.24,
+      "end": 1186.01,
+      "start_int": 1180,
+      "timestamp_label": "19:40",
+      "text": "So, we propose Cyber Test and Evaluation to help reduce cyber supply chain risks."
+    },
+    {
+      "start": 1186.01,
+      "end": 1191.1,
+      "start_int": 1186,
+      "timestamp_label": "19:46",
+      "text": "And that requires some key things to do that."
+    },
+    {
+      "start": 1191.1,
+      "end": 1194.99,
+      "start_int": 1191,
+      "timestamp_label": "19:51",
+      "text": "First is the program needs to resource their government test teams"
+    },
+    {
+      "start": 1194.99,
+      "end": 1199.78,
+      "start_int": 1194,
+      "timestamp_label": "19:54",
+      "text": "to have early engagement -- early assists from those government test teams."
+    },
+    {
+      "start": 1199.78,
+      "end": 1202.92,
+      "start_int": 1199,
+      "timestamp_label": "19:59",
+      "text": "They support the request for proposal and making sure"
+    },
+    {
+      "start": 1202.92,
+      "end": 1207.27,
+      "start_int": 1202,
+      "timestamp_label": "20:02",
+      "text": "that contract language has cyber tests and evaluation in it."
+    },
+    {
+      "start": 1207.27,
+      "end": 1210.62,
+      "start_int": 1207,
+      "timestamp_label": "20:07",
+      "text": "Not just for supply chain, but in general."
+    },
+    {
+      "start": 1210.62,
+      "end": 1218.13,
+      "start_int": 1210,
+      "timestamp_label": "20:10",
+      "text": "And they have to ensure that the government will have data rights, access to observe if needed,"
+    },
+    {
+      "start": 1218.13,
+      "end": 1223.18,
+      "start_int": 1218,
+      "timestamp_label": "20:18",
+      "text": "be able to collect the right data, monitor that test equipment,"
+    },
+    {
+      "start": 1223.18,
+      "end": 1225.86,
+      "start_int": 1223,
+      "timestamp_label": "20:23",
+      "text": "and participate with the contractor in the testing"
+    },
+    {
+      "start": 1225.86,
+      "end": 1230.0,
+      "start_int": 1225,
+      "timestamp_label": "20:25",
+      "text": "as an integrated test team if that's desired."
+    },
+    {
+      "start": 1230.0,
+      "end": 1233.81,
+      "start_int": 1230,
+      "timestamp_label": "20:30",
+      "text": "The test teams also support program protection planning activities"
+    },
+    {
+      "start": 1233.81,
+      "end": 1236.32,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "and the mission based cyber risk assessments."
+    },
+    {
+      "start": 1236.32,
+      "end": 1242.18,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "And the test teams would be responsible for leveraging and helping to identify the tools"
+    },
+    {
+      "start": 1242.18,
+      "end": 1245.9,
+      "start_int": 1242,
+      "timestamp_label": "20:42",
+      "text": "that can help discover mitigate and manage supply chain risk."
+    },
+    {
+      "start": 1247.12,
+      "end": 1249.79,
+      "start_int": 1247,
+      "timestamp_label": "20:47",
+      "text": "Then we move on to our intel community."
+    },
+    {
+      "start": 1249.79,
+      "end": 1255.99,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "Another key partner to have early and continuously integrated with the program."
+    },
+    {
+      "start": 1255.99,
+      "end": 1262.05,
+      "start_int": 1255,
+      "timestamp_label": "20:55",
+      "text": "The intel community needs to have the detailed system and program information available"
+    },
+    {
+      "start": 1262.05,
+      "end": 1266.15,
+      "start_int": 1262,
+      "timestamp_label": "21:02",
+      "text": "to them, so that they can provide that supply chain threat support,"
+    },
+    {
+      "start": 1266.15,
+      "end": 1275.03,
+      "start_int": 1266,
+      "timestamp_label": "21:06",
+      "text": "because it's very difficult to do that analysis and to -- it's challenging because of the --"
+    },
+    {
+      "start": 1275.03,
+      "end": 1277.78,
+      "start_int": 1275,
+      "timestamp_label": "21:15",
+      "text": "we've got someone with their hand raised."
+    },
+    {
+      "start": 1277.78,
+      "end": 1281.0,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "It's very challenging for the intel community because it's again,"
+    },
+    {
+      "start": 1281.0,
+      "end": 1283.07,
+      "start_int": 1281,
+      "timestamp_label": "21:21",
+      "text": "it's a difficult thing to see in advance."
+    },
+    {
+      "start": 1283.07,
+      "end": 1285.52,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "You can't see it before it happens."
+    },
+    {
+      "start": 1285.52,
+      "end": 1288.51,
+      "start_int": 1285,
+      "timestamp_label": "21:25",
+      "text": "So, we have two organizations."
+    },
+    {
+      "start": 1288.51,
+      "end": 1294.3,
+      "start_int": 1288,
+      "timestamp_label": "21:28",
+      "text": "The Supply Chain Risk Management Threat Analysis Center under DIA, Defense Intelligence Agency,"
+    },
+    {
+      "start": 1294.3,
+      "end": 1298.79,
+      "start_int": 1294,
+      "timestamp_label": "21:34",
+      "text": "and we have the Defense Counterintelligence and Security Agency that can assist programs"
+    },
+    {
+      "start": 1298.79,
+      "end": 1304.2,
+      "start_int": 1298,
+      "timestamp_label": "21:38",
+      "text": "with their supply chain risk analysis and the Intel pieces of that."
+    },
+    {
+      "start": 1304.2,
+      "end": 1306.23,
+      "start_int": 1304,
+      "timestamp_label": "21:44",
+      "text": "So, the one thing I want to point out is"
+    },
+    {
+      "start": 1306.23,
+      "end": 1313.27,
+      "start_int": 1306,
+      "timestamp_label": "21:46",
+      "text": "that our intelligence collection agencies have restrictions on collecting against US companies."
+    },
+    {
+      "start": 1313.27,
+      "end": 1321.23,
+      "start_int": 1313,
+      "timestamp_label": "21:53",
+      "text": "So, that limits a little bit of their ability to get the full insight that might be required."
+    },
+    {
+      "start": 1321.23,
+      "end": 1325.9,
+      "start_int": 1321,
+      "timestamp_label": "22:01",
+      "text": "And having your intel community support your mission based cyber risk assessments is a"
+    },
+    {
+      "start": 1325.9,
+      "end": 1327.54,
+      "start_int": 1325,
+      "timestamp_label": "22:05",
+      "text": "tremendous help."
+    },
+    {
+      "start": 1327.54,
+      "end": 1332.71,
+      "start_int": 1327,
+      "timestamp_label": "22:07",
+      "text": "It helps the intel community learn and understand the system well enough to go back"
+    },
+    {
+      "start": 1332.71,
+      "end": 1337.17,
+      "start_int": 1332,
+      "timestamp_label": "22:12",
+      "text": "and support the program better with better intel collection and analysis."
+    },
+    {
+      "start": 1337.17,
+      "end": 1342.37,
+      "start_int": 1337,
+      "timestamp_label": "22:17",
+      "text": "And then finally, we obviously want to talk about the Cyber T&amp;E activities."
+    },
+    {
+      "start": 1342.37,
+      "end": 1346.54,
+      "start_int": 1342,
+      "timestamp_label": "22:22",
+      "text": "So, iterating for supply chain risk with Cyber T&amp;E activities."
+    },
+    {
+      "start": 1346.54,
+      "end": 1350.19,
+      "start_int": 1346,
+      "timestamp_label": "22:26",
+      "text": "So, I'm moving on to Slide 10."
+    },
+    {
+      "start": 1350.19,
+      "end": 1354.39,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "So, if you have an older version of the slide deck, if this might look a little different."
+    },
+    {
+      "start": 1354.39,
+      "end": 1361.97,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "But this is our proposed new DOD Adaptive Cyber Test and Evaluation approach."
+    },
+    {
+      "start": 1361.97,
+      "end": 1368.76,
+      "start_int": 1361,
+      "timestamp_label": "22:41",
+      "text": "It replaces the six phases, the Cyber Test and Evaluation, and it should be published well,"
+    },
+    {
+      "start": 1368.76,
+      "end": 1374.58,
+      "start_int": 1368,
+      "timestamp_label": "22:48",
+      "text": "within -- hopefully in FY22, we will see the guides come out."
+    },
+    {
+      "start": 1374.58,
+      "end": 1380.49,
+      "start_int": 1374,
+      "timestamp_label": "22:54",
+      "text": "There are two documents, the DOD Test and Evaluation guidebook,"
+    },
+    {
+      "start": 1380.49,
+      "end": 1385.71,
+      "start_int": 1380,
+      "timestamp_label": "23:00",
+      "text": "we'll have a Cyber T&amp;E focus area chapter, which we'll talk about these activities."
+    },
+    {
+      "start": 1385.71,
+      "end": 1389.66,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "And that what to do is going to be supported by an update"
+    },
+    {
+      "start": 1389.66,
+      "end": 1392.61,
+      "start_int": 1389,
+      "timestamp_label": "23:09",
+      "text": "to the DOD Cyber T&amp;E Guide -- Companion Guide."
+    },
+    {
+      "start": 1392.61,
+      "end": 1397.39,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "It's going to be called version three, which will discuss how to do these."
+    },
+    {
+      "start": 1397.39,
+      "end": 1401.43,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "But we're going to focus on supply chain with these T&amp;E activities."
+    },
+    {
+      "start": 1401.43,
+      "end": 1409.09,
+      "start_int": 1401,
+      "timestamp_label": "23:21",
+      "text": "So, as a stage setter, the big arrows going across show a continuum of tests from left"
+    },
+    {
+      "start": 1409.09,
+      "end": 1412.1,
+      "start_int": 1409,
+      "timestamp_label": "23:29",
+      "text": "to right throughout the program's lifecycle."
+    },
+    {
+      "start": 1412.1,
+      "end": 1415.64,
+      "start_int": 1412,
+      "timestamp_label": "23:32",
+      "text": "And the big arrows are strategic activities."
+    },
+    {
+      "start": 1415.64,
+      "end": 1420.98,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "The program sponsors the examine activity at the strategic level,"
+    },
+    {
+      "start": 1420.98,
+      "end": 1425.5,
+      "start_int": 1420,
+      "timestamp_label": "23:40",
+      "text": "the plan activity at the strategic level, and the strategic conduct activities,"
+    },
+    {
+      "start": 1425.5,
+      "end": 1429.43,
+      "start_int": 1425,
+      "timestamp_label": "23:45",
+      "text": "which are the mission based cyber risk assessment and the attack surface analysis."
+    },
+    {
+      "start": 1429.43,
+      "end": 1434.09,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "And then any stakeholder can perform the strategic evaluate and report."
+    },
+    {
+      "start": 1434.09,
+      "end": 1435.63,
+      "start_int": 1434,
+      "timestamp_label": "23:54",
+      "text": "How's the program doing?"
+    },
+    {
+      "start": 1435.63,
+      "end": 1438.21,
+      "start_int": 1435,
+      "timestamp_label": "23:55",
+      "text": "Are they on their Cyber T&amp;E?"
+    },
+    {
+      "start": 1438.21,
+      "end": 1439.78,
+      "start_int": 1438,
+      "timestamp_label": "23:58",
+      "text": "Are they working things right?"
+    },
+    {
+      "start": 1439.78,
+      "end": 1442.82,
+      "start_int": 1439,
+      "timestamp_label": "23:59",
+      "text": "Right. So, that's the big strategic."
+    },
+    {
+      "start": 1442.82,
+      "end": 1448.17,
+      "start_int": 1442,
+      "timestamp_label": "24:02",
+      "text": "And then you notice in conduct there are these cycles inside."
+    },
+    {
+      "start": 1448.17,
+      "end": 1452.94,
+      "start_int": 1448,
+      "timestamp_label": "24:08",
+      "text": "These test cycles are meant to indicate multiple test events"
+    },
+    {
+      "start": 1452.94,
+      "end": 1457.45,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "that occur with each iteration of conduct."
+    },
+    {
+      "start": 1457.45,
+      "end": 1460.65,
+      "start_int": 1457,
+      "timestamp_label": "24:17",
+      "text": "So, when the when the prototyping is going on,"
+    },
+    {
+      "start": 1460.65,
+      "end": 1464.27,
+      "start_int": 1460,
+      "timestamp_label": "24:20",
+      "text": "there should be some cyber testing evaluation going on when they're moving into EMD."
+    },
+    {
+      "start": 1464.27,
+      "end": 1468.4,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "If we want to look at traditional major capability,"
+    },
+    {
+      "start": 1468.4,
+      "end": 1471.53,
+      "start_int": 1468,
+      "timestamp_label": "24:28",
+      "text": "they will be a lot of testing going on and so on."
+    },
+    {
+      "start": 1471.53,
+      "end": 1476.1,
+      "start_int": 1471,
+      "timestamp_label": "24:31",
+      "text": "So, the testing is either contractor led or government led."
+    },
+    {
+      "start": 1476.1,
+      "end": 1479.93,
+      "start_int": 1476,
+      "timestamp_label": "24:36",
+      "text": "It can be focused on developmental objectives, operational objectives,"
+    },
+    {
+      "start": 1479.93,
+      "end": 1484.37,
+      "start_int": 1479,
+      "timestamp_label": "24:39",
+      "text": "or integrated test objectives, which is optimal."
+    },
+    {
+      "start": 1484.37,
+      "end": 1487.29,
+      "start_int": 1484,
+      "timestamp_label": "24:44",
+      "text": "And they can be cooperative in nature or adversarial in nature."
+    },
+    {
+      "start": 1487.29,
+      "end": 1490.31,
+      "start_int": 1487,
+      "timestamp_label": "24:47",
+      "text": "So, that's the idea behind this."
+    },
+    {
+      "start": 1490.31,
+      "end": 1495.61,
+      "start_int": 1490,
+      "timestamp_label": "24:50",
+      "text": "It's meant to be adaptive to support any program cadence."
+    },
+    {
+      "start": 1495.61,
+      "end": 1501.45,
+      "start_int": 1495,
+      "timestamp_label": "24:55",
+      "text": "So, any adaptive acquisition pathway and I really hope"
+    },
+    {
+      "start": 1501.45,
+      "end": 1504.15,
+      "start_int": 1501,
+      "timestamp_label": "25:01",
+      "text": "that this is helpful to the community writ large."
+    },
+    {
+      "start": 1504.15,
+      "end": 1507.5,
+      "start_int": 1504,
+      "timestamp_label": "25:04",
+      "text": "So, we look forward to your feedback on this activity."
+    },
+    {
+      "start": 1507.5,
+      "end": 1511.14,
+      "start_int": 1507,
+      "timestamp_label": "25:07",
+      "text": "So, let's break this down for supply chain."
+    },
+    {
+      "start": 1511.14,
+      "end": 1516.05,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "So, I will be answering questions at the end I think is the is the plan."
+    },
+    {
+      "start": 1516.05,
+      "end": 1516.48,
+      "start_int": 1516,
+      "timestamp_label": "25:16",
+      "text": "All right."
+    },
+    {
+      "start": 1516.48,
+      "end": 1520.64,
+      "start_int": 1516,
+      "timestamp_label": "25:16",
+      "text": "So, examine at the strategic level."
+    },
+    {
+      "start": 1520.64,
+      "end": 1527.3,
+      "start_int": 1520,
+      "timestamp_label": "25:20",
+      "text": "For supply chain, the types of inputs needed to perform, examine, and these are not everything,"
+    },
+    {
+      "start": 1527.3,
+      "end": 1530.44,
+      "start_int": 1527,
+      "timestamp_label": "25:27",
+      "text": "is the obviously the current program artifacts."
+    },
+    {
+      "start": 1530.44,
+      "end": 1534.45,
+      "start_int": 1530,
+      "timestamp_label": "25:30",
+      "text": "Everything about that you can have about missions, depending on where you are"
+    },
+    {
+      "start": 1534.45,
+      "end": 1537.89,
+      "start_int": 1534,
+      "timestamp_label": "25:34",
+      "text": "in the lifecycle, you may not have enough information, but hopefully you have a concept"
+    },
+    {
+      "start": 1537.89,
+      "end": 1542.99,
+      "start_int": 1537,
+      "timestamp_label": "25:37",
+      "text": "of operations, information on threats, information on the system design"
+    },
+    {
+      "start": 1542.99,
+      "end": 1546.4,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "and the architecture, any understanding"
+    },
+    {
+      "start": 1546.4,
+      "end": 1550.04,
+      "start_int": 1546,
+      "timestamp_label": "25:46",
+      "text": "of what's critical program information components and functions."
+    },
+    {
+      "start": 1550.04,
+      "end": 1553.21,
+      "start_int": 1550,
+      "timestamp_label": "25:50",
+      "text": "Doing a mission decomposition, as Elly mentioned,"
+    },
+    {
+      "start": 1553.21,
+      "end": 1557.09,
+      "start_int": 1553,
+      "timestamp_label": "25:53",
+      "text": "as part of your mission based cyber risk assessment will help with this."
+    },
+    {
+      "start": 1557.09,
+      "end": 1559.57,
+      "start_int": 1557,
+      "timestamp_label": "25:57",
+      "text": "But right now, it's just a matter of looking at everything."
+    },
+    {
+      "start": 1559.57,
+      "end": 1561.73,
+      "start_int": 1559,
+      "timestamp_label": "25:59",
+      "text": "Gathering all the information."
+    },
+    {
+      "start": 1561.73,
+      "end": 1566.26,
+      "start_int": 1561,
+      "timestamp_label": "26:01",
+      "text": "And the software bill of materials is an important piece because that's"
+    },
+    {
+      "start": 1566.26,
+      "end": 1569.36,
+      "start_int": 1566,
+      "timestamp_label": "26:06",
+      "text": "where you get the ingredients in your software,"
+    },
+    {
+      "start": 1569.36,
+      "end": 1573.37,
+      "start_int": 1569,
+      "timestamp_label": "26:09",
+      "text": "all the way down to every single open-source software component."
+    },
+    {
+      "start": 1573.37,
+      "end": 1578.49,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "Over 80% of software these days is not originally coded."
+    },
+    {
+      "start": 1578.49,
+      "end": 1582.09,
+      "start_int": 1578,
+      "timestamp_label": "26:18",
+      "text": "It is reused software with a lot of open-source components."
+    },
+    {
+      "start": 1582.09,
+      "end": 1587.02,
+      "start_int": 1582,
+      "timestamp_label": "26:22",
+      "text": "So, that software bill of materials helps you understand what's in my software"
+    },
+    {
+      "start": 1587.02,
+      "end": 1590.96,
+      "start_int": 1587,
+      "timestamp_label": "26:27",
+      "text": "and where are the vulnerabilities in those pieces and parts."
+    },
+    {
+      "start": 1590.96,
+      "end": 1594.86,
+      "start_int": 1590,
+      "timestamp_label": "26:30",
+      "text": "You also need, obviously a parts list to focus on the hardware side."
+    },
+    {
+      "start": 1594.86,
+      "end": 1600.24,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "And what are you producing during this strategic examine activity?"
+    },
+    {
+      "start": 1600.24,
+      "end": 1605.9,
+      "start_int": 1600,
+      "timestamp_label": "26:40",
+      "text": "You're producing what and why in the supply chain you want --"
+    },
+    {
+      "start": 1605.9,
+      "end": 1607.8,
+      "start_int": 1605,
+      "timestamp_label": "26:45",
+      "text": "you the program need to focus on."
+    },
+    {
+      "start": 1607.8,
+      "end": 1610.97,
+      "start_int": 1607,
+      "timestamp_label": "26:47",
+      "text": "Where do you not have enough visibility into your supply chain?"
+    },
+    {
+      "start": 1610.97,
+      "end": 1613.49,
+      "start_int": 1610,
+      "timestamp_label": "26:50",
+      "text": "Maybe you don't have a good illumination tool."
+    },
+    {
+      "start": 1613.49,
+      "end": 1616.92,
+      "start_int": 1613,
+      "timestamp_label": "26:53",
+      "text": "Where is there -- you've done supply chain risk management,"
+    },
+    {
+      "start": 1616.92,
+      "end": 1621.09,
+      "start_int": 1616,
+      "timestamp_label": "26:56",
+      "text": "you've implemented a plan, but where is that risk?"
+    },
+    {
+      "start": 1621.09,
+      "end": 1625.02,
+      "start_int": 1621,
+      "timestamp_label": "27:01",
+      "text": "Perhaps a manage because maybe you had a sole source supplier somewhere"
+    },
+    {
+      "start": 1625.02,
+      "end": 1630.03,
+      "start_int": 1625,
+      "timestamp_label": "27:05",
+      "text": "down in the lower tiers where that part had to come from that particular supplier."
+    },
+    {
+      "start": 1630.03,
+      "end": 1635.81,
+      "start_int": 1630,
+      "timestamp_label": "27:10",
+      "text": "And then for the manage risk where you think you've got that under control,"
+    },
+    {
+      "start": 1635.81,
+      "end": 1641.88,
+      "start_int": 1635,
+      "timestamp_label": "27:15",
+      "text": "then you might want to ask the supplier -- the prime contractor to do some testing just"
+    },
+    {
+      "start": 1641.88,
+      "end": 1645.46,
+      "start_int": 1641,
+      "timestamp_label": "27:21",
+      "text": "as a spot check so that we don't blindly trust things"
+    },
+    {
+      "start": 1645.46,
+      "end": 1648.76,
+      "start_int": 1645,
+      "timestamp_label": "27:25",
+      "text": "that we don't -- we shouldn't finely the trust."
+    },
+    {
+      "start": 1648.76,
+      "end": 1653.93,
+      "start_int": 1648,
+      "timestamp_label": "27:28",
+      "text": "Because of the dynamic nature of the supply chain, we should have some spot checks."
+    },
+    {
+      "start": 1653.93,
+      "end": 1657.78,
+      "start_int": 1653,
+      "timestamp_label": "27:33",
+      "text": "You also produce the supply chain elimination during examine."
+    },
+    {
+      "start": 1657.78,
+      "end": 1659.92,
+      "start_int": 1657,
+      "timestamp_label": "27:37",
+      "text": "It's easier if you have an automated tool."
+    },
+    {
+      "start": 1659.92,
+      "end": 1662.28,
+      "start_int": 1659,
+      "timestamp_label": "27:39",
+      "text": "There are automated tools to do that."
+    },
+    {
+      "start": 1662.28,
+      "end": 1667.83,
+      "start_int": 1662,
+      "timestamp_label": "27:42",
+      "text": "And it's -- then you also produce the attack surface characterization of your supply chain."
+    },
+    {
+      "start": 1667.83,
+      "end": 1673.72,
+      "start_int": 1667,
+      "timestamp_label": "27:47",
+      "text": "So, that's a big -- much bigger than the attack surface characterization of your system itself,"
+    },
+    {
+      "start": 1673.72,
+      "end": 1677.15,
+      "start_int": 1673,
+      "timestamp_label": "27:53",
+      "text": "which isn't done until the conduct stage."
+    },
+    {
+      "start": 1677.15,
+      "end": 1678.32,
+      "start_int": 1677,
+      "timestamp_label": "27:57",
+      "text": "All right."
+    },
+    {
+      "start": 1678.32,
+      "end": 1679.8,
+      "start_int": 1678,
+      "timestamp_label": "27:58",
+      "text": "Moving on to slide 12."
+    },
+    {
+      "start": 1679.8,
+      "end": 1683.33,
+      "start_int": 1679,
+      "timestamp_label": "27:59",
+      "text": "The focus for examine -- I'm not going to read all these to you."
+    },
+    {
+      "start": 1683.33,
+      "end": 1689.68,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "But you know, understanding the policies, understanding the risk management plans"
+    },
+    {
+      "start": 1689.68,
+      "end": 1694.49,
+      "start_int": 1689,
+      "timestamp_label": "28:09",
+      "text": "that you're putting in place, both the supplier provided and the programs,"
+    },
+    {
+      "start": 1694.49,
+      "end": 1700.14,
+      "start_int": 1694,
+      "timestamp_label": "28:14",
+      "text": "being able to have good visibility, being able to respond to the dynamic nature"
+    },
+    {
+      "start": 1700.14,
+      "end": 1705.1,
+      "start_int": 1700,
+      "timestamp_label": "28:20",
+      "text": "of the supply chain, having good threat information from the intel community,"
+    },
+    {
+      "start": 1705.1,
+      "end": 1708.84,
+      "start_int": 1705,
+      "timestamp_label": "28:25",
+      "text": "and sometimes open-source threat information is just as good."
+    },
+    {
+      "start": 1708.84,
+      "end": 1715.38,
+      "start_int": 1708,
+      "timestamp_label": "28:28",
+      "text": "And the intel community has to validate that of course, but that's good intel."
+    },
+    {
+      "start": 1715.38,
+      "end": 1719.31,
+      "start_int": 1715,
+      "timestamp_label": "28:35",
+      "text": "Understanding SolarWinds got hacked, you know, then how these -- how does that affect me?"
+    },
+    {
+      "start": 1719.31,
+      "end": 1725.4,
+      "start_int": 1719,
+      "timestamp_label": "28:39",
+      "text": "And then the evidence of the manufacturer complying"
+    },
+    {
+      "start": 1725.4,
+      "end": 1727.65,
+      "start_int": 1725,
+      "timestamp_label": "28:45",
+      "text": "with various standards that are provided."
+    },
+    {
+      "start": 1727.65,
+      "end": 1731.53,
+      "start_int": 1727,
+      "timestamp_label": "28:47",
+      "text": "So, that's an important thing to pay attention to."
+    },
+    {
+      "start": 1731.53,
+      "end": 1737.6,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "And in particular, the DOD is working to publish cyber manufacturing readiness levels"
+    },
+    {
+      "start": 1737.6,
+      "end": 1742.18,
+      "start_int": 1737,
+      "timestamp_label": "28:57",
+      "text": "for that manufacturing environment being able to ensure that that"
+    },
+    {
+      "start": 1742.18,
+      "end": 1744.3,
+      "start_int": 1742,
+      "timestamp_label": "29:02",
+      "text": "that they've considered cyber in that environment."
+    },
+    {
+      "start": 1744.3,
+      "end": 1747.77,
+      "start_int": 1744,
+      "timestamp_label": "29:04",
+      "text": "That's really going to be a good thing and helpful."
+    },
+    {
+      "start": 1747.77,
+      "end": 1750.63,
+      "start_int": 1747,
+      "timestamp_label": "29:07",
+      "text": "So, being able to get the evidence of that."
+    },
+    {
+      "start": 1750.63,
+      "end": 1754.58,
+      "start_int": 1750,
+      "timestamp_label": "29:10",
+      "text": "Right now, those haven't been published, but they're coming."
+    },
+    {
+      "start": 1754.58,
+      "end": 1756.79,
+      "start_int": 1754,
+      "timestamp_label": "29:14",
+      "text": "And moving on to slide 13."
+    },
+    {
+      "start": 1756.79,
+      "end": 1759.47,
+      "start_int": 1756,
+      "timestamp_label": "29:16",
+      "text": "I'm still on examine, just so you know."
+    },
+    {
+      "start": 1759.47,
+      "end": 1763.87,
+      "start_int": 1759,
+      "timestamp_label": "29:19",
+      "text": "Let's focus on illuminating the supply chain step, that piece."
+    },
+    {
+      "start": 1763.87,
+      "end": 1765.6,
+      "start_int": 1763,
+      "timestamp_label": "29:23",
+      "text": "So, illuminating that ecosystem."
+    },
+    {
+      "start": 1765.6,
+      "end": 1768.97,
+      "start_int": 1765,
+      "timestamp_label": "29:25",
+      "text": "So, there on the right is that wheel of access."
+    },
+    {
+      "start": 1768.97,
+      "end": 1773.89,
+      "start_int": 1768,
+      "timestamp_label": "29:28",
+      "text": "And I, you know, you just pick one piece out of that wheel of access, and it has its own wheel"
+    },
+    {
+      "start": 1773.89,
+      "end": 1777.86,
+      "start_int": 1773,
+      "timestamp_label": "29:33",
+      "text": "of access, and then one piece of that has its own wheel of access"
+    },
+    {
+      "start": 1777.86,
+      "end": 1785.38,
+      "start_int": 1777,
+      "timestamp_label": "29:37",
+      "text": "and you can see how quickly the exponential growth of that supply chain shows up visually."
+    },
+    {
+      "start": 1785.38,
+      "end": 1786.54,
+      "start_int": 1785,
+      "timestamp_label": "29:45",
+      "text": "You can see that on the right."
+    },
+    {
+      "start": 1786.54,
+      "end": 1791.92,
+      "start_int": 1786,
+      "timestamp_label": "29:46",
+      "text": "Right. So, you have this high visibility at the system level, but you have no visibility"
+    },
+    {
+      "start": 1791.92,
+      "end": 1794.33,
+      "start_int": 1791,
+      "timestamp_label": "29:51",
+      "text": "down there deeper in the supply chain."
+    },
+    {
+      "start": 1794.33,
+      "end": 1797.54,
+      "start_int": 1794,
+      "timestamp_label": "29:54",
+      "text": "And that's exactly where an adversary will hide."
+    },
+    {
+      "start": 1797.54,
+      "end": 1799.66,
+      "start_int": 1797,
+      "timestamp_label": "29:57",
+      "text": "Be able to get in and hide."
+    },
+    {
+      "start": 1799.66,
+      "end": 1805.9,
+      "start_int": 1799,
+      "timestamp_label": "29:59",
+      "text": "So, we want to illuminate all suppliers for software, firmware, hardware and data."
+    },
+    {
+      "start": 1805.9,
+      "end": 1812.47,
+      "start_int": 1805,
+      "timestamp_label": "30:05",
+      "text": "We need to understand the development, test, production, and manufacturing environments,"
+    },
+    {
+      "start": 1812.47,
+      "end": 1817.9,
+      "start_int": 1812,
+      "timestamp_label": "30:12",
+      "text": "processes, and tools, the people, the technology, and the tools"
+    },
+    {
+      "start": 1817.9,
+      "end": 1820.03,
+      "start_int": 1817,
+      "timestamp_label": "30:17",
+      "text": "and the way they do things, the processes."
+    },
+    {
+      "start": 1820.03,
+      "end": 1826.4,
+      "start_int": 1820,
+      "timestamp_label": "30:20",
+      "text": "Those are very important things to understand where your risk might need to be managed best."
+    },
+    {
+      "start": 1826.4,
+      "end": 1829.34,
+      "start_int": 1826,
+      "timestamp_label": "30:26",
+      "text": "Because if you don't understand those, then that's where the adversary --"
+    },
+    {
+      "start": 1829.34,
+      "end": 1832.58,
+      "start_int": 1829,
+      "timestamp_label": "30:29",
+      "text": "that's the weakest point where the adversary can get in."
+    },
+    {
+      "start": 1832.58,
+      "end": 1840.4,
+      "start_int": 1832,
+      "timestamp_label": "30:32",
+      "text": "So, being able to use those illumination tools that can use AI to crawl the web"
+    },
+    {
+      "start": 1840.4,
+      "end": 1845.54,
+      "start_int": 1840,
+      "timestamp_label": "30:40",
+      "text": "and map all these things, consider all the aspects, all those market forces"
+    },
+    {
+      "start": 1845.54,
+      "end": 1851.95,
+      "start_int": 1845,
+      "timestamp_label": "30:45",
+      "text": "on the suppliers, everything that's going on that we as humans can't possibly comprehend"
+    },
+    {
+      "start": 1851.95,
+      "end": 1857.54,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "and synthesize ourselves, these tools, these illumination tools can do that for us."
+    },
+    {
+      "start": 1857.54,
+      "end": 1861.81,
+      "start_int": 1857,
+      "timestamp_label": "30:57",
+      "text": "And they can highlight where that risk is and how it changes over time."
+    },
+    {
+      "start": 1861.81,
+      "end": 1864.05,
+      "start_int": 1861,
+      "timestamp_label": "31:01",
+      "text": "So, that's a key piece to have."
+    },
+    {
+      "start": 1864.05,
+      "end": 1869.06,
+      "start_int": 1864,
+      "timestamp_label": "31:04",
+      "text": "I think our contractors need to have these kinds of tools in their tool bank,"
+    },
+    {
+      "start": 1869.06,
+      "end": 1876.12,
+      "start_int": 1869,
+      "timestamp_label": "31:09",
+      "text": "and then the DOD should be also independently understanding the supply chain with these tools."
+    },
+    {
+      "start": 1876.12,
+      "end": 1877.26,
+      "start_int": 1876,
+      "timestamp_label": "31:16",
+      "text": "Moving on to slide 14."
+    },
+    {
+      "start": 1877.26,
+      "end": 1881.16,
+      "start_int": 1877,
+      "timestamp_label": "31:17",
+      "text": "So, looking at the attack surface characterization,"
+    },
+    {
+      "start": 1881.16,
+      "end": 1886.15,
+      "start_int": 1881,
+      "timestamp_label": "31:21",
+      "text": "you need the supply chain illumination to do it and you need the detailed documentation."
+    },
+    {
+      "start": 1886.15,
+      "end": 1892.28,
+      "start_int": 1886,
+      "timestamp_label": "31:26",
+      "text": "And that means the designs, the contractor policies, their part acceptance testing,"
+    },
+    {
+      "start": 1892.28,
+      "end": 1893.65,
+      "start_int": 1892,
+      "timestamp_label": "31:32",
+      "text": "how they're going to be doing that right?"
+    },
+    {
+      "start": 1893.65,
+      "end": 1898.86,
+      "start_int": 1893,
+      "timestamp_label": "31:33",
+      "text": "Information on their environments, what security controls and plans, they are using."
+    },
+    {
+      "start": 1898.86,
+      "end": 1902.03,
+      "start_int": 1898,
+      "timestamp_label": "31:38",
+      "text": "Their third-party penetration testing, if they're doing any"
+    },
+    {
+      "start": 1902.03,
+      "end": 1904.26,
+      "start_int": 1902,
+      "timestamp_label": "31:42",
+      "text": "of that against those environments."
+    },
+    {
+      "start": 1904.26,
+      "end": 1908.83,
+      "start_int": 1904,
+      "timestamp_label": "31:44",
+      "text": "And if you require these on contract, then you position yourself"
+    },
+    {
+      "start": 1908.83,
+      "end": 1912.82,
+      "start_int": 1908,
+      "timestamp_label": "31:48",
+      "text": "to have a better handle on where to do the T&amp;E."
+    },
+    {
+      "start": 1912.82,
+      "end": 1917.72,
+      "start_int": 1912,
+      "timestamp_label": "31:52",
+      "text": "So, the supply chain illumination informs the attack surface characterization,"
+    },
+    {
+      "start": 1917.72,
+      "end": 1924.22,
+      "start_int": 1917,
+      "timestamp_label": "31:57",
+      "text": "as I said before, and as part of this examine step when you're producing"
+    },
+    {
+      "start": 1924.22,
+      "end": 1927.98,
+      "start_int": 1924,
+      "timestamp_label": "32:04",
+      "text": "that attack surface characterization, you're going to slip -- when you go into conduct,"
+    },
+    {
+      "start": 1927.98,
+      "end": 1929.82,
+      "start_int": 1927,
+      "timestamp_label": "32:07",
+      "text": "you're going to use this information"
+    },
+    {
+      "start": 1929.82,
+      "end": 1933.8,
+      "start_int": 1929,
+      "timestamp_label": "32:09",
+      "text": "to inform individual test events, or the contractor is going to."
+    },
+    {
+      "start": 1933.8,
+      "end": 1934.92,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "That's what you should expect."
+    },
+    {
+      "start": 1934.92,
+      "end": 1940.72,
+      "start_int": 1934,
+      "timestamp_label": "32:14",
+      "text": "So, that where do I need to do some Cyber T&amp;E in this particular T&amp;E event."
+    },
+    {
+      "start": 1940.72,
+      "end": 1944.79,
+      "start_int": 1940,
+      "timestamp_label": "32:20",
+      "text": "So which suppliers are providing which critical components and which --"
+    },
+    {
+      "start": 1944.79,
+      "end": 1949.41,
+      "start_int": 1944,
+      "timestamp_label": "32:24",
+      "text": "what are the relationships between various elements of my supply chain?"
+    },
+    {
+      "start": 1949.41,
+      "end": 1950.94,
+      "start_int": 1949,
+      "timestamp_label": "32:29",
+      "text": "What CMMC levels?"
+    },
+    {
+      "start": 1950.94,
+      "end": 1954.52,
+      "start_int": 1950,
+      "timestamp_label": "32:30",
+      "text": "Are they -- did I need them to be a four but they're only a two,"
+    },
+    {
+      "start": 1954.52,
+      "end": 1957.17,
+      "start_int": 1954,
+      "timestamp_label": "32:34",
+      "text": "because they're a sole supplier of that part."
+    },
+    {
+      "start": 1957.17,
+      "end": 1958.92,
+      "start_int": 1957,
+      "timestamp_label": "32:37",
+      "text": "That introduces risk."
+    },
+    {
+      "start": 1958.92,
+      "end": 1962.17,
+      "start_int": 1958,
+      "timestamp_label": "32:38",
+      "text": "So, that might be an area to focus on testing."
+    },
+    {
+      "start": 1962.17,
+      "end": 1966.7,
+      "start_int": 1962,
+      "timestamp_label": "32:42",
+      "text": "Are -- is there any foreign, you know, investment going on?"
+    },
+    {
+      "start": 1966.7,
+      "end": 1969.47,
+      "start_int": 1966,
+      "timestamp_label": "32:46",
+      "text": "What if, I haven't said it enough, design, development,"
+    },
+    {
+      "start": 1969.47,
+      "end": 1972.54,
+      "start_int": 1969,
+      "timestamp_label": "32:49",
+      "text": "tests and production facilities, processes ,and tools."
+    },
+    {
+      "start": 1972.54,
+      "end": 1982.8,
+      "start_int": 1972,
+      "timestamp_label": "32:52",
+      "text": "Make sure those are understood and ensuring that all facilities take into account the processes"
+    },
+    {
+      "start": 1982.8,
+      "end": 1987.19,
+      "start_int": 1982,
+      "timestamp_label": "33:02",
+      "text": "and the tools and the people and how they play into that."
+    },
+    {
+      "start": 1987.19,
+      "end": 1990.9,
+      "start_int": 1987,
+      "timestamp_label": "33:07",
+      "text": "What kinds of facility controls are in place?"
+    },
+    {
+      "start": 1990.9,
+      "end": 1996.96,
+      "start_int": 1990,
+      "timestamp_label": "33:10",
+      "text": "Physical and cyber controls, because the adversary can do physical penetration testing"
+    },
+    {
+      "start": 1996.96,
+      "end": 1998.5,
+      "start_int": 1996,
+      "timestamp_label": "33:16",
+      "text": "as well."
+    },
+    {
+      "start": 1998.5,
+      "end": 2003.02,
+      "start_int": 1998,
+      "timestamp_label": "33:18",
+      "text": "And so that software bill of materials, understanding every single piece"
+    },
+    {
+      "start": 2003.02,
+      "end": 2007.27,
+      "start_int": 2003,
+      "timestamp_label": "33:23",
+      "text": "of software in your overall system."
+    },
+    {
+      "start": 2007.27,
+      "end": 2008.98,
+      "start_int": 2007,
+      "timestamp_label": "33:27",
+      "text": "Every piece and part and piece."
+    },
+    {
+      "start": 2008.98,
+      "end": 2010.61,
+      "start_int": 2008,
+      "timestamp_label": "33:28",
+      "text": "It's very complex."
+    },
+    {
+      "start": 2010.61,
+      "end": 2017.77,
+      "start_int": 2010,
+      "timestamp_label": "33:30",
+      "text": "So, use the supply chain illumination, the criticality analyses, and those things to help"
+    },
+    {
+      "start": 2017.77,
+      "end": 2022.17,
+      "start_int": 2017,
+      "timestamp_label": "33:37",
+      "text": "and focus on where is my attack surface that I need to pay attention"
+    },
+    {
+      "start": 2022.17,
+      "end": 2024.07,
+      "start_int": 2022,
+      "timestamp_label": "33:42",
+      "text": "to for cyber tests and evaluation."
+    },
+    {
+      "start": 2024.07,
+      "end": 2026.62,
+      "start_int": 2024,
+      "timestamp_label": "33:44",
+      "text": "And I'm moving on to slide 16."
+    },
+    {
+      "start": 2026.62,
+      "end": 2030.45,
+      "start_int": 2026,
+      "timestamp_label": "33:46",
+      "text": "So, moving into strategic plan."
+    },
+    {
+      "start": 2030.45,
+      "end": 2034.39,
+      "start_int": 2030,
+      "timestamp_label": "33:50",
+      "text": "So, as you iterate through examine, plan, you can do examine more"
+    },
+    {
+      "start": 2034.39,
+      "end": 2037.3,
+      "start_int": 2034,
+      "timestamp_label": "33:54",
+      "text": "than once before you can go to plan if needed."
+    },
+    {
+      "start": 2037.3,
+      "end": 2041.15,
+      "start_int": 2037,
+      "timestamp_label": "33:57",
+      "text": "And that sometimes is a good idea when it comes to Cyber T&amp;E,"
+    },
+    {
+      "start": 2041.15,
+      "end": 2044.46,
+      "start_int": 2041,
+      "timestamp_label": "34:01",
+      "text": "because things can change, and the threat can change."
+    },
+    {
+      "start": 2044.46,
+      "end": 2049.11,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "So, for plan, what you take in is everything from examine."
+    },
+    {
+      "start": 2049.11,
+      "end": 2056.04,
+      "start_int": 2049,
+      "timestamp_label": "34:09",
+      "text": "Whatever the scope is that you produce, the what and the why to focus on for supply chain risk,"
+    },
+    {
+      "start": 2056.04,
+      "end": 2059.86,
+      "start_int": 2056,
+      "timestamp_label": "34:16",
+      "text": "that illumination and the attack surface characterization."
+    },
+    {
+      "start": 2059.86,
+      "end": 2066.04,
+      "start_int": 2059,
+      "timestamp_label": "34:19",
+      "text": "In plan, if it's pre-RFP, you are producing contractual language"
+    },
+    {
+      "start": 2066.04,
+      "end": 2068.79,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "that supports supply chain Cyber T&amp;E."
+    },
+    {
+      "start": 2068.79,
+      "end": 2072.27,
+      "start_int": 2068,
+      "timestamp_label": "34:28",
+      "text": "What and why do you need the contractor to test?"
+    },
+    {
+      "start": 2072.27,
+      "end": 2075.4,
+      "start_int": 2072,
+      "timestamp_label": "34:32",
+      "text": "Who -- how do they flow that down or which things do you need"
+    },
+    {
+      "start": 2075.4,
+      "end": 2078.57,
+      "start_int": 2075,
+      "timestamp_label": "34:35",
+      "text": "to be flowed down to their lower tiers?"
+    },
+    {
+      "start": 2078.57,
+      "end": 2082.26,
+      "start_int": 2078,
+      "timestamp_label": "34:38",
+      "text": "How are they measuring a monitoring this software bill of materials?"
+    },
+    {
+      "start": 2082.26,
+      "end": 2083.89,
+      "start_int": 2082,
+      "timestamp_label": "34:42",
+      "text": "Is it continuous?"
+    },
+    {
+      "start": 2083.89,
+      "end": 2089.2,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "Are they -- what are they required in terms of delivering for data and reporting?"
+    },
+    {
+      "start": 2089.2,
+      "end": 2091.84,
+      "start_int": 2089,
+      "timestamp_label": "34:49",
+      "text": "And how often do they have to do those things?"
+    },
+    {
+      "start": 2091.84,
+      "end": 2096.68,
+      "start_int": 2091,
+      "timestamp_label": "34:51",
+      "text": "What mitigation and response do they have in place to react to things"
+    },
+    {
+      "start": 2096.68,
+      "end": 2098.66,
+      "start_int": 2096,
+      "timestamp_label": "34:56",
+      "text": "that might happen in the supply chain."
+    },
+    {
+      "start": 2098.66,
+      "end": 2100.53,
+      "start_int": 2098,
+      "timestamp_label": "34:58",
+      "text": "A SolarWinds compromise."
+    },
+    {
+      "start": 2100.53,
+      "end": 2101.85,
+      "start_int": 2100,
+      "timestamp_label": "35:00",
+      "text": "How do they respond to that?"
+    },
+    {
+      "start": 2101.85,
+      "end": 2102.83,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "A ransomware attack."
+    },
+    {
+      "start": 2102.83,
+      "end": 2104.81,
+      "start_int": 2102,
+      "timestamp_label": "35:02",
+      "text": "How do they respond to that?"
+    },
+    {
+      "start": 2104.81,
+      "end": 2109.68,
+      "start_int": 2104,
+      "timestamp_label": "35:04",
+      "text": "And then whatever the risk management framework supply chain tests and evaluation controls"
+    },
+    {
+      "start": 2109.68,
+      "end": 2112.63,
+      "start_int": 2109,
+      "timestamp_label": "35:09",
+      "text": "that you select in risk management framework,"
+    },
+    {
+      "start": 2112.63,
+      "end": 2115.56,
+      "start_int": 2112,
+      "timestamp_label": "35:12",
+      "text": "making sure that those are included in the contract as well."
+    },
+    {
+      "start": 2115.56,
+      "end": 2121.77,
+      "start_int": 2115,
+      "timestamp_label": "35:15",
+      "text": "There are some good Cyber T&amp;E controls for supply chain in the risk management framework."
+    },
+    {
+      "start": 2121.77,
+      "end": 2125.45,
+      "start_int": 2121,
+      "timestamp_label": "35:21",
+      "text": "If you're past RFP, then maybe you're looking"
+    },
+    {
+      "start": 2125.45,
+      "end": 2129.12,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "to update the contract language based on changes in threat."
+    },
+    {
+      "start": 2129.12,
+      "end": 2131.26,
+      "start_int": 2129,
+      "timestamp_label": "35:29",
+      "text": "And that's something to consider."
+    },
+    {
+      "start": 2131.26,
+      "end": 2133.7,
+      "start_int": 2131,
+      "timestamp_label": "35:31",
+      "text": "It might not be cost effective to do that."
+    },
+    {
+      "start": 2133.7,
+      "end": 2137.94,
+      "start_int": 2133,
+      "timestamp_label": "35:33",
+      "text": "So, it's best to get yourself off on the right foot to begin with."
+    },
+    {
+      "start": 2137.94,
+      "end": 2143.49,
+      "start_int": 2137,
+      "timestamp_label": "35:37",
+      "text": "And then the other aspect of plan when you iterate is updating or documenting"
+    },
+    {
+      "start": 2143.49,
+      "end": 2149.84,
+      "start_int": 2143,
+      "timestamp_label": "35:43",
+      "text": "or updating the Cyber T&amp;E supply chain risk, the Cyber T&amp;E strategy for supply chain risk."
+    },
+    {
+      "start": 2149.84,
+      "end": 2153.51,
+      "start_int": 2149,
+      "timestamp_label": "35:49",
+      "text": "And that goes in the overall T&amp;E strategy."
+    },
+    {
+      "start": 2153.51,
+      "end": 2157.74,
+      "start_int": 2153,
+      "timestamp_label": "35:53",
+      "text": "And it should be risk reduction driven based on the risk tolerance of the program."
+    },
+    {
+      "start": 2157.74,
+      "end": 2159.93,
+      "start_int": 2157,
+      "timestamp_label": "35:57",
+      "text": "What and why needs to be tested."
+    },
+    {
+      "start": 2159.93,
+      "end": 2163.11,
+      "start_int": 2159,
+      "timestamp_label": "35:59",
+      "text": "So, it goes in whatever the T&amp;E strategy"
+    },
+    {
+      "start": 2163.11,
+      "end": 2166.18,
+      "start_int": 2163,
+      "timestamp_label": "36:03",
+      "text": "for the appropriate pathway that the program is following."
+    },
+    {
+      "start": 2166.18,
+      "end": 2174.93,
+      "start_int": 2166,
+      "timestamp_label": "36:06",
+      "text": "It should specify who, what sort of tiers, when, and how often that testing needs to happen,"
+    },
+    {
+      "start": 2174.93,
+      "end": 2180.36,
+      "start_int": 2174,
+      "timestamp_label": "36:14",
+      "text": "or is planned to happen, where is it going to be happening, and sort of a brief description"
+    },
+    {
+      "start": 2180.36,
+      "end": 2183.18,
+      "start_int": 2180,
+      "timestamp_label": "36:20",
+      "text": "of how the testing is expected to happen."
+    },
+    {
+      "start": 2183.18,
+      "end": 2186.39,
+      "start_int": 2183,
+      "timestamp_label": "36:23",
+      "text": "Obviously, you're not going to get into test plan level."
+    },
+    {
+      "start": 2186.39,
+      "end": 2189.96,
+      "start_int": 2186,
+      "timestamp_label": "36:26",
+      "text": "This is a T&amp;E strategy, it should be very strategic,"
+    },
+    {
+      "start": 2189.96,
+      "end": 2196.17,
+      "start_int": 2189,
+      "timestamp_label": "36:29",
+      "text": "but making sure that you've documented what you're going to do so that you can pay attention"
+    },
+    {
+      "start": 2196.17,
+      "end": 2198.7,
+      "start_int": 2196,
+      "timestamp_label": "36:36",
+      "text": "to those key things in the supply chain."
+    },
+    {
+      "start": 2198.7,
+      "end": 2202.1,
+      "start_int": 2198,
+      "timestamp_label": "36:38",
+      "text": "I'm going on to slide 17, the conduct phase."
+    },
+    {
+      "start": 2202.1,
+      "end": 2203.84,
+      "start_int": 2202,
+      "timestamp_label": "36:42",
+      "text": "So, conduct -- well, it's not phase."
+    },
+    {
+      "start": 2203.84,
+      "end": 2204.89,
+      "start_int": 2203,
+      "timestamp_label": "36:43",
+      "text": "Conduct activity."
+    },
+    {
+      "start": 2204.89,
+      "end": 2211.04,
+      "start_int": 2204,
+      "timestamp_label": "36:44",
+      "text": "So, the -- in the conduct activity, the program, and hopefully the contractor,"
+    },
+    {
+      "start": 2211.04,
+      "end": 2213.52,
+      "start_int": 2211,
+      "timestamp_label": "36:51",
+      "text": "perform the mission based cyber risk assessments,"
+    },
+    {
+      "start": 2213.52,
+      "end": 2216.23,
+      "start_int": 2213,
+      "timestamp_label": "36:53",
+      "text": "and it should have a supply chain focus."
+    },
+    {
+      "start": 2216.23,
+      "end": 2220.32,
+      "start_int": 2216,
+      "timestamp_label": "36:56",
+      "text": "And then they conduct those activities for each of the test events."
+    },
+    {
+      "start": 2220.32,
+      "end": 2224.76,
+      "start_int": 2220,
+      "timestamp_label": "37:00",
+      "text": "So, the test teams are responsible for this iteration that you see"
+    },
+    {
+      "start": 2224.76,
+      "end": 2230.39,
+      "start_int": 2224,
+      "timestamp_label": "37:04",
+      "text": "in the circle inside the diagram on the bottom of this chart."
+    },
+    {
+      "start": 2230.39,
+      "end": 2235.64,
+      "start_int": 2230,
+      "timestamp_label": "37:10",
+      "text": "So, they will examine the supply chain attack surface and the intelligence relevant"
+    },
+    {
+      "start": 2235.64,
+      "end": 2238.46,
+      "start_int": 2235,
+      "timestamp_label": "37:15",
+      "text": "to the test event they're getting ready to do."
+    },
+    {
+      "start": 2238.46,
+      "end": 2243.5,
+      "start_int": 2238,
+      "timestamp_label": "37:18",
+      "text": "What and why do I need to focus on with respect to supply chain in this event."
+    },
+    {
+      "start": 2243.5,
+      "end": 2246.23,
+      "start_int": 2243,
+      "timestamp_label": "37:23",
+      "text": "Write -- include in your test plan,"
+    },
+    {
+      "start": 2246.23,
+      "end": 2251.42,
+      "start_int": 2246,
+      "timestamp_label": "37:26",
+      "text": "how you're going to assess the supply chain components that you're testing."
+    },
+    {
+      "start": 2251.42,
+      "end": 2253.35,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "Then they conduct that event."
+    },
+    {
+      "start": 2253.35,
+      "end": 2255.87,
+      "start_int": 2253,
+      "timestamp_label": "37:33",
+      "text": "And I have some examples, yes, on the next slide."
+    },
+    {
+      "start": 2255.87,
+      "end": 2259.24,
+      "start_int": 2255,
+      "timestamp_label": "37:35",
+      "text": "And do that assurance testing for the supply chain assurance."
+    },
+    {
+      "start": 2259.24,
+      "end": 2262.71,
+      "start_int": 2259,
+      "timestamp_label": "37:39",
+      "text": "And then they go and evaluate the data and they're going to write their results"
+    },
+    {
+      "start": 2262.71,
+      "end": 2267.8,
+      "start_int": 2262,
+      "timestamp_label": "37:42",
+      "text": "with recommendations that all gets into this cumulative body of evidence."
+    },
+    {
+      "start": 2267.8,
+      "end": 2274.04,
+      "start_int": 2267,
+      "timestamp_label": "37:47",
+      "text": "So, the program is responsible for having a place to store all this kind of data,"
+    },
+    {
+      "start": 2274.04,
+      "end": 2278.78,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "whether it's coming from the contractor or from the government, a cumulative body of evidence"
+    },
+    {
+      "start": 2278.78,
+      "end": 2283.05,
+      "start_int": 2278,
+      "timestamp_label": "37:58",
+      "text": "so that when the stakeholders need to evaluate and report, they will have access to that."
+    },
+    {
+      "start": 2283.05,
+      "end": 2287.62,
+      "start_int": 2283,
+      "timestamp_label": "38:03",
+      "text": "And they can do their independent assessments of that body of evidence."
+    },
+    {
+      "start": 2288.75,
+      "end": 2291.96,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "I'm moving on to slide 18."
+    },
+    {
+      "start": 2291.96,
+      "end": 2296.59,
+      "start_int": 2291,
+      "timestamp_label": "38:11",
+      "text": "So, some examples that the team has put together that focus"
+    },
+    {
+      "start": 2296.59,
+      "end": 2299.46,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "on cyber supply chain assurance testing."
+    },
+    {
+      "start": 2299.46,
+      "end": 2305.53,
+      "start_int": 2299,
+      "timestamp_label": "38:19",
+      "text": "Doing the testing, penetration testing of the production environments, the development"
+    },
+    {
+      "start": 2305.53,
+      "end": 2309.23,
+      "start_int": 2305,
+      "timestamp_label": "38:25",
+      "text": "and test environments, the processes and tools that are used,"
+    },
+    {
+      "start": 2309.23,
+      "end": 2313.06,
+      "start_int": 2309,
+      "timestamp_label": "38:29",
+      "text": "somebody actually doing the penetration testing, doing physical penetration testing,"
+    },
+    {
+      "start": 2313.06,
+      "end": 2317.68,
+      "start_int": 2313,
+      "timestamp_label": "38:33",
+      "text": "close access, right, and being able to evaluate the detection, the incident response,"
+    },
+    {
+      "start": 2317.68,
+      "end": 2323.36,
+      "start_int": 2317,
+      "timestamp_label": "38:37",
+      "text": "and the recovery processes at that contractor facility."
+    },
+    {
+      "start": 2323.36,
+      "end": 2327.71,
+      "start_int": 2323,
+      "timestamp_label": "38:43",
+      "text": "Verifying how they do contractor acceptance tools, right."
+    },
+    {
+      "start": 2327.71,
+      "end": 2329.87,
+      "start_int": 2327,
+      "timestamp_label": "38:47",
+      "text": "So, what are they doing when they accept things?"
+    },
+    {
+      "start": 2329.87,
+      "end": 2331.62,
+      "start_int": 2329,
+      "timestamp_label": "38:49",
+      "text": "And are they doing any testing?"
+    },
+    {
+      "start": 2331.62,
+      "end": 2333.78,
+      "start_int": 2331,
+      "timestamp_label": "38:51",
+      "text": "Are they just taking that software and plopping it in"
+    },
+    {
+      "start": 2333.78,
+      "end": 2335.74,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "and integrated with all the other software?"
+    },
+    {
+      "start": 2335.74,
+      "end": 2339.52,
+      "start_int": 2335,
+      "timestamp_label": "38:55",
+      "text": "Or are they actually doing some software assurance against that software"
+    },
+    {
+      "start": 2339.52,
+      "end": 2342.34,
+      "start_int": 2339,
+      "timestamp_label": "38:59",
+      "text": "from this quote trusted supplier."
+    },
+    {
+      "start": 2342.34,
+      "end": 2347.92,
+      "start_int": 2342,
+      "timestamp_label": "39:02",
+      "text": "They should be looking at the bill of materials and verifying and looking for any suspect parts."
+    },
+    {
+      "start": 2347.92,
+      "end": 2351.12,
+      "start_int": 2347,
+      "timestamp_label": "39:07",
+      "text": "You know, looking at signatures, part signatures,"
+    },
+    {
+      "start": 2351.12,
+      "end": 2354.69,
+      "start_int": 2351,
+      "timestamp_label": "39:11",
+      "text": "hashes and checksums, integrity hashes and checksums."
+    },
+    {
+      "start": 2354.69,
+      "end": 2359.45,
+      "start_int": 2354,
+      "timestamp_label": "39:14",
+      "text": "So, that they can verify that, you know, there hasn't been any manipulation"
+    },
+    {
+      "start": 2359.45,
+      "end": 2366.79,
+      "start_int": 2359,
+      "timestamp_label": "39:19",
+      "text": "of that component during its delivery up to where it's at right now."
+    },
+    {
+      "start": 2366.79,
+      "end": 2370.2,
+      "start_int": 2366,
+      "timestamp_label": "39:26",
+      "text": "There should be trying to search for various environmental triggers"
+    },
+    {
+      "start": 2370.2,
+      "end": 2371.91,
+      "start_int": 2370,
+      "timestamp_label": "39:30",
+      "text": "or other dormant compromises."
+    },
+    {
+      "start": 2371.91,
+      "end": 2377.51,
+      "start_int": 2371,
+      "timestamp_label": "39:31",
+      "text": "So, trying to simulate various inputs in a lab environment is a good way to call it --"
+    },
+    {
+      "start": 2377.51,
+      "end": 2381.11,
+      "start_int": 2377,
+      "timestamp_label": "39:37",
+      "text": "you can call it fuzz testing, right?"
+    },
+    {
+      "start": 2381.11,
+      "end": 2386.94,
+      "start_int": 2381,
+      "timestamp_label": "39:41",
+      "text": "To try to get at these potential weaknesses that are lying dormant in the code"
+    },
+    {
+      "start": 2386.94,
+      "end": 2388.95,
+      "start_int": 2386,
+      "timestamp_label": "39:46",
+      "text": "or these triggers that are dormant in the code."
+    },
+    {
+      "start": 2388.95,
+      "end": 2395.34,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "So, that might require a lot more fuzz testing hours than normally is done"
+    },
+    {
+      "start": 2395.34,
+      "end": 2400.57,
+      "start_int": 2395,
+      "timestamp_label": "39:55",
+      "text": "or a lot more dynamic software assurance testing, than is normally done."
+    },
+    {
+      "start": 2400.57,
+      "end": 2404.41,
+      "start_int": 2400,
+      "timestamp_label": "40:00",
+      "text": "But if that is a component that is a critical function --"
+    },
+    {
+      "start": 2404.41,
+      "end": 2407.6,
+      "start_int": 2404,
+      "timestamp_label": "40:04",
+      "text": "provides critical functionality that we don't want to take a chance"
+    },
+    {
+      "start": 2407.6,
+      "end": 2413.5,
+      "start_int": 2407,
+      "timestamp_label": "40:07",
+      "text": "of there being any supply chain implants in there that we should be doing that testing."
+    },
+    {
+      "start": 2413.5,
+      "end": 2417.72,
+      "start_int": 2413,
+      "timestamp_label": "40:13",
+      "text": "We should be asking our contractors to do that testing."
+    },
+    {
+      "start": 2417.72,
+      "end": 2422.51,
+      "start_int": 2417,
+      "timestamp_label": "40:17",
+      "text": "You'll look at the system behavior in a realistic range environment."
+    },
+    {
+      "start": 2422.51,
+      "end": 2427.17,
+      "start_int": 2422,
+      "timestamp_label": "40:22",
+      "text": "That's a great way once you have more components combined, a subsystem,"
+    },
+    {
+      "start": 2427.17,
+      "end": 2433.21,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "or even the system itself, and trying to mimic or white card, right, the effects on the system"
+    },
+    {
+      "start": 2433.21,
+      "end": 2437.13,
+      "start_int": 2433,
+      "timestamp_label": "40:33",
+      "text": "so that you can actually assess how it recovers and its resilience"
+    },
+    {
+      "start": 2437.13,
+      "end": 2440.4,
+      "start_int": 2437,
+      "timestamp_label": "40:37",
+      "text": "to the threats that can come at it."
+    },
+    {
+      "start": 2440.4,
+      "end": 2444.71,
+      "start_int": 2440,
+      "timestamp_label": "40:40",
+      "text": "So, another aspect is to do threat hunting and scanning of those environments."
+    },
+    {
+      "start": 2444.71,
+      "end": 2452.41,
+      "start_int": 2444,
+      "timestamp_label": "40:44",
+      "text": "So, you're actively looking for behaviors and other compromises in those environments"
+    },
+    {
+      "start": 2452.41,
+      "end": 2456.75,
+      "start_int": 2452,
+      "timestamp_label": "40:52",
+      "text": "that could potentially be laying there implanted waiting for something,"
+    },
+    {
+      "start": 2456.75,
+      "end": 2458.9,
+      "start_int": 2456,
+      "timestamp_label": "40:56",
+      "text": "you know, the timing of taking over."
+    },
+    {
+      "start": 2458.9,
+      "end": 2462.34,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "In other words, when the adversary has established persistence,"
+    },
+    {
+      "start": 2462.34,
+      "end": 2463.72,
+      "start_int": 2462,
+      "timestamp_label": "41:02",
+      "text": "you might want to go looking for them."
+    },
+    {
+      "start": 2463.72,
+      "end": 2465.07,
+      "start_int": 2463,
+      "timestamp_label": "41:03",
+      "text": "So, this isn't everything."
+    },
+    {
+      "start": 2465.07,
+      "end": 2468.96,
+      "start_int": 2465,
+      "timestamp_label": "41:05",
+      "text": "Obviously, this is just a sampling of things to do."
+    },
+    {
+      "start": 2468.96,
+      "end": 2474.21,
+      "start_int": 2468,
+      "timestamp_label": "41:08",
+      "text": "And again, it's all within the risk tolerance of the program"
+    },
+    {
+      "start": 2474.21,
+      "end": 2476.31,
+      "start_int": 2474,
+      "timestamp_label": "41:14",
+      "text": "with respect to how much of this they'll do."
+    },
+    {
+      "start": 2476.31,
+      "end": 2477.87,
+      "start_int": 2476,
+      "timestamp_label": "41:16",
+      "text": "I'm moving on to slide 19."
+    },
+    {
+      "start": 2477.87,
+      "end": 2482.88,
+      "start_int": 2477,
+      "timestamp_label": "41:17",
+      "text": "So, the strategic evaluate activity."
+    },
+    {
+      "start": 2482.88,
+      "end": 2486.89,
+      "start_int": 2482,
+      "timestamp_label": "41:22",
+      "text": "So, this is the program and government stakeholders need to take a look at all"
+    },
+    {
+      "start": 2486.89,
+      "end": 2493.37,
+      "start_int": 2486,
+      "timestamp_label": "41:26",
+      "text": "that data from the cumulative body of evidence, nice to have Automated Analytics to support you,"
+    },
+    {
+      "start": 2493.37,
+      "end": 2498.5,
+      "start_int": 2493,
+      "timestamp_label": "41:33",
+      "text": "and look at my Mission Bay Cyber Risk Assessment Results and cross check"
+    },
+    {
+      "start": 2498.5,
+      "end": 2501.99,
+      "start_int": 2498,
+      "timestamp_label": "41:38",
+      "text": "that with the testing that's being done, and how that's correlating."
+    },
+    {
+      "start": 2501.99,
+      "end": 2503.63,
+      "start_int": 2501,
+      "timestamp_label": "41:41",
+      "text": "Did my -- did it play out?"
+    },
+    {
+      "start": 2503.63,
+      "end": 2506.67,
+      "start_int": 2503,
+      "timestamp_label": "41:43",
+      "text": "Mission based cyber risk assessments are proposed."
+    },
+    {
+      "start": 2506.67,
+      "end": 2508.98,
+      "start_int": 2506,
+      "timestamp_label": "41:46",
+      "text": "Vulnerabilities or weaknesses, they are not proven."
+    },
+    {
+      "start": 2508.98,
+      "end": 2514.2,
+      "start_int": 2508,
+      "timestamp_label": "41:48",
+      "text": "And so, the testing is the means to go and check and see if those things are real."
+    },
+    {
+      "start": 2514.2,
+      "end": 2518.87,
+      "start_int": 2514,
+      "timestamp_label": "41:54",
+      "text": "So, you should be, you know, we should be verifying that the testing is occurring"
+    },
+    {
+      "start": 2518.87,
+      "end": 2522.27,
+      "start_int": 2518,
+      "timestamp_label": "41:58",
+      "text": "that needs to occur with respect to supply chain risk."
+    },
+    {
+      "start": 2522.27,
+      "end": 2526.68,
+      "start_int": 2522,
+      "timestamp_label": "42:02",
+      "text": "Looking at the test results, whether or not they're doing part acceptance testing,"
+    },
+    {
+      "start": 2526.68,
+      "end": 2530.13,
+      "start_int": 2526,
+      "timestamp_label": "42:06",
+      "text": "getting the data from all the government test activities,"
+    },
+    {
+      "start": 2530.13,
+      "end": 2536.51,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "once we move into government testing, and being able to understand if the resilience is there to"
+    },
+    {
+      "start": 2536.51,
+      "end": 2541.11,
+      "start_int": 2536,
+      "timestamp_label": "42:16",
+      "text": "and if the system recovers properly from compromises."
+    },
+    {
+      "start": 2541.11,
+      "end": 2545.86,
+      "start_int": 2541,
+      "timestamp_label": "42:21",
+      "text": "Being able to understand this software Bill of Materials again, and all the vulnerabilities."
+    },
+    {
+      "start": 2545.86,
+      "end": 2552.22,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "How do you continuously have insight because that software doesn't stay invulnerable?"
+    },
+    {
+      "start": 2552.22,
+      "end": 2556.26,
+      "start_int": 2552,
+      "timestamp_label": "42:32",
+      "text": "Over time, there are new vulnerabilities discovered and how are you monitoring,"
+    },
+    {
+      "start": 2556.26,
+      "end": 2559.37,
+      "start_int": 2556,
+      "timestamp_label": "42:36",
+      "text": "you the program, monitoring those software Bill of Materials?"
+    },
+    {
+      "start": 2559.37,
+      "end": 2564.35,
+      "start_int": 2559,
+      "timestamp_label": "42:39",
+      "text": "And is your contractor also monitoring those, that software Bill of Materials for you?"
+    },
+    {
+      "start": 2564.35,
+      "end": 2573.71,
+      "start_int": 2564,
+      "timestamp_label": "42:44",
+      "text": "So, ultimately, you're trying to quantify the degree of supply chain risk that is left,"
+    },
+    {
+      "start": 2573.71,
+      "end": 2577.85,
+      "start_int": 2573,
+      "timestamp_label": "42:53",
+      "text": "that is still remaining, and understanding if there's any steps"
+    },
+    {
+      "start": 2577.85,
+      "end": 2579.34,
+      "start_int": 2577,
+      "timestamp_label": "42:57",
+      "text": "that need to be taken to mitigate."
+    },
+    {
+      "start": 2579.34,
+      "end": 2580.42,
+      "start_int": 2579,
+      "timestamp_label": "42:59",
+      "text": "And then you write a report."
+    },
+    {
+      "start": 2580.42,
+      "end": 2582.48,
+      "start_int": 2580,
+      "timestamp_label": "43:00",
+      "text": "So, on slide 20, is the report activity."
+    },
+    {
+      "start": 2582.48,
+      "end": 2586.46,
+      "start_int": 2582,
+      "timestamp_label": "43:02",
+      "text": "Again, this is program and government stakeholders' responsibility to,"
+    },
+    {
+      "start": 2586.46,
+      "end": 2591.3,
+      "start_int": 2586,
+      "timestamp_label": "43:06",
+      "text": "after they evaluate, to submit reports to decision makers."
+    },
+    {
+      "start": 2591.3,
+      "end": 2597.99,
+      "start_int": 2591,
+      "timestamp_label": "43:11",
+      "text": "So, the findings, the identified risks, and what they've learned through this analysis"
+    },
+    {
+      "start": 2597.99,
+      "end": 2600.41,
+      "start_int": 2597,
+      "timestamp_label": "43:17",
+      "text": "when they did the evaluation of the data."
+    },
+    {
+      "start": 2600.41,
+      "end": 2605.69,
+      "start_int": 2600,
+      "timestamp_label": "43:20",
+      "text": "And how effective is that supply chain risk management strategy."
+    },
+    {
+      "start": 2605.69,
+      "end": 2609.59,
+      "start_int": 2605,
+      "timestamp_label": "43:25",
+      "text": "Make it -- do we need to make any countermeasures or updates to our mitigations"
+    },
+    {
+      "start": 2609.59,
+      "end": 2613.38,
+      "start_int": 2609,
+      "timestamp_label": "43:29",
+      "text": "and update our program Protection Plan perhaps?"
+    },
+    {
+      "start": 2613.38,
+      "end": 2619.01,
+      "start_int": 2613,
+      "timestamp_label": "43:33",
+      "text": "So, this is all about an independent assessment by the stakeholders to provide that visibility"
+    },
+    {
+      "start": 2619.01,
+      "end": 2622.6,
+      "start_int": 2619,
+      "timestamp_label": "43:39",
+      "text": "into the risk and the risks posture of the program"
+    },
+    {
+      "start": 2622.6,
+      "end": 2625.61,
+      "start_int": 2622,
+      "timestamp_label": "43:42",
+      "text": "with respect to the cyber supply chain risk."
+    },
+    {
+      "start": 2625.61,
+      "end": 2628.8,
+      "start_int": 2625,
+      "timestamp_label": "43:45",
+      "text": "I'm on slide 21, which is my summary slide."
+    },
+    {
+      "start": 2628.8,
+      "end": 2630.74,
+      "start_int": 2628,
+      "timestamp_label": "43:48",
+      "text": "So, we're getting close to questions."
+    },
+    {
+      "start": 2630.74,
+      "end": 2633.2,
+      "start_int": 2630,
+      "timestamp_label": "43:50",
+      "text": "Thank you very much for your patience."
+    },
+    {
+      "start": 2633.2,
+      "end": 2638.82,
+      "start_int": 2633,
+      "timestamp_label": "43:53",
+      "text": "And on the right-hand side are the cybersecurity framework but I've thrown supply chain"
+    },
+    {
+      "start": 2638.82,
+      "end": 2644.26,
+      "start_int": 2638,
+      "timestamp_label": "43:58",
+      "text": "in the middle there because it's impossible to manage risk we don't know."
+    },
+    {
+      "start": 2644.26,
+      "end": 2646.86,
+      "start_int": 2644,
+      "timestamp_label": "44:04",
+      "text": "So, we need visibility, the identify step."
+    },
+    {
+      "start": 2646.86,
+      "end": 2651.45,
+      "start_int": 2646,
+      "timestamp_label": "44:06",
+      "text": "We need that visibility and continuous monitoring of our supply chain."
+    },
+    {
+      "start": 2651.45,
+      "end": 2657.31,
+      "start_int": 2651,
+      "timestamp_label": "44:11",
+      "text": "We need contract language and early engagement to hold the contractors accountable to protect"
+    },
+    {
+      "start": 2657.31,
+      "end": 2663.16,
+      "start_int": 2657,
+      "timestamp_label": "44:17",
+      "text": "and detect so that we can understand the risk in our supply chain and mitigate those --"
+    },
+    {
+      "start": 2663.16,
+      "end": 2667.43,
+      "start_int": 2663,
+      "timestamp_label": "44:23",
+      "text": "that risk and prevent those supply chain threats in cyberspace"
+    },
+    {
+      "start": 2667.43,
+      "end": 2669.74,
+      "start_int": 2667,
+      "timestamp_label": "44:27",
+      "text": "from being successful in attacking."
+    },
+    {
+      "start": 2669.74,
+      "end": 2675.19,
+      "start_int": 2669,
+      "timestamp_label": "44:29",
+      "text": "And then ultimately iterating The Cyber Test and Evaluation activities of examine plan, conduct,"
+    },
+    {
+      "start": 2675.19,
+      "end": 2681.98,
+      "start_int": 2675,
+      "timestamp_label": "44:35",
+      "text": "evaluate, and report are how we can respond and recover to risks in the supply chain."
+    },
+    {
+      "start": 2681.98,
+      "end": 2687.14,
+      "start_int": 2681,
+      "timestamp_label": "44:41",
+      "text": "We hold, again, we're holding our contractors accountable to plan, respond,"
+    },
+    {
+      "start": 2687.14,
+      "end": 2690.61,
+      "start_int": 2687,
+      "timestamp_label": "44:47",
+      "text": "and recover from cyberspace threats in our supply chain."
+    },
+    {
+      "start": 2690.61,
+      "end": 2695.35,
+      "start_int": 2690,
+      "timestamp_label": "44:50",
+      "text": "These should all be driven as always by stakeholder and program's risk tolerance levels,"
+    },
+    {
+      "start": 2695.35,
+      "end": 2702.02,
+      "start_int": 2695,
+      "timestamp_label": "44:55",
+      "text": "because not every program has to potentially respond as much as well,"
+    },
+    {
+      "start": 2702.02,
+      "end": 2707.15,
+      "start_int": 2702,
+      "timestamp_label": "45:02",
+      "text": "depends on a weapons system, I guess is what I would say, what they what you need to do."
+    },
+    {
+      "start": 2707.15,
+      "end": 2712.25,
+      "start_int": 2707,
+      "timestamp_label": "45:07",
+      "text": "So, with that there are slides in backup that talk to monitoring software Bill"
+    },
+    {
+      "start": 2712.25,
+      "end": 2715.7,
+      "start_int": 2712,
+      "timestamp_label": "45:12",
+      "text": "of Materials and FAR and DFARS clauses."
+    },
+    {
+      "start": 2715.7,
+      "end": 2721.62,
+      "start_int": 2715,
+      "timestamp_label": "45:15",
+      "text": "So, I'll just stop here on slide 21 and let's take a look at questions."
+    },
+    {
+      "start": 2721.62,
+      "end": 2723.75,
+      "start_int": 2721,
+      "timestamp_label": "45:21",
+      "text": "Who's going to -- do want me to go scroll back?"
+    },
+    {
+      "start": 2723.75,
+      "end": 2725.43,
+      "start_int": 2723,
+      "timestamp_label": "45:23",
+      "text": "Or how do you undo that, Elly?"
+    },
+    {
+      "start": 2725.43,
+      "end": 2730.55,
+      "start_int": 2725,
+      "timestamp_label": "45:25",
+      "text": "&gt;&gt; So, Sarah, between Emmett and I, we have couple of questions for you."
+    },
+    {
+      "start": 2730.55,
+      "end": 2735.72,
+      "start_int": 2730,
+      "timestamp_label": "45:30",
+      "text": "So, there was one question earlier on, but I think after listening to your presentation"
+    },
+    {
+      "start": 2735.72,
+      "end": 2738.68,
+      "start_int": 2735,
+      "timestamp_label": "45:35",
+      "text": "that probably addressed the question."
+    },
+    {
+      "start": 2738.68,
+      "end": 2740.82,
+      "start_int": 2738,
+      "timestamp_label": "45:38",
+      "text": "So, I'll go to the second question."
+    },
+    {
+      "start": 2740.82,
+      "end": 2747.26,
+      "start_int": 2740,
+      "timestamp_label": "45:40",
+      "text": "Based on slide 15, there was a question regarding are there boilerplate text samples"
+    },
+    {
+      "start": 2747.26,
+      "end": 2750.79,
+      "start_int": 2747,
+      "timestamp_label": "45:47",
+      "text": "available for contracts?"
+    },
+    {
+      "start": 2750.79,
+      "end": 2759.28,
+      "start_int": 2750,
+      "timestamp_label": "45:50",
+      "text": "&gt;&gt; Yes. So, we are the updated Cyber T&amp;E Companion Guide is including some example"
+    },
+    {
+      "start": 2759.28,
+      "end": 2760.66,
+      "start_int": 2759,
+      "timestamp_label": "45:59",
+      "text": "language consideration."
+    },
+    {
+      "start": 2760.66,
+      "end": 2763.37,
+      "start_int": 2760,
+      "timestamp_label": "46:00",
+      "text": "It's not boilerplate."
+    },
+    {
+      "start": 2763.37,
+      "end": 2767.16,
+      "start_int": 2763,
+      "timestamp_label": "46:03",
+      "text": "It will have to be tailored because we're not contract specialists."
+    },
+    {
+      "start": 2767.16,
+      "end": 2775.51,
+      "start_int": 2767,
+      "timestamp_label": "46:07",
+      "text": "But we are providing some language in the Cyber T&amp;E Companion Guide Appendix B as in bravo."
+    },
+    {
+      "start": 2775.51,
+      "end": 2776.32,
+      "start_int": 2775,
+      "timestamp_label": "46:15",
+      "text": "So, that's coming."
+    },
+    {
+      "start": 2776.32,
+      "end": 2781.24,
+      "start_int": 2776,
+      "timestamp_label": "46:16",
+      "text": "It's -- and if you need help right now, then please reach out and I'd be happy to assist."
+    },
+    {
+      "start": 2781.24,
+      "end": 2786.73,
+      "start_int": 2781,
+      "timestamp_label": "46:21",
+      "text": "&gt;&gt; And there was a comment about lessons learned sharing the team program difficult due"
+    },
+    {
+      "start": 2786.73,
+      "end": 2790.91,
+      "start_int": 2786,
+      "timestamp_label": "46:26",
+      "text": "to cyber report classification making, access difficult or impossible,"
+    },
+    {
+      "start": 2790.91,
+      "end": 2794.3,
+      "start_int": 2790,
+      "timestamp_label": "46:30",
+      "text": "which I know that you can attest to."
+    },
+    {
+      "start": 2794.3,
+      "end": 2797.41,
+      "start_int": 2794,
+      "timestamp_label": "46:34",
+      "text": "&gt;&gt; Yeah, that is a problem."
+    },
+    {
+      "start": 2797.41,
+      "end": 2805.33,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "And I agree that it is difficult, since programs don't always tell each other what they're seeing"
+    },
+    {
+      "start": 2805.33,
+      "end": 2809.21,
+      "start_int": 2805,
+      "timestamp_label": "46:45",
+      "text": "or experiencing with respect to supply chain risk."
+    },
+    {
+      "start": 2809.21,
+      "end": 2812.54,
+      "start_int": 2809,
+      "timestamp_label": "46:49",
+      "text": "Or another -- and just Cyber T&amp;E in general."
+    },
+    {
+      "start": 2812.54,
+      "end": 2815.23,
+      "start_int": 2812,
+      "timestamp_label": "46:52",
+      "text": "So, I feel your pain."
+    },
+    {
+      "start": 2815.23,
+      "end": 2819.91,
+      "start_int": 2815,
+      "timestamp_label": "46:55",
+      "text": "Don't have a solution to that as of yet."
+    },
+    {
+      "start": 2819.91,
+      "end": 2824.67,
+      "start_int": 2819,
+      "timestamp_label": "46:59",
+      "text": "&gt;&gt; Another question was, does DISA APL play a role in any of this?"
+    },
+    {
+      "start": 2824.67,
+      "end": 2827.98,
+      "start_int": 2824,
+      "timestamp_label": "47:04",
+      "text": "And I'm not sure if you need elaboration on that question or not."
+    },
+    {
+      "start": 2827.98,
+      "end": 2831.86,
+      "start_int": 2827,
+      "timestamp_label": "47:07",
+      "text": "&gt;&gt; So, the approved products list, play a role."
+    },
+    {
+      "start": 2831.86,
+      "end": 2833.37,
+      "start_int": 2831,
+      "timestamp_label": "47:11",
+      "text": "There's your trust."
+    },
+    {
+      "start": 2833.37,
+      "end": 2835.0,
+      "start_int": 2833,
+      "timestamp_label": "47:13",
+      "text": "DISA has an approved products list."
+    },
+    {
+      "start": 2835.0,
+      "end": 2839.64,
+      "start_int": 2835,
+      "timestamp_label": "47:15",
+      "text": "So, they are specifically implicitly trusting those on that list."
+    },
+    {
+      "start": 2839.64,
+      "end": 2843.1,
+      "start_int": 2839,
+      "timestamp_label": "47:19",
+      "text": "So, again, it goes back to the risk tolerance for the program."
+    },
+    {
+      "start": 2843.1,
+      "end": 2847.49,
+      "start_int": 2843,
+      "timestamp_label": "47:23",
+      "text": "Do you program trust everything that you're getting from DISA's approved product list?"
+    },
+    {
+      "start": 2847.49,
+      "end": 2849.28,
+      "start_int": 2847,
+      "timestamp_label": "47:27",
+      "text": "Or do you want to scrutinize some of that"
+    },
+    {
+      "start": 2849.28,
+      "end": 2853.17,
+      "start_int": 2849,
+      "timestamp_label": "47:29",
+      "text": "because the adversary knows DISA has an approved products list."
+    },
+    {
+      "start": 2853.17,
+      "end": 2858.97,
+      "start_int": 2853,
+      "timestamp_label": "47:33",
+      "text": "So, that's a great place for the adversary to target."
+    },
+    {
+      "start": 2858.97,
+      "end": 2865.04,
+      "start_int": 2858,
+      "timestamp_label": "47:38",
+      "text": "&gt;&gt; Okay, and then application to other transaction authority OTA acquisitions."
+    },
+    {
+      "start": 2865.04,
+      "end": 2868.08,
+      "start_int": 2865,
+      "timestamp_label": "47:45",
+      "text": "&gt;&gt; I'm a novice on OTAs."
+    },
+    {
+      "start": 2868.08,
+      "end": 2877.5,
+      "start_int": 2868,
+      "timestamp_label": "47:48",
+      "text": "So, you can apply this Cyber T&amp;E approach to any acquisition approach, in my humble opinion."
+    },
+    {
+      "start": 2877.5,
+      "end": 2882.63,
+      "start_int": 2877,
+      "timestamp_label": "47:57",
+      "text": "But I have not actively done that with any OTAs yet."
+    },
+    {
+      "start": 2882.63,
+      "end": 2883.46,
+      "start_int": 2882,
+      "timestamp_label": "48:02",
+      "text": "That I know of."
+    },
+    {
+      "start": 2883.46,
+      "end": 2884.61,
+      "start_int": 2883,
+      "timestamp_label": "48:03",
+      "text": "&gt;&gt; And I'm getting --"
+    },
+    {
+      "start": 2884.61,
+      "end": 2886.82,
+      "start_int": 2884,
+      "timestamp_label": "48:04",
+      "text": "&gt;&gt; Again, this is all draft guidance."
+    },
+    {
+      "start": 2886.82,
+      "end": 2892.17,
+      "start_int": 2886,
+      "timestamp_label": "48:06",
+      "text": "&gt;&gt; I'm getting some acknowledgement, I guess, showing that thank you for answering some"
+    },
+    {
+      "start": 2892.17,
+      "end": 2895.25,
+      "start_int": 2892,
+      "timestamp_label": "48:12",
+      "text": "of the questions that we addressed right now."
+    },
+    {
+      "start": 2895.25,
+      "end": 2897.34,
+      "start_int": 2895,
+      "timestamp_label": "48:15",
+      "text": "What can we do right now?"
+    },
+    {
+      "start": 2897.34,
+      "end": 2904.41,
+      "start_int": 2897,
+      "timestamp_label": "48:17",
+      "text": "What timeframe of acquisition cycle can we possibly have the most immediate impact"
+    },
+    {
+      "start": 2904.41,
+      "end": 2908.55,
+      "start_int": 2904,
+      "timestamp_label": "48:24",
+      "text": "as we know that contracts may not have this at this time?"
+    },
+    {
+      "start": 2908.55,
+      "end": 2910.71,
+      "start_int": 2908,
+      "timestamp_label": "48:28",
+      "text": "&gt;&gt; They don't have this at this time."
+    },
+    {
+      "start": 2910.71,
+      "end": 2912.86,
+      "start_int": 2910,
+      "timestamp_label": "48:30",
+      "text": "So, it's yeah."
+    },
+    {
+      "start": 2912.86,
+      "end": 2915.58,
+      "start_int": 2912,
+      "timestamp_label": "48:32",
+      "text": "So, you can start anytime."
+    },
+    {
+      "start": 2915.58,
+      "end": 2920.45,
+      "start_int": 2915,
+      "timestamp_label": "48:35",
+      "text": "But it's a matter of whether or not you have a budget for these things."
+    },
+    {
+      "start": 2920.45,
+      "end": 2925.79,
+      "start_int": 2920,
+      "timestamp_label": "48:40",
+      "text": "I would say start with your test organization, your cyber test organizations."
+    },
+    {
+      "start": 2925.79,
+      "end": 2931.13,
+      "start_int": 2925,
+      "timestamp_label": "48:45",
+      "text": "Start to pull them in and start to get that analysis going so that you can understand"
+    },
+    {
+      "start": 2931.13,
+      "end": 2934.97,
+      "start_int": 2931,
+      "timestamp_label": "48:51",
+      "text": "if you even need to start changing your contract."
+    },
+    {
+      "start": 2934.97,
+      "end": 2938.91,
+      "start_int": 2934,
+      "timestamp_label": "48:54",
+      "text": "And then, you know, figure out how you make that pitch up the chain"
+    },
+    {
+      "start": 2938.91,
+      "end": 2945.37,
+      "start_int": 2938,
+      "timestamp_label": "48:58",
+      "text": "to get your POM budget approved for changes to contract language to support this."
+    },
+    {
+      "start": 2945.37,
+      "end": 2946.9,
+      "start_int": 2945,
+      "timestamp_label": "49:05",
+      "text": "I think there's an appetite."
+    },
+    {
+      "start": 2946.9,
+      "end": 2953.04,
+      "start_int": 2946,
+      "timestamp_label": "49:06",
+      "text": "I think it's hard to know what leaders will decide."
+    },
+    {
+      "start": 2953.04,
+      "end": 2956.36,
+      "start_int": 2953,
+      "timestamp_label": "49:13",
+      "text": "But I think there is an appetite for addressing supply chain risks."
+    },
+    {
+      "start": 2956.36,
+      "end": 2959.86,
+      "start_int": 2956,
+      "timestamp_label": "49:16",
+      "text": "We had the whole executive order that came out in May that focused"
+    },
+    {
+      "start": 2959.86,
+      "end": 2966.84,
+      "start_int": 2959,
+      "timestamp_label": "49:19",
+      "text": "on the software supply chain, and I think that we could probably make the argument."
+    },
+    {
+      "start": 2966.84,
+      "end": 2972.3,
+      "start_int": 2966,
+      "timestamp_label": "49:26",
+      "text": "I just -- I would encourage you to not wait and again, I would start with my,"
+    },
+    {
+      "start": 2972.3,
+      "end": 2977.64,
+      "start_int": 2972,
+      "timestamp_label": "49:32",
+      "text": "well my intel community and my cyber test or government cyber test organizations"
+    },
+    {
+      "start": 2977.64,
+      "end": 2982.62,
+      "start_int": 2977,
+      "timestamp_label": "49:37",
+      "text": "to see what can be done at this point."
+    },
+    {
+      "start": 2982.62,
+      "end": 2985.15,
+      "start_int": 2982,
+      "timestamp_label": "49:42",
+      "text": "&gt;&gt; Another question, thank you."
+    },
+    {
+      "start": 2985.15,
+      "end": 2991.76,
+      "start_int": 2985,
+      "timestamp_label": "49:45",
+      "text": "Do COTS [phonetic] items represent any particular risks or advantages and cyber risk?"
+    },
+    {
+      "start": 2991.76,
+      "end": 2993.35,
+      "start_int": 2991,
+      "timestamp_label": "49:51",
+      "text": "&gt;&gt; They're risk."
+    },
+    {
+      "start": 2993.35,
+      "end": 2997.88,
+      "start_int": 2993,
+      "timestamp_label": "49:53",
+      "text": "They're advantages in design and cost, but they are a huge risk."
+    },
+    {
+      "start": 2997.88,
+      "end": 3002.27,
+      "start_int": 2997,
+      "timestamp_label": "49:57",
+      "text": "Because, and hopefully the makes sense, because their COTS,"
+    },
+    {
+      "start": 3002.27,
+      "end": 3005.78,
+      "start_int": 3002,
+      "timestamp_label": "50:02",
+      "text": "the adversary can access them themselves."
+    },
+    {
+      "start": 3005.78,
+      "end": 3009.09,
+      "start_int": 3005,
+      "timestamp_label": "50:05",
+      "text": "They are less scrutinized sometimes, unfortunately, by DOD."
+    },
+    {
+      "start": 3009.09,
+      "end": 3012.01,
+      "start_int": 3009,
+      "timestamp_label": "50:09",
+      "text": "We tend to think we don't have to test them for cyber."
+    },
+    {
+      "start": 3012.01,
+      "end": 3019.45,
+      "start_int": 3012,
+      "timestamp_label": "50:12",
+      "text": "And that's, to me, a blind approach and a blind trust that we --"
+    },
+    {
+      "start": 3019.45,
+      "end": 3022.32,
+      "start_int": 3019,
+      "timestamp_label": "50:19",
+      "text": "if I was the adversary, I would definitely exploit COTS."
+    },
+    {
+      "start": 3022.32,
+      "end": 3025.19,
+      "start_int": 3022,
+      "timestamp_label": "50:22",
+      "text": "So, I would say it's a risk."
+    },
+    {
+      "start": 3025.19,
+      "end": 3027.97,
+      "start_int": 3025,
+      "timestamp_label": "50:25",
+      "text": "I think it's more of a risk than GOTS."
+    },
+    {
+      "start": 3027.97,
+      "end": 3034.03,
+      "start_int": 3027,
+      "timestamp_label": "50:27",
+      "text": "Although -- so, COTS I call compromised off the shelf and GOTS I call glitchy off the shelf."
+    },
+    {
+      "start": 3034.03,
+      "end": 3036.24,
+      "start_int": 3034,
+      "timestamp_label": "50:34",
+      "text": "So, do you want compromised or do you want glitchy?"
+    },
+    {
+      "start": 3036.24,
+      "end": 3038.67,
+      "start_int": 3036,
+      "timestamp_label": "50:36",
+      "text": "You can fix glitchy."
+    },
+    {
+      "start": 3038.67,
+      "end": 3042.01,
+      "start_int": 3038,
+      "timestamp_label": "50:38",
+      "text": "Sometimes you don't know the compromise is there."
+    },
+    {
+      "start": 3042.01,
+      "end": 3044.99,
+      "start_int": 3042,
+      "timestamp_label": "50:42",
+      "text": "&gt;&gt; And there was a gentleman who's been very, very patient."
+    },
+    {
+      "start": 3044.99,
+      "end": 3047.94,
+      "start_int": 3044,
+      "timestamp_label": "50:44",
+      "text": "So, I'm -- I scrolled up and got his question."
+    },
+    {
+      "start": 3047.94,
+      "end": 3053.29,
+      "start_int": 3047,
+      "timestamp_label": "50:47",
+      "text": "Could we use as an early indicator, going back to baseline and configurations"
+    },
+    {
+      "start": 3053.29,
+      "end": 3060.9,
+      "start_int": 3053,
+      "timestamp_label": "50:53",
+      "text": "and do production sampling that looks at RF lines of codes and components on the board"
+    },
+    {
+      "start": 3060.9,
+      "end": 3065.14,
+      "start_int": 3060,
+      "timestamp_label": "51:00",
+      "text": "to determine upfront, if there are baseline deviations?"
+    },
+    {
+      "start": 3065.14,
+      "end": 3068.51,
+      "start_int": 3065,
+      "timestamp_label": "51:05",
+      "text": "&gt;&gt; There are methods to do that kind of testing."
+    },
+    {
+      "start": 3068.51,
+      "end": 3073.85,
+      "start_int": 3068,
+      "timestamp_label": "51:08",
+      "text": "Yes. There are organizations that -- there are private companies that will do that kind"
+    },
+    {
+      "start": 3073.85,
+      "end": 3078.8,
+      "start_int": 3073,
+      "timestamp_label": "51:13",
+      "text": "of stuff and then there are there are hardware assurance companies within the department"
+    },
+    {
+      "start": 3078.8,
+      "end": 3081.39,
+      "start_int": 3078,
+      "timestamp_label": "51:18",
+      "text": "that can also support that kind of analysis."
+    },
+    {
+      "start": 3081.39,
+      "end": 3088.59,
+      "start_int": 3081,
+      "timestamp_label": "51:21",
+      "text": "I know that up at NAVAIR and Lakehurst, they're doing some interesting hardware assurance work."
+    },
+    {
+      "start": 3088.59,
+      "end": 3090.74,
+      "start_int": 3088,
+      "timestamp_label": "51:28",
+      "text": "So, you can."
+    },
+    {
+      "start": 3090.74,
+      "end": 3097.49,
+      "start_int": 3090,
+      "timestamp_label": "51:30",
+      "text": "Again, it's all about that understanding what and why do I need to focus on"
+    },
+    {
+      "start": 3097.49,
+      "end": 3101.72,
+      "start_int": 3097,
+      "timestamp_label": "51:37",
+      "text": "and then proceeding from that point on to make sure you have the right techniques and tools"
+    },
+    {
+      "start": 3101.72,
+      "end": 3106.3,
+      "start_int": 3101,
+      "timestamp_label": "51:41",
+      "text": "in place and who's going to do it."
+    },
+    {
+      "start": 3106.3,
+      "end": 3110.73,
+      "start_int": 3106,
+      "timestamp_label": "51:46",
+      "text": "&gt;&gt; Another question from the gentleman that I have insulted earlier"
+    },
+    {
+      "start": 3110.73,
+      "end": 3112.98,
+      "start_int": 3110,
+      "timestamp_label": "51:50",
+      "text": "by giving you a promotion, Sarah."
+    },
+    {
+      "start": 3112.98,
+      "end": 3118.05,
+      "start_int": 3112,
+      "timestamp_label": "51:52",
+      "text": "You know, I was trying not to read the bio verbatim."
+    },
+    {
+      "start": 3118.05,
+      "end": 3119.18,
+      "start_int": 3118,
+      "timestamp_label": "51:58",
+      "text": "And I saw his name."
+    },
+    {
+      "start": 3119.18,
+      "end": 3121.59,
+      "start_int": 3119,
+      "timestamp_label": "51:59",
+      "text": "And I think my brain just got cross wired."
+    },
+    {
+      "start": 3121.59,
+      "end": 3127.44,
+      "start_int": 3121,
+      "timestamp_label": "52:01",
+      "text": "So, I apologize, Mr. Collins, but the question is, does the advent of AI systems"
+    },
+    {
+      "start": 3127.44,
+      "end": 3135.09,
+      "start_int": 3127,
+      "timestamp_label": "52:07",
+      "text": "or AI enabled autonomous systems change how we should think about supply chain risk management?"
+    },
+    {
+      "start": 3135.09,
+      "end": 3136.79,
+      "start_int": 3135,
+      "timestamp_label": "52:15",
+      "text": "&gt;&gt; That's a yes."
+    },
+    {
+      "start": 3136.79,
+      "end": 3147.32,
+      "start_int": 3136,
+      "timestamp_label": "52:16",
+      "text": "Not change but increase the emphasis because the risk associated with AI and the testing"
+    },
+    {
+      "start": 3147.32,
+      "end": 3154.57,
+      "start_int": 3147,
+      "timestamp_label": "52:27",
+      "text": "of that AI to ensure that the trust is there is where an adversary is going to, I believe,"
+    },
+    {
+      "start": 3154.57,
+      "end": 3162.55,
+      "start_int": 3154,
+      "timestamp_label": "52:34",
+      "text": "target AI enabled systems so that if we don't do the testing and we don't focus on Cyber T&amp;E"
+    },
+    {
+      "start": 3162.55,
+      "end": 3167.6,
+      "start_int": 3162,
+      "timestamp_label": "52:42",
+      "text": "for AI, which we don't know how to do currently yet, I would say we're learning."
+    },
+    {
+      "start": 3167.6,
+      "end": 3171.88,
+      "start_int": 3167,
+      "timestamp_label": "52:47",
+      "text": "That's a focus that we're starting to have."
+    },
+    {
+      "start": 3171.88,
+      "end": 3174.74,
+      "start_int": 3171,
+      "timestamp_label": "52:51",
+      "text": "My cross service working group focused on that last year."
+    },
+    {
+      "start": 3174.74,
+      "end": 3177.44,
+      "start_int": 3174,
+      "timestamp_label": "52:54",
+      "text": "And we found that it was very nascent."
+    },
+    {
+      "start": 3177.44,
+      "end": 3185.37,
+      "start_int": 3177,
+      "timestamp_label": "52:57",
+      "text": "So, yes, I would say, Mr. Collins, that I think it would change what kind"
+    },
+    {
+      "start": 3185.37,
+      "end": 3187.35,
+      "start_int": 3185,
+      "timestamp_label": "53:05",
+      "text": "of Cyber T&amp;E and where to focus."
+    },
+    {
+      "start": 3187.35,
+      "end": 3192.33,
+      "start_int": 3187,
+      "timestamp_label": "53:07",
+      "text": "But I think it only increases the importance of supply chain T&amp;E"
+    },
+    {
+      "start": 3192.33,
+      "end": 3195.62,
+      "start_int": 3192,
+      "timestamp_label": "53:12",
+      "text": "because that autonomous system is going to go out there and do its thing."
+    },
+    {
+      "start": 3195.62,
+      "end": 3198.07,
+      "start_int": 3195,
+      "timestamp_label": "53:15",
+      "text": "And if we haven't tested it, we haven't verified"
+    },
+    {
+      "start": 3198.07,
+      "end": 3202.95,
+      "start_int": 3198,
+      "timestamp_label": "53:18",
+      "text": "that supply chain risk has been managed to a satisfactory level, then."
+    },
+    {
+      "start": 3202.95,
+      "end": 3206.61,
+      "start_int": 3202,
+      "timestamp_label": "53:22",
+      "text": "Well, that's a problem."
+    },
+    {
+      "start": 3206.61,
+      "end": 3209.99,
+      "start_int": 3206,
+      "timestamp_label": "53:26",
+      "text": "&gt;&gt; And another question."
+    },
+    {
+      "start": 3209.99,
+      "end": 3215.27,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "As many of my programs are later in the acquisition timeline, is there a support"
+    },
+    {
+      "start": 3215.27,
+      "end": 3220.78,
+      "start_int": 3215,
+      "timestamp_label": "53:35",
+      "text": "in the funding teams to fund existing programs for this kind of investigation?"
+    },
+    {
+      "start": 3220.78,
+      "end": 3224.79,
+      "start_int": 3220,
+      "timestamp_label": "53:40",
+      "text": "For those who actually review POM requests."
+    },
+    {
+      "start": 3224.79,
+      "end": 3225.73,
+      "start_int": 3224,
+      "timestamp_label": "53:44",
+      "text": "&gt;&gt; Hold on."
+    },
+    {
+      "start": 3225.73,
+      "end": 3228.26,
+      "start_int": 3225,
+      "timestamp_label": "53:45",
+      "text": "I'm not sure I understand the question."
+    },
+    {
+      "start": 3228.26,
+      "end": 3233.0,
+      "start_int": 3228,
+      "timestamp_label": "53:48",
+      "text": "&gt;&gt; Yeah. So, his programs are late in the acquisition timeline."
+    },
+    {
+      "start": 3233.0,
+      "end": 3237.05,
+      "start_int": 3233,
+      "timestamp_label": "53:53",
+      "text": "So, is there support in the funding?"
+    },
+    {
+      "start": 3237.05,
+      "end": 3240.47,
+      "start_int": 3237,
+      "timestamp_label": "53:57",
+      "text": "I guess is there support, or --"
+    },
+    {
+      "start": 3240.47,
+      "end": 3243.59,
+      "start_int": 3240,
+      "timestamp_label": "54:00",
+      "text": "&gt;&gt; In other words, are the POM the issue teams, for example."
+    },
+    {
+      "start": 3243.59,
+      "end": 3246.9,
+      "start_int": 3243,
+      "timestamp_label": "54:03",
+      "text": "POM issue teams look supportive of this kind of --"
+    },
+    {
+      "start": 3246.9,
+      "end": 3251.79,
+      "start_int": 3246,
+      "timestamp_label": "54:06",
+      "text": "these kinds of requests for existing progress."
+    },
+    {
+      "start": 3251.79,
+      "end": 3253.82,
+      "start_int": 3251,
+      "timestamp_label": "54:11",
+      "text": "I would expect yes."
+    },
+    {
+      "start": 3253.82,
+      "end": 3260.87,
+      "start_int": 3253,
+      "timestamp_label": "54:13",
+      "text": "If you can provide the justification and the data behind why this is an issue"
+    },
+    {
+      "start": 3260.87,
+      "end": 3269.88,
+      "start_int": 3260,
+      "timestamp_label": "54:20",
+      "text": "for your program, then yes, I would say that you would see support in those issue teams."
+    },
+    {
+      "start": 3269.88,
+      "end": 3272.27,
+      "start_int": 3269,
+      "timestamp_label": "54:29",
+      "text": "&gt;&gt; And then the comment."
+    },
+    {
+      "start": 3272.27,
+      "end": 3278.09,
+      "start_int": 3272,
+      "timestamp_label": "54:32",
+      "text": "That kind of upper-level support would also help getting PMA leadership support"
+    },
+    {
+      "start": 3278.09,
+      "end": 3279.93,
+      "start_int": 3278,
+      "timestamp_label": "54:38",
+      "text": "for the [inaudible]."
+    },
+    {
+      "start": 3279.93,
+      "end": 3281.29,
+      "start_int": 3279,
+      "timestamp_label": "54:39",
+      "text": "&gt;&gt; Yes, I would agree."
+    },
+    {
+      "start": 3281.29,
+      "end": 3288.29,
+      "start_int": 3281,
+      "timestamp_label": "54:41",
+      "text": "If you knew that DOD writ large was supportive of this kind of work,"
+    },
+    {
+      "start": 3288.29,
+      "end": 3296.42,
+      "start_int": 3288,
+      "timestamp_label": "54:48",
+      "text": "then I would agree your program would be more willing to devote resources to it."
+    },
+    {
+      "start": 3296.42,
+      "end": 3297.26,
+      "start_int": 3296,
+      "timestamp_label": "54:56",
+      "text": "I would agree."
+    },
+    {
+      "start": 3297.26,
+      "end": 3300.08,
+      "start_int": 3297,
+      "timestamp_label": "54:57",
+      "text": "So, risk tolerance again."
+    },
+    {
+      "start": 3300.08,
+      "end": 3304.07,
+      "start_int": 3300,
+      "timestamp_label": "55:00",
+      "text": "We -- I always come back to what's the risk tolerance for the program"
+    },
+    {
+      "start": 3304.07,
+      "end": 3308.02,
+      "start_int": 3304,
+      "timestamp_label": "55:04",
+      "text": "and understanding that this is a big problem."
+    },
+    {
+      "start": 3308.02,
+      "end": 3310.84,
+      "start_int": 3308,
+      "timestamp_label": "55:08",
+      "text": "It's certainly in the news, but it's not in the news"
+    },
+    {
+      "start": 3310.84,
+      "end": 3315.21,
+      "start_int": 3310,
+      "timestamp_label": "55:10",
+      "text": "from a cyber supply chain risk as much as it could be."
+    },
+    {
+      "start": 3315.21,
+      "end": 3324.05,
+      "start_int": 3315,
+      "timestamp_label": "55:15",
+      "text": "But I think it's important to not overhype the risk, but to be very honest about the risk."
+    },
+    {
+      "start": 3324.05,
+      "end": 3326.0,
+      "start_int": 3324,
+      "timestamp_label": "55:24",
+      "text": "And that's why having, you know, the teams."
+    },
+    {
+      "start": 3326.0,
+      "end": 3327.9,
+      "start_int": 3326,
+      "timestamp_label": "55:26",
+      "text": "The test teams represent your threat."
+    },
+    {
+      "start": 3327.9,
+      "end": 3332.02,
+      "start_int": 3327,
+      "timestamp_label": "55:27",
+      "text": "The intel community helps to validate that threat."
+    },
+    {
+      "start": 3332.02,
+      "end": 3338.55,
+      "start_int": 3332,
+      "timestamp_label": "55:32",
+      "text": "Having those to support the program is a very important approach to get started."
+    },
+    {
+      "start": 3338.55,
+      "end": 3339.79,
+      "start_int": 3338,
+      "timestamp_label": "55:38",
+      "text": "Wherever you are in the lifecycle."
+    },
+    {
+      "start": 3339.79,
+      "end": 3341.94,
+      "start_int": 3339,
+      "timestamp_label": "55:39",
+      "text": "Like I said before, I think that's important."
+    },
+    {
+      "start": 3341.94,
+      "end": 3349.27,
+      "start_int": 3341,
+      "timestamp_label": "55:41",
+      "text": "And then being able to articulate that correctly to leadership is the other key piece."
+    },
+    {
+      "start": 3349.27,
+      "end": 3350.11,
+      "start_int": 3349,
+      "timestamp_label": "55:49",
+      "text": "Which isn't always easy."
+    },
+    {
+      "start": 3350.11,
+      "end": 3362.01,
+      "start_int": 3350,
+      "timestamp_label": "55:50",
+      "text": "You have to put it in terms of mission risk not just, you know, technical cyber stuff."
+    },
+    {
+      "start": 3362.01,
+      "end": 3366.53,
+      "start_int": 3362,
+      "timestamp_label": "56:02",
+      "text": "&gt;&gt; Will this be woven into future CTT training course?"
+    },
+    {
+      "start": 3366.53,
+      "end": 3370.6,
+      "start_int": 3366,
+      "timestamp_label": "56:06",
+      "text": "&gt;&gt; Hey, Elly, that one's -- I don't do that course anymore."
+    },
+    {
+      "start": 3370.6,
+      "end": 3374.22,
+      "start_int": 3370,
+      "timestamp_label": "56:10",
+      "text": "&gt;&gt; Yes, I'm not sure if this is the right way to state it,"
+    },
+    {
+      "start": 3374.22,
+      "end": 3379.71,
+      "start_int": 3374,
+      "timestamp_label": "56:14",
+      "text": "but I feel like I'm the learning asset manager for the CTT workshop here at DAU,"
+    },
+    {
+      "start": 3379.71,
+      "end": 3385.75,
+      "start_int": 3379,
+      "timestamp_label": "56:19",
+      "text": "as I introduced earlier, and I feel like I teach on behalf of Sarah and her work."
+    },
+    {
+      "start": 3385.75,
+      "end": 3390.56,
+      "start_int": 3385,
+      "timestamp_label": "56:25",
+      "text": "So, every time there are new information that comes out from attending her working groups,"
+    },
+    {
+      "start": 3390.56,
+      "end": 3393.15,
+      "start_int": 3390,
+      "timestamp_label": "56:30",
+      "text": "I do incorporate them into the training."
+    },
+    {
+      "start": 3393.15,
+      "end": 3400.3,
+      "start_int": 3393,
+      "timestamp_label": "56:33",
+      "text": "And -- but having said that, we do have a separate supply chain risk type of course"
+    },
+    {
+      "start": 3400.3,
+      "end": 3404.52,
+      "start_int": 3400,
+      "timestamp_label": "56:40",
+      "text": "as well as the cyber resiliency credentials that we're working on."
+    },
+    {
+      "start": 3404.52,
+      "end": 3406.89,
+      "start_int": 3404,
+      "timestamp_label": "56:44",
+      "text": "We'll have a little more focus on that as well."
+    },
+    {
+      "start": 3406.89,
+      "end": 3411.0,
+      "start_int": 3406,
+      "timestamp_label": "56:46",
+      "text": "So, please stay tuned for that."
+    },
+    {
+      "start": 3411.0,
+      "end": 3413.59,
+      "start_int": 3411,
+      "timestamp_label": "56:51",
+      "text": "I hope that I addressed your question."
+    },
+    {
+      "start": 3413.59,
+      "end": 3415.69,
+      "start_int": 3413,
+      "timestamp_label": "56:53",
+      "text": "&gt;&gt; Are you guys going to build -- can we work with you"
+    },
+    {
+      "start": 3415.69,
+      "end": 3418.04,
+      "start_int": 3415,
+      "timestamp_label": "56:55",
+      "text": "to build Cyber T&amp;E workforce credentials?"
+    },
+    {
+      "start": 3418.04,
+      "end": 3419.95,
+      "start_int": 3418,
+      "timestamp_label": "56:58",
+      "text": "&gt;&gt; Actually Sarah, yes."
+    },
+    {
+      "start": 3419.95,
+      "end": 3423.94,
+      "start_int": 3419,
+      "timestamp_label": "56:59",
+      "text": "Sidebar. Apparently, I have been tagged to start that work."
+    },
+    {
+      "start": 3423.94,
+      "end": 3431.43,
+      "start_int": 3423,
+      "timestamp_label": "57:03",
+      "text": "So, I was going to reach out to you, and maybe other folks to see if we can brainstorm on that."
+    },
+    {
+      "start": 3431.43,
+      "end": 3432.14,
+      "start_int": 3431,
+      "timestamp_label": "57:11",
+      "text": "So, absolutely."
+    },
+    {
+      "start": 3432.14,
+      "end": 3434.69,
+      "start_int": 3432,
+      "timestamp_label": "57:12",
+      "text": "&gt;&gt; I have some resources for that this year."
+    },
+    {
+      "start": 3434.69,
+      "end": 3436.2,
+      "start_int": 3434,
+      "timestamp_label": "57:14",
+      "text": "&gt;&gt; Awesome."
+    },
+    {
+      "start": 3436.2,
+      "end": 3440.92,
+      "start_int": 3436,
+      "timestamp_label": "57:16",
+      "text": "And then there were several questions regarding the recording."
+    },
+    {
+      "start": 3440.92,
+      "end": 3442.66,
+      "start_int": 3440,
+      "timestamp_label": "57:20",
+      "text": "And yes, absolutely."
+    },
+    {
+      "start": 3442.66,
+      "end": 3447.65,
+      "start_int": 3442,
+      "timestamp_label": "57:22",
+      "text": "The recording will be available by next Tuesday on the event website."
+    },
+    {
+      "start": 3447.65,
+      "end": 3452.02,
+      "start_int": 3447,
+      "timestamp_label": "57:27",
+      "text": "We had about 60% of folks who signed up could not make it."
+    },
+    {
+      "start": 3452.02,
+      "end": 3456.83,
+      "start_int": 3452,
+      "timestamp_label": "57:32",
+      "text": "I had several emails about technical difficulties, as I assume that we'll get some"
+    },
+    {
+      "start": 3456.83,
+      "end": 3459.85,
+      "start_int": 3456,
+      "timestamp_label": "57:36",
+      "text": "of that issue due to incompatibility."
+    },
+    {
+      "start": 3459.85,
+      "end": 3462.47,
+      "start_int": 3459,
+      "timestamp_label": "57:39",
+      "text": "So, it will definitely be available."
+    },
+    {
+      "start": 3462.47,
+      "end": 3463.43,
+      "start_int": 3462,
+      "timestamp_label": "57:42",
+      "text": "Let's see."
+    },
+    {
+      "start": 3463.43,
+      "end": 3468.89,
+      "start_int": 3463,
+      "timestamp_label": "57:43",
+      "text": "There's one more question Has any work been done to build standard sections in a temp"
+    },
+    {
+      "start": 3468.89,
+      "end": 3476.16,
+      "start_int": 3468,
+      "timestamp_label": "57:48",
+      "text": "that can assist programs in properly defining Cyber DT And resourcer for all cyber testing?"
+    },
+    {
+      "start": 3476.16,
+      "end": 3483.1,
+      "start_int": 3476,
+      "timestamp_label": "57:56",
+      "text": "&gt;&gt; Yes. So, there has been -- unfortunately, right now when you go to the temp template,"
+    },
+    {
+      "start": 3483.1,
+      "end": 3486.83,
+      "start_int": 3483,
+      "timestamp_label": "58:03",
+      "text": "the DT Cyber section has OT in it for cyber."
+    },
+    {
+      "start": 3486.83,
+      "end": 3491.03,
+      "start_int": 3486,
+      "timestamp_label": "58:06",
+      "text": "And so, I'm working with DOT&amp;E quite a bit."
+    },
+    {
+      "start": 3491.03,
+      "end": 3497.05,
+      "start_int": 3491,
+      "timestamp_label": "58:11",
+      "text": "And we are working on -- there will be a new temp companion guide eventually published."
+    },
+    {
+      "start": 3497.05,
+      "end": 3504.26,
+      "start_int": 3497,
+      "timestamp_label": "58:17",
+      "text": "I do have a set of DT temp guidance for cyber."
+    },
+    {
+      "start": 3504.26,
+      "end": 3508.07,
+      "start_int": 3504,
+      "timestamp_label": "58:24",
+      "text": "If you interested, please feel free to reach out to me."
+    },
+    {
+      "start": 3508.07,
+      "end": 3510.84,
+      "start_int": 3508,
+      "timestamp_label": "58:28",
+      "text": "And I'll be happy to share that with you."
+    },
+    {
+      "start": 3510.84,
+      "end": 3513.74,
+      "start_int": 3510,
+      "timestamp_label": "58:30",
+      "text": "So, yes. We will be putting that --"
+    },
+    {
+      "start": 3513.74,
+      "end": 3517.8,
+      "start_int": 3513,
+      "timestamp_label": "58:33",
+      "text": "some information into the Cyber T&amp;E Companion Guide as well."
+    },
+    {
+      "start": 3517.8,
+      "end": 3522.94,
+      "start_int": 3517,
+      "timestamp_label": "58:37",
+      "text": "&gt;&gt; Okay. Emmett posted the survey link."
+    },
+    {
+      "start": 3522.94,
+      "end": 3525.31,
+      "start_int": 3522,
+      "timestamp_label": "58:42",
+      "text": "Please, before you depart, fill that out."
+    },
+    {
+      "start": 3525.31,
+      "end": 3527.26,
+      "start_int": 3525,
+      "timestamp_label": "58:45",
+      "text": "It will just take couple of minutes."
+    },
+    {
+      "start": 3527.26,
+      "end": 3531.72,
+      "start_int": 3527,
+      "timestamp_label": "58:47",
+      "text": "Jesse asked what are the names of [inaudible] personnel assisting with this training event?"
+    },
+    {
+      "start": 3531.72,
+      "end": 3535.39,
+      "start_int": 3531,
+      "timestamp_label": "58:51",
+      "text": "So, I'm assuming the webcast that we're currently on."
+    },
+    {
+      "start": 3535.39,
+      "end": 3539.55,
+      "start_int": 3535,
+      "timestamp_label": "58:55",
+      "text": "That's Emmett Simmons, who is the producer."
+    },
+    {
+      "start": 3539.55,
+      "end": 3541.48,
+      "start_int": 3539,
+      "timestamp_label": "58:59",
+      "text": "And I'm just the host, Elly Millar."
+    },
+    {
+      "start": 3541.48,
+      "end": 3544.93,
+      "start_int": 3541,
+      "timestamp_label": "59:01",
+      "text": "I'm not sure if that's the question that you were asking for."
+    },
+    {
+      "start": 3544.93,
+      "end": 3551.81,
+      "start_int": 3544,
+      "timestamp_label": "59:04",
+      "text": "Troy asks, is there an informal information on requirements to become certified CTT person"
+    },
+    {
+      "start": 3551.81,
+      "end": 3555.18,
+      "start_int": 3551,
+      "timestamp_label": "59:11",
+      "text": "and I think you're referring to the CTT facilitator."
+    },
+    {
+      "start": 3555.18,
+      "end": 3561.81,
+      "start_int": 3555,
+      "timestamp_label": "59:15",
+      "text": "If you attend the DAU two-day workshop, that is your first step to become the CTT facilitator"
+    },
+    {
+      "start": 3561.81,
+      "end": 3567.73,
+      "start_int": 3561,
+      "timestamp_label": "59:21",
+      "text": "and then the rest of the process involves actually Miss Standards, and we can explain more"
+    },
+    {
+      "start": 3567.73,
+      "end": 3569.78,
+      "start_int": 3567,
+      "timestamp_label": "59:27",
+      "text": "about that if you join the workshop."
+    },
+    {
+      "start": 3569.78,
+      "end": 3572.32,
+      "start_int": 3569,
+      "timestamp_label": "59:29",
+      "text": "And we offer that once a month."
+    },
+    {
+      "start": 3572.32,
+      "end": 3578.51,
+      "start_int": 3572,
+      "timestamp_label": "59:32",
+      "text": "Sarah, Mr. Collins asks, I would also discuss IDSK EF efforts"
+    },
+    {
+      "start": 3578.51,
+      "end": 3582.13,
+      "start_int": 3578,
+      "timestamp_label": "59:38",
+      "text": "that should also address a more holistic look for cyber across."
+    },
+    {
+      "start": 3582.13,
+      "end": 3591.65,
+      "start_int": 3582,
+      "timestamp_label": "59:42",
+      "text": "&gt;&gt; Yes. So, the DoD I5000.89 requires an IDSK, which is the integrated develop sorry."
+    },
+    {
+      "start": 3591.65,
+      "end": 3593.78,
+      "start_int": 3591,
+      "timestamp_label": "59:51",
+      "text": "Integrated decision support key."
+    },
+    {
+      "start": 3593.78,
+      "end": 3597.59,
+      "start_int": 3593,
+      "timestamp_label": "59:53",
+      "text": "And the EF that he's referring to is an evaluation framework."
+    },
+    {
+      "start": 3597.59,
+      "end": 3603.07,
+      "start_int": 3597,
+      "timestamp_label": "59:57",
+      "text": "So, you use the IDSK, the integrated decision support key to take a look at all the --"
+    },
+    {
+      "start": 3603.07,
+      "end": 3609.53,
+      "start_int": 3603,
+      "timestamp_label": "1:00:03",
+      "text": "and they should be mission and capability focused types of evaluation that are required."
+    },
+    {
+      "start": 3609.53,
+      "end": 3615.48,
+      "start_int": 3609,
+      "timestamp_label": "1:00:09",
+      "text": "What data is needed from testing, not DT not OT focus necessarily."
+    },
+    {
+      "start": 3615.48,
+      "end": 3620.89,
+      "start_int": 3615,
+      "timestamp_label": "1:00:15",
+      "text": "But sometimes that's where you end up collecting that data is in specific DT or OT events."
+    },
+    {
+      "start": 3620.89,
+      "end": 3623.07,
+      "start_int": 3620,
+      "timestamp_label": "1:00:20",
+      "text": "But they could also come from integrate events."
+    },
+    {
+      "start": 3623.07,
+      "end": 3628.66,
+      "start_int": 3623,
+      "timestamp_label": "1:00:23",
+      "text": "And the evaluation framework provides that holistic look at the testing and the data"
+    },
+    {
+      "start": 3628.66,
+      "end": 3633.3,
+      "start_int": 3628,
+      "timestamp_label": "1:00:28",
+      "text": "that needs to be collected to answer those questions in the IDSK for the program"
+    },
+    {
+      "start": 3633.3,
+      "end": 3640.19,
+      "start_int": 3633,
+      "timestamp_label": "1:00:33",
+      "text": "so that we are more holistically looking at cyber, and other areas performance as well"
+    },
+    {
+      "start": 3640.19,
+      "end": 3646.14,
+      "start_int": 3640,
+      "timestamp_label": "1:00:40",
+      "text": "but cyber in general, in this case, across the DT and the OT space."
+    },
+    {
+      "start": 3646.14,
+      "end": 3650.34,
+      "start_int": 3646,
+      "timestamp_label": "1:00:46",
+      "text": "Right. It's not a matter of it being a DT objective or an OT objective."
+    },
+    {
+      "start": 3650.34,
+      "end": 3651.54,
+      "start_int": 3650,
+      "timestamp_label": "1:00:50",
+      "text": "It's program objective."
+    },
+    {
+      "start": 3651.54,
+      "end": 3654.86,
+      "start_int": 3651,
+      "timestamp_label": "1:00:51",
+      "text": "And it's a matter of informing the decision makers that we are on track"
+    },
+    {
+      "start": 3654.86,
+      "end": 3658.84,
+      "start_int": 3654,
+      "timestamp_label": "1:00:54",
+      "text": "to deliver a resilient system that -- to the warfighter."
+    },
+    {
+      "start": 3658.84,
+      "end": 3659.99,
+      "start_int": 3658,
+      "timestamp_label": "1:00:58",
+      "text": "I mean, that's what we care about."
+    },
+    {
+      "start": 3659.99,
+      "end": 3664.6,
+      "start_int": 3659,
+      "timestamp_label": "1:00:59",
+      "text": "That it's going to be operational resilient and that we can sustain that resilience for the life"
+    },
+    {
+      "start": 3664.6,
+      "end": 3667.61,
+      "start_int": 3664,
+      "timestamp_label": "1:01:04",
+      "text": "of that system when it's in the warfighters hands."
+    },
+    {
+      "start": 3667.61,
+      "end": 3671.76,
+      "start_int": 3667,
+      "timestamp_label": "1:01:07",
+      "text": "So, yep. I hope that helped, Mr. Collins."
+    },
+    {
+      "start": 3671.76,
+      "end": 3675.15,
+      "start_int": 3671,
+      "timestamp_label": "1:01:11",
+      "text": "It's not your words, but --"
+    },
+    {
+      "start": 3675.15,
+      "end": 3682.38,
+      "start_int": 3675,
+      "timestamp_label": "1:01:15",
+      "text": "&gt;&gt; And Emmett, I'm not sure if you are checking, but the survey link apparently is closed."
+    },
+    {
+      "start": 3682.38,
+      "end": 3683.2,
+      "start_int": 3682,
+      "timestamp_label": "1:01:22",
+      "text": "So --"
+    },
+    {
+      "start": 3683.2,
+      "end": 3686.14,
+      "start_int": 3683,
+      "timestamp_label": "1:01:23",
+      "text": "&gt;&gt; I'm working on that now."
+    },
+    {
+      "start": 3686.14,
+      "end": 3688.25,
+      "start_int": 3686,
+      "timestamp_label": "1:01:26",
+      "text": "&gt;&gt; Thank you, everybody, for your patience."
+    },
+    {
+      "start": 3688.25,
+      "end": 3697.29,
+      "start_int": 3688,
+      "timestamp_label": "1:01:28",
+      "text": "I do not see any new questions scrolling up to ensure that we didn't miss anything."
+    },
+    {
+      "start": 3697.29,
+      "end": 3699.76,
+      "start_int": 3697,
+      "timestamp_label": "1:01:37",
+      "text": "&gt;&gt; If we missed something, just re-paste it or reach out to me."
+    },
+    {
+      "start": 3699.76,
+      "end": 3700.95,
+      "start_int": 3699,
+      "timestamp_label": "1:01:39",
+      "text": "Either way."
+    },
+    {
+      "start": 3704.16,
+      "end": 3709.8,
+      "start_int": 3704,
+      "timestamp_label": "1:01:44",
+      "text": "&gt;&gt; Okay. I think that is it for the questions Sarah."
+    },
+    {
+      "start": 3709.8,
+      "end": 3714.52,
+      "start_int": 3709,
+      "timestamp_label": "1:01:49",
+      "text": "I'm going to wait a minute or so before --"
+    },
+    {
+      "start": 3714.52,
+      "end": 3718.91,
+      "start_int": 3714,
+      "timestamp_label": "1:01:54",
+      "text": "&gt;&gt; Well, I appreciate the opportunity to present this draft guidance."
+    },
+    {
+      "start": 3718.91,
+      "end": 3723.37,
+      "start_int": 3718,
+      "timestamp_label": "1:01:58",
+      "text": "I look forward to any other feedback and working with people on this."
+    },
+    {
+      "start": 3723.37,
+      "end": 3728.86,
+      "start_int": 3723,
+      "timestamp_label": "1:02:03",
+      "text": "So, I'm -- I know it seems overwhelming and scary to some people."
+    },
+    {
+      "start": 3728.86,
+      "end": 3734.49,
+      "start_int": 3728,
+      "timestamp_label": "1:02:08",
+      "text": "But I think it's important for our DOD weapons systems and our systems in general because,"
+    },
+    {
+      "start": 3734.49,
+      "end": 3738.49,
+      "start_int": 3734,
+      "timestamp_label": "1:02:14",
+      "text": "I mean, other systems can provide a path to weapons systems that we understand that"
+    },
+    {
+      "start": 3738.49,
+      "end": 3741.46,
+      "start_int": 3738,
+      "timestamp_label": "1:02:18",
+      "text": "and do something about supply chain risk where we can,"
+    },
+    {
+      "start": 3741.46,
+      "end": 3747.41,
+      "start_int": 3741,
+      "timestamp_label": "1:02:21",
+      "text": "and I think Cyber T&amp;E can help with that."
+    },
+    {
+      "start": 3747.41,
+      "end": 3751.85,
+      "start_int": 3747,
+      "timestamp_label": "1:02:27",
+      "text": "&gt;&gt; And I don't think there are any more questions regarding the topic."
+    },
+    {
+      "start": 3751.85,
+      "end": 3758.04,
+      "start_int": 3751,
+      "timestamp_label": "1:02:31",
+      "text": "The rest of the questions or admin and logistics stuff that Emmett and I will try to support."
+    },
+    {
+      "start": 3758.04,
+      "end": 3760.41,
+      "start_int": 3758,
+      "timestamp_label": "1:02:38",
+      "text": "Sarah, thank you again for joining us."
+    },
+    {
+      "start": 3760.41,
+      "end": 3762.88,
+      "start_int": 3760,
+      "timestamp_label": "1:02:40",
+      "text": "I really appreciate your time."
+    },
+    {
+      "start": 3762.88,
+      "end": 3766.0,
+      "start_int": 3762,
+      "timestamp_label": "1:02:42",
+      "text": "And I hope everybody took away something valuable."
+    },
+    {
+      "start": 3766.0,
+      "end": 3771.34,
+      "start_int": 3766,
+      "timestamp_label": "1:02:46",
+      "text": "Again, the recording will be posted by next Tuesday on our events site as well as some"
+    },
+    {
+      "start": 3771.34,
+      "end": 3773.41,
+      "start_int": 3771,
+      "timestamp_label": "1:02:51",
+      "text": "of the questions that were answered today."
+    },
+    {
+      "start": 3773.41,
+      "end": 3778.52,
+      "start_int": 3773,
+      "timestamp_label": "1:02:53",
+      "text": "If there are any questions that you can think of after the fact,"
+    },
+    {
+      "start": 3778.52,
+      "end": 3783.82,
+      "start_int": 3778,
+      "timestamp_label": "1:02:58",
+      "text": "please reach out to me: ellena.millar@dau.edu."
+    },
+    {
+      "start": 3783.82,
+      "end": 3786.38,
+      "start_int": 3783,
+      "timestamp_label": "1:03:03",
+      "text": "I'll also post that in the chat."
+    },
+    {
+      "start": 3786.38,
+      "end": 3790.45,
+      "start_int": 3786,
+      "timestamp_label": "1:03:06",
+      "text": "And then I'll ensure that we get answers to those questions."
+    },
+    {
+      "start": 3790.45,
+      "end": 3795.32,
+      "start_int": 3790,
+      "timestamp_label": "1:03:10",
+      "text": "So, if there are any -- yep, no more questions."
+    },
+    {
+      "start": 3795.32,
+      "end": 3796.5,
+      "start_int": 3795,
+      "timestamp_label": "1:03:15",
+      "text": "Thank you, everybody."
+    },
+    {
+      "start": 3796.5,
+      "end": 3797.63,
+      "start_int": 3796,
+      "timestamp_label": "1:03:16",
+      "text": "Have a great afternoon."
+    },
+    {
+      "start": 3797.63,
+      "end": 3799.05,
+      "start_int": 3797,
+      "timestamp_label": "1:03:17",
+      "text": "Thank you, Sarah, again."
+    },
+    {
+      "start": 3799.05,
+      "end": 3801.73,
+      "start_int": 3799,
+      "timestamp_label": "1:03:19",
+      "text": "Thank you, Mr. Collins, and my apologies again."
+    },
+    {
+      "start": 3801.73,
+      "end": 3803.66,
+      "start_int": 3801,
+      "timestamp_label": "1:03:21",
+      "text": "Have a great day everybody."
+    },
+    {
+      "start": 3803.66,
+      "end": 3804.22,
+      "start_int": 3803,
+      "timestamp_label": "1:03:23",
+      "text": "&gt;&gt; Thanks."
+    },
+    {
+      "start": 3804.22,
+      "end": 3804.41,
+      "start_int": 3804,
+      "timestamp_label": "1:03:24",
+      "text": "Bye."
+    }
+  ]
+}

@@ -1,0 +1,7600 @@
+{
+  "id": "2025-03-27-don-cm-configuration-management-in-supply",
+  "title": "DoN CM: Configuration Management In Supply",
+  "date": "2025-03-27",
+  "event_url": "https://www.waru.edu/events/don-cm-configuration-management-supply",
+  "entry_id": "1_krm75aws",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_krm75aws/version/100021",
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "start_int": 0,
+      "timestamp_label": "0:00",
+      "text": "The time is now 2:00 P.M."
+    },
+    {
+      "start": 1.68,
+      "end": 3.559,
+      "start_int": 1,
+      "timestamp_label": "0:01",
+      "text": "Hello and welcome to today's event,"
+    },
+    {
+      "start": 3.559,
+      "end": 7.32,
+      "start_int": 3,
+      "timestamp_label": "0:03",
+      "text": "Don them Configuration Management and Supply."
+    },
+    {
+      "start": 7.32,
+      "end": 9.6,
+      "start_int": 7,
+      "timestamp_label": "0:07",
+      "text": "Before we begin, I'd like to"
+    },
+    {
+      "start": 9.6,
+      "end": 11.4,
+      "start_int": 9,
+      "timestamp_label": "0:09",
+      "text": "make a few administrative announcements."
+    },
+    {
+      "start": 11.4,
+      "end": 13.2,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "If you're unable to see the content,"
+    },
+    {
+      "start": 13.2,
+      "end": 14.68,
+      "start_int": 13,
+      "timestamp_label": "0:13",
+      "text": "please try disconnecting from"
+    },
+    {
+      "start": 14.68,
+      "end": 16.639,
+      "start_int": 14,
+      "timestamp_label": "0:14",
+      "text": "your organizational VPN if possible."
+    },
+    {
+      "start": 16.639,
+      "end": 19.159,
+      "start_int": 16,
+      "timestamp_label": "0:16",
+      "text": "Otherwise, you can use a personal device."
+    },
+    {
+      "start": 19.159,
+      "end": 20.64,
+      "start_int": 19,
+      "timestamp_label": "0:19",
+      "text": "Speaker slides"
+    },
+    {
+      "start": 20.64,
+      "end": 21.959,
+      "start_int": 20,
+      "timestamp_label": "0:20",
+      "text": "are available at the event page."
+    },
+    {
+      "start": 21.959,
+      "end": 24.239,
+      "start_int": 21,
+      "timestamp_label": "0:21",
+      "text": "Following the event, please use the link"
+    },
+    {
+      "start": 24.239,
+      "end": 25.439,
+      "start_int": 24,
+      "timestamp_label": "0:24",
+      "text": "we will provide in chat to"
+    },
+    {
+      "start": 25.439,
+      "end": 26.84,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "access a short survey."
+    },
+    {
+      "start": 26.84,
+      "end": 28.24,
+      "start_int": 26,
+      "timestamp_label": "0:26",
+      "text": "At the end of the survey,"
+    },
+    {
+      "start": 28.24,
+      "end": 30.599,
+      "start_int": 28,
+      "timestamp_label": "0:28",
+      "text": "you can request a certificate be sent to you,"
+    },
+    {
+      "start": 30.599,
+      "end": 31.479,
+      "start_int": 30,
+      "timestamp_label": "0:30",
+      "text": "which you can use to"
+    },
+    {
+      "start": 31.479,
+      "end": 33.439,
+      "start_int": 31,
+      "timestamp_label": "0:31",
+      "text": "request continuous learning points."
+    },
+    {
+      "start": 33.439,
+      "end": 35.639,
+      "start_int": 33,
+      "timestamp_label": "0:33",
+      "text": "Please follow your organizational guidance"
+    },
+    {
+      "start": 35.639,
+      "end": 37.279,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "regarding requesting CLPs."
+    },
+    {
+      "start": 37.279,
+      "end": 39.039,
+      "start_int": 37,
+      "timestamp_label": "0:37",
+      "text": "And remember that CLPs for"
+    },
+    {
+      "start": 39.039,
+      "end": 41.24,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "DAU events will not post automatically,"
+    },
+    {
+      "start": 41.24,
+      "end": 43.079,
+      "start_int": 41,
+      "timestamp_label": "0:41",
+      "text": "and they must be requested separately."
+    },
+    {
+      "start": 43.079,
+      "end": 44.319,
+      "start_int": 43,
+      "timestamp_label": "0:43",
+      "text": "And now I'll turn it"
+    },
+    {
+      "start": 44.319,
+      "end": 46.599,
+      "start_int": 44,
+      "timestamp_label": "0:44",
+      "text": "over to the team to get us started."
+    },
+    {
+      "start": 46.91,
+      "end": 49.509,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "All right. Good afternoon, everyone."
+    },
+    {
+      "start": 49.509,
+      "end": 50.95,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "My name is Brian David,"
+    },
+    {
+      "start": 50.95,
+      "end": 54.91,
+      "start_int": 50,
+      "timestamp_label": "0:50",
+      "text": "and I'm joined by Rich Joined Rich Jeff,"
+    },
+    {
+      "start": 54.91,
+      "end": 56.589,
+      "start_int": 54,
+      "timestamp_label": "0:54",
+      "text": "and we're from NASA WSS"
+    },
+    {
+      "start": 56.589,
+      "end": 58.069,
+      "start_int": 56,
+      "timestamp_label": "0:56",
+      "text": "welcome to the third installment of"
+    },
+    {
+      "start": 58.069,
+      "end": 60.229,
+      "start_int": 58,
+      "timestamp_label": "0:58",
+      "text": "the Navy's CM Community Practice"
+    },
+    {
+      "start": 60.229,
+      "end": 62.469,
+      "start_int": 60,
+      "timestamp_label": "1:00",
+      "text": "webinar series on configuration management."
+    },
+    {
+      "start": 62.469,
+      "end": 64.469,
+      "start_int": 62,
+      "timestamp_label": "1:02",
+      "text": "This month, we're putting a spotlight on"
+    },
+    {
+      "start": 64.469,
+      "end": 66.83,
+      "start_int": 64,
+      "timestamp_label": "1:04",
+      "text": "sustainment and in particular, Navy supply."
+    },
+    {
+      "start": 66.83,
+      "end": 68.63,
+      "start_int": 66,
+      "timestamp_label": "1:06",
+      "text": "What we want to look at is how the principles"
+    },
+    {
+      "start": 68.63,
+      "end": 69.989,
+      "start_int": 68,
+      "timestamp_label": "1:08",
+      "text": "of configuration management fit"
+    },
+    {
+      "start": 69.989,
+      "end": 71.069,
+      "start_int": 69,
+      "timestamp_label": "1:09",
+      "text": "into what goes on during"
+    },
+    {
+      "start": 71.069,
+      "end": 73.73,
+      "start_int": 71,
+      "timestamp_label": "1:11",
+      "text": "the longest part of a product's life cycle."
+    },
+    {
+      "start": 73.73,
+      "end": 75.909,
+      "start_int": 73,
+      "timestamp_label": "1:13",
+      "text": "Today, we'll break the discussion"
+    },
+    {
+      "start": 75.909,
+      "end": 77.789,
+      "start_int": 75,
+      "timestamp_label": "1:15",
+      "text": "down to the easiest way possible and just"
+    },
+    {
+      "start": 77.789,
+      "end": 78.91,
+      "start_int": 77,
+      "timestamp_label": "1:17",
+      "text": "focusing on the five functions"
+    },
+    {
+      "start": 78.91,
+      "end": 80.189,
+      "start_int": 78,
+      "timestamp_label": "1:18",
+      "text": "of CM as defined by"
+    },
+    {
+      "start": 80.189,
+      "end": 83.83,
+      "start_int": 80,
+      "timestamp_label": "1:20",
+      "text": "the DOD adopted EIA 649 CM standard."
+    },
+    {
+      "start": 83.83,
+      "end": 85.349,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "We'll give a brief introduction to"
+    },
+    {
+      "start": 85.349,
+      "end": 86.989,
+      "start_int": 85,
+      "timestamp_label": "1:25",
+      "text": "how CM relates to the various elements"
+    },
+    {
+      "start": 86.989,
+      "end": 88.269,
+      "start_int": 86,
+      "timestamp_label": "1:26",
+      "text": "of supply and then moving to"
+    },
+    {
+      "start": 88.269,
+      "end": 89.789,
+      "start_int": 88,
+      "timestamp_label": "1:28",
+      "text": "CM planning and management and"
+    },
+    {
+      "start": 89.789,
+      "end": 90.869,
+      "start_int": 89,
+      "timestamp_label": "1:29",
+      "text": "things like the coordination with"
+    },
+    {
+      "start": 90.869,
+      "end": 92.99,
+      "start_int": 90,
+      "timestamp_label": "1:30",
+      "text": "the program Office on new systems."
+    },
+    {
+      "start": 92.99,
+      "end": 94.829,
+      "start_int": 92,
+      "timestamp_label": "1:32",
+      "text": "Then we'll talk to configuration"
+    },
+    {
+      "start": 94.829,
+      "end": 96.589,
+      "start_int": 94,
+      "timestamp_label": "1:34",
+      "text": "identification and how it ties to"
+    },
+    {
+      "start": 96.589,
+      "end": 98.029,
+      "start_int": 96,
+      "timestamp_label": "1:36",
+      "text": "major supply tasks like"
+    },
+    {
+      "start": 98.029,
+      "end": 99.869,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "provisioning and the establishment"
+    },
+    {
+      "start": 99.869,
+      "end": 100.959,
+      "start_int": 99,
+      "timestamp_label": "1:39",
+      "text": "of a stock number."
+    },
+    {
+      "start": 100.959,
+      "end": 102.769,
+      "start_int": 100,
+      "timestamp_label": "1:40",
+      "text": "From there, we'll turn to"
+    },
+    {
+      "start": 102.769,
+      "end": 104.61,
+      "start_int": 102,
+      "timestamp_label": "1:42",
+      "text": "change management and some of the inputs"
+    },
+    {
+      "start": 104.61,
+      "end": 105.809,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "provided on the various types of"
+    },
+    {
+      "start": 105.809,
+      "end": 107.169,
+      "start_int": 105,
+      "timestamp_label": "1:45",
+      "text": "CMD documentation flowing"
+    },
+    {
+      "start": 107.169,
+      "end": 109.05,
+      "start_int": 107,
+      "timestamp_label": "1:47",
+      "text": "its way through sustainment contracts."
+    },
+    {
+      "start": 109.05,
+      "end": 110.049,
+      "start_int": 109,
+      "timestamp_label": "1:49",
+      "text": "And then we're going to look at"
+    },
+    {
+      "start": 110.049,
+      "end": 111.769,
+      "start_int": 110,
+      "timestamp_label": "1:50",
+      "text": "configuration status accounting and"
+    },
+    {
+      "start": 111.769,
+      "end": 113.249,
+      "start_int": 111,
+      "timestamp_label": "1:51",
+      "text": "how that is accomplished via"
+    },
+    {
+      "start": 113.249,
+      "end": 115.05,
+      "start_int": 113,
+      "timestamp_label": "1:53",
+      "text": "various tools at our disposal."
+    },
+    {
+      "start": 115.05,
+      "end": 116.569,
+      "start_int": 115,
+      "timestamp_label": "1:55",
+      "text": "Lastly, the function"
+    },
+    {
+      "start": 116.569,
+      "end": 117.85,
+      "start_int": 116,
+      "timestamp_label": "1:56",
+      "text": "of configuration, verification,"
+    },
+    {
+      "start": 117.85,
+      "end": 119.009,
+      "start_int": 117,
+      "timestamp_label": "1:57",
+      "text": "and audit, and then we'll have"
+    },
+    {
+      "start": 119.009,
+      "end": 121.364,
+      "start_int": 119,
+      "timestamp_label": "1:59",
+      "text": "a quick summary and answer any questions."
+    },
+    {
+      "start": 121.364,
+      "end": 122.279,
+      "start_int": 121,
+      "timestamp_label": "2:01",
+      "text": "All right."
+    },
+    {
+      "start": 122.279,
+      "end": 125.999,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "Let's get started. Last year"
+    },
+    {
+      "start": 125.999,
+      "end": 127.199,
+      "start_int": 125,
+      "timestamp_label": "2:05",
+      "text": "for our webinar series,"
+    },
+    {
+      "start": 127.199,
+      "end": 128.56,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "we spent the majority of time"
+    },
+    {
+      "start": 128.56,
+      "end": 130.599,
+      "start_int": 128,
+      "timestamp_label": "2:08",
+      "text": "talking about the five functions of CM,"
+    },
+    {
+      "start": 130.599,
+      "end": 132.879,
+      "start_int": 130,
+      "timestamp_label": "2:10",
+      "text": "and then began just to scratch"
+    },
+    {
+      "start": 132.879,
+      "end": 135.36,
+      "start_int": 132,
+      "timestamp_label": "2:12",
+      "text": "the surface on applying CM in various cases."
+    },
+    {
+      "start": 135.36,
+      "end": 136.719,
+      "start_int": 135,
+      "timestamp_label": "2:15",
+      "text": "This year, we wanted to dig"
+    },
+    {
+      "start": 136.719,
+      "end": 137.96,
+      "start_int": 136,
+      "timestamp_label": "2:16",
+      "text": "a bit deeper on topics like"
+    },
+    {
+      "start": 137.96,
+      "end": 139.48,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "last month's excellent presentation"
+    },
+    {
+      "start": 139.48,
+      "end": 141.08,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "on configuration baselines."
+    },
+    {
+      "start": 141.08,
+      "end": 142.56,
+      "start_int": 141,
+      "timestamp_label": "2:21",
+      "text": "Today, we wanted to address"
+    },
+    {
+      "start": 142.56,
+      "end": 144.24,
+      "start_int": 142,
+      "timestamp_label": "2:22",
+      "text": "an aspect of the process that's not"
+    },
+    {
+      "start": 144.24,
+      "end": 145.92,
+      "start_int": 144,
+      "timestamp_label": "2:24",
+      "text": "usually talked about unless parts"
+    },
+    {
+      "start": 145.92,
+      "end": 147.04,
+      "start_int": 145,
+      "timestamp_label": "2:25",
+      "text": "aren't where they should be on"
+    },
+    {
+      "start": 147.04,
+      "end": 148.719,
+      "start_int": 147,
+      "timestamp_label": "2:27",
+      "text": "time, and that's supply."
+    },
+    {
+      "start": 148.719,
+      "end": 150.28,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "There are many facets to"
+    },
+    {
+      "start": 150.28,
+      "end": 151.88,
+      "start_int": 150,
+      "timestamp_label": "2:30",
+      "text": "configuration management, and in every case,"
+    },
+    {
+      "start": 151.88,
+      "end": 153.879,
+      "start_int": 151,
+      "timestamp_label": "2:31",
+      "text": "it involves input from all stakeholders"
+    },
+    {
+      "start": 153.879,
+      "end": 156.349,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "in the supply chain, including supply."
+    },
+    {
+      "start": 156.349,
+      "end": 158.499,
+      "start_int": 156,
+      "timestamp_label": "2:36",
+      "text": "When you look at the CM standard,"
+    },
+    {
+      "start": 158.499,
+      "end": 160.34,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "it discusses most of the functions in"
+    },
+    {
+      "start": 160.34,
+      "end": 161.66,
+      "start_int": 160,
+      "timestamp_label": "2:40",
+      "text": "the context of the acquirer"
+    },
+    {
+      "start": 161.66,
+      "end": 163.06,
+      "start_int": 161,
+      "timestamp_label": "2:41",
+      "text": "and the supplier relationship."
+    },
+    {
+      "start": 163.06,
+      "end": 165.659,
+      "start_int": 163,
+      "timestamp_label": "2:43",
+      "text": "As the product moves through the lifecycle,"
+    },
+    {
+      "start": 165.659,
+      "end": 167.74,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "various aspects of the CM process"
+    },
+    {
+      "start": 167.74,
+      "end": 170.019,
+      "start_int": 167,
+      "timestamp_label": "2:47",
+      "text": "may transition into different organizations,"
+    },
+    {
+      "start": 170.019,
+      "end": 170.9,
+      "start_int": 170,
+      "timestamp_label": "2:50",
+      "text": "but in the end,"
+    },
+    {
+      "start": 170.9,
+      "end": 172.659,
+      "start_int": 170,
+      "timestamp_label": "2:50",
+      "text": "the government will always maintain"
+    },
+    {
+      "start": 172.659,
+      "end": 173.86,
+      "start_int": 172,
+      "timestamp_label": "2:52",
+      "text": "control over what is"
+    },
+    {
+      "start": 173.86,
+      "end": 175.859,
+      "start_int": 173,
+      "timestamp_label": "2:53",
+      "text": "allowed on our platforms."
+    },
+    {
+      "start": 175.859,
+      "end": 177.1,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "This also means that"
+    },
+    {
+      "start": 177.1,
+      "end": 179.02,
+      "start_int": 177,
+      "timestamp_label": "2:57",
+      "text": "the design control activity may"
+    },
+    {
+      "start": 179.02,
+      "end": 180.58,
+      "start_int": 179,
+      "timestamp_label": "2:59",
+      "text": "be the same or separate"
+    },
+    {
+      "start": 180.58,
+      "end": 181.94,
+      "start_int": 180,
+      "timestamp_label": "3:00",
+      "text": "from the acquiring activity,"
+    },
+    {
+      "start": 181.94,
+      "end": 183.619,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "or not even government, depending on"
+    },
+    {
+      "start": 183.619,
+      "end": 186.379,
+      "start_int": 183,
+      "timestamp_label": "3:03",
+      "text": "where the product is in the lifecycle."
+    },
+    {
+      "start": 187.25,
+      "end": 191.09,
+      "start_int": 187,
+      "timestamp_label": "3:07",
+      "text": "Just so everyone is clear on what we mean,"
+    },
+    {
+      "start": 191.09,
+      "end": 193.049,
+      "start_int": 191,
+      "timestamp_label": "3:11",
+      "text": "I want to break down the definition of"
+    },
+    {
+      "start": 193.049,
+      "end": 194.85,
+      "start_int": 193,
+      "timestamp_label": "3:13",
+      "text": "acquire from the CM standard,"
+    },
+    {
+      "start": 194.85,
+      "end": 195.97,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "and it's the entity"
+    },
+    {
+      "start": 195.97,
+      "end": 198.969,
+      "start_int": 195,
+      "timestamp_label": "3:15",
+      "text": "that specifies requirements, functional,"
+    },
+    {
+      "start": 198.969,
+      "end": 201.05,
+      "start_int": 198,
+      "timestamp_label": "3:18",
+      "text": "and performance attributes for the product"
+    },
+    {
+      "start": 201.05,
+      "end": 205.41,
+      "start_int": 201,
+      "timestamp_label": "3:21",
+      "text": "or that acquires and uses the product."
+    },
+    {
+      "start": 208.93,
+      "end": 212.489,
+      "start_int": 208,
+      "timestamp_label": "3:28",
+      "text": "For the Navy, different organizations"
+    },
+    {
+      "start": 212.489,
+      "end": 213.41,
+      "start_int": 212,
+      "timestamp_label": "3:32",
+      "text": "may be responsible for"
+    },
+    {
+      "start": 213.41,
+      "end": 214.29,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "each of these elements."
+    },
+    {
+      "start": 214.29,
+      "end": 215.45,
+      "start_int": 214,
+      "timestamp_label": "3:34",
+      "text": "In most cases, the"
+    },
+    {
+      "start": 215.45,
+      "end": 216.97,
+      "start_int": 215,
+      "timestamp_label": "3:35",
+      "text": "program executive offices or"
+    },
+    {
+      "start": 216.97,
+      "end": 219.089,
+      "start_int": 216,
+      "timestamp_label": "3:36",
+      "text": "the program management offices define"
+    },
+    {
+      "start": 219.089,
+      "end": 220.45,
+      "start_int": 219,
+      "timestamp_label": "3:39",
+      "text": "the requirements for the systems"
+    },
+    {
+      "start": 220.45,
+      "end": 221.79,
+      "start_int": 220,
+      "timestamp_label": "3:40",
+      "text": "they want to acquire."
+    },
+    {
+      "start": 221.79,
+      "end": 223.649,
+      "start_int": 221,
+      "timestamp_label": "3:41",
+      "text": "During the production phase,"
+    },
+    {
+      "start": 223.649,
+      "end": 225.37,
+      "start_int": 223,
+      "timestamp_label": "3:43",
+      "text": "they will also typically be the entities"
+    },
+    {
+      "start": 225.37,
+      "end": 226.41,
+      "start_int": 225,
+      "timestamp_label": "3:45",
+      "text": "putting out contracts to"
+    },
+    {
+      "start": 226.41,
+      "end": 227.809,
+      "start_int": 226,
+      "timestamp_label": "3:46",
+      "text": "deliver the final products."
+    },
+    {
+      "start": 227.809,
+      "end": 229.89,
+      "start_int": 227,
+      "timestamp_label": "3:47",
+      "text": "Once the product moves to the operations and"
+    },
+    {
+      "start": 229.89,
+      "end": 231.57,
+      "start_int": 229,
+      "timestamp_label": "3:49",
+      "text": "deployment phase or sustainment,"
+    },
+    {
+      "start": 231.57,
+      "end": 232.289,
+      "start_int": 231,
+      "timestamp_label": "3:51",
+      "text": "as we call it,"
+    },
+    {
+      "start": 232.289,
+      "end": 234.29,
+      "start_int": 232,
+      "timestamp_label": "3:52",
+      "text": "then the acquiring activity becomes"
+    },
+    {
+      "start": 234.29,
+      "end": 236.81,
+      "start_int": 234,
+      "timestamp_label": "3:54",
+      "text": "NAWSS for repairable items"
+    },
+    {
+      "start": 236.81,
+      "end": 238.569,
+      "start_int": 236,
+      "timestamp_label": "3:56",
+      "text": "and DLA for consumables."
+    },
+    {
+      "start": 238.569,
+      "end": 240.69,
+      "start_int": 238,
+      "timestamp_label": "3:58",
+      "text": "The user in this case are"
+    },
+    {
+      "start": 240.69,
+      "end": 242.649,
+      "start_int": 240,
+      "timestamp_label": "4:00",
+      "text": "the fleet squadrons, the carrier groups,"
+    },
+    {
+      "start": 242.649,
+      "end": 243.65,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "and other units in which the"
+    },
+    {
+      "start": 243.65,
+      "end": 244.69,
+      "start_int": 243,
+      "timestamp_label": "4:03",
+      "text": "in service maintenance and"
+    },
+    {
+      "start": 244.69,
+      "end": 245.81,
+      "start_int": 244,
+      "timestamp_label": "4:04",
+      "text": "engineering is overseen by"
+    },
+    {
+      "start": 245.81,
+      "end": 247.05,
+      "start_int": 245,
+      "timestamp_label": "4:05",
+      "text": "the hardware commands."
+    },
+    {
+      "start": 247.05,
+      "end": 249.329,
+      "start_int": 247,
+      "timestamp_label": "4:07",
+      "text": "And then with the additional layer between"
+    },
+    {
+      "start": 249.329,
+      "end": 251.77,
+      "start_int": 249,
+      "timestamp_label": "4:09",
+      "text": "those defining the requirements"
+    },
+    {
+      "start": 251.77,
+      "end": 253.489,
+      "start_int": 251,
+      "timestamp_label": "4:11",
+      "text": "and those using the product,"
+    },
+    {
+      "start": 253.489,
+      "end": 256.73,
+      "start_int": 253,
+      "timestamp_label": "4:13",
+      "text": "there are instances where the role of supply"
+    },
+    {
+      "start": 256.73,
+      "end": 260.81,
+      "start_int": 256,
+      "timestamp_label": "4:16",
+      "text": "isn't always defined in the CM guidance."
+    },
+    {
+      "start": 263.1,
+      "end": 265.66,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "So the DOD identifies"
+    },
+    {
+      "start": 265.66,
+      "end": 266.819,
+      "start_int": 265,
+      "timestamp_label": "4:25",
+      "text": "five distinct phases of"
+    },
+    {
+      "start": 266.819,
+      "end": 268.139,
+      "start_int": 266,
+      "timestamp_label": "4:26",
+      "text": "the life cycle, which, you know,"
+    },
+    {
+      "start": 268.139,
+      "end": 269.739,
+      "start_int": 268,
+      "timestamp_label": "4:28",
+      "text": "we all learn in Act 1010,"
+    },
+    {
+      "start": 269.739,
+      "end": 271.38,
+      "start_int": 269,
+      "timestamp_label": "4:29",
+      "text": "but I'd like to put into perspective"
+    },
+    {
+      "start": 271.38,
+      "end": 273.94,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "for those of us in supply."
+    },
+    {
+      "start": 273.94,
+      "end": 275.339,
+      "start_int": 273,
+      "timestamp_label": "4:33",
+      "text": "See a pre and"
+    },
+    {
+      "start": 275.339,
+      "end": 278.219,
+      "start_int": 275,
+      "timestamp_label": "4:35",
+      "text": "post material support date or MSD,"
+    },
+    {
+      "start": 278.219,
+      "end": 280.219,
+      "start_int": 278,
+      "timestamp_label": "4:38",
+      "text": "which is the date that begins"
+    },
+    {
+      "start": 280.219,
+      "end": 282.9,
+      "start_int": 280,
+      "timestamp_label": "4:40",
+      "text": "full supply system support of the product."
+    },
+    {
+      "start": 282.9,
+      "end": 284.859,
+      "start_int": 282,
+      "timestamp_label": "4:42",
+      "text": "And this also begins"
+    },
+    {
+      "start": 284.859,
+      "end": 286.1,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "for most of these systems,"
+    },
+    {
+      "start": 286.1,
+      "end": 288.219,
+      "start_int": 286,
+      "timestamp_label": "4:46",
+      "text": "the longest part of its life cycle,"
+    },
+    {
+      "start": 288.219,
+      "end": 290.579,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "which in most of these graphics is"
+    },
+    {
+      "start": 290.579,
+      "end": 293.819,
+      "start_int": 290,
+      "timestamp_label": "4:50",
+      "text": "only that last tiny little percentage,"
+    },
+    {
+      "start": 293.819,
+      "end": 296.299,
+      "start_int": 293,
+      "timestamp_label": "4:53",
+      "text": "but I exaggerated here in this graphic."
+    },
+    {
+      "start": 296.299,
+      "end": 298.87,
+      "start_int": 296,
+      "timestamp_label": "4:56",
+      "text": "So There are many tasks that need to"
+    },
+    {
+      "start": 298.87,
+      "end": 300.029,
+      "start_int": 298,
+      "timestamp_label": "4:58",
+      "text": "be accomplished before"
+    },
+    {
+      "start": 300.029,
+      "end": 301.59,
+      "start_int": 300,
+      "timestamp_label": "5:00",
+      "text": "a product reaches sustainment."
+    },
+    {
+      "start": 301.59,
+      "end": 303.069,
+      "start_int": 301,
+      "timestamp_label": "5:01",
+      "text": "The ones that we want to dial in"
+    },
+    {
+      "start": 303.069,
+      "end": 306.349,
+      "start_int": 303,
+      "timestamp_label": "5:03",
+      "text": "on are those that are needed to"
+    },
+    {
+      "start": 306.349,
+      "end": 307.669,
+      "start_int": 306,
+      "timestamp_label": "5:06",
+      "text": "ensure that the configuration"
+    },
+    {
+      "start": 307.669,
+      "end": 308.589,
+      "start_int": 307,
+      "timestamp_label": "5:07",
+      "text": "of the product is well"
+    },
+    {
+      "start": 308.589,
+      "end": 310.029,
+      "start_int": 308,
+      "timestamp_label": "5:08",
+      "text": "defined and the process to"
+    },
+    {
+      "start": 310.029,
+      "end": 311.549,
+      "start_int": 310,
+      "timestamp_label": "5:10",
+      "text": "manage it is executable."
+    },
+    {
+      "start": 311.549,
+      "end": 314.189,
+      "start_int": 311,
+      "timestamp_label": "5:11",
+      "text": "It supplies responsibility to at a minimum,"
+    },
+    {
+      "start": 314.189,
+      "end": 315.429,
+      "start_int": 314,
+      "timestamp_label": "5:14",
+      "text": "ensure that the process is"
+    },
+    {
+      "start": 315.429,
+      "end": 316.669,
+      "start_int": 315,
+      "timestamp_label": "5:15",
+      "text": "followed in accordance with"
+    },
+    {
+      "start": 316.669,
+      "end": 320.79,
+      "start_int": 316,
+      "timestamp_label": "5:16",
+      "text": "the PEO or PMOs CM plan and their intentions."
+    },
+    {
+      "start": 320.79,
+      "end": 322.989,
+      "start_int": 320,
+      "timestamp_label": "5:20",
+      "text": "And this may seem inconsequential"
+    },
+    {
+      "start": 322.989,
+      "end": 324.469,
+      "start_int": 322,
+      "timestamp_label": "5:22",
+      "text": "until you consider that"
+    },
+    {
+      "start": 324.469,
+      "end": 326.669,
+      "start_int": 324,
+      "timestamp_label": "5:24",
+      "text": "the inputs to the process change when"
+    },
+    {
+      "start": 326.669,
+      "end": 328.11,
+      "start_int": 326,
+      "timestamp_label": "5:26",
+      "text": "the organization awarding"
+    },
+    {
+      "start": 328.11,
+      "end": 329.789,
+      "start_int": 328,
+      "timestamp_label": "5:28",
+      "text": "the contracts is changed,"
+    },
+    {
+      "start": 329.789,
+      "end": 331.909,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "which is why open communication between"
+    },
+    {
+      "start": 331.909,
+      "end": 334.724,
+      "start_int": 331,
+      "timestamp_label": "5:31",
+      "text": "all stakeholders is vital."
+    },
+    {
+      "start": 334.724,
+      "end": 337.259,
+      "start_int": 334,
+      "timestamp_label": "5:34",
+      "text": "We'll have more about contracts and"
+    },
+    {
+      "start": 337.259,
+      "end": 339.899,
+      "start_int": 337,
+      "timestamp_label": "5:37",
+      "text": "CM in another webinar later this year."
+    },
+    {
+      "start": 339.899,
+      "end": 342.259,
+      "start_int": 339,
+      "timestamp_label": "5:39",
+      "text": "But in short, all"
+    },
+    {
+      "start": 342.259,
+      "end": 344.099,
+      "start_int": 342,
+      "timestamp_label": "5:42",
+      "text": "we want is to ensure that CM is"
+    },
+    {
+      "start": 344.099,
+      "end": 346.42,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "conducted appropriately regardless of"
+    },
+    {
+      "start": 346.42,
+      "end": 348.499,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "where the product is in its life cycle."
+    },
+    {
+      "start": 348.499,
+      "end": 349.739,
+      "start_int": 348,
+      "timestamp_label": "5:48",
+      "text": "In the next section,"
+    },
+    {
+      "start": 349.739,
+      "end": 351.099,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "we're going to begin diving into"
+    },
+    {
+      "start": 351.099,
+      "end": 352.619,
+      "start_int": 351,
+      "timestamp_label": "5:51",
+      "text": "the five functions of CM"
+    },
+    {
+      "start": 352.619,
+      "end": 354.1,
+      "start_int": 352,
+      "timestamp_label": "5:52",
+      "text": "and how they tie to supply."
+    },
+    {
+      "start": 354.1,
+      "end": 354.94,
+      "start_int": 354,
+      "timestamp_label": "5:54",
+      "text": "We're starting with"
+    },
+    {
+      "start": 354.94,
+      "end": 357.42,
+      "start_int": 354,
+      "timestamp_label": "5:54",
+      "text": "CM Planning and Management."
+    },
+    {
+      "start": 360.48,
+      "end": 362.759,
+      "start_int": 360,
+      "timestamp_label": "6:00",
+      "text": "Okay. Good afternoon."
+    },
+    {
+      "start": 362.759,
+      "end": 366.159,
+      "start_int": 362,
+      "timestamp_label": "6:02",
+      "text": "This is Rich and on slide eight."
+    },
+    {
+      "start": 366.159,
+      "end": 369.319,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "In the planning and management phase,"
+    },
+    {
+      "start": 369.319,
+      "end": 370.599,
+      "start_int": 369,
+      "timestamp_label": "6:09",
+      "text": "the program is trying to"
+    },
+    {
+      "start": 370.599,
+      "end": 373.319,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "establish a comprehensive view"
+    },
+    {
+      "start": 373.319,
+      "end": 374.999,
+      "start_int": 373,
+      "timestamp_label": "6:13",
+      "text": "of the product or"
+    },
+    {
+      "start": 374.999,
+      "end": 376.4,
+      "start_int": 374,
+      "timestamp_label": "6:14",
+      "text": "system and the environment"
+    },
+    {
+      "start": 376.4,
+      "end": 377.839,
+      "start_int": 376,
+      "timestamp_label": "6:16",
+      "text": "in which it will be managed,"
+    },
+    {
+      "start": 377.839,
+      "end": 380.039,
+      "start_int": 377,
+      "timestamp_label": "6:17",
+      "text": "as well as define the controls and"
+    },
+    {
+      "start": 380.039,
+      "end": 382.36,
+      "start_int": 380,
+      "timestamp_label": "6:20",
+      "text": "processes necessary"
+    },
+    {
+      "start": 382.36,
+      "end": 385.659,
+      "start_int": 382,
+      "timestamp_label": "6:22",
+      "text": "to ensure effective CM control."
+    },
+    {
+      "start": 385.659,
+      "end": 389.959,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "The program office should be"
+    },
+    {
+      "start": 389.959,
+      "end": 392.319,
+      "start_int": 389,
+      "timestamp_label": "6:29",
+      "text": "the organization responsible for"
+    },
+    {
+      "start": 392.319,
+      "end": 394.96,
+      "start_int": 392,
+      "timestamp_label": "6:32",
+      "text": "this function with various stakeholders,"
+    },
+    {
+      "start": 394.96,
+      "end": 396.839,
+      "start_int": 394,
+      "timestamp_label": "6:34",
+      "text": "both internal and external to"
+    },
+    {
+      "start": 396.839,
+      "end": 398.68,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "the program being engaged"
+    },
+    {
+      "start": 398.68,
+      "end": 400.719,
+      "start_int": 398,
+      "timestamp_label": "6:38",
+      "text": "to fully form the process and plan."
+    },
+    {
+      "start": 400.719,
+      "end": 403.799,
+      "start_int": 400,
+      "timestamp_label": "6:40",
+      "text": "As a note, there are nuances between how"
+    },
+    {
+      "start": 403.799,
+      "end": 405.52,
+      "start_int": 403,
+      "timestamp_label": "6:43",
+      "text": "aviation and maritime products"
+    },
+    {
+      "start": 405.52,
+      "end": 406.8,
+      "start_int": 405,
+      "timestamp_label": "6:45",
+      "text": "are managing supply,"
+    },
+    {
+      "start": 406.8,
+      "end": 408.159,
+      "start_int": 406,
+      "timestamp_label": "6:46",
+      "text": "but we won't be putting into"
+    },
+    {
+      "start": 408.159,
+      "end": 409.96,
+      "start_int": 408,
+      "timestamp_label": "6:48",
+      "text": "focus on those differences."
+    },
+    {
+      "start": 409.96,
+      "end": 411.44,
+      "start_int": 409,
+      "timestamp_label": "6:49",
+      "text": "Supply has its own"
+    },
+    {
+      "start": 411.44,
+      "end": 413.2,
+      "start_int": 411,
+      "timestamp_label": "6:51",
+      "text": "planning and management tasks,"
+    },
+    {
+      "start": 413.2,
+      "end": 415.04,
+      "start_int": 413,
+      "timestamp_label": "6:53",
+      "text": "including the drafting of"
+    },
+    {
+      "start": 415.04,
+      "end": 417.439,
+      "start_int": 415,
+      "timestamp_label": "6:55",
+      "text": "the supply support management plan"
+    },
+    {
+      "start": 417.439,
+      "end": 418.68,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "and developing"
+    },
+    {
+      "start": 418.68,
+      "end": 420.879,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "the provisioning statement of work,"
+    },
+    {
+      "start": 420.879,
+      "end": 423.12,
+      "start_int": 420,
+      "timestamp_label": "7:00",
+      "text": "and completing the provisioning"
+    },
+    {
+      "start": 423.12,
+      "end": 424.48,
+      "start_int": 423,
+      "timestamp_label": "7:03",
+      "text": "candidate checklist"
+    },
+    {
+      "start": 424.48,
+      "end": 426.599,
+      "start_int": 424,
+      "timestamp_label": "7:04",
+      "text": "with the hardware command."
+    },
+    {
+      "start": 426.599,
+      "end": 428.76,
+      "start_int": 426,
+      "timestamp_label": "7:06",
+      "text": "We may also be attending"
+    },
+    {
+      "start": 428.76,
+      "end": 431.239,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "provisioning conferences, planning for MSD,"
+    },
+    {
+      "start": 431.239,
+      "end": 433.039,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "material support date,"
+    },
+    {
+      "start": 433.039,
+      "end": 435.839,
+      "start_int": 433,
+      "timestamp_label": "7:13",
+      "text": "and doing reviews of the maintenance plans."
+    },
+    {
+      "start": 435.839,
+      "end": 437.519,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "All of these tasks are to"
+    },
+    {
+      "start": 437.519,
+      "end": 439.759,
+      "start_int": 437,
+      "timestamp_label": "7:17",
+      "text": "ensure that we have the necessary information"
+    },
+    {
+      "start": 439.759,
+      "end": 442.24,
+      "start_int": 439,
+      "timestamp_label": "7:19",
+      "text": "and data to establish"
+    },
+    {
+      "start": 442.24,
+      "end": 445.279,
+      "start_int": 442,
+      "timestamp_label": "7:22",
+      "text": "and update our system and our files."
+    },
+    {
+      "start": 445.279,
+      "end": 446.759,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "Most of these tasks are"
+    },
+    {
+      "start": 446.759,
+      "end": 447.96,
+      "start_int": 446,
+      "timestamp_label": "7:26",
+      "text": "the responsibility"
+    },
+    {
+      "start": 447.96,
+      "end": 449.759,
+      "start_int": 447,
+      "timestamp_label": "7:27",
+      "text": "of the logistics element manager,"
+    },
+    {
+      "start": 449.759,
+      "end": 451.72,
+      "start_int": 449,
+      "timestamp_label": "7:29",
+      "text": "the LEM, provisioners,"
+    },
+    {
+      "start": 451.72,
+      "end": 454.439,
+      "start_int": 451,
+      "timestamp_label": "7:31",
+      "text": "or the NavSWSS program."
+    },
+    {
+      "start": 456.84,
+      "end": 460.839,
+      "start_int": 456,
+      "timestamp_label": "7:36",
+      "text": "The specific supply tasks during"
+    },
+    {
+      "start": 460.839,
+      "end": 465.199,
+      "start_int": 460,
+      "timestamp_label": "7:40",
+      "text": "the phase can be boiled down into four areas."
+    },
+    {
+      "start": 465.199,
+      "end": 467.0,
+      "start_int": 465,
+      "timestamp_label": "7:45",
+      "text": "Resource planning,"
+    },
+    {
+      "start": 467.0,
+      "end": 467.96,
+      "start_int": 467,
+      "timestamp_label": "7:47",
+      "text": "analyzing"
+    },
+    {
+      "start": 467.96,
+      "end": 469.92,
+      "start_int": 467,
+      "timestamp_label": "7:47",
+      "text": "system requirements and funding such"
+    },
+    {
+      "start": 469.92,
+      "end": 471.999,
+      "start_int": 469,
+      "timestamp_label": "7:49",
+      "text": "as OSIP and BAM to"
+    },
+    {
+      "start": 471.999,
+      "end": 474.759,
+      "start_int": 471,
+      "timestamp_label": "7:51",
+      "text": "determine supply support needs."
+    },
+    {
+      "start": 474.759,
+      "end": 476.68,
+      "start_int": 474,
+      "timestamp_label": "7:54",
+      "text": "Provisioning coordination,"
+    },
+    {
+      "start": 476.68,
+      "end": 478.68,
+      "start_int": 476,
+      "timestamp_label": "7:56",
+      "text": "working across stakeholders."
+    },
+    {
+      "start": 478.68,
+      "end": 481.72,
+      "start_int": 478,
+      "timestamp_label": "7:58",
+      "text": "That would be Navair, an example, Ciscoms,"
+    },
+    {
+      "start": 481.72,
+      "end": 483.519,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "et cetera, to develop"
+    },
+    {
+      "start": 483.519,
+      "end": 486.835,
+      "start_int": 483,
+      "timestamp_label": "8:03",
+      "text": "and standardize provisioning strategies."
+    },
+    {
+      "start": 486.835,
+      "end": 489.31,
+      "start_int": 486,
+      "timestamp_label": "8:06",
+      "text": "Managing lists of spare parts,"
+    },
+    {
+      "start": 489.31,
+      "end": 492.349,
+      "start_int": 489,
+      "timestamp_label": "8:09",
+      "text": "repair parts, like allowance parts lists,"
+    },
+    {
+      "start": 492.349,
+      "end": 494.909,
+      "start_int": 492,
+      "timestamp_label": "8:12",
+      "text": "and executing initial procurement for"
+    },
+    {
+      "start": 494.909,
+      "end": 498.629,
+      "start_int": 494,
+      "timestamp_label": "8:14",
+      "text": "fleet use before full sustainment begins."
+    },
+    {
+      "start": 498.629,
+      "end": 500.549,
+      "start_int": 498,
+      "timestamp_label": "8:18",
+      "text": "This is the first phase of"
+    },
+    {
+      "start": 500.549,
+      "end": 503.349,
+      "start_int": 500,
+      "timestamp_label": "8:20",
+      "text": "our spaghetti search, as I call it."
+    },
+    {
+      "start": 503.349,
+      "end": 505.59,
+      "start_int": 503,
+      "timestamp_label": "8:23",
+      "text": "This phase establishes"
+    },
+    {
+      "start": 505.59,
+      "end": 507.309,
+      "start_int": 505,
+      "timestamp_label": "8:25",
+      "text": "a comprehensive framework"
+    },
+    {
+      "start": 507.309,
+      "end": 509.549,
+      "start_int": 507,
+      "timestamp_label": "8:27",
+      "text": "for managing configuration throughout"
+    },
+    {
+      "start": 509.549,
+      "end": 511.489,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "a product's life cycle."
+    },
+    {
+      "start": 511.489,
+      "end": 513.59,
+      "start_int": 511,
+      "timestamp_label": "8:31",
+      "text": "It it defines"
+    },
+    {
+      "start": 513.59,
+      "end": 515.83,
+      "start_int": 513,
+      "timestamp_label": "8:33",
+      "text": "the scope of configuration management,"
+    },
+    {
+      "start": 515.83,
+      "end": 518.669,
+      "start_int": 515,
+      "timestamp_label": "8:35",
+      "text": "outlines roles and responsibilities,"
+    },
+    {
+      "start": 518.669,
+      "end": 520.51,
+      "start_int": 518,
+      "timestamp_label": "8:38",
+      "text": "allocates resources,"
+    },
+    {
+      "start": 520.51,
+      "end": 524.589,
+      "start_int": 520,
+      "timestamp_label": "8:40",
+      "text": "that personnel tools like CMPro, et cetera,"
+    },
+    {
+      "start": 524.589,
+      "end": 527.549,
+      "start_int": 524,
+      "timestamp_label": "8:44",
+      "text": "establishes performance metrics,"
+    },
+    {
+      "start": 527.549,
+      "end": 529.789,
+      "start_int": 527,
+      "timestamp_label": "8:47",
+      "text": "documents processes,"
+    },
+    {
+      "start": 529.789,
+      "end": 533.03,
+      "start_int": 529,
+      "timestamp_label": "8:49",
+      "text": "including supply specific instructions,"
+    },
+    {
+      "start": 533.03,
+      "end": 535.43,
+      "start_int": 533,
+      "timestamp_label": "8:53",
+      "text": "provides training and support,"
+    },
+    {
+      "start": 535.43,
+      "end": 537.589,
+      "start_int": 535,
+      "timestamp_label": "8:55",
+      "text": "monitors compliance,"
+    },
+    {
+      "start": 537.589,
+      "end": 539.91,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "integrates configuration management"
+    },
+    {
+      "start": 539.91,
+      "end": 541.71,
+      "start_int": 539,
+      "timestamp_label": "8:59",
+      "text": "into the supply chain,"
+    },
+    {
+      "start": 541.71,
+      "end": 544.549,
+      "start_int": 541,
+      "timestamp_label": "9:01",
+      "text": "and outlines data management procedures."
+    },
+    {
+      "start": 544.549,
+      "end": 547.03,
+      "start_int": 544,
+      "timestamp_label": "9:04",
+      "text": "By addressing these key elements upfront,"
+    },
+    {
+      "start": 547.03,
+      "end": 548.469,
+      "start_int": 547,
+      "timestamp_label": "9:07",
+      "text": "programs can ensure"
+    },
+    {
+      "start": 548.469,
+      "end": 549.47,
+      "start_int": 548,
+      "timestamp_label": "9:08",
+      "text": "efficient and"
+    },
+    {
+      "start": 549.47,
+      "end": 551.745,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "effective configuration management."
+    },
+    {
+      "start": 551.745,
+      "end": 554.26,
+      "start_int": 551,
+      "timestamp_label": "9:11",
+      "text": "Stand by a second. I guess we lost"
+    },
+    {
+      "start": 554.26,
+      "end": 557.18,
+      "start_int": 554,
+      "timestamp_label": "9:14",
+      "text": "the ification. You can."
+    },
+    {
+      "start": 557.18,
+      "end": 559.26,
+      "start_int": 557,
+      "timestamp_label": "9:17",
+      "text": "Yeah. All right. I'll just re share it."
+    },
+    {
+      "start": 559.26,
+      "end": 564.71,
+      "start_int": 559,
+      "timestamp_label": "9:19",
+      "text": "Hold on. Let's try this. 1 second."
+    },
+    {
+      "start": 573.99,
+      "end": 578.71,
+      "start_int": 573,
+      "timestamp_label": "9:33",
+      "text": "Can you guys put your comments in the chat?"
+    },
+    {
+      "start": 582.15,
+      "end": 584.91,
+      "start_int": 582,
+      "timestamp_label": "9:42",
+      "text": "I won't answer them there."
+    },
+    {
+      "start": 584.91,
+      "end": 586.629,
+      "start_int": 584,
+      "timestamp_label": "9:44",
+      "text": "Can we go to the slide."
+    },
+    {
+      "start": 586.629,
+      "end": 588.39,
+      "start_int": 586,
+      "timestamp_label": "9:46",
+      "text": "Hold on a second."
+    },
+    {
+      "start": 588.39,
+      "end": 589.71,
+      "start_int": 588,
+      "timestamp_label": "9:48",
+      "text": "I'm trying to figure out why it's"
+    },
+    {
+      "start": 589.71,
+      "end": 591.669,
+      "start_int": 589,
+      "timestamp_label": "9:49",
+      "text": "not it's sharing."
+    },
+    {
+      "start": 591.669,
+      "end": 594.23,
+      "start_int": 591,
+      "timestamp_label": "9:51",
+      "text": "We see it. We can see the slide."
+    },
+    {
+      "start": 594.23,
+      "end": 596.03,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "Do you see it? Yeah. Yeah."
+    },
+    {
+      "start": 596.03,
+      "end": 596.35,
+      "start_int": 596,
+      "timestamp_label": "9:56",
+      "text": "Okay."
+    },
+    {
+      "start": 596.35,
+      "end": 597.47,
+      "start_int": 596,
+      "timestamp_label": "9:56",
+      "text": "I guess it's just an RN"
+    },
+    {
+      "start": 597.47,
+      "end": 600.07,
+      "start_int": 597,
+      "timestamp_label": "9:57",
+      "text": "that's not showing. Thank you. Yeah."
+    },
+    {
+      "start": 600.07,
+      "end": 601.335,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "We see for your patience."
+    },
+    {
+      "start": 601.335,
+      "end": 605.64,
+      "start_int": 601,
+      "timestamp_label": "10:01",
+      "text": "Uh huh. Second here. All right."
+    },
+    {
+      "start": 605.96,
+      "end": 608.36,
+      "start_int": 605,
+      "timestamp_label": "10:05",
+      "text": "All right. Let's do"
+    },
+    {
+      "start": 608.36,
+      "end": 611.08,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "a knowledge point question."
+    },
+    {
+      "start": 611.4,
+      "end": 614.28,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "Who was the primary point of contact for"
+    },
+    {
+      "start": 614.28,
+      "end": 617.999,
+      "start_int": 614,
+      "timestamp_label": "10:14",
+      "text": "the CM planning and management function?"
+    },
+    {
+      "start": 617.999,
+      "end": 620.8,
+      "start_int": 617,
+      "timestamp_label": "10:17",
+      "text": "A, no one, B,"
+    },
+    {
+      "start": 620.8,
+      "end": 626.519,
+      "start_int": 620,
+      "timestamp_label": "10:20",
+      "text": "NWSS, C program office, D, ICA."
+    },
+    {
+      "start": 626.519,
+      "end": 628.64,
+      "start_int": 626,
+      "timestamp_label": "10:26",
+      "text": "Anybody got any answers?"
+    },
+    {
+      "start": 628.64,
+      "end": 633.32,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "No. All right."
+    },
+    {
+      "start": 634.28,
+      "end": 637.24,
+      "start_int": 634,
+      "timestamp_label": "10:34",
+      "text": "C program office."
+    },
+    {
+      "start": 637.24,
+      "end": 640.515,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "And we talked about that on slide eight."
+    },
+    {
+      "start": 640.515,
+      "end": 644.55,
+      "start_int": 640,
+      "timestamp_label": "10:40",
+      "text": "All right. Very good. All right."
+    },
+    {
+      "start": 644.55,
+      "end": 646.27,
+      "start_int": 644,
+      "timestamp_label": "10:44",
+      "text": "So next function we"
+    },
+    {
+      "start": 646.27,
+      "end": 647.59,
+      "start_int": 646,
+      "timestamp_label": "10:46",
+      "text": "want to address is the one where"
+    },
+    {
+      "start": 647.59,
+      "end": 651.189,
+      "start_int": 647,
+      "timestamp_label": "10:47",
+      "text": "supply has a particularly big impact,"
+    },
+    {
+      "start": 651.189,
+      "end": 653.749,
+      "start_int": 651,
+      "timestamp_label": "10:51",
+      "text": "and that's configuration identification."
+    },
+    {
+      "start": 653.749,
+      "end": 656.35,
+      "start_int": 653,
+      "timestamp_label": "10:53",
+      "text": "For those unfamiliar with this function,"
+    },
+    {
+      "start": 656.35,
+      "end": 658.31,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "its main purpose is to ensure"
+    },
+    {
+      "start": 658.31,
+      "end": 660.59,
+      "start_int": 658,
+      "timestamp_label": "10:58",
+      "text": "that each product under configuration control"
+    },
+    {
+      "start": 660.59,
+      "end": 662.71,
+      "start_int": 660,
+      "timestamp_label": "11:00",
+      "text": "is completely defined from"
+    },
+    {
+      "start": 662.71,
+      "end": 665.869,
+      "start_int": 662,
+      "timestamp_label": "11:02",
+      "text": "its documentation to its unique identifier."
+    },
+    {
+      "start": 665.869,
+      "end": 667.55,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "The information base from"
+    },
+    {
+      "start": 667.55,
+      "end": 669.51,
+      "start_int": 667,
+      "timestamp_label": "11:07",
+      "text": "the completion of this function is used"
+    },
+    {
+      "start": 669.51,
+      "end": 670.91,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "throughout the life cycle as"
+    },
+    {
+      "start": 670.91,
+      "end": 673.19,
+      "start_int": 670,
+      "timestamp_label": "11:10",
+      "text": "the foundation for CM processes and"
+    },
+    {
+      "start": 673.19,
+      "end": 675.03,
+      "start_int": 673,
+      "timestamp_label": "11:13",
+      "text": "ensure that supply is procuring"
+    },
+    {
+      "start": 675.03,
+      "end": 677.96,
+      "start_int": 675,
+      "timestamp_label": "11:15",
+      "text": "the latest approved configuration."
+    },
+    {
+      "start": 677.96,
+      "end": 681.53,
+      "start_int": 677,
+      "timestamp_label": "11:17",
+      "text": "When looking at the 649 C principles"
+    },
+    {
+      "start": 681.53,
+      "end": 683.409,
+      "start_int": 681,
+      "timestamp_label": "11:21",
+      "text": "for configuration identification,"
+    },
+    {
+      "start": 683.409,
+      "end": 685.01,
+      "start_int": 683,
+      "timestamp_label": "11:23",
+      "text": "the focus is primarily on"
+    },
+    {
+      "start": 685.01,
+      "end": 687.089,
+      "start_int": 685,
+      "timestamp_label": "11:25",
+      "text": "the design control activity"
+    },
+    {
+      "start": 687.089,
+      "end": 689.09,
+      "start_int": 687,
+      "timestamp_label": "11:27",
+      "text": "or the manufacturer for"
+    },
+    {
+      "start": 689.09,
+      "end": 690.53,
+      "start_int": 689,
+      "timestamp_label": "11:29",
+      "text": "establishing the product and"
+    },
+    {
+      "start": 690.53,
+      "end": 692.61,
+      "start_int": 690,
+      "timestamp_label": "11:30",
+      "text": "drawing identifiers for bringing"
+    },
+    {
+      "start": 692.61,
+      "end": 693.89,
+      "start_int": 692,
+      "timestamp_label": "11:32",
+      "text": "together the product structure"
+    },
+    {
+      "start": 693.89,
+      "end": 695.05,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "and defining the line of"
+    },
+    {
+      "start": 695.05,
+      "end": 696.57,
+      "start_int": 695,
+      "timestamp_label": "11:35",
+      "text": "authority for configuration"
+    },
+    {
+      "start": 696.57,
+      "end": 698.57,
+      "start_int": 696,
+      "timestamp_label": "11:36",
+      "text": "control and other tasks."
+    },
+    {
+      "start": 698.57,
+      "end": 700.33,
+      "start_int": 698,
+      "timestamp_label": "11:38",
+      "text": "For supply, our main"
+    },
+    {
+      "start": 700.33,
+      "end": 701.73,
+      "start_int": 700,
+      "timestamp_label": "11:40",
+      "text": "role in this function is to"
+    },
+    {
+      "start": 701.73,
+      "end": 703.25,
+      "start_int": 701,
+      "timestamp_label": "11:41",
+      "text": "provision the system and"
+    },
+    {
+      "start": 703.25,
+      "end": 706.289,
+      "start_int": 703,
+      "timestamp_label": "11:43",
+      "text": "parts that are going to be used by the fleet."
+    },
+    {
+      "start": 708.4,
+      "end": 710.6,
+      "start_int": 708,
+      "timestamp_label": "11:48",
+      "text": "So we've used"
+    },
+    {
+      "start": 710.6,
+      "end": 712.96,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "the term provisioning in this webinar,"
+    },
+    {
+      "start": 712.96,
+      "end": 714.16,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "and I think it's time"
+    },
+    {
+      "start": 714.16,
+      "end": 716.159,
+      "start_int": 714,
+      "timestamp_label": "11:54",
+      "text": "to explain what that is exactly."
+    },
+    {
+      "start": 716.159,
+      "end": 719.079,
+      "start_int": 716,
+      "timestamp_label": "11:56",
+      "text": "So we at WSS define provisioning"
+    },
+    {
+      "start": 719.079,
+      "end": 721.959,
+      "start_int": 719,
+      "timestamp_label": "11:59",
+      "text": "as the definition, development, processing,"
+    },
+    {
+      "start": 721.959,
+      "end": 723.76,
+      "start_int": 721,
+      "timestamp_label": "12:01",
+      "text": "implementation, and maintenance of"
+    },
+    {
+      "start": 723.76,
+      "end": 725.919,
+      "start_int": 723,
+      "timestamp_label": "12:03",
+      "text": "logistics data necessary"
+    },
+    {
+      "start": 725.919,
+      "end": 727.959,
+      "start_int": 725,
+      "timestamp_label": "12:05",
+      "text": "to perform item selection,"
+    },
+    {
+      "start": 727.959,
+      "end": 731.4,
+      "start_int": 727,
+      "timestamp_label": "12:07",
+      "text": "item entry, and configuration management of"
+    },
+    {
+      "start": 731.4,
+      "end": 733.52,
+      "start_int": 731,
+      "timestamp_label": "12:11",
+      "text": "spares and repair parts for"
+    },
+    {
+      "start": 733.52,
+      "end": 735.159,
+      "start_int": 733,
+      "timestamp_label": "12:13",
+      "text": "supported weapon systems"
+    },
+    {
+      "start": 735.159,
+      "end": 737.039,
+      "start_int": 735,
+      "timestamp_label": "12:15",
+      "text": "throughout their life cycle."
+    },
+    {
+      "start": 737.039,
+      "end": 739.12,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "Put in simpler terms,"
+    },
+    {
+      "start": 739.12,
+      "end": 740.92,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "it's how we take the product information"
+    },
+    {
+      "start": 740.92,
+      "end": 743.24,
+      "start_int": 740,
+      "timestamp_label": "12:20",
+      "text": "for a new or updated product and"
+    },
+    {
+      "start": 743.24,
+      "end": 744.4,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "use that to populate"
+    },
+    {
+      "start": 744.4,
+      "end": 745.88,
+      "start_int": 744,
+      "timestamp_label": "12:24",
+      "text": "the various systems used"
+    },
+    {
+      "start": 745.88,
+      "end": 748.56,
+      "start_int": 745,
+      "timestamp_label": "12:25",
+      "text": "by Navy for supply support."
+    },
+    {
+      "start": 752.18,
+      "end": 754.98,
+      "start_int": 752,
+      "timestamp_label": "12:32",
+      "text": "Configuration identification has"
+    },
+    {
+      "start": 754.98,
+      "end": 756.02,
+      "start_int": 754,
+      "timestamp_label": "12:34",
+      "text": "a very strong tie"
+    },
+    {
+      "start": 756.02,
+      "end": 757.259,
+      "start_int": 756,
+      "timestamp_label": "12:36",
+      "text": "to the provisioning process."
+    },
+    {
+      "start": 757.259,
+      "end": 759.22,
+      "start_int": 757,
+      "timestamp_label": "12:37",
+      "text": "The 649 states this is"
+    },
+    {
+      "start": 759.22,
+      "end": 761.34,
+      "start_int": 759,
+      "timestamp_label": "12:39",
+      "text": "the CM function that one,"
+    },
+    {
+      "start": 761.34,
+      "end": 763.66,
+      "start_int": 761,
+      "timestamp_label": "12:41",
+      "text": "assigns unique identifiers to"
+    },
+    {
+      "start": 763.66,
+      "end": 764.3,
+      "start_int": 763,
+      "timestamp_label": "12:43",
+      "text": "each product and"
+    },
+    {
+      "start": 764.3,
+      "end": 766.3,
+      "start_int": 764,
+      "timestamp_label": "12:44",
+      "text": "product configuration information."
+    },
+    {
+      "start": 766.3,
+      "end": 767.94,
+      "start_int": 766,
+      "timestamp_label": "12:46",
+      "text": "And this is one of"
+    },
+    {
+      "start": 767.94,
+      "end": 769.74,
+      "start_int": 767,
+      "timestamp_label": "12:47",
+      "text": "the results of provisioning as it"
+    },
+    {
+      "start": 769.74,
+      "end": 771.58,
+      "start_int": 769,
+      "timestamp_label": "12:49",
+      "text": "establishes the national stock number"
+    },
+    {
+      "start": 771.58,
+      "end": 773.739,
+      "start_int": 771,
+      "timestamp_label": "12:51",
+      "text": "for NSN to each product."
+    },
+    {
+      "start": 773.739,
+      "end": 776.899,
+      "start_int": 773,
+      "timestamp_label": "12:53",
+      "text": "The NSN is unique to each item of supply,"
+    },
+    {
+      "start": 776.899,
+      "end": 780.74,
+      "start_int": 776,
+      "timestamp_label": "12:56",
+      "text": "and new NSNs must be assigned when"
+    },
+    {
+      "start": 780.74,
+      "end": 782.78,
+      "start_int": 780,
+      "timestamp_label": "13:00",
+      "text": "the product it identifies is"
+    },
+    {
+      "start": 782.78,
+      "end": 785.379,
+      "start_int": 782,
+      "timestamp_label": "13:02",
+      "text": "changed to a different item of supply,"
+    },
+    {
+      "start": 785.379,
+      "end": 788.02,
+      "start_int": 785,
+      "timestamp_label": "13:05",
+      "text": "think, engineering changes that"
+    },
+    {
+      "start": 788.02,
+      "end": 789.58,
+      "start_int": 788,
+      "timestamp_label": "13:08",
+      "text": "require a part number rule."
+    },
+    {
+      "start": 789.58,
+      "end": 791.38,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "You also have stuff like"
+    },
+    {
+      "start": 791.38,
+      "end": 794.179,
+      "start_int": 791,
+      "timestamp_label": "13:11",
+      "text": "item unique identification or IU ID."
+    },
+    {
+      "start": 794.179,
+      "end": 795.78,
+      "start_int": 794,
+      "timestamp_label": "13:14",
+      "text": "That's another method and"
+    },
+    {
+      "start": 795.78,
+      "end": 797.38,
+      "start_int": 795,
+      "timestamp_label": "13:15",
+      "text": "it's defined by the part number,"
+    },
+    {
+      "start": 797.38,
+      "end": 798.979,
+      "start_int": 797,
+      "timestamp_label": "13:17",
+      "text": "the enterprise identifier,"
+    },
+    {
+      "start": 798.979,
+      "end": 800.54,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "which is typically the cage code,"
+    },
+    {
+      "start": 800.54,
+      "end": 802.33,
+      "start_int": 800,
+      "timestamp_label": "13:20",
+      "text": "and the serial number of the product."
+    },
+    {
+      "start": 802.33,
+      "end": 805.199,
+      "start_int": 802,
+      "timestamp_label": "13:22",
+      "text": "And then two, CM identification"
+    },
+    {
+      "start": 805.199,
+      "end": 807.96,
+      "start_int": 805,
+      "timestamp_label": "13:25",
+      "text": "establishes the product breakdown structure,"
+    },
+    {
+      "start": 807.96,
+      "end": 809.08,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "which may also be referred"
+    },
+    {
+      "start": 809.08,
+      "end": 810.72,
+      "start_int": 809,
+      "timestamp_label": "13:29",
+      "text": "to as the bill of material,"
+    },
+    {
+      "start": 810.72,
+      "end": 813.279,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "top down breakdown structure"
+    },
+    {
+      "start": 813.279,
+      "end": 814.76,
+      "start_int": 813,
+      "timestamp_label": "13:33",
+      "text": "or an indentured list."
+    },
+    {
+      "start": 814.76,
+      "end": 817.719,
+      "start_int": 814,
+      "timestamp_label": "13:34",
+      "text": "Then lastly, three, it selects,"
+    },
+    {
+      "start": 817.719,
+      "end": 819.0,
+      "start_int": 817,
+      "timestamp_label": "13:37",
+      "text": "defines documents, and"
+    },
+    {
+      "start": 819.0,
+      "end": 820.959,
+      "start_int": 819,
+      "timestamp_label": "13:39",
+      "text": "baselines product attributes."
+    },
+    {
+      "start": 820.959,
+      "end": 822.68,
+      "start_int": 820,
+      "timestamp_label": "13:40",
+      "text": "This part of the function sets"
+    },
+    {
+      "start": 822.68,
+      "end": 824.68,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "the basis for the point at which it's agreed"
+    },
+    {
+      "start": 824.68,
+      "end": 826.599,
+      "start_int": 824,
+      "timestamp_label": "13:44",
+      "text": "that the configuration and its documents are"
+    },
+    {
+      "start": 826.599,
+      "end": 829.479,
+      "start_int": 826,
+      "timestamp_label": "13:46",
+      "text": "locked and the chalk line is snapped."
+    },
+    {
+      "start": 829.479,
+      "end": 830.32,
+      "start_int": 829,
+      "timestamp_label": "13:49",
+      "text": "After this,"
+    },
+    {
+      "start": 830.32,
+      "end": 832.72,
+      "start_int": 830,
+      "timestamp_label": "13:50",
+      "text": "configuration control processes are in"
+    },
+    {
+      "start": 832.72,
+      "end": 833.919,
+      "start_int": 832,
+      "timestamp_label": "13:52",
+      "text": "full effect to maintain"
+    },
+    {
+      "start": 833.919,
+      "end": 834.799,
+      "start_int": 833,
+      "timestamp_label": "13:53",
+      "text": "consistency between"
+    },
+    {
+      "start": 834.799,
+      "end": 836.88,
+      "start_int": 834,
+      "timestamp_label": "13:54",
+      "text": "the product and its information."
+    },
+    {
+      "start": 840.6,
+      "end": 842.64,
+      "start_int": 840,
+      "timestamp_label": "14:00",
+      "text": "So provisioning and"
+    },
+    {
+      "start": 842.64,
+      "end": 844.28,
+      "start_int": 842,
+      "timestamp_label": "14:02",
+      "text": "configuration identification are important"
+    },
+    {
+      "start": 844.28,
+      "end": 845.76,
+      "start_int": 844,
+      "timestamp_label": "14:04",
+      "text": "in their own ways and"
+    },
+    {
+      "start": 845.76,
+      "end": 847.52,
+      "start_int": 845,
+      "timestamp_label": "14:05",
+      "text": "both have ties to each other."
+    },
+    {
+      "start": 847.52,
+      "end": 850.12,
+      "start_int": 847,
+      "timestamp_label": "14:07",
+      "text": "Without either of them,"
+    },
+    {
+      "start": 850.12,
+      "end": 852.24,
+      "start_int": 850,
+      "timestamp_label": "14:10",
+      "text": "you'd be hard pressed to have"
+    },
+    {
+      "start": 852.24,
+      "end": 853.52,
+      "start_int": 852,
+      "timestamp_label": "14:12",
+      "text": "accurate reporting of the status of"
+    },
+    {
+      "start": 853.52,
+      "end": 855.12,
+      "start_int": 853,
+      "timestamp_label": "14:13",
+      "text": "a product in either your supply system or"
+    },
+    {
+      "start": 855.12,
+      "end": 858.04,
+      "start_int": 855,
+      "timestamp_label": "14:15",
+      "text": "your configuration status county database."
+    },
+    {
+      "start": 858.97,
+      "end": 861.449,
+      "start_int": 858,
+      "timestamp_label": "14:18",
+      "text": "Without proper provisioning,"
+    },
+    {
+      "start": 861.449,
+      "end": 863.81,
+      "start_int": 861,
+      "timestamp_label": "14:21",
+      "text": "DLA logistics Information Service"
+    },
+    {
+      "start": 863.81,
+      "end": 865.209,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "can't catalog that new product"
+    },
+    {
+      "start": 865.209,
+      "end": 866.85,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "and assign an NSN."
+    },
+    {
+      "start": 866.85,
+      "end": 868.169,
+      "start_int": 866,
+      "timestamp_label": "14:26",
+      "text": "Package handling,"
+    },
+    {
+      "start": 868.169,
+      "end": 869.33,
+      "start_int": 868,
+      "timestamp_label": "14:28",
+      "text": "storage, and transportation or"
+    },
+    {
+      "start": 869.33,
+      "end": 872.169,
+      "start_int": 869,
+      "timestamp_label": "14:29",
+      "text": "PHS&amp;T can't develop the new container"
+    },
+    {
+      "start": 872.169,
+      "end": 873.41,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "as the hazmat data,"
+    },
+    {
+      "start": 873.41,
+      "end": 874.21,
+      "start_int": 873,
+      "timestamp_label": "14:33",
+      "text": "the material type,"
+    },
+    {
+      "start": 874.21,
+      "end": 875.73,
+      "start_int": 874,
+      "timestamp_label": "14:34",
+      "text": "other pertinent information that's"
+    },
+    {
+      "start": 875.73,
+      "end": 877.01,
+      "start_int": 875,
+      "timestamp_label": "14:35",
+      "text": "required to provide proper"
+    },
+    {
+      "start": 877.01,
+      "end": 878.81,
+      "start_int": 877,
+      "timestamp_label": "14:37",
+      "text": "support isn't there."
+    },
+    {
+      "start": 878.81,
+      "end": 881.01,
+      "start_int": 878,
+      "timestamp_label": "14:38",
+      "text": "Allowancing created without"
+    },
+    {
+      "start": 881.01,
+      "end": 883.65,
+      "start_int": 881,
+      "timestamp_label": "14:41",
+      "text": "the top down breakdown structure may"
+    },
+    {
+      "start": 883.65,
+      "end": 886.009,
+      "start_int": 883,
+      "timestamp_label": "14:43",
+      "text": "only have the high cost end items"
+    },
+    {
+      "start": 886.009,
+      "end": 887.09,
+      "start_int": 886,
+      "timestamp_label": "14:46",
+      "text": "instead of the components"
+    },
+    {
+      "start": 887.09,
+      "end": 888.929,
+      "start_int": 887,
+      "timestamp_label": "14:47",
+      "text": "that are actually needed for repair."
+    },
+    {
+      "start": 888.929,
+      "end": 890.609,
+      "start_int": 888,
+      "timestamp_label": "14:48",
+      "text": "Interchangeability and"
+    },
+    {
+      "start": 890.609,
+      "end": 892.21,
+      "start_int": 890,
+      "timestamp_label": "14:50",
+      "text": "substitutability relationships"
+    },
+    {
+      "start": 892.21,
+      "end": 893.57,
+      "start_int": 892,
+      "timestamp_label": "14:52",
+      "text": "can't be created,"
+    },
+    {
+      "start": 893.57,
+      "end": 897.06,
+      "start_int": 893,
+      "timestamp_label": "14:53",
+      "text": "which ends up being"
+    },
+    {
+      "start": 897.06,
+      "end": 898.82,
+      "start_int": 897,
+      "timestamp_label": "14:57",
+      "text": "a mess when ordering replacement parts"
+    },
+    {
+      "start": 898.82,
+      "end": 900.46,
+      "start_int": 898,
+      "timestamp_label": "14:58",
+      "text": "where there's a defined order of use."
+    },
+    {
+      "start": 900.46,
+      "end": 905.34,
+      "start_int": 900,
+      "timestamp_label": "15:00",
+      "text": "And all this means that the fleet and need."
+    },
+    {
+      "start": 905.34,
+      "end": 906.46,
+      "start_int": 905,
+      "timestamp_label": "15:05",
+      "text": "And then without"
+    },
+    {
+      "start": 906.46,
+      "end": 907.739,
+      "start_int": 906,
+      "timestamp_label": "15:06",
+      "text": "configuration identification,"
+    },
+    {
+      "start": 907.739,
+      "end": 909.139,
+      "start_int": 907,
+      "timestamp_label": "15:07",
+      "text": "you wouldn't be able to differentiate"
+    },
+    {
+      "start": 909.139,
+      "end": 910.779,
+      "start_int": 909,
+      "timestamp_label": "15:09",
+      "text": "between similar items of supply."
+    },
+    {
+      "start": 910.779,
+      "end": 912.259,
+      "start_int": 910,
+      "timestamp_label": "15:10",
+      "text": "No unique identifiers for"
+    },
+    {
+      "start": 912.259,
+      "end": 912.82,
+      "start_int": 912,
+      "timestamp_label": "15:12",
+      "text": "drawings or"
+    },
+    {
+      "start": 912.82,
+      "end": 914.779,
+      "start_int": 912,
+      "timestamp_label": "15:12",
+      "text": "other product info would be provided."
+    },
+    {
+      "start": 914.779,
+      "end": 916.74,
+      "start_int": 914,
+      "timestamp_label": "15:14",
+      "text": "Product identifiers wouldn't be"
+    },
+    {
+      "start": 916.74,
+      "end": 918.94,
+      "start_int": 916,
+      "timestamp_label": "15:16",
+      "text": "updated post change if they're needed."
+    },
+    {
+      "start": 918.94,
+      "end": 920.86,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "No product structure provided,"
+    },
+    {
+      "start": 920.86,
+      "end": 923.78,
+      "start_int": 920,
+      "timestamp_label": "15:20",
+      "text": "so no top down breakdown list or bombs,"
+    },
+    {
+      "start": 923.78,
+      "end": 925.82,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "maintainers wouldn't be able to tell"
+    },
+    {
+      "start": 925.82,
+      "end": 927.859,
+      "start_int": 925,
+      "timestamp_label": "15:25",
+      "text": "the difference between product revisions."
+    },
+    {
+      "start": 927.859,
+      "end": 929.3,
+      "start_int": 927,
+      "timestamp_label": "15:27",
+      "text": "And in the end, it means"
+    },
+    {
+      "start": 929.3,
+      "end": 933.02,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "the fleet won't get the part they need."
+    },
+    {
+      "start": 934.73,
+      "end": 937.049,
+      "start_int": 934,
+      "timestamp_label": "15:34",
+      "text": "The 14 configuration"
+    },
+    {
+      "start": 937.049,
+      "end": 938.329,
+      "start_int": 937,
+      "timestamp_label": "15:37",
+      "text": "identification principles"
+    },
+    {
+      "start": 938.329,
+      "end": 939.609,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "ensure every product is"
+    },
+    {
+      "start": 939.609,
+      "end": 941.49,
+      "start_int": 939,
+      "timestamp_label": "15:39",
+      "text": "clearly and uniquely identified,"
+    },
+    {
+      "start": 941.49,
+      "end": 943.769,
+      "start_int": 941,
+      "timestamp_label": "15:41",
+      "text": "enabling accurate supply support."
+    },
+    {
+      "start": 943.769,
+      "end": 945.65,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "This can include, again,"
+    },
+    {
+      "start": 945.65,
+      "end": 946.929,
+      "start_int": 945,
+      "timestamp_label": "15:45",
+      "text": "unique identification,"
+    },
+    {
+      "start": 946.929,
+      "end": 948.649,
+      "start_int": 946,
+      "timestamp_label": "15:46",
+      "text": "so establishing and managing"
+    },
+    {
+      "start": 948.649,
+      "end": 950.77,
+      "start_int": 948,
+      "timestamp_label": "15:48",
+      "text": "the unique identifiers like NSNs and"
+    },
+    {
+      "start": 950.77,
+      "end": 952.89,
+      "start_int": 950,
+      "timestamp_label": "15:50",
+      "text": "IO IDs for for"
+    },
+    {
+      "start": 952.89,
+      "end": 955.695,
+      "start_int": 952,
+      "timestamp_label": "15:52",
+      "text": "every product and product variation."
+    },
+    {
+      "start": 955.695,
+      "end": 957.78,
+      "start_int": 955,
+      "timestamp_label": "15:55",
+      "text": "Product information management."
+    },
+    {
+      "start": 957.78,
+      "end": 960.3,
+      "start_int": 957,
+      "timestamp_label": "15:57",
+      "text": "So clearly defining that information,"
+    },
+    {
+      "start": 960.3,
+      "end": 962.459,
+      "start_int": 960,
+      "timestamp_label": "16:00",
+      "text": "which can be your drawings, your specs,"
+    },
+    {
+      "start": 962.459,
+      "end": 964.86,
+      "start_int": 962,
+      "timestamp_label": "16:02",
+      "text": "TDPs that are used for development,"
+    },
+    {
+      "start": 964.86,
+      "end": 967.139,
+      "start_int": 964,
+      "timestamp_label": "16:04",
+      "text": "production, maintenance, and procurement."
+    },
+    {
+      "start": 967.139,
+      "end": 968.74,
+      "start_int": 967,
+      "timestamp_label": "16:07",
+      "text": "And then you have baseline management."
+    },
+    {
+      "start": 968.74,
+      "end": 970.699,
+      "start_int": 968,
+      "timestamp_label": "16:08",
+      "text": "So establishing and maintaining"
+    },
+    {
+      "start": 970.699,
+      "end": 972.939,
+      "start_int": 970,
+      "timestamp_label": "16:10",
+      "text": "the baseline configuration of a product,"
+    },
+    {
+      "start": 972.939,
+      "end": 974.18,
+      "start_int": 972,
+      "timestamp_label": "16:12",
+      "text": "which is then updated through"
+    },
+    {
+      "start": 974.18,
+      "end": 976.14,
+      "start_int": 974,
+      "timestamp_label": "16:14",
+      "text": "a controlled change process"
+    },
+    {
+      "start": 976.14,
+      "end": 979.18,
+      "start_int": 976,
+      "timestamp_label": "16:16",
+      "text": "like say, design change notices."
+    },
+    {
+      "start": 979.18,
+      "end": 981.06,
+      "start_int": 979,
+      "timestamp_label": "16:19",
+      "text": "And these principles ensure that"
+    },
+    {
+      "start": 981.06,
+      "end": 982.82,
+      "start_int": 981,
+      "timestamp_label": "16:21",
+      "text": "supply can accurately identify,"
+    },
+    {
+      "start": 982.82,
+      "end": 984.94,
+      "start_int": 982,
+      "timestamp_label": "16:22",
+      "text": "track, and procure the correct parts"
+    },
+    {
+      "start": 984.94,
+      "end": 987.379,
+      "start_int": 984,
+      "timestamp_label": "16:24",
+      "text": "through the product life cycle."
+    },
+    {
+      "start": 990.03,
+      "end": 991.43,
+      "start_int": 990,
+      "timestamp_label": "16:30",
+      "text": "All right."
+    },
+    {
+      "start": 991.43,
+      "end": 993.989,
+      "start_int": 991,
+      "timestamp_label": "16:31",
+      "text": "So the next knowledge point question."
+    },
+    {
+      "start": 993.989,
+      "end": 996.589,
+      "start_int": 993,
+      "timestamp_label": "16:33",
+      "text": "So for configuration identification,"
+    },
+    {
+      "start": 996.589,
+      "end": 998.31,
+      "start_int": 996,
+      "timestamp_label": "16:36",
+      "text": "the role of supply is to blank"
+    },
+    {
+      "start": 998.31,
+      "end": 1001.31,
+      "start_int": 998,
+      "timestamp_label": "16:38",
+      "text": "the systems and parts for used by the fleet."
+    },
+    {
+      "start": 1007.63,
+      "end": 1013.75,
+      "start_int": 1007,
+      "timestamp_label": "16:47",
+      "text": "All right. Provision. That was on slide 12."
+    },
+    {
+      "start": 1013.75,
+      "end": 1016.12,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "We talked about that then. Okay."
+    },
+    {
+      "start": 1016.12,
+      "end": 1020.48,
+      "start_int": 1016,
+      "timestamp_label": "16:56",
+      "text": "Moving on. As the most observable function,"
+    },
+    {
+      "start": 1020.48,
+      "end": 1022.32,
+      "start_int": 1020,
+      "timestamp_label": "17:00",
+      "text": "configuration management or"
+    },
+    {
+      "start": 1022.32,
+      "end": 1023.84,
+      "start_int": 1022,
+      "timestamp_label": "17:02",
+      "text": "configuration change management,"
+    },
+    {
+      "start": 1023.84,
+      "end": 1026.919,
+      "start_int": 1023,
+      "timestamp_label": "17:03",
+      "text": "CCM, is often confused"
+    },
+    {
+      "start": 1026.919,
+      "end": 1029.92,
+      "start_int": 1026,
+      "timestamp_label": "17:06",
+      "text": "with being the entire definition of CM."
+    },
+    {
+      "start": 1029.92,
+      "end": 1032.48,
+      "start_int": 1029,
+      "timestamp_label": "17:09",
+      "text": "This function provides the framework"
+    },
+    {
+      "start": 1032.48,
+      "end": 1034.559,
+      "start_int": 1032,
+      "timestamp_label": "17:12",
+      "text": "to ensure that all changes and"
+    },
+    {
+      "start": 1034.559,
+      "end": 1039.559,
+      "start_int": 1034,
+      "timestamp_label": "17:14",
+      "text": "variances to approved configurations"
+    },
+    {
+      "start": 1039.559,
+      "end": 1040.519,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "are completed in"
+    },
+    {
+      "start": 1040.519,
+      "end": 1042.32,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "a defined and controlled process."
+    },
+    {
+      "start": 1042.32,
+      "end": 1045.52,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "Configuration control management built"
+    },
+    {
+      "start": 1045.52,
+      "end": 1047.599,
+      "start_int": 1045,
+      "timestamp_label": "17:25",
+      "text": "off the preparation conducted during"
+    },
+    {
+      "start": 1047.599,
+      "end": 1049.76,
+      "start_int": 1047,
+      "timestamp_label": "17:27",
+      "text": "the planning and management function"
+    },
+    {
+      "start": 1049.76,
+      "end": 1052.199,
+      "start_int": 1049,
+      "timestamp_label": "17:29",
+      "text": "by having a defined process for"
+    },
+    {
+      "start": 1052.199,
+      "end": 1055.019,
+      "start_int": 1052,
+      "timestamp_label": "17:32",
+      "text": "reviewing And"
+    },
+    {
+      "start": 1055.019,
+      "end": 1058.059,
+      "start_int": 1055,
+      "timestamp_label": "17:35",
+      "text": "dispositioning changes and variances,"
+    },
+    {
+      "start": 1058.059,
+      "end": 1060.379,
+      "start_int": 1058,
+      "timestamp_label": "17:38",
+      "text": "you enable full traceability"
+    },
+    {
+      "start": 1060.379,
+      "end": 1063.38,
+      "start_int": 1060,
+      "timestamp_label": "17:40",
+      "text": "for that product throughout the life cycle."
+    },
+    {
+      "start": 1063.38,
+      "end": 1065.18,
+      "start_int": 1063,
+      "timestamp_label": "17:43",
+      "text": "The program officers"
+    },
+    {
+      "start": 1065.18,
+      "end": 1067.18,
+      "start_int": 1065,
+      "timestamp_label": "17:45",
+      "text": "ultimately should be setting"
+    },
+    {
+      "start": 1067.18,
+      "end": 1069.539,
+      "start_int": 1067,
+      "timestamp_label": "17:47",
+      "text": "the process for changes and"
+    },
+    {
+      "start": 1069.539,
+      "end": 1073.02,
+      "start_int": 1069,
+      "timestamp_label": "17:49",
+      "text": "variances that the supply system follows."
+    },
+    {
+      "start": 1074.63,
+      "end": 1078.669,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "As stated previously, sustainment is"
+    },
+    {
+      "start": 1078.669,
+      "end": 1080.749,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "most often the longest part"
+    },
+    {
+      "start": 1080.749,
+      "end": 1083.07,
+      "start_int": 1080,
+      "timestamp_label": "18:00",
+      "text": "of a product's life cycle."
+    },
+    {
+      "start": 1083.07,
+      "end": 1085.749,
+      "start_int": 1083,
+      "timestamp_label": "18:03",
+      "text": "This means that many changes and"
+    },
+    {
+      "start": 1085.749,
+      "end": 1087.269,
+      "start_int": 1085,
+      "timestamp_label": "18:05",
+      "text": "variances will be"
+    },
+    {
+      "start": 1087.269,
+      "end": 1089.989,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "submitted on supply contracts."
+    },
+    {
+      "start": 1089.989,
+      "end": 1092.069,
+      "start_int": 1089,
+      "timestamp_label": "18:09",
+      "text": "So there should be a process in"
+    },
+    {
+      "start": 1092.069,
+      "end": 1093.429,
+      "start_int": 1092,
+      "timestamp_label": "18:12",
+      "text": "place that specifically"
+    },
+    {
+      "start": 1093.429,
+      "end": 1095.19,
+      "start_int": 1093,
+      "timestamp_label": "18:13",
+      "text": "addresses sustainment."
+    },
+    {
+      "start": 1095.19,
+      "end": 1098.989,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "Most program offices identify supply as"
+    },
+    {
+      "start": 1098.989,
+      "end": 1100.949,
+      "start_int": 1098,
+      "timestamp_label": "18:18",
+      "text": "an associate member of"
+    },
+    {
+      "start": 1100.949,
+      "end": 1103.15,
+      "start_int": 1100,
+      "timestamp_label": "18:20",
+      "text": "their configuration control boards,"
+    },
+    {
+      "start": 1103.15,
+      "end": 1105.829,
+      "start_int": 1103,
+      "timestamp_label": "18:23",
+      "text": "and each may have differing levels of how"
+    },
+    {
+      "start": 1105.829,
+      "end": 1107.909,
+      "start_int": 1105,
+      "timestamp_label": "18:25",
+      "text": "they engage with supply"
+    },
+    {
+      "start": 1107.909,
+      "end": 1110.069,
+      "start_int": 1107,
+      "timestamp_label": "18:27",
+      "text": "in the change process."
+    },
+    {
+      "start": 1110.56,
+      "end": 1113.84,
+      "start_int": 1110,
+      "timestamp_label": "18:30",
+      "text": "The obvious CM guidance"
+    },
+    {
+      "start": 1113.84,
+      "end": 1116.36,
+      "start_int": 1113,
+      "timestamp_label": "18:33",
+      "text": "and policies come from the systems command,"
+    },
+    {
+      "start": 1116.36,
+      "end": 1117.639,
+      "start_int": 1116,
+      "timestamp_label": "18:36",
+      "text": "but it should be noted that"
+    },
+    {
+      "start": 1117.639,
+      "end": 1120.88,
+      "start_int": 1117,
+      "timestamp_label": "18:37",
+      "text": "the Federal Acquisition Regulation, the FAR,"
+    },
+    {
+      "start": 1120.88,
+      "end": 1123.119,
+      "start_int": 1120,
+      "timestamp_label": "18:40",
+      "text": "provides policy that"
+    },
+    {
+      "start": 1123.119,
+      "end": 1125.959,
+      "start_int": 1123,
+      "timestamp_label": "18:43",
+      "text": "procurement contracting officers"
+    },
+    {
+      "start": 1125.959,
+      "end": 1128.48,
+      "start_int": 1125,
+      "timestamp_label": "18:45",
+      "text": "must follow when awarding contracts."
+    },
+    {
+      "start": 1128.48,
+      "end": 1134.399,
+      "start_int": 1128,
+      "timestamp_label": "18:48",
+      "text": "FAR Part 42.302 delegates the review and"
+    },
+    {
+      "start": 1134.399,
+      "end": 1135.759,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "evaluation of engineering"
+    },
+    {
+      "start": 1135.759,
+      "end": 1137.199,
+      "start_int": 1135,
+      "timestamp_label": "18:55",
+      "text": "changes and concurrence in"
+    },
+    {
+      "start": 1137.199,
+      "end": 1138.879,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "classification to"
+    },
+    {
+      "start": 1138.879,
+      "end": 1141.12,
+      "start_int": 1138,
+      "timestamp_label": "18:58",
+      "text": "the administrative contracting officer,"
+    },
+    {
+      "start": 1141.12,
+      "end": 1143.095,
+      "start_int": 1141,
+      "timestamp_label": "19:01",
+      "text": "usually at the DCMA."
+    },
+    {
+      "start": 1143.095,
+      "end": 1145.669,
+      "start_int": 1143,
+      "timestamp_label": "19:03",
+      "text": "As part FAR Part"
+    },
+    {
+      "start": 1145.669,
+      "end": 1149.349,
+      "start_int": 1145,
+      "timestamp_label": "19:05",
+      "text": "40 6407 provides all the details for"
+    },
+    {
+      "start": 1149.349,
+      "end": 1152.575,
+      "start_int": 1149,
+      "timestamp_label": "19:09",
+      "text": "accepting non conforming products"
+    },
+    {
+      "start": 1152.575,
+      "end": 1155.64,
+      "start_int": 1152,
+      "timestamp_label": "19:12",
+      "text": "otherwise known as requests for variance."
+    },
+    {
+      "start": 1155.64,
+      "end": 1158.239,
+      "start_int": 1155,
+      "timestamp_label": "19:15",
+      "text": "NAFSWSS has been working"
+    },
+    {
+      "start": 1158.239,
+      "end": 1160.039,
+      "start_int": 1158,
+      "timestamp_label": "19:18",
+      "text": "with many program officers to"
+    },
+    {
+      "start": 1160.039,
+      "end": 1161.959,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "streamline the processing of"
+    },
+    {
+      "start": 1161.959,
+      "end": 1164.439,
+      "start_int": 1161,
+      "timestamp_label": "19:21",
+      "text": "these documents on sustainment contracts."
+    },
+    {
+      "start": 1164.439,
+      "end": 1166.68,
+      "start_int": 1164,
+      "timestamp_label": "19:24",
+      "text": "The CM subject matter experts"
+    },
+    {
+      "start": 1166.68,
+      "end": 1167.999,
+      "start_int": 1166,
+      "timestamp_label": "19:26",
+      "text": "in supply provided"
+    },
+    {
+      "start": 1167.999,
+      "end": 1169.759,
+      "start_int": 1167,
+      "timestamp_label": "19:27",
+      "text": "added value by helping"
+    },
+    {
+      "start": 1169.759,
+      "end": 1171.8,
+      "start_int": 1169,
+      "timestamp_label": "19:29",
+      "text": "to ensure they are complete,"
+    },
+    {
+      "start": 1171.8,
+      "end": 1175.36,
+      "start_int": 1171,
+      "timestamp_label": "19:31",
+      "text": "accurate, and include all the documentation"
+    },
+    {
+      "start": 1175.36,
+      "end": 1177.199,
+      "start_int": 1175,
+      "timestamp_label": "19:35",
+      "text": "needed for the program to"
+    },
+    {
+      "start": 1177.199,
+      "end": 1178.959,
+      "start_int": 1177,
+      "timestamp_label": "19:37",
+      "text": "make an informed decision."
+    },
+    {
+      "start": 1178.959,
+      "end": 1181.479,
+      "start_int": 1178,
+      "timestamp_label": "19:38",
+      "text": "All of this is done to help increase"
+    },
+    {
+      "start": 1181.479,
+      "end": 1183.159,
+      "start_int": 1181,
+      "timestamp_label": "19:41",
+      "text": "the speed of delivery"
+    },
+    {
+      "start": 1183.159,
+      "end": 1185.84,
+      "start_int": 1183,
+      "timestamp_label": "19:43",
+      "text": "of products to the fleet."
+    },
+    {
+      "start": 1186.87,
+      "end": 1189.589,
+      "start_int": 1186,
+      "timestamp_label": "19:46",
+      "text": "For a visual example of why"
+    },
+    {
+      "start": 1189.589,
+      "end": 1191.19,
+      "start_int": 1189,
+      "timestamp_label": "19:49",
+      "text": "the process is more complex"
+    },
+    {
+      "start": 1191.19,
+      "end": 1192.71,
+      "start_int": 1191,
+      "timestamp_label": "19:51",
+      "text": "when supply gets involved,"
+    },
+    {
+      "start": 1192.71,
+      "end": 1193.429,
+      "start_int": 1192,
+      "timestamp_label": "19:52",
+      "text": "let's start with"
+    },
+    {
+      "start": 1193.429,
+      "end": 1195.669,
+      "start_int": 1193,
+      "timestamp_label": "19:53",
+      "text": "the typical configuration management"
+    },
+    {
+      "start": 1195.669,
+      "end": 1198.869,
+      "start_int": 1195,
+      "timestamp_label": "19:55",
+      "text": "and change process looks like."
+    },
+    {
+      "start": 1202.22,
+      "end": 1204.86,
+      "start_int": 1202,
+      "timestamp_label": "20:02",
+      "text": "Product requirements are set"
+    },
+    {
+      "start": 1204.86,
+      "end": 1206.099,
+      "start_int": 1204,
+      "timestamp_label": "20:04",
+      "text": "by the programs and"
+    },
+    {
+      "start": 1206.099,
+      "end": 1208.1,
+      "start_int": 1206,
+      "timestamp_label": "20:06",
+      "text": "communicated to the vendors"
+    },
+    {
+      "start": 1208.1,
+      "end": 1209.739,
+      "start_int": 1208,
+      "timestamp_label": "20:08",
+      "text": "via the production contracts,"
+    },
+    {
+      "start": 1209.739,
+      "end": 1212.06,
+      "start_int": 1209,
+      "timestamp_label": "20:09",
+      "text": "and then parts are delivered to the fleet."
+    },
+    {
+      "start": 1212.06,
+      "end": 1215.899,
+      "start_int": 1212,
+      "timestamp_label": "20:12",
+      "text": "The programs define the CM plan and process,"
+    },
+    {
+      "start": 1215.899,
+      "end": 1217.979,
+      "start_int": 1215,
+      "timestamp_label": "20:15",
+      "text": "and the program managers"
+    },
+    {
+      "start": 1217.979,
+      "end": 1218.98,
+      "start_int": 1217,
+      "timestamp_label": "20:17",
+      "text": "have the authority to"
+    },
+    {
+      "start": 1218.98,
+      "end": 1220.099,
+      "start_int": 1218,
+      "timestamp_label": "20:18",
+      "text": "maintain CM of"
+    },
+    {
+      "start": 1220.099,
+      "end": 1222.099,
+      "start_int": 1220,
+      "timestamp_label": "20:20",
+      "text": "the products in their cognizance."
+    },
+    {
+      "start": 1222.099,
+      "end": 1224.98,
+      "start_int": 1222,
+      "timestamp_label": "20:22",
+      "text": "If a change of variance is needed,"
+    },
+    {
+      "start": 1224.98,
+      "end": 1227.339,
+      "start_int": 1224,
+      "timestamp_label": "20:24",
+      "text": "then the vendor works with the program to"
+    },
+    {
+      "start": 1227.339,
+      "end": 1230.059,
+      "start_int": 1227,
+      "timestamp_label": "20:27",
+      "text": "get it disposed or dispositioned,"
+    },
+    {
+      "start": 1230.059,
+      "end": 1231.259,
+      "start_int": 1230,
+      "timestamp_label": "20:30",
+      "text": "and then the product is"
+    },
+    {
+      "start": 1231.259,
+      "end": 1233.069,
+      "start_int": 1231,
+      "timestamp_label": "20:31",
+      "text": "delivered to the fleet."
+    },
+    {
+      "start": 1233.069,
+      "end": 1235.079,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "On the flip side, when"
+    },
+    {
+      "start": 1235.079,
+      "end": 1237.119,
+      "start_int": 1235,
+      "timestamp_label": "20:35",
+      "text": "supply is engaged in sustainment,"
+    },
+    {
+      "start": 1237.119,
+      "end": 1239.239,
+      "start_int": 1237,
+      "timestamp_label": "20:37",
+      "text": "another layer is added."
+    },
+    {
+      "start": 1239.239,
+      "end": 1241.359,
+      "start_int": 1239,
+      "timestamp_label": "20:39",
+      "text": "Supply doesn't have"
+    },
+    {
+      "start": 1241.359,
+      "end": 1243.8,
+      "start_int": 1241,
+      "timestamp_label": "20:41",
+      "text": "change approval authority,"
+    },
+    {
+      "start": 1243.8,
+      "end": 1247.24,
+      "start_int": 1243,
+      "timestamp_label": "20:43",
+      "text": "so we relied on the CM plan as guidance on"
+    },
+    {
+      "start": 1247.24,
+      "end": 1249.2,
+      "start_int": 1247,
+      "timestamp_label": "20:47",
+      "text": "a warning sustainment contracts"
+    },
+    {
+      "start": 1249.2,
+      "end": 1251.479,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "that align with the program."
+    },
+    {
+      "start": 1251.479,
+      "end": 1253.759,
+      "start_int": 1251,
+      "timestamp_label": "20:51",
+      "text": "The same requirements need to"
+    },
+    {
+      "start": 1253.759,
+      "end": 1255.48,
+      "start_int": 1253,
+      "timestamp_label": "20:53",
+      "text": "be communicated to supply"
+    },
+    {
+      "start": 1255.48,
+      "end": 1259.359,
+      "start_int": 1255,
+      "timestamp_label": "20:55",
+      "text": "so that they know what exactly to buy."
+    },
+    {
+      "start": 1259.359,
+      "end": 1261.759,
+      "start_int": 1259,
+      "timestamp_label": "20:59",
+      "text": "Then the contract is put out to"
+    },
+    {
+      "start": 1261.759,
+      "end": 1264.96,
+      "start_int": 1261,
+      "timestamp_label": "21:01",
+      "text": "the vendor to deliver parts to the fleet."
+    },
+    {
+      "start": 1265.13,
+      "end": 1268.61,
+      "start_int": 1265,
+      "timestamp_label": "21:05",
+      "text": "However, when a change or variance is needed,"
+    },
+    {
+      "start": 1268.61,
+      "end": 1270.969,
+      "start_int": 1268,
+      "timestamp_label": "21:08",
+      "text": "this is where it may get messy."
+    },
+    {
+      "start": 1270.969,
+      "end": 1272.969,
+      "start_int": 1270,
+      "timestamp_label": "21:10",
+      "text": "Although most changes will go"
+    },
+    {
+      "start": 1272.969,
+      "end": 1275.13,
+      "start_int": 1272,
+      "timestamp_label": "21:12",
+      "text": "to the program from the vendor,"
+    },
+    {
+      "start": 1275.13,
+      "end": 1277.689,
+      "start_int": 1275,
+      "timestamp_label": "21:15",
+      "text": "variances also go to the program,"
+    },
+    {
+      "start": 1277.689,
+      "end": 1280.97,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "but via the supply contracting officer."
+    },
+    {
+      "start": 1280.97,
+      "end": 1283.249,
+      "start_int": 1280,
+      "timestamp_label": "21:20",
+      "text": "The approval or disapproval"
+    },
+    {
+      "start": 1283.249,
+      "end": 1285.21,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "is then sent back to the fleet,"
+    },
+    {
+      "start": 1285.21,
+      "end": 1287.049,
+      "start_int": 1285,
+      "timestamp_label": "21:25",
+      "text": "who then lets the vendor and"
+    },
+    {
+      "start": 1287.049,
+      "end": 1289.249,
+      "start_int": 1287,
+      "timestamp_label": "21:27",
+      "text": "DCMA know if the part"
+    },
+    {
+      "start": 1289.249,
+      "end": 1291.05,
+      "start_int": 1289,
+      "timestamp_label": "21:29",
+      "text": "can be released to the fleet."
+    },
+    {
+      "start": 1291.05,
+      "end": 1292.37,
+      "start_int": 1291,
+      "timestamp_label": "21:31",
+      "text": "This is why it gets"
+    },
+    {
+      "start": 1292.37,
+      "end": 1294.849,
+      "start_int": 1292,
+      "timestamp_label": "21:32",
+      "text": "mentioned that communication between"
+    },
+    {
+      "start": 1294.849,
+      "end": 1298.209,
+      "start_int": 1294,
+      "timestamp_label": "21:34",
+      "text": "supply and the program is important to"
+    },
+    {
+      "start": 1298.209,
+      "end": 1301.05,
+      "start_int": 1298,
+      "timestamp_label": "21:38",
+      "text": "ensure that these processes"
+    },
+    {
+      "start": 1301.05,
+      "end": 1304.41,
+      "start_int": 1301,
+      "timestamp_label": "21:41",
+      "text": "are well defined and executable."
+    },
+    {
+      "start": 1304.87,
+      "end": 1308.83,
+      "start_int": 1304,
+      "timestamp_label": "21:44",
+      "text": "Problems in the problems"
+    },
+    {
+      "start": 1308.83,
+      "end": 1311.629,
+      "start_int": 1308,
+      "timestamp_label": "21:48",
+      "text": "in the change process can affect supply,"
+    },
+    {
+      "start": 1311.629,
+      "end": 1312.989,
+      "start_int": 1311,
+      "timestamp_label": "21:51",
+      "text": "which in turn can have"
+    },
+    {
+      "start": 1312.989,
+      "end": 1314.989,
+      "start_int": 1312,
+      "timestamp_label": "21:52",
+      "text": "adverse effects on the fleet,"
+    },
+    {
+      "start": 1314.989,
+      "end": 1316.99,
+      "start_int": 1314,
+      "timestamp_label": "21:54",
+      "text": "especially when it comes to"
+    },
+    {
+      "start": 1316.99,
+      "end": 1321.389,
+      "start_int": 1316,
+      "timestamp_label": "21:56",
+      "text": "misclassified engineering change proposals."
+    },
+    {
+      "start": 1321.389,
+      "end": 1324.23,
+      "start_int": 1321,
+      "timestamp_label": "22:01",
+      "text": "If design change notices"
+    },
+    {
+      "start": 1324.23,
+      "end": 1326.71,
+      "start_int": 1324,
+      "timestamp_label": "22:04",
+      "text": "or provisioning is not completed,"
+    },
+    {
+      "start": 1326.71,
+      "end": 1328.109,
+      "start_int": 1326,
+      "timestamp_label": "22:06",
+      "text": "then the current approved"
+    },
+    {
+      "start": 1328.109,
+      "end": 1330.789,
+      "start_int": 1328,
+      "timestamp_label": "22:08",
+      "text": "configuration may not be correct."
+    },
+    {
+      "start": 1330.789,
+      "end": 1334.59,
+      "start_int": 1330,
+      "timestamp_label": "22:10",
+      "text": "Tech pubs, inert bombs,"
+    },
+    {
+      "start": 1334.59,
+      "end": 1336.789,
+      "start_int": 1334,
+      "timestamp_label": "22:14",
+      "text": "and drawing may not be"
+    },
+    {
+      "start": 1336.789,
+      "end": 1338.469,
+      "start_int": 1336,
+      "timestamp_label": "22:16",
+      "text": "updated so we can"
+    },
+    {
+      "start": 1338.469,
+      "end": 1340.629,
+      "start_int": 1338,
+      "timestamp_label": "22:18",
+      "text": "confirm that the approved configuration,"
+    },
+    {
+      "start": 1340.629,
+      "end": 1341.83,
+      "start_int": 1340,
+      "timestamp_label": "22:20",
+      "text": "so we can't confirm"
+    },
+    {
+      "start": 1341.83,
+      "end": 1343.654,
+      "start_int": 1341,
+      "timestamp_label": "22:21",
+      "text": "the approved configuration."
+    },
+    {
+      "start": 1343.654,
+      "end": 1346.679,
+      "start_int": 1343,
+      "timestamp_label": "22:23",
+      "text": "That means spares planning"
+    },
+    {
+      "start": 1346.679,
+      "end": 1349.12,
+      "start_int": 1346,
+      "timestamp_label": "22:26",
+      "text": "and allowance lists may not be accurate."
+    },
+    {
+      "start": 1349.12,
+      "end": 1350.919,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "Also, if you don't know"
+    },
+    {
+      "start": 1350.919,
+      "end": 1352.959,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "what the approved configuration is,"
+    },
+    {
+      "start": 1352.959,
+      "end": 1354.319,
+      "start_int": 1352,
+      "timestamp_label": "22:32",
+      "text": "how do you know what is"
+    },
+    {
+      "start": 1354.319,
+      "end": 1356.27,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "technically a variance?"
+    },
+    {
+      "start": 1356.27,
+      "end": 1358.619,
+      "start_int": 1356,
+      "timestamp_label": "22:36",
+      "text": "And the one that can cause delays"
+    },
+    {
+      "start": 1358.619,
+      "end": 1360.779,
+      "start_int": 1358,
+      "timestamp_label": "22:38",
+      "text": "in delivery among other headaches,"
+    },
+    {
+      "start": 1360.779,
+      "end": 1362.9,
+      "start_int": 1360,
+      "timestamp_label": "22:40",
+      "text": "the dreaded vendor NoBID,"
+    },
+    {
+      "start": 1362.9,
+      "end": 1364.659,
+      "start_int": 1362,
+      "timestamp_label": "22:42",
+      "text": "usually due to a part number"
+    },
+    {
+      "start": 1364.659,
+      "end": 1366.02,
+      "start_int": 1364,
+      "timestamp_label": "22:44",
+      "text": "rolling that the government"
+    },
+    {
+      "start": 1366.02,
+      "end": 1367.54,
+      "start_int": 1366,
+      "timestamp_label": "22:46",
+      "text": "wasn't made aware of."
+    },
+    {
+      "start": 1367.54,
+      "end": 1370.059,
+      "start_int": 1367,
+      "timestamp_label": "22:47",
+      "text": "All of this is to show that"
+    },
+    {
+      "start": 1370.059,
+      "end": 1372.34,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "a well defined and controlled"
+    },
+    {
+      "start": 1372.34,
+      "end": 1373.939,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "configuration change"
+    },
+    {
+      "start": 1373.939,
+      "end": 1376.939,
+      "start_int": 1373,
+      "timestamp_label": "22:53",
+      "text": "management process ensures that there"
+    },
+    {
+      "start": 1376.939,
+      "end": 1379.819,
+      "start_int": 1376,
+      "timestamp_label": "22:56",
+      "text": "is consistency between the hardware commands"
+    },
+    {
+      "start": 1379.819,
+      "end": 1381.699,
+      "start_int": 1379,
+      "timestamp_label": "22:59",
+      "text": "and supply so that"
+    },
+    {
+      "start": 1381.699,
+      "end": 1383.739,
+      "start_int": 1381,
+      "timestamp_label": "23:01",
+      "text": "the warfighter can get"
+    },
+    {
+      "start": 1383.739,
+      "end": 1385.819,
+      "start_int": 1383,
+      "timestamp_label": "23:03",
+      "text": "the warfighter can always"
+    },
+    {
+      "start": 1385.819,
+      "end": 1387.609,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "get the right part on time."
+    },
+    {
+      "start": 1387.609,
+      "end": 1389.8,
+      "start_int": 1387,
+      "timestamp_label": "23:07",
+      "text": "While program offices hold"
+    },
+    {
+      "start": 1389.8,
+      "end": 1391.039,
+      "start_int": 1389,
+      "timestamp_label": "23:09",
+      "text": "authority for approving"
+    },
+    {
+      "start": 1391.039,
+      "end": 1392.399,
+      "start_int": 1391,
+      "timestamp_label": "23:11",
+      "text": "changes and variances,"
+    },
+    {
+      "start": 1392.399,
+      "end": 1393.96,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "supply is essential"
+    },
+    {
+      "start": 1393.96,
+      "end": 1395.48,
+      "start_int": 1393,
+      "timestamp_label": "23:13",
+      "text": "for ensuring these changes"
+    },
+    {
+      "start": 1395.48,
+      "end": 1397.32,
+      "start_int": 1395,
+      "timestamp_label": "23:15",
+      "text": "are seamlessly"
+    },
+    {
+      "start": 1397.32,
+      "end": 1399.6,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "integrated into the supply chain."
+    },
+    {
+      "start": 1399.6,
+      "end": 1401.799,
+      "start_int": 1399,
+      "timestamp_label": "23:19",
+      "text": "This includes providing input,"
+    },
+    {
+      "start": 1401.799,
+      "end": 1402.96,
+      "start_int": 1401,
+      "timestamp_label": "23:21",
+      "text": "supply analyzes"
+    },
+    {
+      "start": 1402.96,
+      "end": 1405.279,
+      "start_int": 1402,
+      "timestamp_label": "23:22",
+      "text": "the logistic impact of a proposed change,"
+    },
+    {
+      "start": 1405.279,
+      "end": 1408.04,
+      "start_int": 1405,
+      "timestamp_label": "23:25",
+      "text": "ensuring continued support for the fleet."
+    },
+    {
+      "start": 1408.04,
+      "end": 1409.44,
+      "start_int": 1408,
+      "timestamp_label": "23:28",
+      "text": "This may involve"
+    },
+    {
+      "start": 1409.44,
+      "end": 1412.0,
+      "start_int": 1409,
+      "timestamp_label": "23:29",
+      "text": "reviewing engineering change proposals"
+    },
+    {
+      "start": 1412.0,
+      "end": 1414.519,
+      "start_int": 1412,
+      "timestamp_label": "23:32",
+      "text": "and providing feedback on"
+    },
+    {
+      "start": 1414.519,
+      "end": 1416.08,
+      "start_int": 1414,
+      "timestamp_label": "23:34",
+      "text": "sparing calculations"
+    },
+    {
+      "start": 1416.08,
+      "end": 1418.555,
+      "start_int": 1416,
+      "timestamp_label": "23:36",
+      "text": "and other logistics requirements."
+    },
+    {
+      "start": 1418.555,
+      "end": 1421.67,
+      "start_int": 1418,
+      "timestamp_label": "23:38",
+      "text": "Updating systems and stakeholders,"
+    },
+    {
+      "start": 1421.67,
+      "end": 1425.19,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "supply receives, approved change information,"
+    },
+    {
+      "start": 1425.19,
+      "end": 1429.105,
+      "start_int": 1425,
+      "timestamp_label": "23:45",
+      "text": "updates relevant systems like Navy ERP,"
+    },
+    {
+      "start": 1429.105,
+      "end": 1431.86,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "to reflect the latest configurations"
+    },
+    {
+      "start": 1431.86,
+      "end": 1434.62,
+      "start_int": 1431,
+      "timestamp_label": "23:51",
+      "text": "and communicates updates to stakeholders."
+    },
+    {
+      "start": 1434.62,
+      "end": 1437.1,
+      "start_int": 1434,
+      "timestamp_label": "23:54",
+      "text": "This involves accurate procurement"
+    },
+    {
+      "start": 1437.1,
+      "end": 1438.58,
+      "start_int": 1437,
+      "timestamp_label": "23:57",
+      "text": "and delivery of parts,"
+    },
+    {
+      "start": 1438.58,
+      "end": 1440.1,
+      "start_int": 1438,
+      "timestamp_label": "23:58",
+      "text": "managing variances,"
+    },
+    {
+      "start": 1440.1,
+      "end": 1443.18,
+      "start_int": 1440,
+      "timestamp_label": "24:00",
+      "text": "supply reviews, requests for variances,"
+    },
+    {
+      "start": 1443.18,
+      "end": 1445.819,
+      "start_int": 1443,
+      "timestamp_label": "24:03",
+      "text": "ensures accuracy and completeness"
+    },
+    {
+      "start": 1445.819,
+      "end": 1447.139,
+      "start_int": 1445,
+      "timestamp_label": "24:05",
+      "text": "and facilitates"
+    },
+    {
+      "start": 1447.139,
+      "end": 1449.379,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "communication between the stakeholders,"
+    },
+    {
+      "start": 1449.379,
+      "end": 1452.54,
+      "start_int": 1449,
+      "timestamp_label": "24:09",
+      "text": "program offices, DCMA, and vendors"
+    },
+    {
+      "start": 1452.54,
+      "end": 1454.499,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "for efficient processing and"
+    },
+    {
+      "start": 1454.499,
+      "end": 1456.339,
+      "start_int": 1454,
+      "timestamp_label": "24:14",
+      "text": "delivery of non conforming products."
+    },
+    {
+      "start": 1456.339,
+      "end": 1458.02,
+      "start_int": 1456,
+      "timestamp_label": "24:16",
+      "text": "By actively participating"
+    },
+    {
+      "start": 1458.02,
+      "end": 1459.699,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "in change management,"
+    },
+    {
+      "start": 1459.699,
+      "end": 1461.98,
+      "start_int": 1459,
+      "timestamp_label": "24:19",
+      "text": "supply helps maintain"
+    },
+    {
+      "start": 1461.98,
+      "end": 1464.74,
+      "start_int": 1461,
+      "timestamp_label": "24:21",
+      "text": "a responsive and reliable supply chain"
+    },
+    {
+      "start": 1464.74,
+      "end": 1468.149,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "that meets the evolving needs of the fleet."
+    },
+    {
+      "start": 1468.149,
+      "end": 1470.559,
+      "start_int": 1468,
+      "timestamp_label": "24:28",
+      "text": "Knowledge point question."
+    },
+    {
+      "start": 1470.559,
+      "end": 1474.0,
+      "start_int": 1470,
+      "timestamp_label": "24:30",
+      "text": "Which regulations governs non"
+    },
+    {
+      "start": 1474.0,
+      "end": 1476.959,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "conforming supplies and services?"
+    },
+    {
+      "start": 1476.959,
+      "end": 1481.599,
+      "start_int": 1476,
+      "timestamp_label": "24:36",
+      "text": "A, FAR Part 46.407,"
+    },
+    {
+      "start": 1481.599,
+      "end": 1483.8,
+      "start_int": 1481,
+      "timestamp_label": "24:41",
+      "text": "Title ten US Code,"
+    },
+    {
+      "start": 1483.8,
+      "end": 1488.84,
+      "start_int": 1483,
+      "timestamp_label": "24:43",
+      "text": "Section 24 30, DODI 5,000.88"
+    },
+    {
+      "start": 1488.84,
+      "end": 1494.96,
+      "start_int": 1488,
+      "timestamp_label": "24:48",
+      "text": "14 CAFR part 119?"
+    },
+    {
+      "start": 1496.48,
+      "end": 1499.679,
+      "start_int": 1496,
+      "timestamp_label": "24:56",
+      "text": "And the answer is A."
+    },
+    {
+      "start": 1499.76,
+      "end": 1505.599,
+      "start_int": 1499,
+      "timestamp_label": "24:59",
+      "text": "And that knowledge was on slide 20."
+    },
+    {
+      "start": 1505.599,
+      "end": 1507.839,
+      "start_int": 1505,
+      "timestamp_label": "25:05",
+      "text": "There you go."
+    },
+    {
+      "start": 1512.1,
+      "end": 1513.499,
+      "start_int": 1512,
+      "timestamp_label": "25:12",
+      "text": "All right."
+    },
+    {
+      "start": 1513.499,
+      "end": 1516.54,
+      "start_int": 1513,
+      "timestamp_label": "25:13",
+      "text": "So from the 649 Configuration status"
+    },
+    {
+      "start": 1516.54,
+      "end": 1517.78,
+      "start_int": 1516,
+      "timestamp_label": "25:16",
+      "text": "Accounting CSA,"
+    },
+    {
+      "start": 1517.78,
+      "end": 1519.539,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "is the function of CM that"
+    },
+    {
+      "start": 1519.539,
+      "end": 1521.94,
+      "start_int": 1519,
+      "timestamp_label": "25:19",
+      "text": "consists of the recording and reporting"
+    },
+    {
+      "start": 1521.94,
+      "end": 1523.9,
+      "start_int": 1521,
+      "timestamp_label": "25:21",
+      "text": "of information needed to trace"
+    },
+    {
+      "start": 1523.9,
+      "end": 1526.18,
+      "start_int": 1523,
+      "timestamp_label": "25:23",
+      "text": "and manage a configuration"
+    },
+    {
+      "start": 1526.18,
+      "end": 1527.78,
+      "start_int": 1526,
+      "timestamp_label": "25:26",
+      "text": "effectively by providing"
+    },
+    {
+      "start": 1527.78,
+      "end": 1529.86,
+      "start_int": 1527,
+      "timestamp_label": "25:27",
+      "text": "information and process status"
+    },
+    {
+      "start": 1529.86,
+      "end": 1533.659,
+      "start_int": 1529,
+      "timestamp_label": "25:29",
+      "text": "as well as CM performance data."
+    },
+    {
+      "start": 1533.659,
+      "end": 1536.779,
+      "start_int": 1533,
+      "timestamp_label": "25:33",
+      "text": "So CSA enables your ability to report on"
+    },
+    {
+      "start": 1536.779,
+      "end": 1538.38,
+      "start_int": 1536,
+      "timestamp_label": "25:36",
+      "text": "your CM process and your metrics"
+    },
+    {
+      "start": 1538.38,
+      "end": 1540.419,
+      "start_int": 1538,
+      "timestamp_label": "25:38",
+      "text": "to monitor the overall health of the system."
+    },
+    {
+      "start": 1540.419,
+      "end": 1542.459,
+      "start_int": 1540,
+      "timestamp_label": "25:40",
+      "text": "But simply, it's the function"
+    },
+    {
+      "start": 1542.459,
+      "end": 1544.259,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "of CM that provides everyone"
+    },
+    {
+      "start": 1544.259,
+      "end": 1546.339,
+      "start_int": 1544,
+      "timestamp_label": "25:44",
+      "text": "involved in the process the ability to know"
+    },
+    {
+      "start": 1546.339,
+      "end": 1547.819,
+      "start_int": 1546,
+      "timestamp_label": "25:46",
+      "text": "the current status of a product"
+    },
+    {
+      "start": 1547.819,
+      "end": 1550.819,
+      "start_int": 1547,
+      "timestamp_label": "25:47",
+      "text": "and it defining information at any time."
+    },
+    {
+      "start": 1552.82,
+      "end": 1556.539,
+      "start_int": 1552,
+      "timestamp_label": "25:52",
+      "text": "In our CSA webinar that we did last year,"
+    },
+    {
+      "start": 1556.539,
+      "end": 1558.179,
+      "start_int": 1556,
+      "timestamp_label": "25:56",
+      "text": "we gave some examples of"
+    },
+    {
+      "start": 1558.179,
+      "end": 1560.099,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "what types of data we're talking about."
+    },
+    {
+      "start": 1560.099,
+      "end": 1561.38,
+      "start_int": 1560,
+      "timestamp_label": "26:00",
+      "text": "But as a refresher,"
+    },
+    {
+      "start": 1561.38,
+      "end": 1562.579,
+      "start_int": 1561,
+      "timestamp_label": "26:01",
+      "text": "it can be separated into"
+    },
+    {
+      "start": 1562.579,
+      "end": 1565.06,
+      "start_int": 1562,
+      "timestamp_label": "26:02",
+      "text": "two categories definition"
+    },
+    {
+      "start": 1565.06,
+      "end": 1567.259,
+      "start_int": 1565,
+      "timestamp_label": "26:05",
+      "text": "information and operational information."
+    },
+    {
+      "start": 1567.259,
+      "end": 1570.059,
+      "start_int": 1567,
+      "timestamp_label": "26:07",
+      "text": "And all this data is used to"
+    },
+    {
+      "start": 1570.059,
+      "end": 1571.659,
+      "start_int": 1570,
+      "timestamp_label": "26:10",
+      "text": "fully define the product from"
+    },
+    {
+      "start": 1571.659,
+      "end": 1573.26,
+      "start_int": 1571,
+      "timestamp_label": "26:11",
+      "text": "a configuration standpoint,"
+    },
+    {
+      "start": 1573.26,
+      "end": 1575.1,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "but there is some information that is"
+    },
+    {
+      "start": 1575.1,
+      "end": 1576.38,
+      "start_int": 1575,
+      "timestamp_label": "26:15",
+      "text": "required for supply to"
+    },
+    {
+      "start": 1576.38,
+      "end": 1577.779,
+      "start_int": 1576,
+      "timestamp_label": "26:16",
+      "text": "be able to provision a new product,"
+    },
+    {
+      "start": 1577.779,
+      "end": 1580.339,
+      "start_int": 1577,
+      "timestamp_label": "26:17",
+      "text": "such as the maintenance plan, drawings,"
+    },
+    {
+      "start": 1580.339,
+      "end": 1582.259,
+      "start_int": 1580,
+      "timestamp_label": "26:20",
+      "text": "and other information included in"
+    },
+    {
+      "start": 1582.259,
+      "end": 1584.939,
+      "start_int": 1582,
+      "timestamp_label": "26:22",
+      "text": "the engineering data for provisioning or"
+    },
+    {
+      "start": 1584.939,
+      "end": 1591.9,
+      "start_int": 1584,
+      "timestamp_label": "26:24",
+      "text": "EDFP NASSS"
+    },
+    {
+      "start": 1591.9,
+      "end": 1594.26,
+      "start_int": 1591,
+      "timestamp_label": "26:31",
+      "text": "is the Navy's configuration data accountant."
+    },
+    {
+      "start": 1594.26,
+      "end": 1596.699,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "Regardless of how many systems are used for"
+    },
+    {
+      "start": 1596.699,
+      "end": 1597.82,
+      "start_int": 1596,
+      "timestamp_label": "26:36",
+      "text": "storage of drawings,"
+    },
+    {
+      "start": 1597.82,
+      "end": 1599.82,
+      "start_int": 1597,
+      "timestamp_label": "26:37",
+      "text": "tech data, specifications,"
+    },
+    {
+      "start": 1599.82,
+      "end": 1601.979,
+      "start_int": 1599,
+      "timestamp_label": "26:39",
+      "text": "and other product definition information,"
+    },
+    {
+      "start": 1601.979,
+      "end": 1604.619,
+      "start_int": 1601,
+      "timestamp_label": "26:41",
+      "text": "there is only one authoritative source"
+    },
+    {
+      "start": 1604.619,
+      "end": 1606.26,
+      "start_int": 1604,
+      "timestamp_label": "26:44",
+      "text": "for the Navy's ordering information,"
+    },
+    {
+      "start": 1606.26,
+      "end": 1608.63,
+      "start_int": 1606,
+      "timestamp_label": "26:46",
+      "text": "and that's Navy ERP."
+    },
+    {
+      "start": 1608.63,
+      "end": 1611.039,
+      "start_int": 1608,
+      "timestamp_label": "26:48",
+      "text": "During the provisioning process,"
+    },
+    {
+      "start": 1611.039,
+      "end": 1612.999,
+      "start_int": 1611,
+      "timestamp_label": "26:51",
+      "text": "the techs and provisioners in"
+    },
+    {
+      "start": 1612.999,
+      "end": 1615.119,
+      "start_int": 1612,
+      "timestamp_label": "26:52",
+      "text": "supply take that EDFP and"
+    },
+    {
+      "start": 1615.119,
+      "end": 1617.319,
+      "start_int": 1615,
+      "timestamp_label": "26:55",
+      "text": "the other information and use"
+    },
+    {
+      "start": 1617.319,
+      "end": 1620.36,
+      "start_int": 1617,
+      "timestamp_label": "26:57",
+      "text": "it to populate Navy ERP."
+    },
+    {
+      "start": 1620.36,
+      "end": 1623.439,
+      "start_int": 1620,
+      "timestamp_label": "27:00",
+      "text": "The information from ERP is then"
+    },
+    {
+      "start": 1623.439,
+      "end": 1624.72,
+      "start_int": 1623,
+      "timestamp_label": "27:03",
+      "text": "flowed to the Federal"
+    },
+    {
+      "start": 1624.72,
+      "end": 1627.039,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "logistics information system FLS,"
+    },
+    {
+      "start": 1627.039,
+      "end": 1628.999,
+      "start_int": 1627,
+      "timestamp_label": "27:07",
+      "text": "which in turn is then used by"
+    },
+    {
+      "start": 1628.999,
+      "end": 1632.359,
+      "start_int": 1628,
+      "timestamp_label": "27:08",
+      "text": "other systems to view that ordering data."
+    },
+    {
+      "start": 1632.359,
+      "end": 1634.199,
+      "start_int": 1632,
+      "timestamp_label": "27:12",
+      "text": "The fleet can then use"
+    },
+    {
+      "start": 1634.199,
+      "end": 1638.159,
+      "start_int": 1634,
+      "timestamp_label": "27:14",
+      "text": "NavSps OneTouch to easily view NSN data,"
+    },
+    {
+      "start": 1638.159,
+      "end": 1640.479,
+      "start_int": 1638,
+      "timestamp_label": "27:18",
+      "text": "stock levels, back order info,"
+    },
+    {
+      "start": 1640.479,
+      "end": 1643.759,
+      "start_int": 1640,
+      "timestamp_label": "27:20",
+      "text": "item manager information, and more."
+    },
+    {
+      "start": 1646.63,
+      "end": 1649.75,
+      "start_int": 1646,
+      "timestamp_label": "27:26",
+      "text": "As the Navy CM data accountant,"
+    },
+    {
+      "start": 1649.75,
+      "end": 1650.989,
+      "start_int": 1649,
+      "timestamp_label": "27:29",
+      "text": "the warfighter is relying on"
+    },
+    {
+      "start": 1650.989,
+      "end": 1652.03,
+      "start_int": 1650,
+      "timestamp_label": "27:30",
+      "text": "NASA to have"
+    },
+    {
+      "start": 1652.03,
+      "end": 1654.069,
+      "start_int": 1652,
+      "timestamp_label": "27:32",
+      "text": "the correct ordering information."
+    },
+    {
+      "start": 1654.069,
+      "end": 1657.83,
+      "start_int": 1654,
+      "timestamp_label": "27:34",
+      "text": "To do that, the information process flow"
+    },
+    {
+      "start": 1657.83,
+      "end": 1659.309,
+      "start_int": 1657,
+      "timestamp_label": "27:37",
+      "text": "must be efficient and"
+    },
+    {
+      "start": 1659.309,
+      "end": 1662.349,
+      "start_int": 1659,
+      "timestamp_label": "27:39",
+      "text": "effective with many different systems"
+    },
+    {
+      "start": 1662.349,
+      "end": 1663.79,
+      "start_int": 1662,
+      "timestamp_label": "27:42",
+      "text": "used across the Navy"
+    },
+    {
+      "start": 1663.79,
+      "end": 1665.709,
+      "start_int": 1663,
+      "timestamp_label": "27:43",
+      "text": "and within each individual program,"
+    },
+    {
+      "start": 1665.709,
+      "end": 1668.069,
+      "start_int": 1665,
+      "timestamp_label": "27:45",
+      "text": "supply must be plugged into all of them."
+    },
+    {
+      "start": 1668.069,
+      "end": 1670.549,
+      "start_int": 1668,
+      "timestamp_label": "27:48",
+      "text": "On one hand, this can make"
+    },
+    {
+      "start": 1670.549,
+      "end": 1673.709,
+      "start_int": 1670,
+      "timestamp_label": "27:50",
+      "text": "supporting all programs a complex task,"
+    },
+    {
+      "start": 1673.709,
+      "end": 1675.95,
+      "start_int": 1673,
+      "timestamp_label": "27:53",
+      "text": "but on the other hand, it gives supply"
+    },
+    {
+      "start": 1675.95,
+      "end": 1677.75,
+      "start_int": 1675,
+      "timestamp_label": "27:55",
+      "text": "a unique vantage point over"
+    },
+    {
+      "start": 1677.75,
+      "end": 1680.184,
+      "start_int": 1677,
+      "timestamp_label": "27:57",
+      "text": "how the entire Navy operates."
+    },
+    {
+      "start": 1680.184,
+      "end": 1682.42,
+      "start_int": 1680,
+      "timestamp_label": "28:00",
+      "text": "Each systems command can have"
+    },
+    {
+      "start": 1682.42,
+      "end": 1684.5,
+      "start_int": 1682,
+      "timestamp_label": "28:02",
+      "text": "their technical publications updated,"
+    },
+    {
+      "start": 1684.5,
+      "end": 1686.7,
+      "start_int": 1684,
+      "timestamp_label": "28:04",
+      "text": "but if that information isn't flowed"
+    },
+    {
+      "start": 1686.7,
+      "end": 1688.859,
+      "start_int": 1686,
+      "timestamp_label": "28:06",
+      "text": "to us here at NavSuP,"
+    },
+    {
+      "start": 1688.859,
+      "end": 1689.939,
+      "start_int": 1688,
+      "timestamp_label": "28:08",
+      "text": "the fleet will not be"
+    },
+    {
+      "start": 1689.939,
+      "end": 1691.42,
+      "start_int": 1689,
+      "timestamp_label": "28:09",
+      "text": "able to order the parts."
+    },
+    {
+      "start": 1691.42,
+      "end": 1693.78,
+      "start_int": 1691,
+      "timestamp_label": "28:11",
+      "text": "And that's why communication is key."
+    },
+    {
+      "start": 1693.78,
+      "end": 1696.619,
+      "start_int": 1693,
+      "timestamp_label": "28:13",
+      "text": "Approved ECPs mean nothing unless"
+    },
+    {
+      "start": 1696.619,
+      "end": 1698.02,
+      "start_int": 1696,
+      "timestamp_label": "28:16",
+      "text": "the design change notice or"
+    },
+    {
+      "start": 1698.02,
+      "end": 1699.619,
+      "start_int": 1698,
+      "timestamp_label": "28:18",
+      "text": "other provisioning data flows to"
+    },
+    {
+      "start": 1699.619,
+      "end": 1702.46,
+      "start_int": 1699,
+      "timestamp_label": "28:19",
+      "text": "supply to update ERP."
+    },
+    {
+      "start": 1706.67,
+      "end": 1709.149,
+      "start_int": 1706,
+      "timestamp_label": "28:26",
+      "text": "These configuration status"
+    },
+    {
+      "start": 1709.149,
+      "end": 1710.67,
+      "start_int": 1709,
+      "timestamp_label": "28:29",
+      "text": "accounting principles,"
+    },
+    {
+      "start": 1710.67,
+      "end": 1712.59,
+      "start_int": 1710,
+      "timestamp_label": "28:30",
+      "text": "which support the creation"
+    },
+    {
+      "start": 1712.59,
+      "end": 1714.23,
+      "start_int": 1712,
+      "timestamp_label": "28:32",
+      "text": "of an all encompassing"
+    },
+    {
+      "start": 1714.23,
+      "end": 1716.629,
+      "start_int": 1714,
+      "timestamp_label": "28:34",
+      "text": "authoritative data source have"
+    },
+    {
+      "start": 1716.629,
+      "end": 1719.349,
+      "start_int": 1716,
+      "timestamp_label": "28:36",
+      "text": "supply task aligned with all three."
+    },
+    {
+      "start": 1719.349,
+      "end": 1721.349,
+      "start_int": 1719,
+      "timestamp_label": "28:39",
+      "text": "So for CSA one,"
+    },
+    {
+      "start": 1721.349,
+      "end": 1722.349,
+      "start_int": 1721,
+      "timestamp_label": "28:41",
+      "text": "which is for"
+    },
+    {
+      "start": 1722.349,
+      "end": 1725.03,
+      "start_int": 1722,
+      "timestamp_label": "28:42",
+      "text": "the main information base used in CM,"
+    },
+    {
+      "start": 1725.03,
+      "end": 1728.869,
+      "start_int": 1725,
+      "timestamp_label": "28:45",
+      "text": "supply has tools such as Navy ERP and"
+    },
+    {
+      "start": 1728.869,
+      "end": 1730.79,
+      "start_int": 1728,
+      "timestamp_label": "28:48",
+      "text": "others that enable us and the Navy"
+    },
+    {
+      "start": 1730.79,
+      "end": 1731.03,
+      "start_int": 1730,
+      "timestamp_label": "28:50",
+      "text": "to get"
+    },
+    {
+      "start": 1731.03,
+      "end": 1731.309,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "the current"
+    },
+    {
+      "start": 1731.309,
+      "end": 1733.27,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "approved configuration information."
+    },
+    {
+      "start": 1733.27,
+      "end": 1735.949,
+      "start_int": 1733,
+      "timestamp_label": "28:53",
+      "text": "With CSA two, there"
+    },
+    {
+      "start": 1735.949,
+      "end": 1737.989,
+      "start_int": 1735,
+      "timestamp_label": "28:55",
+      "text": "are various trackers that are used"
+    },
+    {
+      "start": 1737.989,
+      "end": 1740.51,
+      "start_int": 1737,
+      "timestamp_label": "28:57",
+      "text": "internally and externally that enable status"
+    },
+    {
+      "start": 1740.51,
+      "end": 1743.07,
+      "start_int": 1740,
+      "timestamp_label": "29:00",
+      "text": "reporting on changes and document processing,"
+    },
+    {
+      "start": 1743.07,
+      "end": 1745.309,
+      "start_int": 1743,
+      "timestamp_label": "29:03",
+      "text": "such as our design change notice,"
+    },
+    {
+      "start": 1745.309,
+      "end": 1747.869,
+      "start_int": 1745,
+      "timestamp_label": "29:05",
+      "text": "request for variance, and ECP trackers."
+    },
+    {
+      "start": 1747.869,
+      "end": 1751.149,
+      "start_int": 1747,
+      "timestamp_label": "29:07",
+      "text": "In addition, and in alignment with CSA three,"
+    },
+    {
+      "start": 1751.149,
+      "end": 1754.71,
+      "start_int": 1751,
+      "timestamp_label": "29:11",
+      "text": "these tools allow for me reporting to take"
+    },
+    {
+      "start": 1754.71,
+      "end": 1756.269,
+      "start_int": 1754,
+      "timestamp_label": "29:14",
+      "text": "the pulse of the processes and"
+    },
+    {
+      "start": 1756.269,
+      "end": 1759.149,
+      "start_int": 1756,
+      "timestamp_label": "29:16",
+      "text": "to find opportunities for improvement."
+    },
+    {
+      "start": 1767.87,
+      "end": 1769.509,
+      "start_int": 1767,
+      "timestamp_label": "29:27",
+      "text": "All right."
+    },
+    {
+      "start": 1769.509,
+      "end": 1772.829,
+      "start_int": 1769,
+      "timestamp_label": "29:29",
+      "text": "So configuration status accounting is"
+    },
+    {
+      "start": 1772.829,
+      "end": 1774.63,
+      "start_int": 1772,
+      "timestamp_label": "29:32",
+      "text": "the function involved with establishing"
+    },
+    {
+      "start": 1774.63,
+      "end": 1778.109,
+      "start_int": 1774,
+      "timestamp_label": "29:34",
+      "text": "the products baseline. True or false?"
+    },
+    {
+      "start": 1781.79,
+      "end": 1783.229,
+      "start_int": 1781,
+      "timestamp_label": "29:41",
+      "text": "Okay."
+    },
+    {
+      "start": 1783.229,
+      "end": 1784.91,
+      "start_int": 1783,
+      "timestamp_label": "29:43",
+      "text": "B, false."
+    },
+    {
+      "start": 1784.91,
+      "end": 1786.83,
+      "start_int": 1784,
+      "timestamp_label": "29:44",
+      "text": "And that was we talked about that on"
+    },
+    {
+      "start": 1786.83,
+      "end": 1791.229,
+      "start_int": 1786,
+      "timestamp_label": "29:46",
+      "text": "slide 26. All right."
+    },
+    {
+      "start": 1792.11,
+      "end": 1794.749,
+      "start_int": 1792,
+      "timestamp_label": "29:52",
+      "text": "The last of the five function of"
+    },
+    {
+      "start": 1794.749,
+      "end": 1797.189,
+      "start_int": 1794,
+      "timestamp_label": "29:54",
+      "text": "CM has limited input from supply,"
+    },
+    {
+      "start": 1797.189,
+      "end": 1799.19,
+      "start_int": 1797,
+      "timestamp_label": "29:57",
+      "text": "but is still an important element"
+    },
+    {
+      "start": 1799.19,
+      "end": 1801.549,
+      "start_int": 1799,
+      "timestamp_label": "29:59",
+      "text": "in the overall process."
+    },
+    {
+      "start": 1801.63,
+      "end": 1803.83,
+      "start_int": 1801,
+      "timestamp_label": "30:01",
+      "text": "Most of this function is"
+    },
+    {
+      "start": 1803.83,
+      "end": 1806.069,
+      "start_int": 1803,
+      "timestamp_label": "30:03",
+      "text": "conducted at the program level with"
+    },
+    {
+      "start": 1806.069,
+      "end": 1808.309,
+      "start_int": 1806,
+      "timestamp_label": "30:06",
+      "text": "the most impactful tasks being"
+    },
+    {
+      "start": 1808.309,
+      "end": 1810.83,
+      "start_int": 1808,
+      "timestamp_label": "30:08",
+      "text": "the functional configuration audit"
+    },
+    {
+      "start": 1810.83,
+      "end": 1813.63,
+      "start_int": 1810,
+      "timestamp_label": "30:10",
+      "text": "and the physical configuration audit."
+    },
+    {
+      "start": 1813.63,
+      "end": 1816.269,
+      "start_int": 1813,
+      "timestamp_label": "30:13",
+      "text": "The FCA ensures that"
+    },
+    {
+      "start": 1816.269,
+      "end": 1818.189,
+      "start_int": 1816,
+      "timestamp_label": "30:16",
+      "text": "the current product was made"
+    },
+    {
+      "start": 1818.189,
+      "end": 1820.029,
+      "start_int": 1818,
+      "timestamp_label": "30:18",
+      "text": "while the PCA ensures that"
+    },
+    {
+      "start": 1820.029,
+      "end": 1823.87,
+      "start_int": 1820,
+      "timestamp_label": "30:20",
+      "text": "the product From the supply perspective,"
+    },
+    {
+      "start": 1825.23,
+      "end": 1826.589,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "I'm sorry,"
+    },
+    {
+      "start": 1826.589,
+      "end": 1828.51,
+      "start_int": 1826,
+      "timestamp_label": "30:26",
+      "text": "that the product was made correctly."
+    },
+    {
+      "start": 1828.51,
+      "end": 1831.029,
+      "start_int": 1828,
+      "timestamp_label": "30:28",
+      "text": "From the supply perspective,"
+    },
+    {
+      "start": 1831.029,
+      "end": 1833.349,
+      "start_int": 1831,
+      "timestamp_label": "30:31",
+      "text": "once the PCA is completed,"
+    },
+    {
+      "start": 1833.349,
+      "end": 1835.07,
+      "start_int": 1833,
+      "timestamp_label": "30:33",
+      "text": "then this means that the chalk"
+    },
+    {
+      "start": 1835.07,
+      "end": 1836.35,
+      "start_int": 1835,
+      "timestamp_label": "30:35",
+      "text": "line has been snapped,"
+    },
+    {
+      "start": 1836.35,
+      "end": 1837.95,
+      "start_int": 1836,
+      "timestamp_label": "30:36",
+      "text": "the baseline is set,"
+    },
+    {
+      "start": 1837.95,
+      "end": 1839.589,
+      "start_int": 1837,
+      "timestamp_label": "30:37",
+      "text": "and it's expected that"
+    },
+    {
+      "start": 1839.589,
+      "end": 1844.509,
+      "start_int": 1839,
+      "timestamp_label": "30:39",
+      "text": "the ECP RFP process is now in effect,"
+    },
+    {
+      "start": 1844.509,
+      "end": 1847.029,
+      "start_int": 1844,
+      "timestamp_label": "30:44",
+      "text": "which means that we are expecting"
+    },
+    {
+      "start": 1847.029,
+      "end": 1848.629,
+      "start_int": 1847,
+      "timestamp_label": "30:47",
+      "text": "the changed information to"
+    },
+    {
+      "start": 1848.629,
+      "end": 1851.149,
+      "start_int": 1848,
+      "timestamp_label": "30:48",
+      "text": "be flowing to the supply system."
+    },
+    {
+      "start": 1851.15,
+      "end": 1854.629,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "The verification tasks conducted by"
+    },
+    {
+      "start": 1854.629,
+      "end": 1858.63,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "supplied aren't addressed in any CM guidance,"
+    },
+    {
+      "start": 1858.63,
+      "end": 1860.149,
+      "start_int": 1858,
+      "timestamp_label": "30:58",
+      "text": "but it ensures that"
+    },
+    {
+      "start": 1860.149,
+      "end": 1862.789,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "we are doing our part in the process."
+    },
+    {
+      "start": 1862.789,
+      "end": 1865.47,
+      "start_int": 1862,
+      "timestamp_label": "31:02",
+      "text": "Some of these tasks include"
+    },
+    {
+      "start": 1865.47,
+      "end": 1866.789,
+      "start_int": 1865,
+      "timestamp_label": "31:05",
+      "text": "the verification that the"
+    },
+    {
+      "start": 1866.789,
+      "end": 1868.669,
+      "start_int": 1866,
+      "timestamp_label": "31:06",
+      "text": "tech data packages are"
+    },
+    {
+      "start": 1868.669,
+      "end": 1870.83,
+      "start_int": 1868,
+      "timestamp_label": "31:08",
+      "text": "updated when new solicitations"
+    },
+    {
+      "start": 1870.83,
+      "end": 1871.829,
+      "start_int": 1870,
+      "timestamp_label": "31:10",
+      "text": "for the product are put"
+    },
+    {
+      "start": 1871.829,
+      "end": 1873.789,
+      "start_int": 1871,
+      "timestamp_label": "31:11",
+      "text": "out and confirming we have"
+    },
+    {
+      "start": 1873.789,
+      "end": 1877.099,
+      "start_int": 1873,
+      "timestamp_label": "31:13",
+      "text": "the latest approved configuration in file."
+    },
+    {
+      "start": 1877.099,
+      "end": 1879.65,
+      "start_int": 1877,
+      "timestamp_label": "31:17",
+      "text": "Other tasks are verifying"
+    },
+    {
+      "start": 1879.65,
+      "end": 1882.77,
+      "start_int": 1879,
+      "timestamp_label": "31:19",
+      "text": "CM processes are documented properly"
+    },
+    {
+      "start": 1882.77,
+      "end": 1885.289,
+      "start_int": 1882,
+      "timestamp_label": "31:22",
+      "text": "and that they are communicated to"
+    },
+    {
+      "start": 1885.289,
+      "end": 1887.53,
+      "start_int": 1885,
+      "timestamp_label": "31:25",
+      "text": "stakeholders and verifying that"
+    },
+    {
+      "start": 1887.53,
+      "end": 1889.89,
+      "start_int": 1887,
+      "timestamp_label": "31:27",
+      "text": "the processes are in place,"
+    },
+    {
+      "start": 1889.89,
+      "end": 1894.244,
+      "start_int": 1889,
+      "timestamp_label": "31:29",
+      "text": "are adequate, effective, and followed."
+    },
+    {
+      "start": 1894.244,
+      "end": 1897.959,
+      "start_int": 1894,
+      "timestamp_label": "31:34",
+      "text": "And the other side of this function is audit,"
+    },
+    {
+      "start": 1897.959,
+      "end": 1900.799,
+      "start_int": 1897,
+      "timestamp_label": "31:37",
+      "text": "which is meant to be a review of records and"
+    },
+    {
+      "start": 1900.799,
+      "end": 1903.639,
+      "start_int": 1900,
+      "timestamp_label": "31:40",
+      "text": "data confirming that the product"
+    },
+    {
+      "start": 1903.639,
+      "end": 1905.999,
+      "start_int": 1903,
+      "timestamp_label": "31:43",
+      "text": "is conforming to all requirements."
+    },
+    {
+      "start": 1905.999,
+      "end": 1907.959,
+      "start_int": 1905,
+      "timestamp_label": "31:45",
+      "text": "For this part of the function,"
+    },
+    {
+      "start": 1907.959,
+      "end": 1910.799,
+      "start_int": 1907,
+      "timestamp_label": "31:47",
+      "text": "supply has the responsibility to"
+    },
+    {
+      "start": 1910.799,
+      "end": 1914.199,
+      "start_int": 1910,
+      "timestamp_label": "31:50",
+      "text": "establish procedures for first article test,"
+    },
+    {
+      "start": 1914.199,
+      "end": 1916.839,
+      "start_int": 1914,
+      "timestamp_label": "31:54",
+      "text": "production lot tests on material"
+    },
+    {
+      "start": 1916.839,
+      "end": 1920.65,
+      "start_int": 1916,
+      "timestamp_label": "31:56",
+      "text": "sourced from secondary vendors, In addition,"
+    },
+    {
+      "start": 1920.65,
+      "end": 1924.609,
+      "start_int": 1920,
+      "timestamp_label": "32:00",
+      "text": "supply heads will also coordinate and conduct"
+    },
+    {
+      "start": 1924.609,
+      "end": 1926.369,
+      "start_int": 1924,
+      "timestamp_label": "32:04",
+      "text": "first article test and"
+    },
+    {
+      "start": 1926.369,
+      "end": 1927.849,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "production line test with"
+    },
+    {
+      "start": 1927.849,
+      "end": 1930.09,
+      "start_int": 1927,
+      "timestamp_label": "32:07",
+      "text": "vendor and other government reps."
+    },
+    {
+      "start": 1930.09,
+      "end": 1932.209,
+      "start_int": 1930,
+      "timestamp_label": "32:10",
+      "text": "There is also support of"
+    },
+    {
+      "start": 1932.209,
+      "end": 1933.729,
+      "start_int": 1932,
+      "timestamp_label": "32:12",
+      "text": "the program's physical"
+    },
+    {
+      "start": 1933.729,
+      "end": 1936.49,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "configuration audit if required."
+    },
+    {
+      "start": 1936.49,
+      "end": 1938.449,
+      "start_int": 1936,
+      "timestamp_label": "32:16",
+      "text": "On the data side, there"
+    },
+    {
+      "start": 1938.449,
+      "end": 1939.85,
+      "start_int": 1938,
+      "timestamp_label": "32:18",
+      "text": "is a coordination between"
+    },
+    {
+      "start": 1939.85,
+      "end": 1941.769,
+      "start_int": 1939,
+      "timestamp_label": "32:19",
+      "text": "the allowancers and"
+    },
+    {
+      "start": 1941.769,
+      "end": 1943.85,
+      "start_int": 1941,
+      "timestamp_label": "32:21",
+      "text": "the operations departments"
+    },
+    {
+      "start": 1943.85,
+      "end": 1946.449,
+      "start_int": 1943,
+      "timestamp_label": "32:23",
+      "text": "to review and correct bills of material."
+    },
+    {
+      "start": 1946.449,
+      "end": 1949.25,
+      "start_int": 1946,
+      "timestamp_label": "32:26",
+      "text": "So in short, the supply input"
+    },
+    {
+      "start": 1949.25,
+      "end": 1950.57,
+      "start_int": 1949,
+      "timestamp_label": "32:29",
+      "text": "in this function is to"
+    },
+    {
+      "start": 1950.57,
+      "end": 1952.529,
+      "start_int": 1950,
+      "timestamp_label": "32:30",
+      "text": "ensure that the data we have is correct."
+    },
+    {
+      "start": 1952.529,
+      "end": 1955.73,
+      "start_int": 1952,
+      "timestamp_label": "32:32",
+      "text": "Alternately source parts are produced"
+    },
+    {
+      "start": 1955.73,
+      "end": 1959.139,
+      "start_int": 1955,
+      "timestamp_label": "32:35",
+      "text": "just and support to"
+    },
+    {
+      "start": 1959.139,
+      "end": 1961.579,
+      "start_int": 1959,
+      "timestamp_label": "32:39",
+      "text": "the program is provided as required."
+    },
+    {
+      "start": 1961.579,
+      "end": 1963.38,
+      "start_int": 1961,
+      "timestamp_label": "32:41",
+      "text": "The four functions of"
+    },
+    {
+      "start": 1963.38,
+      "end": 1964.9,
+      "start_int": 1963,
+      "timestamp_label": "32:43",
+      "text": "configuration, verification,"
+    },
+    {
+      "start": 1964.9,
+      "end": 1967.98,
+      "start_int": 1964,
+      "timestamp_label": "32:44",
+      "text": "and audit have corresponding supply tasks,"
+    },
+    {
+      "start": 1967.98,
+      "end": 1970.379,
+      "start_int": 1967,
+      "timestamp_label": "32:47",
+      "text": "such as the CM lead and"
+    },
+    {
+      "start": 1970.379,
+      "end": 1973.059,
+      "start_int": 1970,
+      "timestamp_label": "32:50",
+      "text": "the community of practice aligning with"
+    },
+    {
+      "start": 1973.059,
+      "end": 1975.259,
+      "start_int": 1973,
+      "timestamp_label": "32:53",
+      "text": "CBA one and ensuring that"
+    },
+    {
+      "start": 1975.259,
+      "end": 1979.455,
+      "start_int": 1975,
+      "timestamp_label": "32:55",
+      "text": "CM processes are in place and executable."
+    },
+    {
+      "start": 1979.455,
+      "end": 1982.53,
+      "start_int": 1979,
+      "timestamp_label": "32:59",
+      "text": "As mentioned in the previous slide,"
+    },
+    {
+      "start": 1982.53,
+      "end": 1985.809,
+      "start_int": 1982,
+      "timestamp_label": "33:02",
+      "text": "conducting first article test and"
+    },
+    {
+      "start": 1985.809,
+      "end": 1990.249,
+      "start_int": 1985,
+      "timestamp_label": "33:05",
+      "text": "PLTs on the second source material aligns"
+    },
+    {
+      "start": 1990.249,
+      "end": 1992.169,
+      "start_int": 1990,
+      "timestamp_label": "33:10",
+      "text": "with CVA two while"
+    },
+    {
+      "start": 1992.169,
+      "end": 1994.61,
+      "start_int": 1992,
+      "timestamp_label": "33:12",
+      "text": "performing supply files maintenance"
+    },
+    {
+      "start": 1994.61,
+      "end": 1997.529,
+      "start_int": 1994,
+      "timestamp_label": "33:14",
+      "text": "to verify our data in"
+    },
+    {
+      "start": 1997.529,
+      "end": 1999.49,
+      "start_int": 1997,
+      "timestamp_label": "33:17",
+      "text": "Navy ERP matches"
+    },
+    {
+      "start": 1999.49,
+      "end": 2003.649,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "the Cisco's data aligns with CVA three."
+    },
+    {
+      "start": 2003.649,
+      "end": 2005.729,
+      "start_int": 2003,
+      "timestamp_label": "33:23",
+      "text": "The provisioning process and"
+    },
+    {
+      "start": 2005.729,
+      "end": 2007.889,
+      "start_int": 2005,
+      "timestamp_label": "33:25",
+      "text": "ensuring that there is no duplication of"
+    },
+    {
+      "start": 2007.889,
+      "end": 2012.489,
+      "start_int": 2007,
+      "timestamp_label": "33:27",
+      "text": "information and that each NSN identifies"
+    },
+    {
+      "start": 2012.489,
+      "end": 2014.369,
+      "start_int": 2012,
+      "timestamp_label": "33:32",
+      "text": "a single distinct item of"
+    },
+    {
+      "start": 2014.369,
+      "end": 2018.449,
+      "start_int": 2014,
+      "timestamp_label": "33:34",
+      "text": "supply aligns with CVA three and four."
+    },
+    {
+      "start": 2018.98,
+      "end": 2021.62,
+      "start_int": 2018,
+      "timestamp_label": "33:38",
+      "text": "Knowledge point question."
+    },
+    {
+      "start": 2021.62,
+      "end": 2024.099,
+      "start_int": 2021,
+      "timestamp_label": "33:41",
+      "text": "One of the audit tasks for supply"
+    },
+    {
+      "start": 2024.099,
+      "end": 2028.1,
+      "start_int": 2024,
+      "timestamp_label": "33:44",
+      "text": "is PCA on CSI system,"
+    },
+    {
+      "start": 2028.1,
+      "end": 2031.379,
+      "start_int": 2028,
+      "timestamp_label": "33:48",
+      "text": "auditing vendors financial data,"
+    },
+    {
+      "start": 2031.379,
+      "end": 2033.299,
+      "start_int": 2031,
+      "timestamp_label": "33:51",
+      "text": "first article test,"
+    },
+    {
+      "start": 2033.299,
+      "end": 2035.019,
+      "start_int": 2033,
+      "timestamp_label": "33:53",
+      "text": "production line testing"
+    },
+    {
+      "start": 2035.019,
+      "end": 2036.779,
+      "start_int": 2035,
+      "timestamp_label": "33:55",
+      "text": "for alternative sources,"
+    },
+    {
+      "start": 2036.779,
+      "end": 2039.3,
+      "start_int": 2036,
+      "timestamp_label": "33:56",
+      "text": "D, none of the above."
+    },
+    {
+      "start": 2041.539,
+      "end": 2044.979,
+      "start_int": 2041,
+      "timestamp_label": "34:01",
+      "text": "The answer is C,"
+    },
+    {
+      "start": 2044.979,
+      "end": 2047.179,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "which is on slide 34,"
+    },
+    {
+      "start": 2047.179,
+      "end": 2051.3,
+      "start_int": 2047,
+      "timestamp_label": "34:07",
+      "text": "FAT and PLT for alternate sources."
+    },
+    {
+      "start": 2058.539,
+      "end": 2062.139,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "All right. So some key takeaways."
+    },
+    {
+      "start": 2062.139,
+      "end": 2064.259,
+      "start_int": 2062,
+      "timestamp_label": "34:22",
+      "text": "If you take nothing else from this webinar,"
+    },
+    {
+      "start": 2064.259,
+      "end": 2066.379,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "we'd like you to remember that sustainment is"
+    },
+    {
+      "start": 2066.379,
+      "end": 2068.739,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "the longest phase of a product's life cycle,"
+    },
+    {
+      "start": 2068.739,
+      "end": 2071.139,
+      "start_int": 2068,
+      "timestamp_label": "34:28",
+      "text": "which means supply needs to be involved in"
+    },
+    {
+      "start": 2071.139,
+      "end": 2072.499,
+      "start_int": 2071,
+      "timestamp_label": "34:31",
+      "text": "CM to ensure"
+    },
+    {
+      "start": 2072.499,
+      "end": 2075.099,
+      "start_int": 2072,
+      "timestamp_label": "34:32",
+      "text": "effective configuration management."
+    },
+    {
+      "start": 2075.099,
+      "end": 2077.219,
+      "start_int": 2075,
+      "timestamp_label": "34:35",
+      "text": "Also, the role of"
+    },
+    {
+      "start": 2077.219,
+      "end": 2079.619,
+      "start_int": 2077,
+      "timestamp_label": "34:37",
+      "text": "supply and CM comes in many forms and"
+    },
+    {
+      "start": 2079.619,
+      "end": 2081.379,
+      "start_int": 2079,
+      "timestamp_label": "34:39",
+      "text": "can be found in each function from"
+    },
+    {
+      "start": 2081.379,
+      "end": 2082.779,
+      "start_int": 2081,
+      "timestamp_label": "34:41",
+      "text": "planning and management to"
+    },
+    {
+      "start": 2082.779,
+      "end": 2084.299,
+      "start_int": 2082,
+      "timestamp_label": "34:42",
+      "text": "verification and audit."
+    },
+    {
+      "start": 2084.299,
+      "end": 2086.299,
+      "start_int": 2084,
+      "timestamp_label": "34:44",
+      "text": "And if we haven't stressed this enough,"
+    },
+    {
+      "start": 2086.299,
+      "end": 2088.659,
+      "start_int": 2086,
+      "timestamp_label": "34:46",
+      "text": "communication is key,"
+    },
+    {
+      "start": 2088.659,
+      "end": 2090.459,
+      "start_int": 2088,
+      "timestamp_label": "34:48",
+      "text": "well defined processes"
+    },
+    {
+      "start": 2090.459,
+      "end": 2092.019,
+      "start_int": 2090,
+      "timestamp_label": "34:50",
+      "text": "and open communication between"
+    },
+    {
+      "start": 2092.019,
+      "end": 2094.419,
+      "start_int": 2092,
+      "timestamp_label": "34:52",
+      "text": "all stakeholders is vital to"
+    },
+    {
+      "start": 2094.419,
+      "end": 2095.899,
+      "start_int": 2094,
+      "timestamp_label": "34:54",
+      "text": "ensuring the fleet gets"
+    },
+    {
+      "start": 2095.899,
+      "end": 2098.379,
+      "start_int": 2095,
+      "timestamp_label": "34:55",
+      "text": "the right part on time."
+    },
+    {
+      "start": 2102.699,
+      "end": 2105.539,
+      "start_int": 2102,
+      "timestamp_label": "35:02",
+      "text": "To summarize supply's role"
+    },
+    {
+      "start": 2105.539,
+      "end": 2106.579,
+      "start_int": 2105,
+      "timestamp_label": "35:05",
+      "text": "in the various functions"
+    },
+    {
+      "start": 2106.579,
+      "end": 2107.739,
+      "start_int": 2106,
+      "timestamp_label": "35:06",
+      "text": "that we went over today."
+    },
+    {
+      "start": 2107.739,
+      "end": 2110.299,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "For planning and management, we helped to set"
+    },
+    {
+      "start": 2110.299,
+      "end": 2111.379,
+      "start_int": 2110,
+      "timestamp_label": "35:10",
+      "text": "up the transition from"
+    },
+    {
+      "start": 2111.379,
+      "end": 2113.899,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "production to sustainment."
+    },
+    {
+      "start": 2114.17,
+      "end": 2117.529,
+      "start_int": 2114,
+      "timestamp_label": "35:14",
+      "text": "Provisioning and populating the supply system"
+    },
+    {
+      "start": 2117.529,
+      "end": 2118.489,
+      "start_int": 2117,
+      "timestamp_label": "35:17",
+      "text": "is the focal point of"
+    },
+    {
+      "start": 2118.489,
+      "end": 2120.369,
+      "start_int": 2118,
+      "timestamp_label": "35:18",
+      "text": "configuration identification."
+    },
+    {
+      "start": 2120.369,
+      "end": 2122.329,
+      "start_int": 2120,
+      "timestamp_label": "35:20",
+      "text": "Providing the logistics impact"
+    },
+    {
+      "start": 2122.329,
+      "end": 2123.449,
+      "start_int": 2122,
+      "timestamp_label": "35:22",
+      "text": "of changes and reviewing"
+    },
+    {
+      "start": 2123.449,
+      "end": 2125.169,
+      "start_int": 2123,
+      "timestamp_label": "35:23",
+      "text": "variances is how supply provides"
+    },
+    {
+      "start": 2125.169,
+      "end": 2125.969,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "a value add to"
+    },
+    {
+      "start": 2125.969,
+      "end": 2127.809,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "configuration change management."
+    },
+    {
+      "start": 2127.809,
+      "end": 2130.089,
+      "start_int": 2127,
+      "timestamp_label": "35:27",
+      "text": "For status accounting, and as"
+    },
+    {
+      "start": 2130.089,
+      "end": 2132.289,
+      "start_int": 2130,
+      "timestamp_label": "35:30",
+      "text": "the Navy's configuration data accountant,"
+    },
+    {
+      "start": 2132.289,
+      "end": 2134.329,
+      "start_int": 2132,
+      "timestamp_label": "35:32",
+      "text": "WSS ensures the information"
+    },
+    {
+      "start": 2134.329,
+      "end": 2137.209,
+      "start_int": 2134,
+      "timestamp_label": "35:34",
+      "text": "needed to order parts is accurate."
+    },
+    {
+      "start": 2137.209,
+      "end": 2139.209,
+      "start_int": 2137,
+      "timestamp_label": "35:37",
+      "text": "And we also help to verify"
+    },
+    {
+      "start": 2139.209,
+      "end": 2142.249,
+      "start_int": 2139,
+      "timestamp_label": "35:39",
+      "text": "data accuracy and support various audits."
+    },
+    {
+      "start": 2142.249,
+      "end": 2144.649,
+      "start_int": 2142,
+      "timestamp_label": "35:42",
+      "text": "In conclusion, the role of"
+    },
+    {
+      "start": 2144.649,
+      "end": 2145.889,
+      "start_int": 2144,
+      "timestamp_label": "35:44",
+      "text": "supply and CM may not"
+    },
+    {
+      "start": 2145.889,
+      "end": 2147.169,
+      "start_int": 2145,
+      "timestamp_label": "35:45",
+      "text": "be addressed in most guidance,"
+    },
+    {
+      "start": 2147.169,
+      "end": 2148.289,
+      "start_int": 2147,
+      "timestamp_label": "35:47",
+      "text": "but that doesn't detract from the"
+    },
+    {
+      "start": 2148.289,
+      "end": 2149.849,
+      "start_int": 2148,
+      "timestamp_label": "35:48",
+      "text": "contributions we have made to the process"
+    },
+    {
+      "start": 2149.849,
+      "end": 2151.569,
+      "start_int": 2149,
+      "timestamp_label": "35:49",
+      "text": "to help ensure fleet readiness"
+    },
+    {
+      "start": 2151.569,
+      "end": 2153.689,
+      "start_int": 2151,
+      "timestamp_label": "35:51",
+      "text": "and mission success."
+    },
+    {
+      "start": 2154.17,
+      "end": 2156.249,
+      "start_int": 2154,
+      "timestamp_label": "35:54",
+      "text": "Okay."
+    },
+    {
+      "start": 2157.71,
+      "end": 2159.869,
+      "start_int": 2157,
+      "timestamp_label": "35:57",
+      "text": "If you're looking for some"
+    },
+    {
+      "start": 2159.869,
+      "end": 2161.429,
+      "start_int": 2159,
+      "timestamp_label": "35:59",
+      "text": "additional resources"
+    },
+    {
+      "start": 2161.429,
+      "end": 2162.269,
+      "start_int": 2161,
+      "timestamp_label": "36:01",
+      "text": "related to"
+    },
+    {
+      "start": 2162.269,
+      "end": 2164.909,
+      "start_int": 2162,
+      "timestamp_label": "36:02",
+      "text": "configuration management and training,"
+    },
+    {
+      "start": 2165.07,
+      "end": 2167.869,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "there's a few references"
+    },
+    {
+      "start": 2167.869,
+      "end": 2171.309,
+      "start_int": 2167,
+      "timestamp_label": "36:07",
+      "text": "here that you can use that are available."
+    },
+    {
+      "start": 2173.15,
+      "end": 2176.229,
+      "start_int": 2173,
+      "timestamp_label": "36:13",
+      "text": "And as far as points of"
+    },
+    {
+      "start": 2176.229,
+      "end": 2179.269,
+      "start_int": 2176,
+      "timestamp_label": "36:16",
+      "text": "contact for Navy configuration management,"
+    },
+    {
+      "start": 2179.269,
+      "end": 2183.349,
+      "start_int": 2179,
+      "timestamp_label": "36:19",
+      "text": "we have the five Ciscos here and"
+    },
+    {
+      "start": 2183.349,
+      "end": 2186.47,
+      "start_int": 2183,
+      "timestamp_label": "36:23",
+      "text": "their SMEs and points"
+    },
+    {
+      "start": 2186.47,
+      "end": 2189.069,
+      "start_int": 2186,
+      "timestamp_label": "36:26",
+      "text": "of contact information here that you can use."
+    },
+    {
+      "start": 2194.11,
+      "end": 2197.229,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "Do we have any questions?"
+    },
+    {
+      "start": 2214.989,
+      "end": 2217.189,
+      "start_int": 2214,
+      "timestamp_label": "36:54",
+      "text": "All right. So there were"
+    },
+    {
+      "start": 2217.189,
+      "end": 2219.549,
+      "start_int": 2217,
+      "timestamp_label": "36:57",
+      "text": "a few questions that were asked on"
+    },
+    {
+      "start": 2219.549,
+      "end": 2222.759,
+      "start_int": 2219,
+      "timestamp_label": "36:59",
+      "text": "the during registration"
+    },
+    {
+      "start": 2222.759,
+      "end": 2224.239,
+      "start_int": 2222,
+      "timestamp_label": "37:02",
+      "text": "that I wanted to go over quick."
+    },
+    {
+      "start": 2224.239,
+      "end": 2226.239,
+      "start_int": 2224,
+      "timestamp_label": "37:04",
+      "text": "We got answers for some of them."
+    },
+    {
+      "start": 2226.239,
+      "end": 2228.359,
+      "start_int": 2226,
+      "timestamp_label": "37:06",
+      "text": "So the one question was,"
+    },
+    {
+      "start": 2228.359,
+      "end": 2230.039,
+      "start_int": 2228,
+      "timestamp_label": "37:08",
+      "text": "how does the supply system"
+    },
+    {
+      "start": 2230.039,
+      "end": 2232.039,
+      "start_int": 2230,
+      "timestamp_label": "37:10",
+      "text": "audit the configuration design"
+    },
+    {
+      "start": 2232.039,
+      "end": 2233.6,
+      "start_int": 2232,
+      "timestamp_label": "37:12",
+      "text": "of the items they procure?"
+    },
+    {
+      "start": 2233.6,
+      "end": 2235.079,
+      "start_int": 2233,
+      "timestamp_label": "37:13",
+      "text": "In other words, verifying"
+    },
+    {
+      "start": 2235.079,
+      "end": 2237.199,
+      "start_int": 2235,
+      "timestamp_label": "37:15",
+      "text": "the part truly matches the drawing."
+    },
+    {
+      "start": 2237.199,
+      "end": 2240.759,
+      "start_int": 2237,
+      "timestamp_label": "37:17",
+      "text": "So this is really a multifaceted answer."
+    },
+    {
+      "start": 2240.759,
+      "end": 2242.559,
+      "start_int": 2240,
+      "timestamp_label": "37:20",
+      "text": "For primary sources of supply,"
+    },
+    {
+      "start": 2242.559,
+      "end": 2244.239,
+      "start_int": 2242,
+      "timestamp_label": "37:22",
+      "text": "meaning the prime or the OEM,"
+    },
+    {
+      "start": 2244.239,
+      "end": 2246.56,
+      "start_int": 2244,
+      "timestamp_label": "37:24",
+      "text": "the physical configuration audit,"
+    },
+    {
+      "start": 2246.56,
+      "end": 2247.84,
+      "start_int": 2246,
+      "timestamp_label": "37:26",
+      "text": "you know, is completed,"
+    },
+    {
+      "start": 2247.84,
+      "end": 2248.999,
+      "start_int": 2247,
+      "timestamp_label": "37:27",
+      "text": "and there should be reviews by"
+    },
+    {
+      "start": 2248.999,
+      "end": 2251.239,
+      "start_int": 2248,
+      "timestamp_label": "37:28",
+      "text": "DCMA during the contracts period of"
+    },
+    {
+      "start": 2251.239,
+      "end": 2252.839,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "performance as part of"
+    },
+    {
+      "start": 2252.839,
+      "end": 2254.479,
+      "start_int": 2252,
+      "timestamp_label": "37:32",
+      "text": "the acceptance inspections to"
+    },
+    {
+      "start": 2254.479,
+      "end": 2255.679,
+      "start_int": 2254,
+      "timestamp_label": "37:34",
+      "text": "verify that the part"
+    },
+    {
+      "start": 2255.679,
+      "end": 2257.379,
+      "start_int": 2255,
+      "timestamp_label": "37:35",
+      "text": "actually matches the drawing."
+    },
+    {
+      "start": 2257.379,
+      "end": 2258.999,
+      "start_int": 2257,
+      "timestamp_label": "37:37",
+      "text": "And then, like we talked about"
+    },
+    {
+      "start": 2258.999,
+      "end": 2260.44,
+      "start_int": 2258,
+      "timestamp_label": "37:38",
+      "text": "in one of the earlier slides,"
+    },
+    {
+      "start": 2260.44,
+      "end": 2263.68,
+      "start_int": 2260,
+      "timestamp_label": "37:40",
+      "text": "so for second or alternate source items,"
+    },
+    {
+      "start": 2263.68,
+      "end": 2265.439,
+      "start_int": 2263,
+      "timestamp_label": "37:43",
+      "text": "a first article test may be"
+    },
+    {
+      "start": 2265.439,
+      "end": 2267.639,
+      "start_int": 2265,
+      "timestamp_label": "37:45",
+      "text": "required based on the contract terms,"
+    },
+    {
+      "start": 2267.639,
+      "end": 2268.559,
+      "start_int": 2267,
+      "timestamp_label": "37:47",
+      "text": "and those will be"
+    },
+    {
+      "start": 2268.559,
+      "end": 2270.399,
+      "start_int": 2268,
+      "timestamp_label": "37:48",
+      "text": "conducted may be conducted by"
+    },
+    {
+      "start": 2270.399,
+      "end": 2271.959,
+      "start_int": 2270,
+      "timestamp_label": "37:50",
+      "text": "supply before the vendor is given"
+    },
+    {
+      "start": 2271.959,
+      "end": 2274.279,
+      "start_int": 2271,
+      "timestamp_label": "37:51",
+      "text": "full approval for production."
+    },
+    {
+      "start": 2274.279,
+      "end": 2278.839,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "So let's see. What else do we have?"
+    },
+    {
+      "start": 2280.599,
+      "end": 2283.679,
+      "start_int": 2280,
+      "timestamp_label": "38:00",
+      "text": "All right. So another question here was,"
+    },
+    {
+      "start": 2283.679,
+      "end": 2285.839,
+      "start_int": 2283,
+      "timestamp_label": "38:03",
+      "text": "how do we ensure that the program offices are"
+    },
+    {
+      "start": 2285.839,
+      "end": 2287.039,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "providing configuration management"
+    },
+    {
+      "start": 2287.039,
+      "end": 2288.879,
+      "start_int": 2287,
+      "timestamp_label": "38:07",
+      "text": "to NAFSWSS?"
+    },
+    {
+      "start": 2288.879,
+      "end": 2290.559,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "I wasn't really certain"
+    },
+    {
+      "start": 2290.559,
+      "end": 2292.559,
+      "start_int": 2290,
+      "timestamp_label": "38:10",
+      "text": "what that question meant,"
+    },
+    {
+      "start": 2292.559,
+      "end": 2294.319,
+      "start_int": 2292,
+      "timestamp_label": "38:12",
+      "text": "but by, you know,"
+    },
+    {
+      "start": 2294.319,
+      "end": 2296.079,
+      "start_int": 2294,
+      "timestamp_label": "38:14",
+      "text": "providing configuration management,"
+    },
+    {
+      "start": 2296.079,
+      "end": 2297.839,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "I'm going to assume that you mean,"
+    },
+    {
+      "start": 2297.839,
+      "end": 2298.96,
+      "start_int": 2297,
+      "timestamp_label": "38:17",
+      "text": "how are we ensuring"
+    },
+    {
+      "start": 2298.96,
+      "end": 2301.679,
+      "start_int": 2298,
+      "timestamp_label": "38:18",
+      "text": "open communication with the program offices?"
+    },
+    {
+      "start": 2301.679,
+      "end": 2304.919,
+      "start_int": 2301,
+      "timestamp_label": "38:21",
+      "text": "First, Like we mentioned"
+    },
+    {
+      "start": 2304.919,
+      "end": 2306.32,
+      "start_int": 2304,
+      "timestamp_label": "38:24",
+      "text": "earlier in the presentation,"
+    },
+    {
+      "start": 2306.32,
+      "end": 2307.639,
+      "start_int": 2306,
+      "timestamp_label": "38:26",
+      "text": "right, WSS does not have"
+    },
+    {
+      "start": 2307.639,
+      "end": 2309.119,
+      "start_int": 2307,
+      "timestamp_label": "38:27",
+      "text": "any Class I change authority,"
+    },
+    {
+      "start": 2309.119,
+      "end": 2310.559,
+      "start_int": 2309,
+      "timestamp_label": "38:29",
+      "text": "but communication is key."
+    },
+    {
+      "start": 2310.559,
+      "end": 2311.319,
+      "start_int": 2310,
+      "timestamp_label": "38:30",
+      "text": "So part of"
+    },
+    {
+      "start": 2311.319,
+      "end": 2312.879,
+      "start_int": 2311,
+      "timestamp_label": "38:31",
+      "text": "this communication is ensuring that"
+    },
+    {
+      "start": 2312.879,
+      "end": 2314.159,
+      "start_int": 2312,
+      "timestamp_label": "38:32",
+      "text": "changes are documented and"
+    },
+    {
+      "start": 2314.159,
+      "end": 2315.639,
+      "start_int": 2314,
+      "timestamp_label": "38:34",
+      "text": "reviewed by all the stakeholders,"
+    },
+    {
+      "start": 2315.639,
+      "end": 2317.079,
+      "start_int": 2315,
+      "timestamp_label": "38:35",
+      "text": "including us if it affects"
+    },
+    {
+      "start": 2317.079,
+      "end": 2318.279,
+      "start_int": 2317,
+      "timestamp_label": "38:37",
+      "text": "an item of supply that we're"
+    },
+    {
+      "start": 2318.279,
+      "end": 2320.159,
+      "start_int": 2318,
+      "timestamp_label": "38:38",
+      "text": "responsible for as it may impact"
+    },
+    {
+      "start": 2320.159,
+      "end": 2321.319,
+      "start_int": 2320,
+      "timestamp_label": "38:40",
+      "text": "the future as it may"
+    },
+    {
+      "start": 2321.319,
+      "end": 2322.719,
+      "start_int": 2321,
+      "timestamp_label": "38:41",
+      "text": "impact future supply support,"
+    },
+    {
+      "start": 2322.719,
+      "end": 2323.84,
+      "start_int": 2322,
+      "timestamp_label": "38:42",
+      "text": "like spares requirements,"
+    },
+    {
+      "start": 2323.84,
+      "end": 2325.799,
+      "start_int": 2323,
+      "timestamp_label": "38:43",
+      "text": "wear out rates, and so on."
+    },
+    {
+      "start": 2325.799,
+      "end": 2327.479,
+      "start_int": 2325,
+      "timestamp_label": "38:45",
+      "text": "You know, in all cases,"
+    },
+    {
+      "start": 2327.479,
+      "end": 2329.079,
+      "start_int": 2327,
+      "timestamp_label": "38:47",
+      "text": "the program office is ultimately"
+    },
+    {
+      "start": 2329.079,
+      "end": 2329.799,
+      "start_int": 2329,
+      "timestamp_label": "38:49",
+      "text": "responsible for"
+    },
+    {
+      "start": 2329.799,
+      "end": 2331.679,
+      "start_int": 2329,
+      "timestamp_label": "38:49",
+      "text": "the configuration that they manage,"
+    },
+    {
+      "start": 2331.679,
+      "end": 2333.799,
+      "start_int": 2331,
+      "timestamp_label": "38:51",
+      "text": "but the roles and responsibilities of"
+    },
+    {
+      "start": 2333.799,
+      "end": 2334.919,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "all CM stakeholders should"
+    },
+    {
+      "start": 2334.919,
+      "end": 2336.399,
+      "start_int": 2334,
+      "timestamp_label": "38:54",
+      "text": "be addressed in a CM plan,"
+    },
+    {
+      "start": 2336.399,
+      "end": 2338.039,
+      "start_int": 2336,
+      "timestamp_label": "38:56",
+      "text": "and that plan communicated"
+    },
+    {
+      "start": 2338.039,
+      "end": 2340.079,
+      "start_int": 2338,
+      "timestamp_label": "38:58",
+      "text": "to all the stakeholders."
+    },
+    {
+      "start": 2343.309,
+      "end": 2346.509,
+      "start_int": 2343,
+      "timestamp_label": "39:03",
+      "text": "So let me see here."
+    },
+    {
+      "start": 2351.07,
+      "end": 2356.709,
+      "start_int": 2351,
+      "timestamp_label": "39:11",
+      "text": "Those were the main questions that I had got."
+    },
+    {
+      "start": 2356.709,
+      "end": 2358.309,
+      "start_int": 2356,
+      "timestamp_label": "39:16",
+      "text": "Do we have anything in the chat"
+    },
+    {
+      "start": 2358.309,
+      "end": 2360.429,
+      "start_int": 2358,
+      "timestamp_label": "39:18",
+      "text": "or anybody have any questions?"
+    },
+    {
+      "start": 2362.989,
+      "end": 2365.949,
+      "start_int": 2362,
+      "timestamp_label": "39:22",
+      "text": "There aren't any questions"
+    },
+    {
+      "start": 2365.949,
+      "end": 2367.069,
+      "start_int": 2365,
+      "timestamp_label": "39:25",
+      "text": "in the chat other than"
+    },
+    {
+      "start": 2367.069,
+      "end": 2370.349,
+      "start_int": 2367,
+      "timestamp_label": "39:27",
+      "text": "can I get a copy? Okay. It's posted?"
+    },
+    {
+      "start": 2370.349,
+      "end": 2371.749,
+      "start_int": 2370,
+      "timestamp_label": "39:30",
+      "text": "Yeah. It should be a copy"
+    },
+    {
+      "start": 2371.749,
+      "end": 2372.869,
+      "start_int": 2371,
+      "timestamp_label": "39:31",
+      "text": "of it should be loaded to"
+    },
+    {
+      "start": 2372.869,
+      "end": 2375.309,
+      "start_int": 2372,
+      "timestamp_label": "39:32",
+      "text": "the DAU site as"
+    },
+    {
+      "start": 2375.309,
+      "end": 2378.67,
+      "start_int": 2375,
+      "timestamp_label": "39:35",
+      "text": "part of the attachments for this webinar."
+    },
+    {
+      "start": 2378.96,
+      "end": 2381.279,
+      "start_int": 2378,
+      "timestamp_label": "39:38",
+      "text": "I was going to ask I have"
+    },
+    {
+      "start": 2381.279,
+      "end": 2382.839,
+      "start_int": 2381,
+      "timestamp_label": "39:41",
+      "text": "no further questions. Go ahead."
+    },
+    {
+      "start": 2382.839,
+      "end": 2383.28,
+      "start_int": 2382,
+      "timestamp_label": "39:42",
+      "text": "Sorry."
+    },
+    {
+      "start": 2383.28,
+      "end": 2385.359,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "Well, Brian, I was going to add something"
+    },
+    {
+      "start": 2385.359,
+      "end": 2388.279,
+      "start_int": 2385,
+      "timestamp_label": "39:45",
+      "text": "to the last question that you just answered."
+    },
+    {
+      "start": 2388.279,
+      "end": 2390.679,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "If there is a if you all have"
+    },
+    {
+      "start": 2390.679,
+      "end": 2393.879,
+      "start_int": 2390,
+      "timestamp_label": "39:50",
+      "text": "a Nan Sp has a question about"
+    },
+    {
+      "start": 2393.879,
+      "end": 2397.959,
+      "start_int": 2393,
+      "timestamp_label": "39:53",
+      "text": "the procurement for the part"
+    },
+    {
+      "start": 2397.959,
+      "end": 2401.759,
+      "start_int": 2397,
+      "timestamp_label": "39:57",
+      "text": "that you're, you know, you're working."
+    },
+    {
+      "start": 2402.32,
+      "end": 2406.799,
+      "start_int": 2402,
+      "timestamp_label": "40:02",
+      "text": "There's a process to query,"
+    },
+    {
+      "start": 2406.799,
+      "end": 2411.32,
+      "start_int": 2406,
+      "timestamp_label": "40:06",
+      "text": "typically the ISCA asking"
+    },
+    {
+      "start": 2411.32,
+      "end": 2414.954,
+      "start_int": 2411,
+      "timestamp_label": "40:11",
+      "text": "for technical information about the part."
+    },
+    {
+      "start": 2414.954,
+      "end": 2417.509,
+      "start_int": 2414,
+      "timestamp_label": "40:14",
+      "text": "And the program office and"
+    },
+    {
+      "start": 2417.509,
+      "end": 2420.589,
+      "start_int": 2417,
+      "timestamp_label": "40:17",
+      "text": "the CM person should,"
+    },
+    {
+      "start": 2420.589,
+      "end": 2424.069,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "you know, should be aware of that process."
+    },
+    {
+      "start": 2424.559,
+      "end": 2426.599,
+      "start_int": 2424,
+      "timestamp_label": "40:24",
+      "text": "Good point."
+    },
+    {
+      "start": 2426.599,
+      "end": 2428.119,
+      "start_int": 2426,
+      "timestamp_label": "40:26",
+      "text": "Yeah, I don't know if that"
+    },
+    {
+      "start": 2428.119,
+      "end": 2429.319,
+      "start_int": 2428,
+      "timestamp_label": "40:28",
+      "text": "help if that helps,"
+    },
+    {
+      "start": 2429.319,
+      "end": 2430.119,
+      "start_int": 2429,
+      "timestamp_label": "40:29",
+      "text": "but that's part of"
+    },
+    {
+      "start": 2430.119,
+      "end": 2432.519,
+      "start_int": 2430,
+      "timestamp_label": "40:30",
+      "text": "that communication you're talking about."
+    },
+    {
+      "start": 2432.519,
+      "end": 2437.919,
+      "start_int": 2432,
+      "timestamp_label": "40:32",
+      "text": "Absolutely. That's we struggled"
+    },
+    {
+      "start": 2437.919,
+      "end": 2438.719,
+      "start_int": 2437,
+      "timestamp_label": "40:37",
+      "text": "when we were putting"
+    },
+    {
+      "start": 2438.719,
+      "end": 2439.639,
+      "start_int": 2438,
+      "timestamp_label": "40:38",
+      "text": "this together whether or not"
+    },
+    {
+      "start": 2439.639,
+      "end": 2441.559,
+      "start_int": 2439,
+      "timestamp_label": "40:39",
+      "text": "to go into all the nuances,"
+    },
+    {
+      "start": 2441.559,
+      "end": 2443.079,
+      "start_int": 2441,
+      "timestamp_label": "40:41",
+      "text": "but that's just try to keep it"
+    },
+    {
+      "start": 2443.079,
+      "end": 2445.199,
+      "start_int": 2443,
+      "timestamp_label": "40:43",
+      "text": "a little bit higher level since there are"
+    },
+    {
+      "start": 2445.199,
+      "end": 2448.039,
+      "start_int": 2445,
+      "timestamp_label": "40:45",
+      "text": "some differing pathways for"
+    },
+    {
+      "start": 2448.039,
+      "end": 2449.559,
+      "start_int": 2448,
+      "timestamp_label": "40:48",
+      "text": "the communication depending if we're"
+    },
+    {
+      "start": 2449.559,
+      "end": 2451.399,
+      "start_int": 2449,
+      "timestamp_label": "40:49",
+      "text": "talking in aviation or maritime material."
+    },
+    {
+      "start": 2451.399,
+      "end": 2453.719,
+      "start_int": 2451,
+      "timestamp_label": "40:51",
+      "text": "So try to keep it a little simple."
+    },
+    {
+      "start": 2453.719,
+      "end": 2456.119,
+      "start_int": 2453,
+      "timestamp_label": "40:53",
+      "text": "But yeah, that's a very good point, Carol."
+    },
+    {
+      "start": 2456.119,
+      "end": 2462.979,
+      "start_int": 2456,
+      "timestamp_label": "40:56",
+      "text": "Thank you. All right."
+    },
+    {
+      "start": 2462.979,
+      "end": 2464.339,
+      "start_int": 2462,
+      "timestamp_label": "41:02",
+      "text": "If we have no other questions,"
+    },
+    {
+      "start": 2464.339,
+      "end": 2467.019,
+      "start_int": 2464,
+      "timestamp_label": "41:04",
+      "text": "I appreciate everybody tuning in today."
+    },
+    {
+      "start": 2467.019,
+      "end": 2470.659,
+      "start_int": 2467,
+      "timestamp_label": "41:07",
+      "text": "And next one will be April 24,"
+    },
+    {
+      "start": 2470.659,
+      "end": 2473.739,
+      "start_int": 2470,
+      "timestamp_label": "41:10",
+      "text": "implementation of CM changes."
+    },
+    {
+      "start": 2473.739,
+      "end": 2474.9,
+      "start_int": 2473,
+      "timestamp_label": "41:13",
+      "text": "Thanks for listening."
+    },
+    {
+      "start": 2474.9,
+      "end": 2476.939,
+      "start_int": 2474,
+      "timestamp_label": "41:14",
+      "text": "Yep. Thank you, everyone."
+    },
+    {
+      "start": 2479.659,
+      "end": 2482.459,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "Thanks, everyone for attending today."
+    },
+    {
+      "start": 2482.459,
+      "end": 2483.939,
+      "start_int": 2482,
+      "timestamp_label": "41:22",
+      "text": "You can find the slides on"
+    },
+    {
+      "start": 2483.939,
+      "end": 2485.979,
+      "start_int": 2483,
+      "timestamp_label": "41:23",
+      "text": "the event page under attachments,"
+    },
+    {
+      "start": 2485.979,
+      "end": 2487.82,
+      "start_int": 2485,
+      "timestamp_label": "41:25",
+      "text": "and you can access the short survey"
+    },
+    {
+      "start": 2487.82,
+      "end": 2489.619,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "at the link we put in chat or by"
+    },
+    {
+      "start": 2489.619,
+      "end": 2492.38,
+      "start_int": 2489,
+      "timestamp_label": "41:29",
+      "text": "visiting do dot g slash events"
+    },
+    {
+      "start": 2492.38,
+      "end": 2492.899,
+      "start_int": 2492,
+      "timestamp_label": "41:32",
+      "text": "where you can see"
+    },
+    {
+      "start": 2492.899,
+      "end": 2494.699,
+      "start_int": 2492,
+      "timestamp_label": "41:32",
+      "text": "it under participant resources."
+    },
+    {
+      "start": 2494.699,
+      "end": 2496.94,
+      "start_int": 2494,
+      "timestamp_label": "41:34",
+      "text": "Please follow your organizational guidance"
+    },
+    {
+      "start": 2496.94,
+      "end": 2498.579,
+      "start_int": 2496,
+      "timestamp_label": "41:36",
+      "text": "regarding requesting COPs."
+    },
+    {
+      "start": 2498.579,
+      "end": 2500.299,
+      "start_int": 2498,
+      "timestamp_label": "41:38",
+      "text": "And remember that the COPs for"
+    },
+    {
+      "start": 2500.299,
+      "end": 2502.499,
+      "start_int": 2500,
+      "timestamp_label": "41:40",
+      "text": "DAU events will not post automatically,"
+    },
+    {
+      "start": 2502.499,
+      "end": 2503.7,
+      "start_int": 2502,
+      "timestamp_label": "41:42",
+      "text": "and they must be requested"
+    },
+    {
+      "start": 2503.7,
+      "end": 2505.66,
+      "start_int": 2503,
+      "timestamp_label": "41:43",
+      "text": "separately through your chain of command."
+    },
+    {
+      "start": 2505.66,
+      "end": 2507.779,
+      "start_int": 2505,
+      "timestamp_label": "41:45",
+      "text": "We'll have a video of today's event"
+    },
+    {
+      "start": 2507.779,
+      "end": 2508.979,
+      "start_int": 2507,
+      "timestamp_label": "41:47",
+      "text": "available at the event page"
+    },
+    {
+      "start": 2508.979,
+      "end": 2510.139,
+      "start_int": 2508,
+      "timestamp_label": "41:48",
+      "text": "as soon as possible."
+    },
+    {
+      "start": 2510.139,
+      "end": 2512.139,
+      "start_int": 2510,
+      "timestamp_label": "41:50",
+      "text": "That concludes our webinar."
+    },
+    {
+      "start": 2512.139,
+      "end": 2513.059,
+      "start_int": 2512,
+      "timestamp_label": "41:52",
+      "text": "Thank you for visiting"
+    },
+    {
+      "start": 2513.059,
+      "end": 2515.419,
+      "start_int": 2513,
+      "timestamp_label": "41:53",
+      "text": "DAU and have a great day."
+    }
+  ]
+}

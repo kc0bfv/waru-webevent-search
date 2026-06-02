@@ -1,0 +1,7166 @@
+{
+  "id": "2024-07-25-don-cm-software-configuration-management",
+  "title": "DoN CM Software Configuration Management",
+  "date": "2024-07-25",
+  "event_url": "https://www.waru.edu/events/don-cm-software-configuration-management",
+  "entry_id": "1_4yokanf4",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_4yokanf4/version/100031",
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.864,
+      "start_int": 0,
+      "timestamp_label": "0:00",
+      "text": "Hello, and welcome to today's events."
+    },
+    {
+      "start": 2.864,
+      "end": 5.423,
+      "start_int": 2,
+      "timestamp_label": "0:02",
+      "text": "Before we begin, I would like to make"
+    },
+    {
+      "start": 5.423,
+      "end": 8.523,
+      "start_int": 5,
+      "timestamp_label": "0:05",
+      "text": "a few administrative announcements."
+    },
+    {
+      "start": 8.523,
+      "end": 11.983,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "If if you are unable to see the content,"
+    },
+    {
+      "start": 11.983,
+      "end": 14.783,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "please try disconnect to"
+    },
+    {
+      "start": 14.783,
+      "end": 17.763,
+      "start_int": 14,
+      "timestamp_label": "0:14",
+      "text": "organizational VP if possible."
+    },
+    {
+      "start": 17.763,
+      "end": 19.604,
+      "start_int": 17,
+      "timestamp_label": "0:17",
+      "text": "Otherwise you can use"
+    },
+    {
+      "start": 19.604,
+      "end": 21.643,
+      "start_int": 19,
+      "timestamp_label": "0:19",
+      "text": "the postal device today."
+    },
+    {
+      "start": 21.643,
+      "end": 24.044,
+      "start_int": 21,
+      "timestamp_label": "0:21",
+      "text": "Speaker fives are available"
+    },
+    {
+      "start": 24.044,
+      "end": 25.923,
+      "start_int": 24,
+      "timestamp_label": "0:24",
+      "text": "at the event page."
+    },
+    {
+      "start": 25.923,
+      "end": 32.413,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "Figure for those calling in."
+    },
+    {
+      "start": 33.454,
+      "end": 38.754,
+      "start_int": 33,
+      "timestamp_label": "0:33",
+      "text": "Today, police class events"
+    },
+    {
+      "start": 38.754,
+      "end": 42.554,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "to access the pages from the event calendar."
+    },
+    {
+      "start": 42.554,
+      "end": 45.134,
+      "start_int": 42,
+      "timestamp_label": "0:42",
+      "text": "Following the events,"
+    },
+    {
+      "start": 51.824,
+      "end": 54.823,
+      "start_int": 51,
+      "timestamp_label": "0:51",
+      "text": "Following the event,"
+    },
+    {
+      "start": 55.944,
+      "end": 59.483,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "please use we will"
+    },
+    {
+      "start": 59.483,
+      "end": 63.763,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "provide to access the Hurt survey."
+    },
+    {
+      "start": 63.763,
+      "end": 67.963,
+      "start_int": 63,
+      "timestamp_label": "1:03",
+      "text": "At the end, at the end,"
+    },
+    {
+      "start": 67.963,
+      "end": 70.623,
+      "start_int": 67,
+      "timestamp_label": "1:07",
+      "text": "you can request a certificate to be sent"
+    },
+    {
+      "start": 70.623,
+      "end": 73.543,
+      "start_int": 70,
+      "timestamp_label": "1:10",
+      "text": "to you which you can"
+    },
+    {
+      "start": 73.543,
+      "end": 83.104,
+      "start_int": 73,
+      "timestamp_label": "1:13",
+      "text": "use to request Continuous voting points."
+    },
+    {
+      "start": 83.104,
+      "end": 87.384,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "Please follow organization for guidance"
+    },
+    {
+      "start": 87.504,
+      "end": 91.824,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "regarding request sale please"
+    },
+    {
+      "start": 91.824,
+      "end": 95.324,
+      "start_int": 91,
+      "timestamp_label": "1:31",
+      "text": "and remember sale please D events."
+    },
+    {
+      "start": 95.324,
+      "end": 97.763,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "We got post automatically to"
+    },
+    {
+      "start": 97.763,
+      "end": 99.603,
+      "start_int": 97,
+      "timestamp_label": "1:37",
+      "text": "sale transcripts and"
+    },
+    {
+      "start": 99.603,
+      "end": 102.423,
+      "start_int": 99,
+      "timestamp_label": "1:39",
+      "text": "must be requested separately."
+    },
+    {
+      "start": 102.423,
+      "end": 104.063,
+      "start_int": 102,
+      "timestamp_label": "1:42",
+      "text": "Thank you. Now, I'll"
+    },
+    {
+      "start": 104.063,
+      "end": 106.343,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "turn it over to the team."
+    },
+    {
+      "start": 106.644,
+      "end": 110.024,
+      "start_int": 106,
+      "timestamp_label": "1:46",
+      "text": "Thank you, Michelle. And today,"
+    },
+    {
+      "start": 110.024,
+      "end": 111.724,
+      "start_int": 110,
+      "timestamp_label": "1:50",
+      "text": "we have Jonette Richardson."
+    },
+    {
+      "start": 111.724,
+      "end": 113.183,
+      "start_int": 111,
+      "timestamp_label": "1:51",
+      "text": "Miss Jonette Richardson is"
+    },
+    {
+      "start": 113.183,
+      "end": 115.163,
+      "start_int": 113,
+      "timestamp_label": "1:53",
+      "text": "currently an assistant program manager for"
+    },
+    {
+      "start": 115.163,
+      "end": 117.383,
+      "start_int": 115,
+      "timestamp_label": "1:55",
+      "text": "the Configuration Management for"
+    },
+    {
+      "start": 117.383,
+      "end": 120.124,
+      "start_int": 117,
+      "timestamp_label": "1:57",
+      "text": "all program management warfare programs."
+    },
+    {
+      "start": 120.124,
+      "end": 122.323,
+      "start_int": 120,
+      "timestamp_label": "2:00",
+      "text": "She has over 38 years experience in"
+    },
+    {
+      "start": 122.323,
+      "end": 124.364,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "configuration management and data management."
+    },
+    {
+      "start": 124.364,
+      "end": 125.663,
+      "start_int": 124,
+      "timestamp_label": "2:04",
+      "text": "Her experience spans over"
+    },
+    {
+      "start": 125.663,
+      "end": 127.844,
+      "start_int": 125,
+      "timestamp_label": "2:05",
+      "text": "14 years with the Department of Navy,"
+    },
+    {
+      "start": 127.844,
+      "end": 129.264,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "both as a contractor"
+    },
+    {
+      "start": 129.264,
+      "end": 130.523,
+      "start_int": 129,
+      "timestamp_label": "2:09",
+      "text": "and government civilian in"
+    },
+    {
+      "start": 130.523,
+      "end": 132.144,
+      "start_int": 130,
+      "timestamp_label": "2:10",
+      "text": "25 years with the National"
+    },
+    {
+      "start": 132.144,
+      "end": 134.203,
+      "start_int": 132,
+      "timestamp_label": "2:12",
+      "text": "Aeronautics and Space Administration."
+    },
+    {
+      "start": 134.203,
+      "end": 135.583,
+      "start_int": 134,
+      "timestamp_label": "2:14",
+      "text": "NASA at"
+    },
+    {
+      "start": 135.583,
+      "end": 137.824,
+      "start_int": 135,
+      "timestamp_label": "2:15",
+      "text": "the Johnson Space Center as a contractor."
+    },
+    {
+      "start": 137.824,
+      "end": 141.923,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "Jett defines and provides direction to CM and"
+    },
+    {
+      "start": 141.923,
+      "end": 144.643,
+      "start_int": 141,
+      "timestamp_label": "2:21",
+      "text": "DM policy addresses and procedures for"
+    },
+    {
+      "start": 144.643,
+      "end": 146.964,
+      "start_int": 144,
+      "timestamp_label": "2:24",
+      "text": "multiple large Navy network programs"
+    },
+    {
+      "start": 146.964,
+      "end": 149.603,
+      "start_int": 146,
+      "timestamp_label": "2:26",
+      "text": "within PM W 160."
+    },
+    {
+      "start": 149.603,
+      "end": 152.083,
+      "start_int": 149,
+      "timestamp_label": "2:29",
+      "text": "And over to you, Jone."
+    },
+    {
+      "start": 152.244,
+      "end": 156.604,
+      "start_int": 152,
+      "timestamp_label": "2:32",
+      "text": "Thank you very much. I will share my screen."
+    },
+    {
+      "start": 165.254,
+      "end": 166.553,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "All right."
+    },
+    {
+      "start": 166.553,
+      "end": 169.153,
+      "start_int": 166,
+      "timestamp_label": "2:46",
+      "text": "Hopefully everyone can see the screen."
+    },
+    {
+      "start": 169.153,
+      "end": 172.874,
+      "start_int": 169,
+      "timestamp_label": "2:49",
+      "text": "As Emmett said, my name is Shante Richardson,"
+    },
+    {
+      "start": 172.874,
+      "end": 174.294,
+      "start_int": 172,
+      "timestamp_label": "2:52",
+      "text": "and our topic for today"
+    },
+    {
+      "start": 174.294,
+      "end": 176.994,
+      "start_int": 174,
+      "timestamp_label": "2:54",
+      "text": "is Software Configuration Management."
+    },
+    {
+      "start": 176.994,
+      "end": 178.793,
+      "start_int": 176,
+      "timestamp_label": "2:56",
+      "text": "This is number eight in"
+    },
+    {
+      "start": 178.793,
+      "end": 181.613,
+      "start_int": 178,
+      "timestamp_label": "2:58",
+      "text": "our series of webinars."
+    },
+    {
+      "start": 181.894,
+      "end": 185.673,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "We are providing awareness"
+    },
+    {
+      "start": 185.673,
+      "end": 189.373,
+      "start_int": 185,
+      "timestamp_label": "3:05",
+      "text": "and introduction to CM is the goal for this."
+    },
+    {
+      "start": 190.534,
+      "end": 192.953,
+      "start_int": 190,
+      "timestamp_label": "3:10",
+      "text": "Our agenda for today,"
+    },
+    {
+      "start": 192.953,
+      "end": 195.353,
+      "start_int": 192,
+      "timestamp_label": "3:12",
+      "text": "we will be starting with"
+    },
+    {
+      "start": 195.353,
+      "end": 199.094,
+      "start_int": 195,
+      "timestamp_label": "3:15",
+      "text": "a quick review of configuration management,"
+    },
+    {
+      "start": 199.094,
+      "end": 201.193,
+      "start_int": 199,
+      "timestamp_label": "3:19",
+      "text": "and we will dive"
+    },
+    {
+      "start": 201.193,
+      "end": 202.513,
+      "start_int": 201,
+      "timestamp_label": "3:21",
+      "text": "into what is"
+    },
+    {
+      "start": 202.513,
+      "end": 205.074,
+      "start_int": 202,
+      "timestamp_label": "3:22",
+      "text": "software configuration management."
+    },
+    {
+      "start": 205.074,
+      "end": 209.974,
+      "start_int": 205,
+      "timestamp_label": "3:25",
+      "text": "And talk about the hardware versus software."
+    },
+    {
+      "start": 209.974,
+      "end": 212.413,
+      "start_int": 209,
+      "timestamp_label": "3:29",
+      "text": "Then get into our methodologies of"
+    },
+    {
+      "start": 212.413,
+      "end": 215.473,
+      "start_int": 212,
+      "timestamp_label": "3:32",
+      "text": "the different newer methodologies that are"
+    },
+    {
+      "start": 215.473,
+      "end": 219.273,
+      "start_int": 215,
+      "timestamp_label": "3:35",
+      "text": "coming about with all the new ways"
+    },
+    {
+      "start": 219.273,
+      "end": 222.373,
+      "start_int": 219,
+      "timestamp_label": "3:39",
+      "text": "to do things like deep,"
+    },
+    {
+      "start": 222.373,
+      "end": 225.914,
+      "start_int": 222,
+      "timestamp_label": "3:42",
+      "text": "deep SecOps, and getting"
+    },
+    {
+      "start": 225.914,
+      "end": 228.193,
+      "start_int": 225,
+      "timestamp_label": "3:45",
+      "text": "into our digital engineering"
+    },
+    {
+      "start": 228.193,
+      "end": 231.933,
+      "start_int": 228,
+      "timestamp_label": "3:48",
+      "text": "and then our tools and software containers"
+    },
+    {
+      "start": 231.933,
+      "end": 234.974,
+      "start_int": 231,
+      "timestamp_label": "3:51",
+      "text": "and completing with a summary."
+    },
+    {
+      "start": 237.144,
+      "end": 240.184,
+      "start_int": 237,
+      "timestamp_label": "3:57",
+      "text": "So for our little review"
+    },
+    {
+      "start": 240.184,
+      "end": 242.744,
+      "start_int": 240,
+      "timestamp_label": "4:00",
+      "text": "configuration management,"
+    },
+    {
+      "start": 242.864,
+      "end": 245.984,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "in its most simplest definition,"
+    },
+    {
+      "start": 245.984,
+      "end": 248.023,
+      "start_int": 245,
+      "timestamp_label": "4:05",
+      "text": "it ensures our product and"
+    },
+    {
+      "start": 248.023,
+      "end": 249.744,
+      "start_int": 248,
+      "timestamp_label": "4:08",
+      "text": "their defining information maintain"
+    },
+    {
+      "start": 249.744,
+      "end": 251.804,
+      "start_int": 249,
+      "timestamp_label": "4:09",
+      "text": "consistency at all times."
+    },
+    {
+      "start": 251.804,
+      "end": 253.863,
+      "start_int": 251,
+      "timestamp_label": "4:11",
+      "text": "Planning for CM is"
+    },
+    {
+      "start": 253.863,
+      "end": 255.444,
+      "start_int": 253,
+      "timestamp_label": "4:13",
+      "text": "where it all begins to develop"
+    },
+    {
+      "start": 255.444,
+      "end": 257.963,
+      "start_int": 255,
+      "timestamp_label": "4:15",
+      "text": "that robust process that"
+    },
+    {
+      "start": 257.963,
+      "end": 261.684,
+      "start_int": 257,
+      "timestamp_label": "4:17",
+      "text": "will see products th the entire life cycle."
+    },
+    {
+      "start": 261.684,
+      "end": 264.143,
+      "start_int": 261,
+      "timestamp_label": "4:21",
+      "text": "All programs that strive for"
+    },
+    {
+      "start": 264.143,
+      "end": 266.903,
+      "start_int": 264,
+      "timestamp_label": "4:24",
+      "text": "continuous CM processes"
+    },
+    {
+      "start": 266.903,
+      "end": 269.464,
+      "start_int": 266,
+      "timestamp_label": "4:26",
+      "text": "to establish reliable products,"
+    },
+    {
+      "start": 269.464,
+      "end": 272.203,
+      "start_int": 269,
+      "timestamp_label": "4:29",
+      "text": "use the early involvement of CM to"
+    },
+    {
+      "start": 272.203,
+      "end": 275.783,
+      "start_int": 272,
+      "timestamp_label": "4:32",
+      "text": "ensure the life cycle flows well to end."
+    },
+    {
+      "start": 279.464,
+      "end": 284.144,
+      "start_int": 279,
+      "timestamp_label": "4:39",
+      "text": "So what is software configuration management?"
+    },
+    {
+      "start": 285.404,
+      "end": 288.903,
+      "start_int": 285,
+      "timestamp_label": "4:45",
+      "text": "It is basically the managing of"
+    },
+    {
+      "start": 288.903,
+      "end": 293.424,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "software configuration items for any product,"
+    },
+    {
+      "start": 293.424,
+      "end": 296.684,
+      "start_int": 293,
+      "timestamp_label": "4:53",
+      "text": "program, process or system."
+    },
+    {
+      "start": 297.204,
+      "end": 301.524,
+      "start_int": 297,
+      "timestamp_label": "4:57",
+      "text": "With the desire for rapid deployment"
+    },
+    {
+      "start": 301.524,
+      "end": 304.184,
+      "start_int": 301,
+      "timestamp_label": "5:01",
+      "text": "from software process teams,"
+    },
+    {
+      "start": 304.184,
+      "end": 310.023,
+      "start_int": 304,
+      "timestamp_label": "5:04",
+      "text": "CM has been given opportunities to change and"
+    },
+    {
+      "start": 310.023,
+      "end": 312.963,
+      "start_int": 310,
+      "timestamp_label": "5:10",
+      "text": "improve processes as well"
+    },
+    {
+      "start": 312.963,
+      "end": 316.144,
+      "start_int": 312,
+      "timestamp_label": "5:12",
+      "text": "as growth opportunities,"
+    },
+    {
+      "start": 316.144,
+      "end": 318.383,
+      "start_int": 316,
+      "timestamp_label": "5:16",
+      "text": "but also it comes with lots of"
+    },
+    {
+      "start": 318.383,
+      "end": 320.883,
+      "start_int": 318,
+      "timestamp_label": "5:18",
+      "text": "challenges for how to"
+    },
+    {
+      "start": 320.883,
+      "end": 323.764,
+      "start_int": 320,
+      "timestamp_label": "5:20",
+      "text": "keep CM in the forefront."
+    },
+    {
+      "start": 324.174,
+      "end": 327.574,
+      "start_int": 324,
+      "timestamp_label": "5:24",
+      "text": "Software is just like hardware."
+    },
+    {
+      "start": 327.574,
+      "end": 330.053,
+      "start_int": 327,
+      "timestamp_label": "5:27",
+      "text": "It begins with that unique identification of"
+    },
+    {
+      "start": 330.053,
+      "end": 332.653,
+      "start_int": 330,
+      "timestamp_label": "5:30",
+      "text": "configuration items that should be"
+    },
+    {
+      "start": 332.653,
+      "end": 334.113,
+      "start_int": 332,
+      "timestamp_label": "5:32",
+      "text": "tracked and monitored"
+    },
+    {
+      "start": 334.113,
+      "end": 335.794,
+      "start_int": 334,
+      "timestamp_label": "5:34",
+      "text": "throughout the life cycle."
+    },
+    {
+      "start": 335.794,
+      "end": 338.773,
+      "start_int": 335,
+      "timestamp_label": "5:35",
+      "text": "The structure is what's analyzed to"
+    },
+    {
+      "start": 338.773,
+      "end": 340.133,
+      "start_int": 338,
+      "timestamp_label": "5:38",
+      "text": "determine which of"
+    },
+    {
+      "start": 340.133,
+      "end": 342.774,
+      "start_int": 340,
+      "timestamp_label": "5:40",
+      "text": "these items need to be controlled."
+    },
+    {
+      "start": 342.774,
+      "end": 345.313,
+      "start_int": 342,
+      "timestamp_label": "5:42",
+      "text": "And some examples of"
+    },
+    {
+      "start": 345.313,
+      "end": 349.453,
+      "start_int": 345,
+      "timestamp_label": "5:45",
+      "text": "software C items are libraries,"
+    },
+    {
+      "start": 349.494,
+      "end": 354.853,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "script, source code and"
+    },
+    {
+      "start": 354.853,
+      "end": 357.933,
+      "start_int": 354,
+      "timestamp_label": "5:54",
+      "text": "documentation and test artifacts."
+    },
+    {
+      "start": 359.254,
+      "end": 361.213,
+      "start_int": 359,
+      "timestamp_label": "5:59",
+      "text": "So we will start with"
+    },
+    {
+      "start": 361.213,
+      "end": 363.894,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "our first challenge question"
+    },
+    {
+      "start": 363.894,
+      "end": 366.034,
+      "start_int": 363,
+      "timestamp_label": "6:03",
+      "text": "and software CM controls"
+    },
+    {
+      "start": 366.034,
+      "end": 367.954,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "and manages what part of the system?"
+    },
+    {
+      "start": 367.954,
+      "end": 370.514,
+      "start_int": 367,
+      "timestamp_label": "6:07",
+      "text": "Hardware configuration items, all items,"
+    },
+    {
+      "start": 370.514,
+      "end": 373.614,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "software configuration items or nothing."
+    },
+    {
+      "start": 375.094,
+      "end": 377.733,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "The answer is, C,"
+    },
+    {
+      "start": 377.733,
+      "end": 380.694,
+      "start_int": 377,
+      "timestamp_label": "6:17",
+      "text": "software configuration items."
+    },
+    {
+      "start": 385.424,
+      "end": 389.743,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "Moving into diving into"
+    },
+    {
+      "start": 389.743,
+      "end": 390.884,
+      "start_int": 389,
+      "timestamp_label": "6:29",
+      "text": "the differences between"
+    },
+    {
+      "start": 390.884,
+      "end": 392.744,
+      "start_int": 390,
+      "timestamp_label": "6:30",
+      "text": "hardware and software."
+    },
+    {
+      "start": 392.744,
+      "end": 395.203,
+      "start_int": 392,
+      "timestamp_label": "6:32",
+      "text": "Hardware tends to be"
+    },
+    {
+      "start": 395.203,
+      "end": 398.563,
+      "start_int": 395,
+      "timestamp_label": "6:35",
+      "text": "part and product eccentric."
+    },
+    {
+      "start": 398.563,
+      "end": 401.724,
+      "start_int": 398,
+      "timestamp_label": "6:38",
+      "text": "Therefore, a structure of hierarchical parts,"
+    },
+    {
+      "start": 401.724,
+      "end": 403.923,
+      "start_int": 401,
+      "timestamp_label": "6:41",
+      "text": "subassemblies, and assemblies"
+    },
+    {
+      "start": 403.923,
+      "end": 406.184,
+      "start_int": 403,
+      "timestamp_label": "6:43",
+      "text": "that have defined interfaces."
+    },
+    {
+      "start": 406.184,
+      "end": 408.463,
+      "start_int": 406,
+      "timestamp_label": "6:46",
+      "text": "It also strives for"
+    },
+    {
+      "start": 408.463,
+      "end": 412.043,
+      "start_int": 408,
+      "timestamp_label": "6:48",
+      "text": "a longer life cycle and is"
+    },
+    {
+      "start": 412.043,
+      "end": 415.384,
+      "start_int": 412,
+      "timestamp_label": "6:52",
+      "text": "definitely more about tracking parts"
+    },
+    {
+      "start": 415.384,
+      "end": 417.703,
+      "start_int": 415,
+      "timestamp_label": "6:55",
+      "text": "and is considered less"
+    },
+    {
+      "start": 417.703,
+      "end": 420.864,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "complex when compared to software."
+    },
+    {
+      "start": 423.284,
+      "end": 427.783,
+      "start_int": 423,
+      "timestamp_label": "7:03",
+      "text": "Software configurations are more"
+    },
+    {
+      "start": 427.783,
+      "end": 430.724,
+      "start_int": 427,
+      "timestamp_label": "7:07",
+      "text": "designed for change and updates,"
+    },
+    {
+      "start": 430.724,
+      "end": 432.483,
+      "start_int": 430,
+      "timestamp_label": "7:10",
+      "text": "and the reason behind this being they're"
+    },
+    {
+      "start": 432.483,
+      "end": 436.264,
+      "start_int": 432,
+      "timestamp_label": "7:12",
+      "text": "functionally oriented vice product oriented."
+    },
+    {
+      "start": 436.264,
+      "end": 440.283,
+      "start_int": 436,
+      "timestamp_label": "7:16",
+      "text": "Longevity is key in this,"
+    },
+    {
+      "start": 440.283,
+      "end": 442.783,
+      "start_int": 440,
+      "timestamp_label": "7:20",
+      "text": "but the amount of change and"
+    },
+    {
+      "start": 442.783,
+      "end": 445.863,
+      "start_int": 442,
+      "timestamp_label": "7:22",
+      "text": "updates that are required due"
+    },
+    {
+      "start": 445.863,
+      "end": 449.644,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "to perpetual change"
+    },
+    {
+      "start": 449.644,
+      "end": 453.124,
+      "start_int": 449,
+      "timestamp_label": "7:29",
+      "text": "and just required expectations"
+    },
+    {
+      "start": 453.124,
+      "end": 455.023,
+      "start_int": 453,
+      "timestamp_label": "7:33",
+      "text": "make it a little bit"
+    },
+    {
+      "start": 455.023,
+      "end": 462.023,
+      "start_int": 455,
+      "timestamp_label": "7:35",
+      "text": "more necessary to sustain frequent change."
+    },
+    {
+      "start": 462.023,
+      "end": 464.463,
+      "start_int": 462,
+      "timestamp_label": "7:42",
+      "text": "It can also be incrementally"
+    },
+    {
+      "start": 464.463,
+      "end": 467.444,
+      "start_int": 464,
+      "timestamp_label": "7:44",
+      "text": "developed and assembled and tested,"
+    },
+    {
+      "start": 467.604,
+      "end": 470.103,
+      "start_int": 467,
+      "timestamp_label": "7:47",
+      "text": "and small increments are"
+    },
+    {
+      "start": 470.103,
+      "end": 471.983,
+      "start_int": 470,
+      "timestamp_label": "7:50",
+      "text": "very key when it comes to"
+    },
+    {
+      "start": 471.983,
+      "end": 474.744,
+      "start_int": 471,
+      "timestamp_label": "7:51",
+      "text": "software and supporting that rapid cycle"
+    },
+    {
+      "start": 474.744,
+      "end": 477.203,
+      "start_int": 474,
+      "timestamp_label": "7:54",
+      "text": "of change that comes with that."
+    },
+    {
+      "start": 480.284,
+      "end": 484.103,
+      "start_int": 480,
+      "timestamp_label": "8:00",
+      "text": "We'll talk about our first methodology,"
+    },
+    {
+      "start": 484.103,
+      "end": 487.923,
+      "start_int": 484,
+      "timestamp_label": "8:04",
+      "text": "which is the agile methodology."
+    },
+    {
+      "start": 488.384,
+      "end": 490.483,
+      "start_int": 488,
+      "timestamp_label": "8:08",
+      "text": "Our CM principles and"
+    },
+    {
+      "start": 490.483,
+      "end": 492.483,
+      "start_int": 490,
+      "timestamp_label": "8:10",
+      "text": "processes should always be in place,"
+    },
+    {
+      "start": 492.483,
+      "end": 495.583,
+      "start_int": 492,
+      "timestamp_label": "8:12",
+      "text": "and the goal is to not negatively"
+    },
+    {
+      "start": 495.583,
+      "end": 497.404,
+      "start_int": 495,
+      "timestamp_label": "8:15",
+      "text": "impact agile development"
+    },
+    {
+      "start": 497.404,
+      "end": 500.223,
+      "start_int": 497,
+      "timestamp_label": "8:17",
+      "text": "process when doing so."
+    },
+    {
+      "start": 500.223,
+      "end": 502.643,
+      "start_int": 500,
+      "timestamp_label": "8:20",
+      "text": "Taylor's CM processes and"
+    },
+    {
+      "start": 502.643,
+      "end": 504.723,
+      "start_int": 502,
+      "timestamp_label": "8:22",
+      "text": "principles for both environment and"
+    },
+    {
+      "start": 504.723,
+      "end": 506.863,
+      "start_int": 504,
+      "timestamp_label": "8:24",
+      "text": "context are used to keep up with"
+    },
+    {
+      "start": 506.863,
+      "end": 509.704,
+      "start_int": 506,
+      "timestamp_label": "8:26",
+      "text": "this agile development process,"
+    },
+    {
+      "start": 509.704,
+      "end": 513.263,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "but ensuring that CM is not eliminated."
+    },
+    {
+      "start": 513.263,
+      "end": 515.723,
+      "start_int": 513,
+      "timestamp_label": "8:33",
+      "text": "We can use our improvements in"
+    },
+    {
+      "start": 515.723,
+      "end": 518.803,
+      "start_int": 515,
+      "timestamp_label": "8:35",
+      "text": "metrics to help with process integrity,"
+    },
+    {
+      "start": 518.803,
+      "end": 521.743,
+      "start_int": 518,
+      "timestamp_label": "8:38",
+      "text": "and this helps with waste elimination while"
+    },
+    {
+      "start": 521.743,
+      "end": 523.204,
+      "start_int": 521,
+      "timestamp_label": "8:41",
+      "text": "our change control remains"
+    },
+    {
+      "start": 523.204,
+      "end": 525.904,
+      "start_int": 523,
+      "timestamp_label": "8:43",
+      "text": "lean for the agile process."
+    },
+    {
+      "start": 526.024,
+      "end": 528.743,
+      "start_int": 526,
+      "timestamp_label": "8:46",
+      "text": "When engineering does a good job of"
+    },
+    {
+      "start": 528.743,
+      "end": 531.304,
+      "start_int": 528,
+      "timestamp_label": "8:48",
+      "text": "prioritizing and ranking change,"
+    },
+    {
+      "start": 531.304,
+      "end": 535.383,
+      "start_int": 531,
+      "timestamp_label": "8:51",
+      "text": "this allows for quick fielding and"
+    },
+    {
+      "start": 535.383,
+      "end": 538.103,
+      "start_int": 535,
+      "timestamp_label": "8:55",
+      "text": "our core CM principles are also"
+    },
+    {
+      "start": 538.103,
+      "end": 539.663,
+      "start_int": 538,
+      "timestamp_label": "8:58",
+      "text": "agnostic to the"
+    },
+    {
+      "start": 539.663,
+      "end": 542.783,
+      "start_int": 539,
+      "timestamp_label": "8:59",
+      "text": "agile development and processes."
+    },
+    {
+      "start": 543.144,
+      "end": 547.383,
+      "start_int": 543,
+      "timestamp_label": "9:03",
+      "text": "Thinking smaller increments and"
+    },
+    {
+      "start": 548.584,
+      "end": 551.123,
+      "start_int": 548,
+      "timestamp_label": "9:08",
+      "text": "of work help us"
+    },
+    {
+      "start": 551.123,
+      "end": 552.963,
+      "start_int": 551,
+      "timestamp_label": "9:11",
+      "text": "with the goal of"
+    },
+    {
+      "start": 552.963,
+      "end": 555.544,
+      "start_int": 552,
+      "timestamp_label": "9:12",
+      "text": "increasing the rate of change."
+    },
+    {
+      "start": 556.744,
+      "end": 562.883,
+      "start_int": 556,
+      "timestamp_label": "9:16",
+      "text": "Also catch up ECRs are not routine and"
+    },
+    {
+      "start": 562.883,
+      "end": 565.024,
+      "start_int": 562,
+      "timestamp_label": "9:22",
+      "text": "this should not be allowed to be the norm"
+    },
+    {
+      "start": 565.024,
+      "end": 566.363,
+      "start_int": 565,
+      "timestamp_label": "9:25",
+      "text": "for your"
+    },
+    {
+      "start": 566.363,
+      "end": 569.484,
+      "start_int": 566,
+      "timestamp_label": "9:26",
+      "text": "software configuration management process."
+    },
+    {
+      "start": 570.964,
+      "end": 573.843,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "Next question. Catch up"
+    },
+    {
+      "start": 573.843,
+      "end": 576.424,
+      "start_int": 573,
+      "timestamp_label": "9:33",
+      "text": "ECRs and documentation should be routine,"
+    },
+    {
+      "start": 576.424,
+      "end": 581.884,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "true or false. That is false."
+    },
+    {
+      "start": 587.404,
+      "end": 590.023,
+      "start_int": 587,
+      "timestamp_label": "9:47",
+      "text": "Now we move into talking about"
+    },
+    {
+      "start": 590.023,
+      "end": 592.603,
+      "start_int": 590,
+      "timestamp_label": "9:50",
+      "text": "the deployment and delivery of"
+    },
+    {
+      "start": 592.603,
+      "end": 595.623,
+      "start_int": 592,
+      "timestamp_label": "9:52",
+      "text": "our products and trying"
+    },
+    {
+      "start": 595.623,
+      "end": 599.444,
+      "start_int": 595,
+      "timestamp_label": "9:55",
+      "text": "to get that done as quickly as possible."
+    },
+    {
+      "start": 600.214,
+      "end": 603.593,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "To achieve this rapid delivery of"
+    },
+    {
+      "start": 603.593,
+      "end": 604.953,
+      "start_int": 603,
+      "timestamp_label": "10:03",
+      "text": "quality products in"
+    },
+    {
+      "start": 604.953,
+      "end": 607.493,
+      "start_int": 604,
+      "timestamp_label": "10:04",
+      "text": "this modern software world,"
+    },
+    {
+      "start": 608.454,
+      "end": 611.433,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "we'd like to address our issues as"
+    },
+    {
+      "start": 611.433,
+      "end": 613.634,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "early in the cycle as possible."
+    },
+    {
+      "start": 613.634,
+      "end": 615.633,
+      "start_int": 613,
+      "timestamp_label": "10:13",
+      "text": "This helps the developers and"
+    },
+    {
+      "start": 615.633,
+      "end": 618.554,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "allows them that crucial"
+    },
+    {
+      "start": 618.554,
+      "end": 620.953,
+      "start_int": 618,
+      "timestamp_label": "10:18",
+      "text": "feedback so that they can make"
+    },
+    {
+      "start": 620.953,
+      "end": 623.513,
+      "start_int": 620,
+      "timestamp_label": "10:20",
+      "text": "those adjustments prior to"
+    },
+    {
+      "start": 623.513,
+      "end": 627.114,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "things going out to the field,"
+    },
+    {
+      "start": 627.114,
+      "end": 630.773,
+      "start_int": 627,
+      "timestamp_label": "10:27",
+      "text": "or to a customer or a user."
+    },
+    {
+      "start": 631.104,
+      "end": 635.163,
+      "start_int": 631,
+      "timestamp_label": "10:31",
+      "text": "Software does a little bit"
+    },
+    {
+      "start": 635.163,
+      "end": 637.604,
+      "start_int": 635,
+      "timestamp_label": "10:35",
+      "text": "of a different classification of changes."
+    },
+    {
+      "start": 637.604,
+      "end": 639.563,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "They do first digit through"
+    },
+    {
+      "start": 639.563,
+      "end": 641.643,
+      "start_int": 639,
+      "timestamp_label": "10:39",
+      "text": "fourth digit, majority of the time."
+    },
+    {
+      "start": 641.643,
+      "end": 644.863,
+      "start_int": 641,
+      "timestamp_label": "10:41",
+      "text": "This is also defined by your organization."
+    },
+    {
+      "start": 644.863,
+      "end": 652.703,
+      "start_int": 644,
+      "timestamp_label": "10:44",
+      "text": "So there are varying ways to do this,"
+    },
+    {
+      "start": 652.703,
+      "end": 656.043,
+      "start_int": 652,
+      "timestamp_label": "10:52",
+      "text": "but mostly it's defined by your organization."
+    },
+    {
+      "start": 656.043,
+      "end": 657.783,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "So your first digit change is"
+    },
+    {
+      "start": 657.783,
+      "end": 660.183,
+      "start_int": 657,
+      "timestamp_label": "10:57",
+      "text": "usually your major impact change,"
+    },
+    {
+      "start": 660.183,
+      "end": 662.384,
+      "start_int": 660,
+      "timestamp_label": "11:00",
+      "text": "architecture change, large change,"
+    },
+    {
+      "start": 662.384,
+      "end": 665.403,
+      "start_int": 662,
+      "timestamp_label": "11:02",
+      "text": "going down to your fourth digit change,"
+    },
+    {
+      "start": 665.403,
+      "end": 667.083,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "which a lot of times are"
+    },
+    {
+      "start": 667.083,
+      "end": 669.523,
+      "start_int": 667,
+      "timestamp_label": "11:07",
+      "text": "patches or things that are"
+    },
+    {
+      "start": 669.523,
+      "end": 674.104,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "not critical for review"
+    },
+    {
+      "start": 674.104,
+      "end": 678.143,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "or scrutiny by stakeholders."
+    },
+    {
+      "start": 678.143,
+      "end": 680.143,
+      "start_int": 678,
+      "timestamp_label": "11:18",
+      "text": "So and then in between"
+    },
+    {
+      "start": 680.143,
+      "end": 680.763,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "there you would have"
+    },
+    {
+      "start": 680.763,
+      "end": 682.184,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "your second and third digit."
+    },
+    {
+      "start": 682.184,
+      "end": 684.843,
+      "start_int": 682,
+      "timestamp_label": "11:22",
+      "text": "And the definition of"
+    },
+    {
+      "start": 684.843,
+      "end": 688.504,
+      "start_int": 684,
+      "timestamp_label": "11:24",
+      "text": "those vary between organizations."
+    },
+    {
+      "start": 688.504,
+      "end": 690.983,
+      "start_int": 688,
+      "timestamp_label": "11:28",
+      "text": "So that's sort of"
+    },
+    {
+      "start": 690.983,
+      "end": 692.923,
+      "start_int": 690,
+      "timestamp_label": "11:30",
+      "text": "defined by your organization."
+    },
+    {
+      "start": 692.923,
+      "end": 694.723,
+      "start_int": 692,
+      "timestamp_label": "11:32",
+      "text": "One of the newer things"
+    },
+    {
+      "start": 694.723,
+      "end": 696.523,
+      "start_int": 694,
+      "timestamp_label": "11:34",
+      "text": "that has come about with"
+    },
+    {
+      "start": 696.523,
+      "end": 698.804,
+      "start_int": 696,
+      "timestamp_label": "11:36",
+      "text": "the delivery is the software"
+    },
+    {
+      "start": 698.804,
+      "end": 700.323,
+      "start_int": 698,
+      "timestamp_label": "11:38",
+      "text": "over the air deliveries,"
+    },
+    {
+      "start": 700.323,
+      "end": 704.204,
+      "start_int": 700,
+      "timestamp_label": "11:40",
+      "text": "which is going to introduce"
+    },
+    {
+      "start": 704.204,
+      "end": 707.384,
+      "start_int": 704,
+      "timestamp_label": "11:44",
+      "text": "those new class two software changes"
+    },
+    {
+      "start": 707.464,
+      "end": 711.063,
+      "start_int": 707,
+      "timestamp_label": "11:47",
+      "text": "to the users and customers."
+    },
+    {
+      "start": 712.804,
+      "end": 716.084,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "And then software configuration Management"
+    },
+    {
+      "start": 716.084,
+      "end": 718.843,
+      "start_int": 716,
+      "timestamp_label": "11:56",
+      "text": "will also help with your risk mitigation."
+    },
+    {
+      "start": 718.843,
+      "end": 720.723,
+      "start_int": 718,
+      "timestamp_label": "11:58",
+      "text": "When you lower the chance of"
+    },
+    {
+      "start": 720.723,
+      "end": 722.624,
+      "start_int": 720,
+      "timestamp_label": "12:00",
+      "text": "introducing those critical issues,"
+    },
+    {
+      "start": 722.624,
+      "end": 729.933,
+      "start_int": 722,
+      "timestamp_label": "12:02",
+      "text": "you assist Sorry about that."
+    },
+    {
+      "start": 729.933,
+      "end": 732.814,
+      "start_int": 729,
+      "timestamp_label": "12:09",
+      "text": "You assist with lowering"
+    },
+    {
+      "start": 732.814,
+      "end": 736.234,
+      "start_int": 732,
+      "timestamp_label": "12:12",
+      "text": "that risk early in the cycle,"
+    },
+    {
+      "start": 736.234,
+      "end": 738.533,
+      "start_int": 736,
+      "timestamp_label": "12:16",
+      "text": "which helps out a lot."
+    },
+    {
+      "start": 740.494,
+      "end": 743.493,
+      "start_int": 740,
+      "timestamp_label": "12:20",
+      "text": "These are some of the newer terms that"
+    },
+    {
+      "start": 743.493,
+      "end": 746.533,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "have come around in the last few years."
+    },
+    {
+      "start": 746.533,
+      "end": 750.153,
+      "start_int": 746,
+      "timestamp_label": "12:26",
+      "text": "Debes, and how do"
+    },
+    {
+      "start": 750.153,
+      "end": 751.653,
+      "start_int": 750,
+      "timestamp_label": "12:30",
+      "text": "they involved with"
+    },
+    {
+      "start": 751.653,
+      "end": 754.134,
+      "start_int": 751,
+      "timestamp_label": "12:31",
+      "text": "software configuration management."
+    },
+    {
+      "start": 754.134,
+      "end": 757.509,
+      "start_int": 754,
+      "timestamp_label": "12:34",
+      "text": "The biggest difference between"
+    },
+    {
+      "start": 757.509,
+      "end": 760.463,
+      "start_int": 757,
+      "timestamp_label": "12:37",
+      "text": "The dev ops and the Dev Scops"
+    },
+    {
+      "start": 760.463,
+      "end": 763.743,
+      "start_int": 760,
+      "timestamp_label": "12:40",
+      "text": "is it stands for development operations,"
+    },
+    {
+      "start": 763.743,
+      "end": 765.503,
+      "start_int": 763,
+      "timestamp_label": "12:43",
+      "text": "and then if you add the sec,"
+    },
+    {
+      "start": 765.503,
+      "end": 768.523,
+      "start_int": 765,
+      "timestamp_label": "12:45",
+      "text": "it's development security operations,"
+    },
+    {
+      "start": 768.523,
+      "end": 770.804,
+      "start_int": 768,
+      "timestamp_label": "12:48",
+      "text": "and the biggest difference"
+    },
+    {
+      "start": 770.804,
+      "end": 773.604,
+      "start_int": 770,
+      "timestamp_label": "12:50",
+      "text": "is adding in that focus on security."
+    },
+    {
+      "start": 773.604,
+      "end": 775.863,
+      "start_int": 773,
+      "timestamp_label": "12:53",
+      "text": "You're combining your different phases of"
+    },
+    {
+      "start": 775.863,
+      "end": 777.224,
+      "start_int": 775,
+      "timestamp_label": "12:55",
+      "text": "the life cycle to include"
+    },
+    {
+      "start": 777.224,
+      "end": 778.404,
+      "start_int": 777,
+      "timestamp_label": "12:57",
+      "text": "development, integration,"
+    },
+    {
+      "start": 778.404,
+      "end": 781.163,
+      "start_int": 778,
+      "timestamp_label": "12:58",
+      "text": "testing, and fielding, and monitoring"
+    },
+    {
+      "start": 781.204,
+      "end": 783.924,
+      "start_int": 781,
+      "timestamp_label": "13:01",
+      "text": "into your operation."
+    },
+    {
+      "start": 783.924,
+      "end": 786.424,
+      "start_int": 783,
+      "timestamp_label": "13:03",
+      "text": "And like I said, the biggest difference"
+    },
+    {
+      "start": 786.424,
+      "end": 789.324,
+      "start_int": 786,
+      "timestamp_label": "13:06",
+      "text": "is adding that security focus."
+    },
+    {
+      "start": 789.514,
+      "end": 793.593,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "Development process is"
+    },
+    {
+      "start": 794.674,
+      "end": 798.234,
+      "start_int": 794,
+      "timestamp_label": "13:14",
+      "text": "it's smaller continuous cycles,"
+    },
+    {
+      "start": 798.234,
+      "end": 801.714,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "and within the smaller continuous cycles,"
+    },
+    {
+      "start": 801.714,
+      "end": 803.654,
+      "start_int": 801,
+      "timestamp_label": "13:21",
+      "text": "configuration management"
+    },
+    {
+      "start": 803.654,
+      "end": 804.793,
+      "start_int": 803,
+      "timestamp_label": "13:23",
+      "text": "can help with the change"
+    },
+    {
+      "start": 804.793,
+      "end": 807.973,
+      "start_int": 804,
+      "timestamp_label": "13:24",
+      "text": "controlling within them and"
+    },
+    {
+      "start": 807.973,
+      "end": 812.693,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "make them more consistent"
+    },
+    {
+      "start": 812.693,
+      "end": 817.093,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "and keeping things on pace."
+    },
+    {
+      "start": 817.294,
+      "end": 822.813,
+      "start_int": 817,
+      "timestamp_label": "13:37",
+      "text": "Containerization tools are relatively new,"
+    },
+    {
+      "start": 822.813,
+      "end": 827.273,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "and they're instrumental when"
+    },
+    {
+      "start": 827.273,
+      "end": 829.514,
+      "start_int": 827,
+      "timestamp_label": "13:47",
+      "text": "it comes to configuration management."
+    },
+    {
+      "start": 829.514,
+      "end": 831.913,
+      "start_int": 829,
+      "timestamp_label": "13:49",
+      "text": "They provide a consistent environment for"
+    },
+    {
+      "start": 831.913,
+      "end": 833.793,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "your development as well as"
+    },
+    {
+      "start": 833.793,
+      "end": 836.234,
+      "start_int": 833,
+      "timestamp_label": "13:53",
+      "text": "your deployment in software,"
+    },
+    {
+      "start": 836.234,
+      "end": 838.753,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "and this provides for scalability,"
+    },
+    {
+      "start": 838.753,
+      "end": 839.693,
+      "start_int": 838,
+      "timestamp_label": "13:58",
+      "text": "consistency,"
+    },
+    {
+      "start": 839.693,
+      "end": 841.973,
+      "start_int": 839,
+      "timestamp_label": "13:59",
+      "text": "and resource utilization within"
+    },
+    {
+      "start": 841.973,
+      "end": 845.413,
+      "start_int": 841,
+      "timestamp_label": "14:01",
+      "text": "your organization."
+    },
+    {
+      "start": 846.094,
+      "end": 848.813,
+      "start_int": 846,
+      "timestamp_label": "14:06",
+      "text": "The security practice involvement in"
+    },
+    {
+      "start": 848.813,
+      "end": 851.233,
+      "start_int": 848,
+      "timestamp_label": "14:08",
+      "text": "the deb tools and the pipelines also help"
+    },
+    {
+      "start": 851.233,
+      "end": 854.654,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "support authority to operate"
+    },
+    {
+      "start": 854.654,
+      "end": 856.914,
+      "start_int": 854,
+      "timestamp_label": "14:14",
+      "text": "and a risk management framework,"
+    },
+    {
+      "start": 856.914,
+      "end": 858.354,
+      "start_int": 856,
+      "timestamp_label": "14:16",
+      "text": "which are used by the Department"
+    },
+    {
+      "start": 858.354,
+      "end": 861.654,
+      "start_int": 858,
+      "timestamp_label": "14:18",
+      "text": "of Defense for security."
+    },
+    {
+      "start": 863.294,
+      "end": 866.593,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "And product performance in"
+    },
+    {
+      "start": 866.593,
+      "end": 869.314,
+      "start_int": 866,
+      "timestamp_label": "14:26",
+      "text": "software is always monitored"
+    },
+    {
+      "start": 869.314,
+      "end": 871.054,
+      "start_int": 869,
+      "timestamp_label": "14:29",
+      "text": "for efficiency and output."
+    },
+    {
+      "start": 871.054,
+      "end": 872.593,
+      "start_int": 871,
+      "timestamp_label": "14:31",
+      "text": "So you want to make sure that you're"
+    },
+    {
+      "start": 872.593,
+      "end": 874.733,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "controlling those baselines to"
+    },
+    {
+      "start": 874.733,
+      "end": 877.394,
+      "start_int": 874,
+      "timestamp_label": "14:34",
+      "text": "help you know what products"
+    },
+    {
+      "start": 877.394,
+      "end": 878.873,
+      "start_int": 877,
+      "timestamp_label": "14:37",
+      "text": "are in the baseline,"
+    },
+    {
+      "start": 878.873,
+      "end": 882.573,
+      "start_int": 878,
+      "timestamp_label": "14:38",
+      "text": "and therefore, what makes up your baseline."
+    },
+    {
+      "start": 884.364,
+      "end": 886.083,
+      "start_int": 884,
+      "timestamp_label": "14:44",
+      "text": "And we're on to"
+    },
+    {
+      "start": 886.083,
+      "end": 889.284,
+      "start_int": 886,
+      "timestamp_label": "14:46",
+      "text": "our next knowledge point question."
+    },
+    {
+      "start": 890.124,
+      "end": 893.223,
+      "start_int": 890,
+      "timestamp_label": "14:50",
+      "text": "Which is the software methodology"
+    },
+    {
+      "start": 893.223,
+      "end": 895.884,
+      "start_int": 893,
+      "timestamp_label": "14:53",
+      "text": "with a security focus?"
+    },
+    {
+      "start": 897.244,
+      "end": 900.464,
+      "start_int": 897,
+      "timestamp_label": "14:57",
+      "text": "Agile, which should be A, Db ops,"
+    },
+    {
+      "start": 900.464,
+      "end": 903.564,
+      "start_int": 900,
+      "timestamp_label": "15:00",
+      "text": "which should be B, SCM,"
+    },
+    {
+      "start": 903.564,
+      "end": 907.003,
+      "start_int": 903,
+      "timestamp_label": "15:03",
+      "text": "which should be C or Dev scops."
+    },
+    {
+      "start": 907.564,
+      "end": 911.523,
+      "start_int": 907,
+      "timestamp_label": "15:07",
+      "text": "The answer is Db scops."
+    },
+    {
+      "start": 916.534,
+      "end": 918.973,
+      "start_int": 916,
+      "timestamp_label": "15:16",
+      "text": "And now that we've talked about a few"
+    },
+    {
+      "start": 918.973,
+      "end": 921.174,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "of our newer methodologies,"
+    },
+    {
+      "start": 921.174,
+      "end": 923.553,
+      "start_int": 921,
+      "timestamp_label": "15:21",
+      "text": "we will look at the"
+    },
+    {
+      "start": 923.553,
+      "end": 925.113,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "key differences between them."
+    },
+    {
+      "start": 925.113,
+      "end": 927.594,
+      "start_int": 925,
+      "timestamp_label": "15:25",
+      "text": "So your agile development"
+    },
+    {
+      "start": 927.594,
+      "end": 929.193,
+      "start_int": 927,
+      "timestamp_label": "15:27",
+      "text": "tends to focus on"
+    },
+    {
+      "start": 929.193,
+      "end": 931.934,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "your developers and your development cycle,"
+    },
+    {
+      "start": 931.934,
+      "end": 934.754,
+      "start_int": 931,
+      "timestamp_label": "15:31",
+      "text": "and the goal is to make them more efficient,"
+    },
+    {
+      "start": 934.754,
+      "end": 938.613,
+      "start_int": 934,
+      "timestamp_label": "15:34",
+      "text": "where deep focuses on collaboration"
+    },
+    {
+      "start": 938.613,
+      "end": 940.453,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "between teams and"
+    },
+    {
+      "start": 940.453,
+      "end": 943.333,
+      "start_int": 940,
+      "timestamp_label": "15:40",
+      "text": "specifically development operations."
+    },
+    {
+      "start": 943.333,
+      "end": 949.153,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "And this keeps your communication going"
+    },
+    {
+      "start": 949.153,
+      "end": 951.714,
+      "start_int": 949,
+      "timestamp_label": "15:49",
+      "text": "and your life cycle"
+    },
+    {
+      "start": 951.714,
+      "end": 955.394,
+      "start_int": 951,
+      "timestamp_label": "15:51",
+      "text": "going fairly smoothly between all the teams."
+    },
+    {
+      "start": 955.394,
+      "end": 957.473,
+      "start_int": 955,
+      "timestamp_label": "15:55",
+      "text": "Both of these are all"
+    },
+    {
+      "start": 957.473,
+      "end": 960.213,
+      "start_int": 957,
+      "timestamp_label": "15:57",
+      "text": "about overall productivity,"
+    },
+    {
+      "start": 960.213,
+      "end": 964.774,
+      "start_int": 960,
+      "timestamp_label": "16:00",
+      "text": "increasing productivity and increasing speed,"
+    },
+    {
+      "start": 965.654,
+      "end": 967.774,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "and they want to boost"
+    },
+    {
+      "start": 967.774,
+      "end": 969.833,
+      "start_int": 967,
+      "timestamp_label": "16:07",
+      "text": "the quality of the product as well."
+    },
+    {
+      "start": 969.833,
+      "end": 973.513,
+      "start_int": 969,
+      "timestamp_label": "16:09",
+      "text": "So a lot of similarities between them."
+    },
+    {
+      "start": 973.513,
+      "end": 977.634,
+      "start_int": 973,
+      "timestamp_label": "16:13",
+      "text": "The difference is just getting"
+    },
+    {
+      "start": 977.634,
+      "end": 980.613,
+      "start_int": 977,
+      "timestamp_label": "16:17",
+      "text": "that collaboration and communication going."
+    },
+    {
+      "start": 982.334,
+      "end": 986.373,
+      "start_int": 982,
+      "timestamp_label": "16:22",
+      "text": "If you implement a combination of both,"
+    },
+    {
+      "start": 986.373,
+      "end": 987.773,
+      "start_int": 986,
+      "timestamp_label": "16:26",
+      "text": "you can bring the best of"
+    },
+    {
+      "start": 987.773,
+      "end": 988.593,
+      "start_int": 987,
+      "timestamp_label": "16:27",
+      "text": "both worlds to"
+    },
+    {
+      "start": 988.593,
+      "end": 991.214,
+      "start_int": 988,
+      "timestamp_label": "16:28",
+      "text": "your software and your deployment."
+    },
+    {
+      "start": 996.174,
+      "end": 998.013,
+      "start_int": 996,
+      "timestamp_label": "16:36",
+      "text": "Now we're going to talk"
+    },
+    {
+      "start": 998.013,
+      "end": 1000.414,
+      "start_int": 998,
+      "timestamp_label": "16:38",
+      "text": "about the digital engineering."
+    },
+    {
+      "start": 1000.414,
+      "end": 1002.713,
+      "start_int": 1000,
+      "timestamp_label": "16:40",
+      "text": "So another newer thing."
+    },
+    {
+      "start": 1002.713,
+      "end": 1004.133,
+      "start_int": 1002,
+      "timestamp_label": "16:42",
+      "text": "Digital engineering, what"
+    },
+    {
+      "start": 1004.133,
+      "end": 1005.653,
+      "start_int": 1004,
+      "timestamp_label": "16:44",
+      "text": "is digital engineering?"
+    },
+    {
+      "start": 1005.653,
+      "end": 1008.473,
+      "start_int": 1005,
+      "timestamp_label": "16:45",
+      "text": "So it's the use of your authoritative source"
+    },
+    {
+      "start": 1008.473,
+      "end": 1010.533,
+      "start_int": 1008,
+      "timestamp_label": "16:48",
+      "text": "of system data and"
+    },
+    {
+      "start": 1010.533,
+      "end": 1013.954,
+      "start_int": 1010,
+      "timestamp_label": "16:50",
+      "text": "models to keep the balance across"
+    },
+    {
+      "start": 1013.954,
+      "end": 1015.673,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "your multiple disciplines and"
+    },
+    {
+      "start": 1015.673,
+      "end": 1018.693,
+      "start_int": 1015,
+      "timestamp_label": "16:55",
+      "text": "support your lifecycle activities."
+    },
+    {
+      "start": 1019.134,
+      "end": 1021.353,
+      "start_int": 1019,
+      "timestamp_label": "16:59",
+      "text": "Modeling and tools can"
+    },
+    {
+      "start": 1021.353,
+      "end": 1024.493,
+      "start_int": 1021,
+      "timestamp_label": "17:01",
+      "text": "automate behind the scenes processes,"
+    },
+    {
+      "start": 1024.493,
+      "end": 1026.734,
+      "start_int": 1024,
+      "timestamp_label": "17:04",
+      "text": "which will minimize errors and reduce"
+    },
+    {
+      "start": 1026.734,
+      "end": 1030.634,
+      "start_int": 1026,
+      "timestamp_label": "17:06",
+      "text": "time within your digital engineering,"
+    },
+    {
+      "start": 1030.634,
+      "end": 1032.973,
+      "start_int": 1030,
+      "timestamp_label": "17:10",
+      "text": "and it's expected that"
+    },
+    {
+      "start": 1032.973,
+      "end": 1034.833,
+      "start_int": 1032,
+      "timestamp_label": "17:12",
+      "text": "your engineers will start looking at"
+    },
+    {
+      "start": 1034.833,
+      "end": 1036.573,
+      "start_int": 1034,
+      "timestamp_label": "17:14",
+      "text": "their digital mapping of"
+    },
+    {
+      "start": 1036.573,
+      "end": 1037.773,
+      "start_int": 1036,
+      "timestamp_label": "17:16",
+      "text": "the products instead of"
+    },
+    {
+      "start": 1037.773,
+      "end": 1039.393,
+      "start_int": 1037,
+      "timestamp_label": "17:17",
+      "text": "their technical manuals."
+    },
+    {
+      "start": 1039.393,
+      "end": 1042.394,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "So looking into that digital image versus"
+    },
+    {
+      "start": 1042.394,
+      "end": 1046.493,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "looking at something on"
+    },
+    {
+      "start": 1046.493,
+      "end": 1050.893,
+      "start_int": 1046,
+      "timestamp_label": "17:26",
+      "text": "paper or or another form"
+    },
+    {
+      "start": 1050.893,
+      "end": 1054.694,
+      "start_int": 1050,
+      "timestamp_label": "17:30",
+      "text": "of looking at the technical data."
+    },
+    {
+      "start": 1054.694,
+      "end": 1058.854,
+      "start_int": 1054,
+      "timestamp_label": "17:34",
+      "text": "So CM is a major player"
+    },
+    {
+      "start": 1059.094,
+      "end": 1062.954,
+      "start_int": 1059,
+      "timestamp_label": "17:39",
+      "text": "to ensure consistency and reliable products"
+    },
+    {
+      "start": 1062.954,
+      "end": 1065.514,
+      "start_int": 1062,
+      "timestamp_label": "17:42",
+      "text": "within the digital engineering environment."
+    },
+    {
+      "start": 1065.514,
+      "end": 1068.133,
+      "start_int": 1065,
+      "timestamp_label": "17:45",
+      "text": "I CM, we strive to"
+    },
+    {
+      "start": 1068.133,
+      "end": 1070.293,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "provide that cross collaboration among"
+    },
+    {
+      "start": 1070.293,
+      "end": 1072.393,
+      "start_int": 1070,
+      "timestamp_label": "17:50",
+      "text": "the different disciplines to focus on"
+    },
+    {
+      "start": 1072.393,
+      "end": 1076.254,
+      "start_int": 1072,
+      "timestamp_label": "17:52",
+      "text": "efficiency and becoming more agile."
+    },
+    {
+      "start": 1077.264,
+      "end": 1081.504,
+      "start_int": 1077,
+      "timestamp_label": "17:57",
+      "text": "And as I always say, successful engineering"
+    },
+    {
+      "start": 1081.504,
+      "end": 1084.003,
+      "start_int": 1081,
+      "timestamp_label": "18:01",
+      "text": "is not possible without CM done right."
+    },
+    {
+      "start": 1084.003,
+      "end": 1088.023,
+      "start_int": 1084,
+      "timestamp_label": "18:04",
+      "text": "So that's one thing we like to focus on."
+    },
+    {
+      "start": 1088.064,
+      "end": 1093.304,
+      "start_int": 1088,
+      "timestamp_label": "18:08",
+      "text": "Within our software environment,"
+    },
+    {
+      "start": 1093.304,
+      "end": 1095.024,
+      "start_int": 1093,
+      "timestamp_label": "18:13",
+      "text": "we have a lot of different tools"
+    },
+    {
+      "start": 1095.024,
+      "end": 1100.264,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "and they serve a different purpose."
+    },
+    {
+      "start": 1100.264,
+      "end": 1102.684,
+      "start_int": 1100,
+      "timestamp_label": "18:20",
+      "text": "We have version control tools,"
+    },
+    {
+      "start": 1102.684,
+      "end": 1105.623,
+      "start_int": 1102,
+      "timestamp_label": "18:22",
+      "text": "and I'm not advocating any specific tool."
+    },
+    {
+      "start": 1105.623,
+      "end": 1108.124,
+      "start_int": 1105,
+      "timestamp_label": "18:25",
+      "text": "I'm just overlaying the different types"
+    },
+    {
+      "start": 1108.124,
+      "end": 1109.263,
+      "start_int": 1108,
+      "timestamp_label": "18:28",
+      "text": "of tools that we use"
+    },
+    {
+      "start": 1109.263,
+      "end": 1111.503,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "to to track and"
+    },
+    {
+      "start": 1111.503,
+      "end": 1114.664,
+      "start_int": 1111,
+      "timestamp_label": "18:31",
+      "text": "maintain software as well as the process."
+    },
+    {
+      "start": 1114.664,
+      "end": 1117.124,
+      "start_int": 1114,
+      "timestamp_label": "18:34",
+      "text": "So our version control software"
+    },
+    {
+      "start": 1117.124,
+      "end": 1120.764,
+      "start_int": 1117,
+      "timestamp_label": "18:37",
+      "text": "is for tracking your source code,"
+    },
+    {
+      "start": 1120.764,
+      "end": 1122.584,
+      "start_int": 1120,
+      "timestamp_label": "18:40",
+      "text": "your application code,"
+    },
+    {
+      "start": 1122.584,
+      "end": 1124.664,
+      "start_int": 1122,
+      "timestamp_label": "18:42",
+      "text": "versioning, branch management."
+    },
+    {
+      "start": 1124.664,
+      "end": 1126.484,
+      "start_int": 1124,
+      "timestamp_label": "18:44",
+      "text": "And then your build automation tools,"
+    },
+    {
+      "start": 1126.484,
+      "end": 1127.903,
+      "start_int": 1126,
+      "timestamp_label": "18:46",
+      "text": "of course, do your compiling,"
+    },
+    {
+      "start": 1127.903,
+      "end": 1129.404,
+      "start_int": 1127,
+      "timestamp_label": "18:47",
+      "text": "your software testing,"
+    },
+    {
+      "start": 1129.404,
+      "end": 1131.464,
+      "start_int": 1129,
+      "timestamp_label": "18:49",
+      "text": "and packaging of your software."
+    },
+    {
+      "start": 1131.464,
+      "end": 1133.284,
+      "start_int": 1131,
+      "timestamp_label": "18:51",
+      "text": "And then configuration management"
+    },
+    {
+      "start": 1133.284,
+      "end": 1135.484,
+      "start_int": 1133,
+      "timestamp_label": "18:53",
+      "text": "system is going to manage"
+    },
+    {
+      "start": 1135.484,
+      "end": 1137.923,
+      "start_int": 1135,
+      "timestamp_label": "18:55",
+      "text": "the configurations and ensure that you"
+    },
+    {
+      "start": 1137.923,
+      "end": 1141.493,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "have consistency across your environments."
+    },
+    {
+      "start": 1141.493,
+      "end": 1143.944,
+      "start_int": 1141,
+      "timestamp_label": "19:01",
+      "text": "Artifact repositories,"
+    },
+    {
+      "start": 1143.944,
+      "end": 1146.284,
+      "start_int": 1143,
+      "timestamp_label": "19:03",
+      "text": "store, and organize your binary codes,"
+    },
+    {
+      "start": 1146.284,
+      "end": 1147.764,
+      "start_int": 1146,
+      "timestamp_label": "19:06",
+      "text": "your compiled code,"
+    },
+    {
+      "start": 1147.764,
+      "end": 1149.683,
+      "start_int": 1147,
+      "timestamp_label": "19:07",
+      "text": "your libraries, your dependencies,"
+    },
+    {
+      "start": 1149.683,
+      "end": 1151.363,
+      "start_int": 1149,
+      "timestamp_label": "19:09",
+      "text": "and then of course, bug"
+    },
+    {
+      "start": 1151.363,
+      "end": 1154.444,
+      "start_int": 1151,
+      "timestamp_label": "19:11",
+      "text": "tracking and issue software,"
+    },
+    {
+      "start": 1154.444,
+      "end": 1157.004,
+      "start_int": 1154,
+      "timestamp_label": "19:14",
+      "text": "we'll track all your usually"
+    },
+    {
+      "start": 1157.004,
+      "end": 1159.304,
+      "start_int": 1157,
+      "timestamp_label": "19:17",
+      "text": "your development issues within"
+    },
+    {
+      "start": 1159.304,
+      "end": 1161.244,
+      "start_int": 1159,
+      "timestamp_label": "19:19",
+      "text": "your development cycle of managing"
+    },
+    {
+      "start": 1161.244,
+      "end": 1163.144,
+      "start_int": 1161,
+      "timestamp_label": "19:21",
+      "text": "those issues in bugs"
+    },
+    {
+      "start": 1163.144,
+      "end": 1166.244,
+      "start_int": 1163,
+      "timestamp_label": "19:23",
+      "text": "that come up and your feature requests."
+    },
+    {
+      "start": 1168.834,
+      "end": 1171.994,
+      "start_int": 1168,
+      "timestamp_label": "19:28",
+      "text": "We have another knowledge point question,"
+    },
+    {
+      "start": 1171.994,
+      "end": 1175.854,
+      "start_int": 1171,
+      "timestamp_label": "19:31",
+      "text": "which type of tool stores compiled code?"
+    },
+    {
+      "start": 1175.854,
+      "end": 1180.293,
+      "start_int": 1175,
+      "timestamp_label": "19:35",
+      "text": "Build automation tool, Artifact repository,"
+    },
+    {
+      "start": 1180.293,
+      "end": 1183.954,
+      "start_int": 1180,
+      "timestamp_label": "19:40",
+      "text": "issue tracking software, and version control?"
+    },
+    {
+      "start": 1184.474,
+      "end": 1189.113,
+      "start_int": 1184,
+      "timestamp_label": "19:44",
+      "text": "The answer is B, artifact repository."
+    },
+    {
+      "start": 1193.374,
+      "end": 1198.693,
+      "start_int": 1193,
+      "timestamp_label": "19:53",
+      "text": "Now we come to the software container pi."
+    },
+    {
+      "start": 1198.693,
+      "end": 1202.533,
+      "start_int": 1198,
+      "timestamp_label": "19:58",
+      "text": "Software containers, again, relatively new."
+    },
+    {
+      "start": 1203.694,
+      "end": 1208.094,
+      "start_int": 1203,
+      "timestamp_label": "20:03",
+      "text": "This is used to define how you package"
+    },
+    {
+      "start": 1208.094,
+      "end": 1210.653,
+      "start_int": 1208,
+      "timestamp_label": "20:08",
+      "text": "the components of your apps and"
+    },
+    {
+      "start": 1210.653,
+      "end": 1213.754,
+      "start_int": 1210,
+      "timestamp_label": "20:10",
+      "text": "bundle them into a single container image."
+    },
+    {
+      "start": 1213.754,
+      "end": 1220.454,
+      "start_int": 1213,
+      "timestamp_label": "20:13",
+      "text": "You can run an isolated user space"
+    },
+    {
+      "start": 1220.454,
+      "end": 1223.934,
+      "start_int": 1220,
+      "timestamp_label": "20:20",
+      "text": "within your same shared operating system."
+    },
+    {
+      "start": 1228.254,
+      "end": 1230.294,
+      "start_int": 1228,
+      "timestamp_label": "20:28",
+      "text": "And you can manage"
+    },
+    {
+      "start": 1230.294,
+      "end": 1231.893,
+      "start_int": 1230,
+      "timestamp_label": "20:30",
+      "text": "these applications"
+    },
+    {
+      "start": 1231.893,
+      "end": 1234.313,
+      "start_int": 1231,
+      "timestamp_label": "20:31",
+      "text": "by controlling change to the web,"
+    },
+    {
+      "start": 1234.313,
+      "end": 1236.254,
+      "start_int": 1234,
+      "timestamp_label": "20:34",
+      "text": "the database, apps,"
+    },
+    {
+      "start": 1236.254,
+      "end": 1239.253,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "and your containerized platforms."
+    },
+    {
+      "start": 1239.894,
+      "end": 1242.953,
+      "start_int": 1239,
+      "timestamp_label": "20:39",
+      "text": "You can use both types of"
+    },
+    {
+      "start": 1242.953,
+      "end": 1245.954,
+      "start_int": 1242,
+      "timestamp_label": "20:42",
+      "text": "s and deb SecOps to automate"
+    },
+    {
+      "start": 1245.954,
+      "end": 1249.173,
+      "start_int": 1245,
+      "timestamp_label": "20:45",
+      "text": "your processes within CM and"
+    },
+    {
+      "start": 1249.173,
+      "end": 1251.653,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "your standard operating procedures"
+    },
+    {
+      "start": 1251.653,
+      "end": 1254.494,
+      "start_int": 1251,
+      "timestamp_label": "20:51",
+      "text": "and provide your CM training."
+    },
+    {
+      "start": 1256.054,
+      "end": 1259.554,
+      "start_int": 1256,
+      "timestamp_label": "20:56",
+      "text": "CM containers sho include"
+    },
+    {
+      "start": 1259.554,
+      "end": 1260.753,
+      "start_int": 1259,
+      "timestamp_label": "20:59",
+      "text": "all your components and"
+    },
+    {
+      "start": 1260.753,
+      "end": 1262.513,
+      "start_int": 1260,
+      "timestamp_label": "21:00",
+      "text": "your version so you know what you"
+    },
+    {
+      "start": 1262.513,
+      "end": 1266.093,
+      "start_int": 1262,
+      "timestamp_label": "21:02",
+      "text": "have in case you need to roll back a version."
+    },
+    {
+      "start": 1270.624,
+      "end": 1273.683,
+      "start_int": 1270,
+      "timestamp_label": "21:10",
+      "text": "So that's pretty much the short on"
+    },
+    {
+      "start": 1273.683,
+      "end": 1276.684,
+      "start_int": 1273,
+      "timestamp_label": "21:13",
+      "text": "software containers and moving"
+    },
+    {
+      "start": 1276.684,
+      "end": 1278.204,
+      "start_int": 1276,
+      "timestamp_label": "21:16",
+      "text": "on to our summary."
+    },
+    {
+      "start": 1278.204,
+      "end": 1284.324,
+      "start_int": 1278,
+      "timestamp_label": "21:18",
+      "text": "So in summarizing our software CM."
+    },
+    {
+      "start": 1284.324,
+      "end": 1287.423,
+      "start_int": 1284,
+      "timestamp_label": "21:24",
+      "text": "It's all about the software components,"
+    },
+    {
+      "start": 1287.423,
+      "end": 1290.223,
+      "start_int": 1287,
+      "timestamp_label": "21:27",
+      "text": "and it's keeping track of them,"
+    },
+    {
+      "start": 1290.224,
+      "end": 1292.563,
+      "start_int": 1290,
+      "timestamp_label": "21:30",
+      "text": "keeping the configuration and"
+    },
+    {
+      "start": 1292.563,
+      "end": 1295.303,
+      "start_int": 1292,
+      "timestamp_label": "21:32",
+      "text": "the change control in place to make sure"
+    },
+    {
+      "start": 1295.303,
+      "end": 1297.704,
+      "start_int": 1295,
+      "timestamp_label": "21:35",
+      "text": "that they are properly"
+    },
+    {
+      "start": 1297.704,
+      "end": 1302.943,
+      "start_int": 1297,
+      "timestamp_label": "21:37",
+      "text": "monitored by CM and ensure that consistency."
+    },
+    {
+      "start": 1302.944,
+      "end": 1305.563,
+      "start_int": 1302,
+      "timestamp_label": "21:42",
+      "text": "There's lots of methodologies and"
+    },
+    {
+      "start": 1305.563,
+      "end": 1307.643,
+      "start_int": 1305,
+      "timestamp_label": "21:45",
+      "text": "processes that change every day"
+    },
+    {
+      "start": 1307.643,
+      "end": 1313.904,
+      "start_int": 1307,
+      "timestamp_label": "21:47",
+      "text": "to meet customer needs and Within CM,"
+    },
+    {
+      "start": 1313.904,
+      "end": 1316.383,
+      "start_int": 1313,
+      "timestamp_label": "21:53",
+      "text": "we strive every day to try"
+    },
+    {
+      "start": 1316.383,
+      "end": 1319.703,
+      "start_int": 1316,
+      "timestamp_label": "21:56",
+      "text": "to see these as"
+    },
+    {
+      "start": 1319.703,
+      "end": 1322.964,
+      "start_int": 1319,
+      "timestamp_label": "21:59",
+      "text": "opportunities to enhance our process,"
+    },
+    {
+      "start": 1322.964,
+      "end": 1325.724,
+      "start_int": 1322,
+      "timestamp_label": "22:02",
+      "text": "change our process, streamline our process,"
+    },
+    {
+      "start": 1325.724,
+      "end": 1330.183,
+      "start_int": 1325,
+      "timestamp_label": "22:05",
+      "text": "or make things work a little bit better."
+    },
+    {
+      "start": 1331.814,
+      "end": 1335.073,
+      "start_int": 1331,
+      "timestamp_label": "22:11",
+      "text": "We are a critical part to"
+    },
+    {
+      "start": 1335.073,
+      "end": 1337.013,
+      "start_int": 1335,
+      "timestamp_label": "22:15",
+      "text": "minimizing the challenges within"
+    },
+    {
+      "start": 1337.013,
+      "end": 1339.374,
+      "start_int": 1337,
+      "timestamp_label": "22:17",
+      "text": "the software engineering process."
+    },
+    {
+      "start": 1339.374,
+      "end": 1343.693,
+      "start_int": 1339,
+      "timestamp_label": "22:19",
+      "text": "And this will give us that opportunity to"
+    },
+    {
+      "start": 1343.693,
+      "end": 1346.534,
+      "start_int": 1343,
+      "timestamp_label": "22:23",
+      "text": "always improve and automate the process"
+    },
+    {
+      "start": 1346.534,
+      "end": 1347.533,
+      "start_int": 1346,
+      "timestamp_label": "22:26",
+      "text": "a little bit more and"
+    },
+    {
+      "start": 1347.533,
+      "end": 1349.653,
+      "start_int": 1347,
+      "timestamp_label": "22:27",
+      "text": "make it a little bit better."
+    },
+    {
+      "start": 1349.653,
+      "end": 1351.873,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "We also need to make sure"
+    },
+    {
+      "start": 1351.873,
+      "end": 1354.533,
+      "start_int": 1351,
+      "timestamp_label": "22:31",
+      "text": "that we always interject ourselves"
+    },
+    {
+      "start": 1354.533,
+      "end": 1357.773,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "appropriately in these newer processes"
+    },
+    {
+      "start": 1357.773,
+      "end": 1359.353,
+      "start_int": 1357,
+      "timestamp_label": "22:37",
+      "text": "to allow that engineering to"
+    },
+    {
+      "start": 1359.353,
+      "end": 1361.853,
+      "start_int": 1359,
+      "timestamp_label": "22:39",
+      "text": "remain stable and consistent."
+    },
+    {
+      "start": 1363.324,
+      "end": 1366.144,
+      "start_int": 1363,
+      "timestamp_label": "22:43",
+      "text": "And again,"
+    },
+    {
+      "start": 1366.144,
+      "end": 1368.043,
+      "start_int": 1366,
+      "timestamp_label": "22:46",
+      "text": "successful engineering is not"
+    },
+    {
+      "start": 1368.043,
+      "end": 1370.223,
+      "start_int": 1368,
+      "timestamp_label": "22:48",
+      "text": "possible without CM done right."
+    },
+    {
+      "start": 1370.223,
+      "end": 1374.523,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "So that's my last slide."
+    },
+    {
+      "start": 1374.523,
+      "end": 1379.384,
+      "start_int": 1374,
+      "timestamp_label": "22:54",
+      "text": "So we can start looking at the questions."
+    },
+    {
+      "start": 1379.384,
+      "end": 1380.804,
+      "start_int": 1379,
+      "timestamp_label": "22:59",
+      "text": "I can't see the questions."
+    },
+    {
+      "start": 1380.804,
+      "end": 1382.723,
+      "start_int": 1380,
+      "timestamp_label": "23:00",
+      "text": "So if someone from the team wants"
+    },
+    {
+      "start": 1382.723,
+      "end": 1385.904,
+      "start_int": 1382,
+      "timestamp_label": "23:02",
+      "text": "to start reading the questions"
+    },
+    {
+      "start": 1385.904,
+      "end": 1388.523,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "and answering them, that would be great."
+    },
+    {
+      "start": 1390.284,
+      "end": 1392.423,
+      "start_int": 1390,
+      "timestamp_label": "23:10",
+      "text": "Thank you, ma'am. There's a couple of"
+    },
+    {
+      "start": 1392.423,
+      "end": 1393.783,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "questions we had coming in"
+    },
+    {
+      "start": 1393.783,
+      "end": 1395.343,
+      "start_int": 1393,
+      "timestamp_label": "23:13",
+      "text": "through the registration."
+    },
+    {
+      "start": 1395.343,
+      "end": 1397.363,
+      "start_int": 1395,
+      "timestamp_label": "23:15",
+      "text": "So I'll start with those."
+    },
+    {
+      "start": 1397.444,
+      "end": 1399.864,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "First one is when conducting"
+    },
+    {
+      "start": 1399.864,
+      "end": 1402.903,
+      "start_int": 1399,
+      "timestamp_label": "23:19",
+      "text": "a PCA of a software baseline,"
+    },
+    {
+      "start": 1402.903,
+      "end": 1404.444,
+      "start_int": 1402,
+      "timestamp_label": "23:22",
+      "text": "what is used to verify"
+    },
+    {
+      "start": 1404.444,
+      "end": 1407.444,
+      "start_int": 1404,
+      "timestamp_label": "23:24",
+      "text": "configuration in the target environment?"
+    },
+    {
+      "start": 1410.844,
+      "end": 1413.024,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "By turning on the system"
+    },
+    {
+      "start": 1413.024,
+      "end": 1415.004,
+      "start_int": 1413,
+      "timestamp_label": "23:33",
+      "text": "to make sure it works."
+    },
+    {
+      "start": 1419.914,
+      "end": 1422.013,
+      "start_int": 1419,
+      "timestamp_label": "23:39",
+      "text": "All right, Thank you."
+    },
+    {
+      "start": 1422.013,
+      "end": 1424.753,
+      "start_int": 1422,
+      "timestamp_label": "23:42",
+      "text": "I mean, that's one way you want to make"
+    },
+    {
+      "start": 1424.753,
+      "end": 1428.854,
+      "start_int": 1424,
+      "timestamp_label": "23:44",
+      "text": "sure that the PCA,"
+    },
+    {
+      "start": 1428.854,
+      "end": 1432.153,
+      "start_int": 1428,
+      "timestamp_label": "23:48",
+      "text": "the box itself that you're doing"
+    },
+    {
+      "start": 1432.153,
+      "end": 1435.293,
+      "start_int": 1432,
+      "timestamp_label": "23:52",
+      "text": "a PCA on is turned on,"
+    },
+    {
+      "start": 1435.293,
+      "end": 1439.054,
+      "start_int": 1435,
+      "timestamp_label": "23:55",
+      "text": "has the correct software version control,"
+    },
+    {
+      "start": 1439.054,
+      "end": 1444.693,
+      "start_int": 1439,
+      "timestamp_label": "23:59",
+      "text": "that it interfaces with the other systems on"
+    },
+    {
+      "start": 1444.693,
+      "end": 1447.634,
+      "start_int": 1444,
+      "timestamp_label": "24:04",
+      "text": "the weapon system to ensure"
+    },
+    {
+      "start": 1447.634,
+      "end": 1452.054,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "that when they order the item,"
+    },
+    {
+      "start": 1452.054,
+      "end": 1455.833,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "that it comes properly loaded with"
+    },
+    {
+      "start": 1455.833,
+      "end": 1458.173,
+      "start_int": 1455,
+      "timestamp_label": "24:15",
+      "text": "the proper software before it's"
+    },
+    {
+      "start": 1458.173,
+      "end": 1462.233,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "DD 250 to the fleet over."
+    },
+    {
+      "start": 1462.233,
+      "end": 1466.073,
+      "start_int": 1462,
+      "timestamp_label": "24:22",
+      "text": "Any other comments from the team over?"
+    },
+    {
+      "start": 1472.354,
+      "end": 1475.494,
+      "start_int": 1472,
+      "timestamp_label": "24:32",
+      "text": "Can you guys hear me? Mis Cheryl?"
+    },
+    {
+      "start": 1475.494,
+      "end": 1478.093,
+      "start_int": 1475,
+      "timestamp_label": "24:35",
+      "text": "Yes Sheryl again."
+    },
+    {
+      "start": 1478.093,
+      "end": 1480.753,
+      "start_int": 1478,
+      "timestamp_label": "24:38",
+      "text": "Yeah. That sounds right."
+    },
+    {
+      "start": 1480.753,
+      "end": 1483.214,
+      "start_int": 1480,
+      "timestamp_label": "24:40",
+      "text": "And you also want to capture"
+    },
+    {
+      "start": 1483.214,
+      "end": 1485.353,
+      "start_int": 1483,
+      "timestamp_label": "24:43",
+      "text": "any outstanding changes that"
+    },
+    {
+      "start": 1485.353,
+      "end": 1486.613,
+      "start_int": 1485,
+      "timestamp_label": "24:45",
+      "text": "the government may have"
+    },
+    {
+      "start": 1486.613,
+      "end": 1491.874,
+      "start_int": 1486,
+      "timestamp_label": "24:46",
+      "text": "approved against the serialized item"
+    },
+    {
+      "start": 1491.874,
+      "end": 1495.953,
+      "start_int": 1491,
+      "timestamp_label": "24:51",
+      "text": "that may or may not have been in yet."
+    },
+    {
+      "start": 1496.114,
+      "end": 1500.274,
+      "start_int": 1496,
+      "timestamp_label": "24:56",
+      "text": "You want to track that as part of your PCA."
+    },
+    {
+      "start": 1502.534,
+      "end": 1504.854,
+      "start_int": 1502,
+      "timestamp_label": "25:02",
+      "text": "Thank you. Good."
+    },
+    {
+      "start": 1504.854,
+      "end": 1507.333,
+      "start_int": 1504,
+      "timestamp_label": "25:04",
+      "text": "I'd also like to add to that, you know,"
+    },
+    {
+      "start": 1507.333,
+      "end": 1509.194,
+      "start_int": 1507,
+      "timestamp_label": "25:07",
+      "text": "before that item leaves"
+    },
+    {
+      "start": 1509.194,
+      "end": 1511.473,
+      "start_int": 1509,
+      "timestamp_label": "25:09",
+      "text": "the vendors facility or if"
+    },
+    {
+      "start": 1511.473,
+      "end": 1511.713,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "it's"
+    },
+    {
+      "start": 1511.713,
+      "end": 1514.473,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "a a government organization that produced it."
+    },
+    {
+      "start": 1514.473,
+      "end": 1518.373,
+      "start_int": 1514,
+      "timestamp_label": "25:14",
+      "text": "There is that quality assurance check"
+    },
+    {
+      "start": 1518.373,
+      "end": 1520.993,
+      "start_int": 1518,
+      "timestamp_label": "25:18",
+      "text": "or process that's implemented there."
+    },
+    {
+      "start": 1520.993,
+      "end": 1523.373,
+      "start_int": 1520,
+      "timestamp_label": "25:20",
+      "text": "So and then this begins what Dan"
+    },
+    {
+      "start": 1523.373,
+      "end": 1525.194,
+      "start_int": 1523,
+      "timestamp_label": "25:23",
+      "text": "talked about with regards"
+    },
+    {
+      "start": 1525.194,
+      "end": 1526.453,
+      "start_int": 1525,
+      "timestamp_label": "25:25",
+      "text": "to turning the box on,"
+    },
+    {
+      "start": 1526.453,
+      "end": 1528.733,
+      "start_int": 1526,
+      "timestamp_label": "25:26",
+      "text": "making sure the connections are there."
+    },
+    {
+      "start": 1528.733,
+      "end": 1531.433,
+      "start_int": 1528,
+      "timestamp_label": "25:28",
+      "text": "Is the supporting documentation there?"
+    },
+    {
+      "start": 1531.433,
+      "end": 1533.573,
+      "start_int": 1531,
+      "timestamp_label": "25:31",
+      "text": "Is that document configured in"
+    },
+    {
+      "start": 1533.573,
+      "end": 1536.433,
+      "start_int": 1533,
+      "timestamp_label": "25:33",
+      "text": "accordance with the drawing plan?"
+    },
+    {
+      "start": 1536.433,
+      "end": 1541.014,
+      "start_int": 1536,
+      "timestamp_label": "25:36",
+      "text": "So there is that verification audit portion"
+    },
+    {
+      "start": 1541.014,
+      "end": 1542.413,
+      "start_int": 1541,
+      "timestamp_label": "25:41",
+      "text": "that comes into play too"
+    },
+    {
+      "start": 1542.413,
+      "end": 1545.653,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "as the fifth phase of CM over?"
+    },
+    {
+      "start": 1549.654,
+      "end": 1552.793,
+      "start_int": 1549,
+      "timestamp_label": "25:49",
+      "text": "All right. Thank you. The next question is,"
+    },
+    {
+      "start": 1552.793,
+      "end": 1554.953,
+      "start_int": 1552,
+      "timestamp_label": "25:52",
+      "text": "are there specific requirements"
+    },
+    {
+      "start": 1554.953,
+      "end": 1556.233,
+      "start_int": 1554,
+      "timestamp_label": "25:54",
+      "text": "the Navy invokes on"
+    },
+    {
+      "start": 1556.233,
+      "end": 1558.014,
+      "start_int": 1556,
+      "timestamp_label": "25:56",
+      "text": "the shipbuilder to manage"
+    },
+    {
+      "start": 1558.014,
+      "end": 1561.254,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "commercial off the shelf products?"
+    },
+    {
+      "start": 1563.544,
+      "end": 1567.223,
+      "start_int": 1563,
+      "timestamp_label": "26:03",
+      "text": "That's yours, Paul. Yeah, that's"
+    },
+    {
+      "start": 1567.223,
+      "end": 1569.343,
+      "start_int": 1567,
+      "timestamp_label": "26:07",
+      "text": "a can of worms there."
+    },
+    {
+      "start": 1571.104,
+      "end": 1573.883,
+      "start_int": 1571,
+      "timestamp_label": "26:11",
+      "text": "It really begins with having"
+    },
+    {
+      "start": 1573.883,
+      "end": 1578.864,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "a clear cut setting of defined requirements."
+    },
+    {
+      "start": 1578.864,
+      "end": 1583.543,
+      "start_int": 1578,
+      "timestamp_label": "26:18",
+      "text": "And within AFC, we,"
+    },
+    {
+      "start": 1583.543,
+      "end": 1585.944,
+      "start_int": 1583,
+      "timestamp_label": "26:23",
+      "text": "as part of model based product support,"
+    },
+    {
+      "start": 1585.944,
+      "end": 1588.323,
+      "start_int": 1585,
+      "timestamp_label": "26:25",
+      "text": "or PLM, there is"
+    },
+    {
+      "start": 1588.323,
+      "end": 1591.364,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "a component in there called Endark,"
+    },
+    {
+      "start": 1591.364,
+      "end": 1594.243,
+      "start_int": 1591,
+      "timestamp_label": "26:31",
+      "text": "Navy Data Acquisition Requirements."
+    },
+    {
+      "start": 1594.243,
+      "end": 1597.383,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "I don't believe it's been fully fielded yet,"
+    },
+    {
+      "start": 1597.383,
+      "end": 1601.603,
+      "start_int": 1597,
+      "timestamp_label": "26:37",
+      "text": "but It talks about and I think"
+    },
+    {
+      "start": 1601.603,
+      "end": 1603.743,
+      "start_int": 1601,
+      "timestamp_label": "26:41",
+      "text": "it's a resident now in"
+    },
+    {
+      "start": 1603.743,
+      "end": 1606.743,
+      "start_int": 1603,
+      "timestamp_label": "26:43",
+      "text": "a configuration called En Dart Light."
+    },
+    {
+      "start": 1606.743,
+      "end": 1609.503,
+      "start_int": 1606,
+      "timestamp_label": "26:46",
+      "text": "But really, this talks about it all"
+    },
+    {
+      "start": 1609.503,
+      "end": 1613.003,
+      "start_int": 1609,
+      "timestamp_label": "26:49",
+      "text": "starts with the statement of work. I want."
+    },
+    {
+      "start": 1613.003,
+      "end": 1615.263,
+      "start_int": 1613,
+      "timestamp_label": "26:53",
+      "text": "And then developing"
+    },
+    {
+      "start": 1615.263,
+      "end": 1617.864,
+      "start_int": 1615,
+      "timestamp_label": "26:55",
+      "text": "your supporting see drills"
+    },
+    {
+      "start": 1617.864,
+      "end": 1620.143,
+      "start_int": 1617,
+      "timestamp_label": "26:57",
+      "text": "that define the context and"
+    },
+    {
+      "start": 1620.143,
+      "end": 1623.183,
+      "start_int": 1620,
+      "timestamp_label": "27:00",
+      "text": "the frequency of the delivery of that."
+    },
+    {
+      "start": 1623.183,
+      "end": 1624.824,
+      "start_int": 1623,
+      "timestamp_label": "27:03",
+      "text": "And then I you're supporting"
+    },
+    {
+      "start": 1624.824,
+      "end": 1627.883,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "data item descriptions that get in there."
+    },
+    {
+      "start": 1627.883,
+      "end": 1631.143,
+      "start_int": 1627,
+      "timestamp_label": "27:07",
+      "text": "Here in NAC, o5r,"
+    },
+    {
+      "start": 1631.184,
+      "end": 1635.504,
+      "start_int": 1631,
+      "timestamp_label": "27:11",
+      "text": "a lady by the name of Cynthia Graham teaches"
+    },
+    {
+      "start": 1635.504,
+      "end": 1640.163,
+      "start_int": 1635,
+      "timestamp_label": "27:15",
+      "text": "data management course that gets into that."
+    },
+    {
+      "start": 1640.163,
+      "end": 1643.144,
+      "start_int": 1640,
+      "timestamp_label": "27:20",
+      "text": "Making again, you can't emphasize enough."
+    },
+    {
+      "start": 1643.144,
+      "end": 1646.264,
+      "start_int": 1643,
+      "timestamp_label": "27:23",
+      "text": "Having a clearly defined statement"
+    },
+    {
+      "start": 1646.264,
+      "end": 1649.443,
+      "start_int": 1646,
+      "timestamp_label": "27:26",
+      "text": "of work is where excuse me,"
+    },
+    {
+      "start": 1649.443,
+      "end": 1650.744,
+      "start_int": 1649,
+      "timestamp_label": "27:29",
+      "text": "it all really begins."
+    },
+    {
+      "start": 1650.744,
+      "end": 1652.264,
+      "start_int": 1650,
+      "timestamp_label": "27:30",
+      "text": "And, Dan, down at Naver,"
+    },
+    {
+      "start": 1652.264,
+      "end": 1655.663,
+      "start_int": 1652,
+      "timestamp_label": "27:32",
+      "text": "you have a pretty robust DM training as well,"
+    },
+    {
+      "start": 1655.663,
+      "end": 1659.603,
+      "start_int": 1655,
+      "timestamp_label": "27:35",
+      "text": "don't you? Yes, we do."
+    },
+    {
+      "start": 1659.603,
+      "end": 1661.983,
+      "start_int": 1659,
+      "timestamp_label": "27:39",
+      "text": "But with regards to"
+    },
+    {
+      "start": 1661.983,
+      "end": 1664.204,
+      "start_int": 1661,
+      "timestamp_label": "27:41",
+      "text": "data management here at Naver,"
+    },
+    {
+      "start": 1664.204,
+      "end": 1669.903,
+      "start_int": 1664,
+      "timestamp_label": "27:44",
+      "text": "it's more on the Sedral statement of work,"
+    },
+    {
+      "start": 1669.903,
+      "end": 1672.904,
+      "start_int": 1669,
+      "timestamp_label": "27:49",
+      "text": "data item descriptions within"
+    },
+    {
+      "start": 1672.904,
+      "end": 1676.464,
+      "start_int": 1672,
+      "timestamp_label": "27:52",
+      "text": "my department that we manage one time dids,"
+    },
+    {
+      "start": 1676.464,
+      "end": 1677.763,
+      "start_int": 1676,
+      "timestamp_label": "27:56",
+      "text": "repetitive dids, et cetera,"
+    },
+    {
+      "start": 1677.763,
+      "end": 1680.644,
+      "start_int": 1677,
+      "timestamp_label": "27:57",
+      "text": "et cetera for Naver."
+    },
+    {
+      "start": 1680.644,
+      "end": 1683.224,
+      "start_int": 1680,
+      "timestamp_label": "28:00",
+      "text": "You do have other areas"
+    },
+    {
+      "start": 1683.224,
+      "end": 1685.624,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "for technical data packaging,"
+    },
+    {
+      "start": 1685.624,
+      "end": 1688.483,
+      "start_int": 1685,
+      "timestamp_label": "28:05",
+      "text": "which is on the other side with"
+    },
+    {
+      "start": 1688.483,
+      "end": 1690.703,
+      "start_int": 1688,
+      "timestamp_label": "28:08",
+      "text": "the sustainment group that"
+    },
+    {
+      "start": 1690.703,
+      "end": 1692.824,
+      "start_int": 1690,
+      "timestamp_label": "28:10",
+      "text": "reviews that and FRC."
+    },
+    {
+      "start": 1692.824,
+      "end": 1696.363,
+      "start_int": 1692,
+      "timestamp_label": "28:12",
+      "text": "So what we do here in"
+    },
+    {
+      "start": 1696.363,
+      "end": 1698.764,
+      "start_int": 1696,
+      "timestamp_label": "28:16",
+      "text": "the CM DM department"
+    },
+    {
+      "start": 1698.764,
+      "end": 1702.183,
+      "start_int": 1698,
+      "timestamp_label": "28:18",
+      "text": "is just essentially the Sidrls,"
+    },
+    {
+      "start": 1702.183,
+      "end": 1703.703,
+      "start_int": 1702,
+      "timestamp_label": "28:22",
+      "text": "data item descriptions, and"
+    },
+    {
+      "start": 1703.703,
+      "end": 1706.943,
+      "start_int": 1703,
+      "timestamp_label": "28:23",
+      "text": "statement worked SOOs, et cetera O."
+    },
+    {
+      "start": 1707.684,
+      "end": 1711.083,
+      "start_int": 1707,
+      "timestamp_label": "28:27",
+      "text": "I got another perspective on this."
+    },
+    {
+      "start": 1711.083,
+      "end": 1714.203,
+      "start_int": 1711,
+      "timestamp_label": "28:31",
+      "text": "So if you're the shipbuilder,"
+    },
+    {
+      "start": 1714.203,
+      "end": 1715.863,
+      "start_int": 1714,
+      "timestamp_label": "28:34",
+      "text": "you've got a contract with shipbuilder."
+    },
+    {
+      "start": 1715.863,
+      "end": 1717.803,
+      "start_int": 1715,
+      "timestamp_label": "28:35",
+      "text": "They have a CM plan."
+    },
+    {
+      "start": 1717.803,
+      "end": 1725.404,
+      "start_int": 1717,
+      "timestamp_label": "28:37",
+      "text": "They need to enforce CM on COTS,"
+    },
+    {
+      "start": 1725.404,
+      "end": 1731.164,
+      "start_int": 1725,
+      "timestamp_label": "28:45",
+      "text": "expect the COTS system provider"
+    },
+    {
+      "start": 1731.164,
+      "end": 1735.224,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "to perform configuration management"
+    },
+    {
+      "start": 1735.224,
+      "end": 1737.963,
+      "start_int": 1735,
+      "timestamp_label": "28:55",
+      "text": "at the same level"
+    },
+    {
+      "start": 1737.963,
+      "end": 1741.114,
+      "start_int": 1737,
+      "timestamp_label": "28:57",
+      "text": "that you would for non COTS,"
+    },
+    {
+      "start": 1741.114,
+      "end": 1746.343,
+      "start_int": 1741,
+      "timestamp_label": "29:01",
+      "text": "But report, you don't obviously have"
+    },
+    {
+      "start": 1746.343,
+      "end": 1748.283,
+      "start_int": 1746,
+      "timestamp_label": "29:06",
+      "text": "insight into all of"
+    },
+    {
+      "start": 1748.283,
+      "end": 1752.303,
+      "start_int": 1748,
+      "timestamp_label": "29:08",
+      "text": "their data rights and such."
+    },
+    {
+      "start": 1752.303,
+      "end": 1755.904,
+      "start_int": 1752,
+      "timestamp_label": "29:12",
+      "text": "But to you need to have enforce"
+    },
+    {
+      "start": 1755.904,
+      "end": 1757.963,
+      "start_int": 1755,
+      "timestamp_label": "29:15",
+      "text": "some sort of configuration"
+    },
+    {
+      "start": 1757.963,
+      "end": 1759.563,
+      "start_int": 1757,
+      "timestamp_label": "29:17",
+      "text": "management reporting of"
+    },
+    {
+      "start": 1759.563,
+      "end": 1763.983,
+      "start_int": 1759,
+      "timestamp_label": "29:19",
+      "text": "parts number changes and software changes at"
+    },
+    {
+      "start": 1763.983,
+      "end": 1767.223,
+      "start_int": 1763,
+      "timestamp_label": "29:23",
+      "text": "a consistent level similar to what the"
+    },
+    {
+      "start": 1767.223,
+      "end": 1769.944,
+      "start_int": 1767,
+      "timestamp_label": "29:27",
+      "text": "government's using for class one changes,"
+    },
+    {
+      "start": 1769.944,
+      "end": 1771.703,
+      "start_int": 1769,
+      "timestamp_label": "29:29",
+      "text": "especially."
+    },
+    {
+      "start": 1771.744,
+      "end": 1774.104,
+      "start_int": 1771,
+      "timestamp_label": "29:31",
+      "text": "That should be invoked"
+    },
+    {
+      "start": 1774.104,
+      "end": 1777.863,
+      "start_int": 1774,
+      "timestamp_label": "29:34",
+      "text": "the shipbuilders CM plan,"
+    },
+    {
+      "start": 1777.863,
+      "end": 1782.193,
+      "start_int": 1777,
+      "timestamp_label": "29:37",
+      "text": "and the government demand that."
+    },
+    {
+      "start": 1782.193,
+      "end": 1786.114,
+      "start_int": 1782,
+      "timestamp_label": "29:42",
+      "text": "A lot of times the COTS products"
+    },
+    {
+      "start": 1786.114,
+      "end": 1788.033,
+      "start_int": 1786,
+      "timestamp_label": "29:46",
+      "text": "are changing and they're"
+    },
+    {
+      "start": 1788.033,
+      "end": 1790.434,
+      "start_int": 1788,
+      "timestamp_label": "29:48",
+      "text": "not applying proper CM,"
+    },
+    {
+      "start": 1790.434,
+      "end": 1792.413,
+      "start_int": 1790,
+      "timestamp_label": "29:50",
+      "text": "and it creates a lot of"
+    },
+    {
+      "start": 1792.413,
+      "end": 1794.373,
+      "start_int": 1792,
+      "timestamp_label": "29:52",
+      "text": "havoc when the products are"
+    },
+    {
+      "start": 1794.373,
+      "end": 1796.774,
+      "start_int": 1794,
+      "timestamp_label": "29:54",
+      "text": "delivered to the government"
+    },
+    {
+      "start": 1796.774,
+      "end": 1799.054,
+      "start_int": 1796,
+      "timestamp_label": "29:56",
+      "text": "and including firmware changes"
+    },
+    {
+      "start": 1799.054,
+      "end": 1800.564,
+      "start_int": 1799,
+      "timestamp_label": "29:59",
+      "text": "in COTS products."
+    },
+    {
+      "start": 1800.564,
+      "end": 1802.214,
+      "start_int": 1800,
+      "timestamp_label": "30:00",
+      "text": "That's a good point, Cheryl."
+    },
+    {
+      "start": 1802.214,
+      "end": 1805.493,
+      "start_int": 1802,
+      "timestamp_label": "30:02",
+      "text": "You You got to make sure that it's"
+    },
+    {
+      "start": 1805.493,
+      "end": 1806.874,
+      "start_int": 1805,
+      "timestamp_label": "30:05",
+      "text": "written into the contract"
+    },
+    {
+      "start": 1806.874,
+      "end": 1809.054,
+      "start_int": 1806,
+      "timestamp_label": "30:06",
+      "text": "that these cots items,"
+    },
+    {
+      "start": 1809.054,
+      "end": 1811.954,
+      "start_int": 1809,
+      "timestamp_label": "30:09",
+      "text": "if there's any changes to the cots items,"
+    },
+    {
+      "start": 1811.954,
+      "end": 1815.373,
+      "start_int": 1811,
+      "timestamp_label": "30:11",
+      "text": "that the OEM or"
+    },
+    {
+      "start": 1815.373,
+      "end": 1817.774,
+      "start_int": 1815,
+      "timestamp_label": "30:15",
+      "text": "producer notifies the government"
+    },
+    {
+      "start": 1817.774,
+      "end": 1819.814,
+      "start_int": 1817,
+      "timestamp_label": "30:17",
+      "text": "that it has tested"
+    },
+    {
+      "start": 1819.814,
+      "end": 1823.013,
+      "start_int": 1819,
+      "timestamp_label": "30:19",
+      "text": "and has been tested on other systems on"
+    },
+    {
+      "start": 1823.013,
+      "end": 1825.913,
+      "start_int": 1823,
+      "timestamp_label": "30:23",
+      "text": "your weapon system to make sure that it"
+    },
+    {
+      "start": 1825.913,
+      "end": 1828.834,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "doesn't cause any other problems."
+    },
+    {
+      "start": 1828.834,
+      "end": 1831.053,
+      "start_int": 1828,
+      "timestamp_label": "30:28",
+      "text": "So it's got to be written into"
+    },
+    {
+      "start": 1831.053,
+      "end": 1834.453,
+      "start_int": 1831,
+      "timestamp_label": "30:31",
+      "text": "the contract that this is done properly over."
+    },
+    {
+      "start": 1834.453,
+      "end": 1837.413,
+      "start_int": 1834,
+      "timestamp_label": "30:34",
+      "text": "Yeah. There's a misnomer that we"
+    },
+    {
+      "start": 1837.413,
+      "end": 1839.954,
+      "start_int": 1837,
+      "timestamp_label": "30:37",
+      "text": "don't have CM control over COTS,"
+    },
+    {
+      "start": 1839.954,
+      "end": 1841.353,
+      "start_int": 1839,
+      "timestamp_label": "30:39",
+      "text": "and we have to have"
+    },
+    {
+      "start": 1841.353,
+      "end": 1844.414,
+      "start_int": 1841,
+      "timestamp_label": "30:41",
+      "text": "some level of configuration management."
+    },
+    {
+      "start": 1844.414,
+      "end": 1850.194,
+      "start_int": 1844,
+      "timestamp_label": "30:44",
+      "text": "And COT the vendors know how to do CM,"
+    },
+    {
+      "start": 1850.194,
+      "end": 1851.994,
+      "start_int": 1850,
+      "timestamp_label": "30:50",
+      "text": "and there's an industry standard"
+    },
+    {
+      "start": 1851.994,
+      "end": 1854.053,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "out there. They should know how to do it."
+    },
+    {
+      "start": 1854.053,
+      "end": 1856.673,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "And you just invoke it,"
+    },
+    {
+      "start": 1856.673,
+      "end": 1859.814,
+      "start_int": 1856,
+      "timestamp_label": "30:56",
+      "text": "but you're not micromanaging their CM,"
+    },
+    {
+      "start": 1859.814,
+      "end": 1862.353,
+      "start_int": 1859,
+      "timestamp_label": "30:59",
+      "text": "but it needs to be reported when"
+    },
+    {
+      "start": 1862.353,
+      "end": 1865.633,
+      "start_int": 1862,
+      "timestamp_label": "31:02",
+      "text": "they're changing part numbers and"
+    },
+    {
+      "start": 1865.633,
+      "end": 1869.134,
+      "start_int": 1865,
+      "timestamp_label": "31:05",
+      "text": "changing software version numbers"
+    },
+    {
+      "start": 1869.134,
+      "end": 1872.293,
+      "start_int": 1869,
+      "timestamp_label": "31:09",
+      "text": "at a class one type level to you."
+    },
+    {
+      "start": 1872.293,
+      "end": 1874.874,
+      "start_int": 1872,
+      "timestamp_label": "31:12",
+      "text": "Yeah. Absolutely correct."
+    },
+    {
+      "start": 1874.874,
+      "end": 1878.174,
+      "start_int": 1874,
+      "timestamp_label": "31:14",
+      "text": "Yes. And I can I can second that, Sheryl,"
+    },
+    {
+      "start": 1878.174,
+      "end": 1880.713,
+      "start_int": 1878,
+      "timestamp_label": "31:18",
+      "text": "because we do a lot of cots at"
+    },
+    {
+      "start": 1880.713,
+      "end": 1882.033,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "my program from office in"
+    },
+    {
+      "start": 1882.033,
+      "end": 1884.634,
+      "start_int": 1882,
+      "timestamp_label": "31:22",
+      "text": "our products and definitely."
+    },
+    {
+      "start": 1884.634,
+      "end": 1886.454,
+      "start_int": 1884,
+      "timestamp_label": "31:24",
+      "text": "Yes. That was a good question"
+    },
+    {
+      "start": 1886.454,
+      "end": 1888.594,
+      "start_int": 1886,
+      "timestamp_label": "31:26",
+      "text": "because for some reason,"
+    },
+    {
+      "start": 1888.594,
+      "end": 1891.013,
+      "start_int": 1888,
+      "timestamp_label": "31:28",
+      "text": "people think that we don't"
+    },
+    {
+      "start": 1891.013,
+      "end": 1893.354,
+      "start_int": 1891,
+      "timestamp_label": "31:31",
+      "text": "have any control over cots."
+    },
+    {
+      "start": 1893.354,
+      "end": 1894.693,
+      "start_int": 1893,
+      "timestamp_label": "31:33",
+      "text": "They just do whatever they want."
+    },
+    {
+      "start": 1894.693,
+      "end": 1895.873,
+      "start_int": 1894,
+      "timestamp_label": "31:34",
+      "text": "We get whatever we get."
+    },
+    {
+      "start": 1895.873,
+      "end": 1899.448,
+      "start_int": 1895,
+      "timestamp_label": "31:35",
+      "text": "And that's totally wrong perspective."
+    },
+    {
+      "start": 1899.448,
+      "end": 1902.083,
+      "start_int": 1899,
+      "timestamp_label": "31:39",
+      "text": "Yeah. That's the documentation."
+    },
+    {
+      "start": 1902.083,
+      "end": 1903.683,
+      "start_int": 1902,
+      "timestamp_label": "31:42",
+      "text": "Right. Sometimes we have"
+    },
+    {
+      "start": 1903.683,
+      "end": 1905.263,
+      "start_int": 1903,
+      "timestamp_label": "31:43",
+      "text": "to go back to the vendor for"
+    },
+    {
+      "start": 1905.263,
+      "end": 1909.103,
+      "start_int": 1905,
+      "timestamp_label": "31:45",
+      "text": "very specific problems and sort of,"
+    },
+    {
+      "start": 1909.103,
+      "end": 1912.683,
+      "start_int": 1909,
+      "timestamp_label": "31:49",
+      "text": "I guess, get some assistance, I'll say."
+    },
+    {
+      "start": 1912.683,
+      "end": 1915.343,
+      "start_int": 1912,
+      "timestamp_label": "31:52",
+      "text": "But at the end of the day,"
+    },
+    {
+      "start": 1915.343,
+      "end": 1917.683,
+      "start_int": 1915,
+      "timestamp_label": "31:55",
+      "text": "the control belongs to"
+    },
+    {
+      "start": 1917.683,
+      "end": 1921.944,
+      "start_int": 1917,
+      "timestamp_label": "31:57",
+      "text": "our program office on those products."
+    },
+    {
+      "start": 1924.704,
+      "end": 1927.383,
+      "start_int": 1924,
+      "timestamp_label": "32:04",
+      "text": "All right. Thank you. We've got"
+    },
+    {
+      "start": 1927.383,
+      "end": 1928.723,
+      "start_int": 1927,
+      "timestamp_label": "32:07",
+      "text": "one last question that came"
+    },
+    {
+      "start": 1928.723,
+      "end": 1930.563,
+      "start_int": 1928,
+      "timestamp_label": "32:08",
+      "text": "in through the registration."
+    },
+    {
+      "start": 1930.563,
+      "end": 1932.123,
+      "start_int": 1930,
+      "timestamp_label": "32:10",
+      "text": "How can logistics and"
+    },
+    {
+      "start": 1932.123,
+      "end": 1934.203,
+      "start_int": 1932,
+      "timestamp_label": "32:12",
+      "text": "configuration changes keep pace"
+    },
+    {
+      "start": 1934.203,
+      "end": 1936.704,
+      "start_int": 1934,
+      "timestamp_label": "32:14",
+      "text": "with the quick and multiple software changes"
+    },
+    {
+      "start": 1936.704,
+      "end": 1938.824,
+      "start_int": 1936,
+      "timestamp_label": "32:16",
+      "text": "occurring with systems?"
+    },
+    {
+      "start": 1939.784,
+      "end": 1944.564,
+      "start_int": 1939,
+      "timestamp_label": "32:19",
+      "text": "By doing CM, communications Management,"
+    },
+    {
+      "start": 1944.564,
+      "end": 1947.744,
+      "start_int": 1944,
+      "timestamp_label": "32:24",
+      "text": "conflict management, change management."
+    },
+    {
+      "start": 1947.744,
+      "end": 1950.123,
+      "start_int": 1947,
+      "timestamp_label": "32:27",
+      "text": "You got to do all three of those in"
+    },
+    {
+      "start": 1950.123,
+      "end": 1951.284,
+      "start_int": 1950,
+      "timestamp_label": "32:30",
+      "text": "order to have proper"
+    },
+    {
+      "start": 1951.284,
+      "end": 1953.568,
+      "start_int": 1951,
+      "timestamp_label": "32:31",
+      "text": "configuration management over."
+    },
+    {
+      "start": 1953.568,
+      "end": 1955.733,
+      "start_int": 1953,
+      "timestamp_label": "32:33",
+      "text": "Well, the other thing,"
+    },
+    {
+      "start": 1955.733,
+      "end": 1958.553,
+      "start_int": 1955,
+      "timestamp_label": "32:35",
+      "text": "so we're experiencing this in"
+    },
+    {
+      "start": 1958.553,
+      "end": 1960.073,
+      "start_int": 1958,
+      "timestamp_label": "32:38",
+      "text": "the submarine world here"
+    },
+    {
+      "start": 1960.073,
+      "end": 1961.253,
+      "start_int": 1960,
+      "timestamp_label": "32:40",
+      "text": "because we're trying to go"
+    },
+    {
+      "start": 1961.253,
+      "end": 1962.714,
+      "start_int": 1961,
+      "timestamp_label": "32:41",
+      "text": "faster with our software."
+    },
+    {
+      "start": 1962.714,
+      "end": 1966.594,
+      "start_int": 1962,
+      "timestamp_label": "32:42",
+      "text": "So the logistics technical"
+    },
+    {
+      "start": 1966.594,
+      "end": 1968.954,
+      "start_int": 1966,
+      "timestamp_label": "32:46",
+      "text": "documentation is falling behind."
+    },
+    {
+      "start": 1968.954,
+      "end": 1972.013,
+      "start_int": 1968,
+      "timestamp_label": "32:48",
+      "text": "So what needs to"
+    },
+    {
+      "start": 1972.013,
+      "end": 1974.994,
+      "start_int": 1972,
+      "timestamp_label": "32:52",
+      "text": "happen is you got to get the LTD,"
+    },
+    {
+      "start": 1974.994,
+      "end": 1978.274,
+      "start_int": 1974,
+      "timestamp_label": "32:54",
+      "text": "the tech manuals in an automated fashion,"
+    },
+    {
+      "start": 1978.274,
+      "end": 1980.194,
+      "start_int": 1978,
+      "timestamp_label": "32:58",
+      "text": "and same with the drawings."
+    },
+    {
+      "start": 1980.194,
+      "end": 1982.293,
+      "start_int": 1980,
+      "timestamp_label": "33:00",
+      "text": "You got to keep pace"
+    },
+    {
+      "start": 1982.293,
+      "end": 1984.833,
+      "start_int": 1982,
+      "timestamp_label": "33:02",
+      "text": "with the software development."
+    },
+    {
+      "start": 1984.833,
+      "end": 1987.673,
+      "start_int": 1984,
+      "timestamp_label": "33:04",
+      "text": "So we have enough tools out there,"
+    },
+    {
+      "start": 1987.673,
+      "end": 1993.173,
+      "start_int": 1987,
+      "timestamp_label": "33:07",
+      "text": "it's 2024 I don't understand how we"
+    },
+    {
+      "start": 1993.173,
+      "end": 1996.673,
+      "start_int": 1993,
+      "timestamp_label": "33:13",
+      "text": "can't update these documents"
+    },
+    {
+      "start": 1996.673,
+      "end": 1997.953,
+      "start_int": 1996,
+      "timestamp_label": "33:16",
+      "text": "at the same pace that"
+    },
+    {
+      "start": 1997.953,
+      "end": 1999.274,
+      "start_int": 1997,
+      "timestamp_label": "33:17",
+      "text": "we're updating software."
+    },
+    {
+      "start": 1999.274,
+      "end": 2000.813,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "I just don't get it."
+    },
+    {
+      "start": 2000.813,
+      "end": 2003.213,
+      "start_int": 2000,
+      "timestamp_label": "33:20",
+      "text": "We've got to figure this out."
+    },
+    {
+      "start": 2003.213,
+      "end": 2005.074,
+      "start_int": 2003,
+      "timestamp_label": "33:23",
+      "text": "This is the digital engineering,"
+    },
+    {
+      "start": 2005.074,
+      "end": 2008.758,
+      "start_int": 2005,
+      "timestamp_label": "33:25",
+      "text": "the tech, the toms, the whole thread."
+    },
+    {
+      "start": 2008.758,
+      "end": 2012.183,
+      "start_int": 2008,
+      "timestamp_label": "33:28",
+      "text": "And we have to figure this"
+    },
+    {
+      "start": 2012.183,
+      "end": 2014.564,
+      "start_int": 2012,
+      "timestamp_label": "33:32",
+      "text": "out because we're delivering"
+    },
+    {
+      "start": 2014.564,
+      "end": 2016.084,
+      "start_int": 2014,
+      "timestamp_label": "33:34",
+      "text": "software to the fleet,"
+    },
+    {
+      "start": 2016.084,
+      "end": 2018.883,
+      "start_int": 2016,
+      "timestamp_label": "33:36",
+      "text": "and then the tech manuals aren't there,"
+    },
+    {
+      "start": 2018.883,
+      "end": 2020.683,
+      "start_int": 2018,
+      "timestamp_label": "33:38",
+      "text": "the drawings are not there."
+    },
+    {
+      "start": 2020.683,
+      "end": 2023.083,
+      "start_int": 2020,
+      "timestamp_label": "33:40",
+      "text": "And it's just it's not a"
+    },
+    {
+      "start": 2023.083,
+      "end": 2026.703,
+      "start_int": 2023,
+      "timestamp_label": "33:43",
+      "text": "good it's not a good situation for them."
+    },
+    {
+      "start": 2026.703,
+      "end": 2030.283,
+      "start_int": 2026,
+      "timestamp_label": "33:46",
+      "text": "So my, you know,"
+    },
+    {
+      "start": 2030.283,
+      "end": 2032.823,
+      "start_int": 2030,
+      "timestamp_label": "33:50",
+      "text": "what I'm going to try to promote and"
+    },
+    {
+      "start": 2032.823,
+      "end": 2035.584,
+      "start_int": 2032,
+      "timestamp_label": "33:52",
+      "text": "advocate is digital everything,"
+    },
+    {
+      "start": 2035.584,
+      "end": 2039.064,
+      "start_int": 2035,
+      "timestamp_label": "33:55",
+      "text": "like keep it together"
+    },
+    {
+      "start": 2039.064,
+      "end": 2042.483,
+      "start_int": 2039,
+      "timestamp_label": "33:59",
+      "text": "as tightly woven as you possibly can."
+    },
+    {
+      "start": 2042.483,
+      "end": 2044.603,
+      "start_int": 2042,
+      "timestamp_label": "34:02",
+      "text": "And then as Dan says,"
+    },
+    {
+      "start": 2044.603,
+      "end": 2046.664,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "keep it under CM control."
+    },
+    {
+      "start": 2046.664,
+      "end": 2048.984,
+      "start_int": 2046,
+      "timestamp_label": "34:06",
+      "text": "And then you got to enforce,"
+    },
+    {
+      "start": 2048.984,
+      "end": 2050.443,
+      "start_int": 2048,
+      "timestamp_label": "34:08",
+      "text": "you're not going on the boat"
+    },
+    {
+      "start": 2050.443,
+      "end": 2051.984,
+      "start_int": 2050,
+      "timestamp_label": "34:10",
+      "text": "without the whole package."
+    },
+    {
+      "start": 2051.984,
+      "end": 2054.643,
+      "start_int": 2051,
+      "timestamp_label": "34:11",
+      "text": "Now, a lot of times we get overridden."
+    },
+    {
+      "start": 2054.643,
+      "end": 2057.043,
+      "start_int": 2054,
+      "timestamp_label": "34:14",
+      "text": "No, we want it. You know,"
+    },
+    {
+      "start": 2057.043,
+      "end": 2059.023,
+      "start_int": 2057,
+      "timestamp_label": "34:17",
+      "text": "we want it out there immediately."
+    },
+    {
+      "start": 2059.023,
+      "end": 2062.043,
+      "start_int": 2059,
+      "timestamp_label": "34:19",
+      "text": "Okay. Well, then you're"
+    },
+    {
+      "start": 2062.043,
+      "end": 2063.423,
+      "start_int": 2062,
+      "timestamp_label": "34:22",
+      "text": "going to get it, you know,"
+    },
+    {
+      "start": 2063.423,
+      "end": 2066.124,
+      "start_int": 2063,
+      "timestamp_label": "34:23",
+      "text": "half baked or what have you partially"
+    },
+    {
+      "start": 2066.124,
+      "end": 2066.823,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "implemented,"
+    },
+    {
+      "start": 2066.823,
+      "end": 2069.224,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "partially complete documentation."
+    },
+    {
+      "start": 2069.224,
+      "end": 2071.643,
+      "start_int": 2069,
+      "timestamp_label": "34:29",
+      "text": "It's a you know,"
+    },
+    {
+      "start": 2071.643,
+      "end": 2075.944,
+      "start_int": 2071,
+      "timestamp_label": "34:31",
+      "text": "it's a risk that the PM or the tics take,"
+    },
+    {
+      "start": 2075.944,
+      "end": 2078.563,
+      "start_int": 2075,
+      "timestamp_label": "34:35",
+      "text": "but We need to do"
+    },
+    {
+      "start": 2078.563,
+      "end": 2082.683,
+      "start_int": 2078,
+      "timestamp_label": "34:38",
+      "text": "our part as the program offices and"
+    },
+    {
+      "start": 2082.683,
+      "end": 2085.823,
+      "start_int": 2082,
+      "timestamp_label": "34:42",
+      "text": "the people generating these products to"
+    },
+    {
+      "start": 2085.823,
+      "end": 2087.803,
+      "start_int": 2085,
+      "timestamp_label": "34:45",
+      "text": "figure out how we can go as fast"
+    },
+    {
+      "start": 2087.803,
+      "end": 2090.403,
+      "start_int": 2087,
+      "timestamp_label": "34:47",
+      "text": "as we possibly can do the right thing."
+    },
+    {
+      "start": 2090.403,
+      "end": 2092.383,
+      "start_int": 2090,
+      "timestamp_label": "34:50",
+      "text": "The Old adage, the"
+    },
+    {
+      "start": 2092.383,
+      "end": 2095.304,
+      "start_int": 2092,
+      "timestamp_label": "34:52",
+      "text": "seven Ps, proper prior planning."
+    },
+    {
+      "start": 2095.384,
+      "end": 2101.064,
+      "start_int": 2095,
+      "timestamp_label": "34:55",
+      "text": "Over. Yeah. And tools, the tools."
+    },
+    {
+      "start": 2101.064,
+      "end": 2103.383,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "Got to get the automation going."
+    },
+    {
+      "start": 2103.424,
+      "end": 2106.903,
+      "start_int": 2103,
+      "timestamp_label": "35:03",
+      "text": "Yeah. Thank you."
+    },
+    {
+      "start": 2106.903,
+      "end": 2109.324,
+      "start_int": 2106,
+      "timestamp_label": "35:06",
+      "text": "Over to a chat question."
+    },
+    {
+      "start": 2109.324,
+      "end": 2111.183,
+      "start_int": 2109,
+      "timestamp_label": "35:09",
+      "text": "Could you give us examples of"
+    },
+    {
+      "start": 2111.183,
+      "end": 2112.883,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "software class changes as"
+    },
+    {
+      "start": 2112.883,
+      "end": 2115.024,
+      "start_int": 2112,
+      "timestamp_label": "35:12",
+      "text": "they relate to digits?"
+    },
+    {
+      "start": 2123.354,
+      "end": 2129.513,
+      "start_int": 2123,
+      "timestamp_label": "35:23",
+      "text": "Software class changes related to digits."
+    },
+    {
+      "start": 2132.594,
+      "end": 2135.293,
+      "start_int": 2132,
+      "timestamp_label": "35:32",
+      "text": "I mean, all I can I'm not"
+    },
+    {
+      "start": 2135.293,
+      "end": 2137.353,
+      "start_int": 2135,
+      "timestamp_label": "35:35",
+      "text": "really sure the class changes,"
+    },
+    {
+      "start": 2137.353,
+      "end": 2140.493,
+      "start_int": 2137,
+      "timestamp_label": "35:37",
+      "text": "but with our four digit numbering,"
+    },
+    {
+      "start": 2140.493,
+      "end": 2143.073,
+      "start_int": 2140,
+      "timestamp_label": "35:40",
+      "text": "it's an intelligent digit numbering,"
+    },
+    {
+      "start": 2143.073,
+      "end": 2145.033,
+      "start_int": 2143,
+      "timestamp_label": "35:43",
+      "text": "so it's major minor maintenance and patch,"
+    },
+    {
+      "start": 2145.033,
+      "end": 2146.633,
+      "start_int": 2145,
+      "timestamp_label": "35:45",
+      "text": "and those are the levels at"
+    },
+    {
+      "start": 2146.633,
+      "end": 2148.073,
+      "start_int": 2146,
+      "timestamp_label": "35:46",
+      "text": "which the digits change."
+    },
+    {
+      "start": 2148.073,
+      "end": 2150.413,
+      "start_int": 2148,
+      "timestamp_label": "35:48",
+      "text": "Is that what That's"
+    },
+    {
+      "start": 2150.413,
+      "end": 2153.233,
+      "start_int": 2150,
+      "timestamp_label": "35:50",
+      "text": "version that version version?"
+    },
+    {
+      "start": 2153.233,
+      "end": 2154.953,
+      "start_int": 2153,
+      "timestamp_label": "35:53",
+      "text": "Yeah, I don't know what"
+    },
+    {
+      "start": 2154.953,
+      "end": 2156.613,
+      "start_int": 2154,
+      "timestamp_label": "35:54",
+      "text": "you mean by class changes, I guess."
+    },
+    {
+      "start": 2156.613,
+      "end": 2159.333,
+      "start_int": 2156,
+      "timestamp_label": "35:56",
+      "text": "I would That's the way it looks to me"
+    },
+    {
+      "start": 2159.333,
+      "end": 2165.688,
+      "start_int": 2159,
+      "timestamp_label": "35:59",
+      "text": "is version or revision changes. Okay."
+    },
+    {
+      "start": 2165.688,
+      "end": 2171.084,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "So we do along with Pologi."
+    },
+    {
+      "start": 2171.084,
+      "end": 2174.363,
+      "start_int": 2171,
+      "timestamp_label": "36:11",
+      "text": "Can you type can you help us understand"
+    },
+    {
+      "start": 2174.363,
+      "end": 2175.903,
+      "start_int": 2174,
+      "timestamp_label": "36:14",
+      "text": "the question a little bit"
+    },
+    {
+      "start": 2175.903,
+      "end": 2177.963,
+      "start_int": 2175,
+      "timestamp_label": "36:15",
+      "text": "more? There's a thumbs up."
+    },
+    {
+      "start": 2177.963,
+      "end": 2180.723,
+      "start_int": 2177,
+      "timestamp_label": "36:17",
+      "text": "I'm not sure if I"
+    },
+    {
+      "start": 2180.723,
+      "end": 2184.383,
+      "start_int": 2180,
+      "timestamp_label": "36:20",
+      "text": "recognize what I just"
+    },
+    {
+      "start": 2184.383,
+      "end": 2185.883,
+      "start_int": 2184,
+      "timestamp_label": "36:24",
+      "text": "a little vague over the question."
+    },
+    {
+      "start": 2185.883,
+      "end": 2187.283,
+      "start_int": 2185,
+      "timestamp_label": "36:25",
+      "text": "If you can kind of add"
+    },
+    {
+      "start": 2187.283,
+      "end": 2190.023,
+      "start_int": 2187,
+      "timestamp_label": "36:27",
+      "text": "a little bit to it, we'd appreciate it."
+    },
+    {
+      "start": 2191.384,
+      "end": 2194.403,
+      "start_int": 2191,
+      "timestamp_label": "36:31",
+      "text": "All right. While we were waiting on that,"
+    },
+    {
+      "start": 2194.403,
+      "end": 2197.243,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "the next question is, what is"
+    },
+    {
+      "start": 2197.243,
+      "end": 2198.443,
+      "start_int": 2197,
+      "timestamp_label": "36:37",
+      "text": "the relationship between"
+    },
+    {
+      "start": 2198.443,
+      "end": 2202.383,
+      "start_int": 2198,
+      "timestamp_label": "36:38",
+      "text": "software CM and software bills of material?"
+    },
+    {
+      "start": 2209.564,
+      "end": 2212.603,
+      "start_int": 2209,
+      "timestamp_label": "36:49",
+      "text": "So the software bill of"
+    },
+    {
+      "start": 2212.603,
+      "end": 2215.704,
+      "start_int": 2212,
+      "timestamp_label": "36:52",
+      "text": "material is all the components"
+    },
+    {
+      "start": 2215.704,
+      "end": 2217.143,
+      "start_int": 2215,
+      "timestamp_label": "36:55",
+      "text": "that go in the software,"
+    },
+    {
+      "start": 2217.143,
+      "end": 2225.804,
+      "start_int": 2217,
+      "timestamp_label": "36:57",
+      "text": "the software files, the executables,"
+    },
+    {
+      "start": 2225.804,
+      "end": 2229.404,
+      "start_int": 2225,
+      "timestamp_label": "37:05",
+      "text": "The version control, the VDDs."
+    },
+    {
+      "start": 2229.404,
+      "end": 2231.783,
+      "start_int": 2229,
+      "timestamp_label": "37:09",
+      "text": "The SPD. Yeah."
+    },
+    {
+      "start": 2231.783,
+      "end": 2233.443,
+      "start_int": 2231,
+      "timestamp_label": "37:11",
+      "text": "All the products, and then"
+    },
+    {
+      "start": 2233.443,
+      "end": 2235.543,
+      "start_int": 2233,
+      "timestamp_label": "37:13",
+      "text": "the CM is managing,"
+    },
+    {
+      "start": 2235.543,
+      "end": 2237.083,
+      "start_int": 2235,
+      "timestamp_label": "37:15",
+      "text": "the versioning of all that,"
+    },
+    {
+      "start": 2237.083,
+      "end": 2242.143,
+      "start_int": 2237,
+      "timestamp_label": "37:17",
+      "text": "the updates to it, the"
+    },
+    {
+      "start": 2242.143,
+      "end": 2247.963,
+      "start_int": 2242,
+      "timestamp_label": "37:22",
+      "text": "release of changes to the software."
+    },
+    {
+      "start": 2248.404,
+      "end": 2251.783,
+      "start_int": 2248,
+      "timestamp_label": "37:28",
+      "text": "The verification of the testing,"
+    },
+    {
+      "start": 2251.783,
+      "end": 2254.523,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "changes to the requirements, fats,"
+    },
+    {
+      "start": 2254.523,
+      "end": 2257.403,
+      "start_int": 2254,
+      "timestamp_label": "37:34",
+      "text": "and test scripts, and"
+    },
+    {
+      "start": 2257.403,
+      "end": 2261.603,
+      "start_int": 2257,
+      "timestamp_label": "37:37",
+      "text": "things like that in the code library."
+    },
+    {
+      "start": 2264.734,
+      "end": 2268.553,
+      "start_int": 2264,
+      "timestamp_label": "37:44",
+      "text": "Yeah. CM is the control"
+    },
+    {
+      "start": 2268.553,
+      "end": 2272.973,
+      "start_int": 2268,
+      "timestamp_label": "37:48",
+      "text": "of the bill of materials, basically."
+    },
+    {
+      "start": 2272.973,
+      "end": 2275.053,
+      "start_int": 2272,
+      "timestamp_label": "37:52",
+      "text": "Right. And your bill of materials may"
+    },
+    {
+      "start": 2275.053,
+      "end": 2277.793,
+      "start_int": 2275,
+      "timestamp_label": "37:55",
+      "text": "change as your process"
+    },
+    {
+      "start": 2277.793,
+      "end": 2283.133,
+      "start_int": 2277,
+      "timestamp_label": "37:57",
+      "text": "is tested and things are changed out."
+    },
+    {
+      "start": 2283.133,
+      "end": 2285.373,
+      "start_int": 2283,
+      "timestamp_label": "38:03",
+      "text": "But CM should maintain"
+    },
+    {
+      "start": 2285.373,
+      "end": 2288.393,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "the control of the mill of materials as well."
+    },
+    {
+      "start": 2288.393,
+      "end": 2289.873,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "So as those changes"
+    },
+    {
+      "start": 2289.873,
+      "end": 2292.493,
+      "start_int": 2289,
+      "timestamp_label": "38:09",
+      "text": "evolve because they go hand in hand."
+    },
+    {
+      "start": 2294.654,
+      "end": 2298.193,
+      "start_int": 2294,
+      "timestamp_label": "38:14",
+      "text": "Thank you. Next one we have from Alan,"
+    },
+    {
+      "start": 2298.193,
+      "end": 2301.153,
+      "start_int": 2298,
+      "timestamp_label": "38:18",
+      "text": "where does infrastructure as code fail?"
+    },
+    {
+      "start": 2301.153,
+      "end": 2304.014,
+      "start_int": 2301,
+      "timestamp_label": "38:21",
+      "text": "H hardware or software configuration."
+    },
+    {
+      "start": 2318.124,
+      "end": 2320.763,
+      "start_int": 2318,
+      "timestamp_label": "38:38",
+      "text": "Oh, sorry. Go ahead."
+    },
+    {
+      "start": 2320.763,
+      "end": 2322.283,
+      "start_int": 2320,
+      "timestamp_label": "38:40",
+      "text": "I guess I would need"
+    },
+    {
+      "start": 2322.283,
+      "end": 2323.464,
+      "start_int": 2322,
+      "timestamp_label": "38:42",
+      "text": "a little more information"
+    },
+    {
+      "start": 2323.464,
+      "end": 2325.283,
+      "start_int": 2323,
+      "timestamp_label": "38:43",
+      "text": "on that because it's like,"
+    },
+    {
+      "start": 2325.283,
+      "end": 2328.303,
+      "start_int": 2325,
+      "timestamp_label": "38:45",
+      "text": "did the code fail in testing?"
+    },
+    {
+      "start": 2328.303,
+      "end": 2330.943,
+      "start_int": 2328,
+      "timestamp_label": "38:48",
+      "text": "And then you have to go back and"
+    },
+    {
+      "start": 2330.943,
+      "end": 2333.123,
+      "start_int": 2330,
+      "timestamp_label": "38:50",
+      "text": "update the code based"
+    },
+    {
+      "start": 2333.123,
+      "end": 2335.583,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "on what failed within testing."
+    },
+    {
+      "start": 2335.583,
+      "end": 2338.004,
+      "start_int": 2335,
+      "timestamp_label": "38:55",
+      "text": "I guess I need a little more information"
+    },
+    {
+      "start": 2338.004,
+      "end": 2340.883,
+      "start_int": 2338,
+      "timestamp_label": "38:58",
+      "text": "to answer that a little better."
+    },
+    {
+      "start": 2341.284,
+      "end": 2343.463,
+      "start_int": 2341,
+      "timestamp_label": "39:01",
+      "text": "All right. And to follow up with"
+    },
+    {
+      "start": 2343.463,
+      "end": 2345.403,
+      "start_int": 2343,
+      "timestamp_label": "39:03",
+      "text": "Rafael's earlier question,"
+    },
+    {
+      "start": 2345.403,
+      "end": 2347.223,
+      "start_int": 2345,
+      "timestamp_label": "39:05",
+      "text": "he said he was wondering what the"
+    },
+    {
+      "start": 2347.223,
+      "end": 2350.483,
+      "start_int": 2347,
+      "timestamp_label": "39:07",
+      "text": "first the fourth digit meant."
+    },
+    {
+      "start": 2353.004,
+      "end": 2355.883,
+      "start_int": 2353,
+      "timestamp_label": "39:13",
+      "text": "And the last one was code fall"
+    },
+    {
+      "start": 2355.883,
+      "end": 2363.953,
+      "start_int": 2355,
+      "timestamp_label": "39:15",
+      "text": "not fail. The Okay."
+    },
+    {
+      "start": 2366.794,
+      "end": 2369.873,
+      "start_int": 2366,
+      "timestamp_label": "39:26",
+      "text": "M copy?"
+    },
+    {
+      "start": 2371.194,
+      "end": 2373.553,
+      "start_int": 2371,
+      "timestamp_label": "39:31",
+      "text": "Yes, I'm still here."
+    },
+    {
+      "start": 2373.553,
+      "end": 2376.033,
+      "start_int": 2373,
+      "timestamp_label": "39:33",
+      "text": "Okay. So you know,"
+    },
+    {
+      "start": 2376.033,
+      "end": 2378.293,
+      "start_int": 2376,
+      "timestamp_label": "39:36",
+      "text": "the question again was what"
+    },
+    {
+      "start": 2378.293,
+      "end": 2380.533,
+      "start_int": 2378,
+      "timestamp_label": "39:38",
+      "text": "where does it fail first"
+    },
+    {
+      "start": 2380.533,
+      "end": 2383.133,
+      "start_int": 2380,
+      "timestamp_label": "39:40",
+      "text": "or Where does the"
+    },
+    {
+      "start": 2383.133,
+      "end": 2384.973,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "infrastructure of code fall,"
+    },
+    {
+      "start": 2384.973,
+      "end": 2387.954,
+      "start_int": 2384,
+      "timestamp_label": "39:44",
+      "text": "hardware or software configuration?"
+    },
+    {
+      "start": 2390.154,
+      "end": 2392.133,
+      "start_int": 2390,
+      "timestamp_label": "39:50",
+      "text": "And do you view it as"
+    },
+    {
+      "start": 2392.133,
+      "end": 2394.794,
+      "start_int": 2392,
+      "timestamp_label": "39:52",
+      "text": "hardware or software configuration?"
+    },
+    {
+      "start": 2396.034,
+      "end": 2399.013,
+      "start_int": 2396,
+      "timestamp_label": "39:56",
+      "text": "So usually the code is"
+    },
+    {
+      "start": 2399.013,
+      "end": 2401.073,
+      "start_int": 2399,
+      "timestamp_label": "39:59",
+      "text": "definitely viewed as part"
+    },
+    {
+      "start": 2401.073,
+      "end": 2403.514,
+      "start_int": 2401,
+      "timestamp_label": "40:01",
+      "text": "of the software configuration."
+    },
+    {
+      "start": 2414.404,
+      "end": 2415.863,
+      "start_int": 2414,
+      "timestamp_label": "40:14",
+      "text": "He said,"
+    },
+    {
+      "start": 2415.863,
+      "end": 2418.643,
+      "start_int": 2415,
+      "timestamp_label": "40:15",
+      "text": "prevalent within hardware or software."
+    },
+    {
+      "start": 2422.364,
+      "end": 2425.303,
+      "start_int": 2422,
+      "timestamp_label": "40:22",
+      "text": "The next question we have from Catherine,"
+    },
+    {
+      "start": 2425.303,
+      "end": 2427.664,
+      "start_int": 2425,
+      "timestamp_label": "40:25",
+      "text": "how often are the TDPs"
+    },
+    {
+      "start": 2427.664,
+      "end": 2429.924,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "currently being reviewed and updated?"
+    },
+    {
+      "start": 2429.924,
+      "end": 2431.703,
+      "start_int": 2429,
+      "timestamp_label": "40:29",
+      "text": "We've found several times where"
+    },
+    {
+      "start": 2431.703,
+      "end": 2433.444,
+      "start_int": 2431,
+      "timestamp_label": "40:31",
+      "text": "the TDP documentation"
+    },
+    {
+      "start": 2433.444,
+      "end": 2435.923,
+      "start_int": 2433,
+      "timestamp_label": "40:33",
+      "text": "aren't correct or up to date."
+    },
+    {
+      "start": 2440.094,
+      "end": 2443.613,
+      "start_int": 2440,
+      "timestamp_label": "40:40",
+      "text": "TDP should be reviewed with"
+    },
+    {
+      "start": 2443.613,
+      "end": 2449.233,
+      "start_int": 2443,
+      "timestamp_label": "40:43",
+      "text": "each significant planned update."
+    },
+    {
+      "start": 2449.233,
+      "end": 2453.333,
+      "start_int": 2449,
+      "timestamp_label": "40:49",
+      "text": "From a hardware perspective, you know, again,"
+    },
+    {
+      "start": 2453.333,
+      "end": 2455.433,
+      "start_int": 2453,
+      "timestamp_label": "40:53",
+      "text": "you go back to Mill Standard"
+    },
+    {
+      "start": 2455.433,
+      "end": 2457.053,
+      "start_int": 2455,
+      "timestamp_label": "40:55",
+      "text": "31,000 and you develop"
+    },
+    {
+      "start": 2457.053,
+      "end": 2458.833,
+      "start_int": 2457,
+      "timestamp_label": "40:57",
+      "text": "your tech data package."
+    },
+    {
+      "start": 2458.833,
+      "end": 2460.793,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "I help me out here, Janette,"
+    },
+    {
+      "start": 2460.793,
+      "end": 2461.393,
+      "start_int": 2460,
+      "timestamp_label": "41:00",
+      "text": "because I'm not as"
+    },
+    {
+      "start": 2461.393,
+      "end": 2463.493,
+      "start_int": 2461,
+      "timestamp_label": "41:01",
+      "text": "fully robust with software."
+    },
+    {
+      "start": 2463.493,
+      "end": 2465.413,
+      "start_int": 2463,
+      "timestamp_label": "41:03",
+      "text": "But if there's a significant change"
+    },
+    {
+      "start": 2465.413,
+      "end": 2467.513,
+      "start_int": 2465,
+      "timestamp_label": "41:05",
+      "text": "and you've identified it, you know,"
+    },
+    {
+      "start": 2467.513,
+      "end": 2469.793,
+      "start_int": 2467,
+      "timestamp_label": "41:07",
+      "text": "starting out going through the CM process"
+    },
+    {
+      "start": 2469.793,
+      "end": 2471.933,
+      "start_int": 2469,
+      "timestamp_label": "41:09",
+      "text": "from planning and management,"
+    },
+    {
+      "start": 2471.933,
+      "end": 2473.559,
+      "start_int": 2471,
+      "timestamp_label": "41:11",
+      "text": "and then identification."
+    },
+    {
+      "start": 2473.559,
+      "end": 2475.923,
+      "start_int": 2473,
+      "timestamp_label": "41:13",
+      "text": "Part of that, as you"
+    },
+    {
+      "start": 2475.923,
+      "end": 2478.644,
+      "start_int": 2475,
+      "timestamp_label": "41:15",
+      "text": "go you prepare for you CCB,"
+    },
+    {
+      "start": 2478.644,
+      "end": 2479.943,
+      "start_int": 2478,
+      "timestamp_label": "41:18",
+      "text": "you would have your tech data"
+    },
+    {
+      "start": 2479.943,
+      "end": 2481.484,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "package updated."
+    },
+    {
+      "start": 2481.484,
+      "end": 2483.203,
+      "start_int": 2481,
+      "timestamp_label": "41:21",
+      "text": "So if there's hardware"
+    },
+    {
+      "start": 2483.203,
+      "end": 2485.284,
+      "start_int": 2483,
+      "timestamp_label": "41:23",
+      "text": "that needs to get modified"
+    },
+    {
+      "start": 2485.284,
+      "end": 2486.643,
+      "start_int": 2485,
+      "timestamp_label": "41:25",
+      "text": "or to"
+    },
+    {
+      "start": 2486.643,
+      "end": 2489.483,
+      "start_int": 2486,
+      "timestamp_label": "41:26",
+      "text": "support a software change in terms of, say,"
+    },
+    {
+      "start": 2489.483,
+      "end": 2493.543,
+      "start_int": 2489,
+      "timestamp_label": "41:29",
+      "text": "storage space or operating space,"
+    },
+    {
+      "start": 2493.543,
+      "end": 2495.963,
+      "start_int": 2493,
+      "timestamp_label": "41:33",
+      "text": "then that would be included in there and then"
+    },
+    {
+      "start": 2495.963,
+      "end": 2498.723,
+      "start_int": 2495,
+      "timestamp_label": "41:35",
+      "text": "reviewed at the change control process."
+    },
+    {
+      "start": 2498.723,
+      "end": 2500.863,
+      "start_int": 2498,
+      "timestamp_label": "41:38",
+      "text": "In terms of software,"
+    },
+    {
+      "start": 2500.863,
+      "end": 2502.743,
+      "start_int": 2500,
+      "timestamp_label": "41:40",
+      "text": "I think we've heard that there's"
+    },
+    {
+      "start": 2502.743,
+      "end": 2504.943,
+      "start_int": 2502,
+      "timestamp_label": "41:42",
+      "text": "version and control that goes on."
+    },
+    {
+      "start": 2504.943,
+      "end": 2507.203,
+      "start_int": 2504,
+      "timestamp_label": "41:44",
+      "text": "So, you need to have the hardware"
+    },
+    {
+      "start": 2507.203,
+      "end": 2509.793,
+      "start_int": 2507,
+      "timestamp_label": "41:47",
+      "text": "at least consistent you know,"
+    },
+    {
+      "start": 2509.793,
+      "end": 2512.193,
+      "start_int": 2509,
+      "timestamp_label": "41:49",
+      "text": "with the proposed software up grade."
+    },
+    {
+      "start": 2512.193,
+      "end": 2514.053,
+      "start_int": 2512,
+      "timestamp_label": "41:52",
+      "text": "And here's a classic example."
+    },
+    {
+      "start": 2514.053,
+      "end": 2517.493,
+      "start_int": 2514,
+      "timestamp_label": "41:54",
+      "text": "I've got an old iPhone here because I'm"
+    },
+    {
+      "start": 2517.493,
+      "end": 2520.053,
+      "start_int": 2517,
+      "timestamp_label": "41:57",
+      "text": "not an aficionado that wants"
+    },
+    {
+      "start": 2520.053,
+      "end": 2522.774,
+      "start_int": 2520,
+      "timestamp_label": "42:00",
+      "text": "to keep my iPhone up with all the technology."
+    },
+    {
+      "start": 2522.774,
+      "end": 2524.093,
+      "start_int": 2522,
+      "timestamp_label": "42:02",
+      "text": "And I had an app on here"
+    },
+    {
+      "start": 2524.093,
+      "end": 2525.673,
+      "start_int": 2524,
+      "timestamp_label": "42:04",
+      "text": "for Major League Baseball."
+    },
+    {
+      "start": 2525.673,
+      "end": 2527.113,
+      "start_int": 2525,
+      "timestamp_label": "42:05",
+      "text": "So now I go to click on."
+    },
+    {
+      "start": 2527.113,
+      "end": 2528.373,
+      "start_int": 2527,
+      "timestamp_label": "42:07",
+      "text": "I could be able to watch a"
+    },
+    {
+      "start": 2528.373,
+      "end": 2530.133,
+      "start_int": 2528,
+      "timestamp_label": "42:08",
+      "text": "baseball game on my iPhone."
+    },
+    {
+      "start": 2530.133,
+      "end": 2532.593,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "Well, now they tell me I need to be at"
+    },
+    {
+      "start": 2532.593,
+      "end": 2536.713,
+      "start_int": 2532,
+      "timestamp_label": "42:12",
+      "text": "IO 16 point X, whatever version."
+    },
+    {
+      "start": 2536.713,
+      "end": 2538.693,
+      "start_int": 2536,
+      "timestamp_label": "42:16",
+      "text": "And my phone won't handle that."
+    },
+    {
+      "start": 2538.693,
+      "end": 2541.663,
+      "start_int": 2538,
+      "timestamp_label": "42:18",
+      "text": "So now, And now I'm forced if I want to"
+    },
+    {
+      "start": 2541.663,
+      "end": 2544.683,
+      "start_int": 2541,
+      "timestamp_label": "42:21",
+      "text": "watch MLB on my iPhone,"
+    },
+    {
+      "start": 2544.683,
+      "end": 2546.223,
+      "start_int": 2544,
+      "timestamp_label": "42:24",
+      "text": "that I got to go back and I got to go get"
+    },
+    {
+      "start": 2546.223,
+      "end": 2547.583,
+      "start_int": 2546,
+      "timestamp_label": "42:26",
+      "text": "a new phone so that I"
+    },
+    {
+      "start": 2547.583,
+      "end": 2549.623,
+      "start_int": 2547,
+      "timestamp_label": "42:27",
+      "text": "can accommodate the software."
+    },
+    {
+      "start": 2549.623,
+      "end": 2552.083,
+      "start_int": 2549,
+      "timestamp_label": "42:29",
+      "text": "That was a potential use case, you know,"
+    },
+    {
+      "start": 2552.083,
+      "end": 2552.883,
+      "start_int": 2552,
+      "timestamp_label": "42:32",
+      "text": "to at least just"
+    },
+    {
+      "start": 2552.883,
+      "end": 2555.163,
+      "start_int": 2552,
+      "timestamp_label": "42:32",
+      "text": "hopefully answer the question over."
+    },
+    {
+      "start": 2555.163,
+      "end": 2557.443,
+      "start_int": 2555,
+      "timestamp_label": "42:35",
+      "text": "Yep, that's exactly right, Paul."
+    },
+    {
+      "start": 2557.443,
+      "end": 2558.863,
+      "start_int": 2557,
+      "timestamp_label": "42:37",
+      "text": "You need to have"
+    },
+    {
+      "start": 2558.863,
+      "end": 2561.683,
+      "start_int": 2558,
+      "timestamp_label": "42:38",
+      "text": "the supporting hardware for"
+    },
+    {
+      "start": 2561.683,
+      "end": 2563.223,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "the software to run"
+    },
+    {
+      "start": 2563.223,
+      "end": 2566.123,
+      "start_int": 2563,
+      "timestamp_label": "42:43",
+      "text": "efficiently and be able to"
+    },
+    {
+      "start": 2566.244,
+      "end": 2569.183,
+      "start_int": 2566,
+      "timestamp_label": "42:46",
+      "text": "meet the requirements that"
+    },
+    {
+      "start": 2569.183,
+      "end": 2572.484,
+      "start_int": 2569,
+      "timestamp_label": "42:49",
+      "text": "it needs to do and meet the functionality."
+    },
+    {
+      "start": 2577.784,
+      "end": 2579.523,
+      "start_int": 2577,
+      "timestamp_label": "42:57",
+      "text": "All right. T hank you."
+    },
+    {
+      "start": 2579.523,
+      "end": 2581.783,
+      "start_int": 2579,
+      "timestamp_label": "42:59",
+      "text": "Last question we have from Cara."
+    },
+    {
+      "start": 2581.783,
+      "end": 2584.163,
+      "start_int": 2581,
+      "timestamp_label": "43:01",
+      "text": "For a program that is new and"
+    },
+    {
+      "start": 2584.163,
+      "end": 2586.423,
+      "start_int": 2584,
+      "timestamp_label": "43:04",
+      "text": "a rapid prototype that"
+    },
+    {
+      "start": 2586.423,
+      "end": 2588.243,
+      "start_int": 2586,
+      "timestamp_label": "43:06",
+      "text": "will be doing design tests,"
+    },
+    {
+      "start": 2588.243,
+      "end": 2590.083,
+      "start_int": 2588,
+      "timestamp_label": "43:08",
+      "text": "what will be the best way to track"
+    },
+    {
+      "start": 2590.083,
+      "end": 2591.523,
+      "start_int": 2590,
+      "timestamp_label": "43:10",
+      "text": "any software changes that"
+    },
+    {
+      "start": 2591.523,
+      "end": 2593.123,
+      "start_int": 2591,
+      "timestamp_label": "43:11",
+      "text": "happened during the testing event?"
+    },
+    {
+      "start": 2593.123,
+      "end": 2595.663,
+      "start_int": 2593,
+      "timestamp_label": "43:13",
+      "text": "And at what point do you then stop"
+    },
+    {
+      "start": 2595.663,
+      "end": 2597.503,
+      "start_int": 2595,
+      "timestamp_label": "43:15",
+      "text": "allowing software changes to"
+    },
+    {
+      "start": 2597.503,
+      "end": 2599.743,
+      "start_int": 2597,
+      "timestamp_label": "43:17",
+      "text": "then role a new version?"
+    },
+    {
+      "start": 2607.574,
+      "end": 2609.693,
+      "start_int": 2607,
+      "timestamp_label": "43:27",
+      "text": "So I just went through that"
+    },
+    {
+      "start": 2609.693,
+      "end": 2611.613,
+      "start_int": 2609,
+      "timestamp_label": "43:29",
+      "text": "on the radar program."
+    },
+    {
+      "start": 2611.613,
+      "end": 2615.353,
+      "start_int": 2611,
+      "timestamp_label": "43:31",
+      "text": "So we use test incident reports."
+    },
+    {
+      "start": 2615.353,
+      "end": 2621.953,
+      "start_int": 2615,
+      "timestamp_label": "43:35",
+      "text": "But you can use any kind of change document,"
+    },
+    {
+      "start": 2621.953,
+      "end": 2624.033,
+      "start_int": 2621,
+      "timestamp_label": "43:41",
+      "text": "you know, something to capture."
+    },
+    {
+      "start": 2624.033,
+      "end": 2626.573,
+      "start_int": 2624,
+      "timestamp_label": "43:44",
+      "text": "Usually you use a date of base."
+    },
+    {
+      "start": 2626.573,
+      "end": 2632.773,
+      "start_int": 2626,
+      "timestamp_label": "43:46",
+      "text": "And you prioritize obviously rack and stack,"
+    },
+    {
+      "start": 2632.773,
+      "end": 2635.213,
+      "start_int": 2632,
+      "timestamp_label": "43:52",
+      "text": "what kind of issues they are."
+    },
+    {
+      "start": 2635.213,
+      "end": 2640.693,
+      "start_int": 2635,
+      "timestamp_label": "43:55",
+      "text": "Some of it could be or whatever code change."
+    },
+    {
+      "start": 2644.974,
+      "end": 2648.433,
+      "start_int": 2644,
+      "timestamp_label": "44:04",
+      "text": "So we have the same kind of dilemma,"
+    },
+    {
+      "start": 2648.433,
+      "end": 2649.953,
+      "start_int": 2648,
+      "timestamp_label": "44:08",
+      "text": "like how many changes do we"
+    },
+    {
+      "start": 2649.953,
+      "end": 2651.693,
+      "start_int": 2649,
+      "timestamp_label": "44:09",
+      "text": "keep going before we stop?"
+    },
+    {
+      "start": 2651.693,
+      "end": 2654.993,
+      "start_int": 2651,
+      "timestamp_label": "44:11",
+      "text": "So Definitely need to if you're doing a test,"
+    },
+    {
+      "start": 2654.993,
+      "end": 2656.493,
+      "start_int": 2654,
+      "timestamp_label": "44:14",
+      "text": "you need to keep"
+    },
+    {
+      "start": 2656.493,
+      "end": 2659.053,
+      "start_int": 2656,
+      "timestamp_label": "44:16",
+      "text": "track of what you're changing."
+    },
+    {
+      "start": 2660.214,
+      "end": 2668.173,
+      "start_int": 2660,
+      "timestamp_label": "44:20",
+      "text": "And then I guess what do we do?"
+    },
+    {
+      "start": 2668.173,
+      "end": 2674.483,
+      "start_int": 2668,
+      "timestamp_label": "44:28",
+      "text": "We we were under a schedule to"
+    },
+    {
+      "start": 2674.483,
+      "end": 2675.703,
+      "start_int": 2674,
+      "timestamp_label": "44:34",
+      "text": "try to get through"
+    },
+    {
+      "start": 2675.703,
+      "end": 2680.643,
+      "start_int": 2675,
+      "timestamp_label": "44:35",
+      "text": "certain scenarios with the software."
+    },
+    {
+      "start": 2680.643,
+      "end": 2681.943,
+      "start_int": 2680,
+      "timestamp_label": "44:40",
+      "text": "So we just we kept"
+    },
+    {
+      "start": 2681.943,
+      "end": 2684.663,
+      "start_int": 2681,
+      "timestamp_label": "44:41",
+      "text": "going and documented the test"
+    },
+    {
+      "start": 2684.663,
+      "end": 2686.783,
+      "start_int": 2684,
+      "timestamp_label": "44:44",
+      "text": "incident reports to try to get"
+    },
+    {
+      "start": 2686.783,
+      "end": 2689.523,
+      "start_int": 2686,
+      "timestamp_label": "44:46",
+      "text": "through scenarios, the test plan."
+    },
+    {
+      "start": 2689.523,
+      "end": 2691.543,
+      "start_int": 2689,
+      "timestamp_label": "44:49",
+      "text": "So you normally have a test plan for"
+    },
+    {
+      "start": 2691.543,
+      "end": 2693.963,
+      "start_int": 2691,
+      "timestamp_label": "44:51",
+      "text": "your design,"
+    },
+    {
+      "start": 2693.963,
+      "end": 2695.203,
+      "start_int": 2693,
+      "timestamp_label": "44:53",
+      "text": "you know, as you're trying to"
+    },
+    {
+      "start": 2695.203,
+      "end": 2696.683,
+      "start_int": 2695,
+      "timestamp_label": "44:55",
+      "text": "test out the software."
+    },
+    {
+      "start": 2696.683,
+      "end": 2701.063,
+      "start_int": 2696,
+      "timestamp_label": "44:56",
+      "text": "And then we went back and had"
+    },
+    {
+      "start": 2701.063,
+      "end": 2704.164,
+      "start_int": 2701,
+      "timestamp_label": "45:01",
+      "text": "adjudication session on the reports"
+    },
+    {
+      "start": 2704.164,
+      "end": 2705.563,
+      "start_int": 2704,
+      "timestamp_label": "45:04",
+      "text": "that we collected"
+    },
+    {
+      "start": 2705.563,
+      "end": 2707.503,
+      "start_int": 2705,
+      "timestamp_label": "45:05",
+      "text": "against the software problems."
+    },
+    {
+      "start": 2707.503,
+      "end": 2711.063,
+      "start_int": 2707,
+      "timestamp_label": "45:07",
+      "text": "And then We went"
+    },
+    {
+      "start": 2711.063,
+      "end": 2713.703,
+      "start_int": 2711,
+      "timestamp_label": "45:11",
+      "text": "in and rebuilt the software from that."
+    },
+    {
+      "start": 2713.703,
+      "end": 2719.903,
+      "start_int": 2713,
+      "timestamp_label": "45:13",
+      "text": "So we didn't really have a count of how many."
+    },
+    {
+      "start": 2719.903,
+      "end": 2722.523,
+      "start_int": 2719,
+      "timestamp_label": "45:19",
+      "text": "We weren't changing the software"
+    },
+    {
+      "start": 2722.523,
+      "end": 2726.223,
+      "start_int": 2722,
+      "timestamp_label": "45:22",
+      "text": "unless it completely crashed on us,"
+    },
+    {
+      "start": 2726.223,
+      "end": 2729.503,
+      "start_int": 2726,
+      "timestamp_label": "45:26",
+      "text": "then we were obviously fixing it."
+    },
+    {
+      "start": 2729.503,
+      "end": 2731.043,
+      "start_int": 2729,
+      "timestamp_label": "45:29",
+      "text": "Again, we kept track of"
+    },
+    {
+      "start": 2731.043,
+      "end": 2735.023,
+      "start_int": 2731,
+      "timestamp_label": "45:31",
+      "text": "those interim patches during"
+    },
+    {
+      "start": 2735.023,
+      "end": 2737.363,
+      "start_int": 2735,
+      "timestamp_label": "45:35",
+      "text": "the testing test event."
+    },
+    {
+      "start": 2737.363,
+      "end": 2739.963,
+      "start_int": 2737,
+      "timestamp_label": "45:37",
+      "text": "So you just got"
+    },
+    {
+      "start": 2739.963,
+      "end": 2741.243,
+      "start_int": 2739,
+      "timestamp_label": "45:39",
+      "text": "to keep track of"
+    },
+    {
+      "start": 2741.243,
+      "end": 2742.843,
+      "start_int": 2741,
+      "timestamp_label": "45:41",
+      "text": "all that while you're testing."
+    },
+    {
+      "start": 2742.843,
+      "end": 2745.223,
+      "start_int": 2742,
+      "timestamp_label": "45:42",
+      "text": "So you don't lose track of"
+    },
+    {
+      "start": 2745.223,
+      "end": 2748.703,
+      "start_int": 2745,
+      "timestamp_label": "45:45",
+      "text": "what your baseline is for testing."
+    },
+    {
+      "start": 2749.004,
+      "end": 2752.004,
+      "start_int": 2749,
+      "timestamp_label": "45:49",
+      "text": "Janette, do you have any other experiences"
+    },
+    {
+      "start": 2752.004,
+      "end": 2753.443,
+      "start_int": 2752,
+      "timestamp_label": "45:52",
+      "text": "with that? Yeah."
+    },
+    {
+      "start": 2753.443,
+      "end": 2758.503,
+      "start_int": 2753,
+      "timestamp_label": "45:53",
+      "text": "So, you can use like a bug"
+    },
+    {
+      "start": 2758.503,
+      "end": 2762.263,
+      "start_int": 2758,
+      "timestamp_label": "45:58",
+      "text": "tracking more simplified change request"
+    },
+    {
+      "start": 2762.263,
+      "end": 2766.163,
+      "start_int": 2762,
+      "timestamp_label": "46:02",
+      "text": "to track all your changes."
+    },
+    {
+      "start": 2766.163,
+      "end": 2768.344,
+      "start_int": 2766,
+      "timestamp_label": "46:06",
+      "text": "And then for a prototype,"
+    },
+    {
+      "start": 2768.344,
+      "end": 2770.883,
+      "start_int": 2768,
+      "timestamp_label": "46:08",
+      "text": "a lot of times if if you don't have"
+    },
+    {
+      "start": 2770.883,
+      "end": 2776.953,
+      "start_int": 2770,
+      "timestamp_label": "46:10",
+      "text": "an actual place to prototype it,"
+    },
+    {
+      "start": 2776.953,
+      "end": 2778.233,
+      "start_int": 2776,
+      "timestamp_label": "46:16",
+      "text": "like for say a ship or"
+    },
+    {
+      "start": 2778.233,
+      "end": 2781.353,
+      "start_int": 2778,
+      "timestamp_label": "46:18",
+      "text": "whatever because when I was at NASA,"
+    },
+    {
+      "start": 2781.353,
+      "end": 2782.413,
+      "start_int": 2781,
+      "timestamp_label": "46:21",
+      "text": "we didn't really have"
+    },
+    {
+      "start": 2782.413,
+      "end": 2783.953,
+      "start_int": 2782,
+      "timestamp_label": "46:22",
+      "text": "a place to test it like that,"
+    },
+    {
+      "start": 2783.953,
+      "end": 2786.414,
+      "start_int": 2783,
+      "timestamp_label": "46:23",
+      "text": "although we had did have lab environments"
+    },
+    {
+      "start": 2786.414,
+      "end": 2790.213,
+      "start_int": 2786,
+      "timestamp_label": "46:26",
+      "text": "that emulated the shuttle."
+    },
+    {
+      "start": 2790.213,
+      "end": 2791.753,
+      "start_int": 2790,
+      "timestamp_label": "46:30",
+      "text": "So we would test it in"
+    },
+    {
+      "start": 2791.753,
+      "end": 2793.913,
+      "start_int": 2791,
+      "timestamp_label": "46:31",
+      "text": "our lab emulated environment."
+    },
+    {
+      "start": 2793.913,
+      "end": 2797.453,
+      "start_int": 2793,
+      "timestamp_label": "46:33",
+      "text": "And then based upon how that went,"
+    },
+    {
+      "start": 2797.453,
+      "end": 2800.013,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "if it completely crashed everything,"
+    },
+    {
+      "start": 2800.013,
+      "end": 2802.513,
+      "start_int": 2800,
+      "timestamp_label": "46:40",
+      "text": "you kind of had to go"
+    },
+    {
+      "start": 2802.513,
+      "end": 2805.313,
+      "start_int": 2802,
+      "timestamp_label": "46:42",
+      "text": "back and decide where in"
+    },
+    {
+      "start": 2805.313,
+      "end": 2807.973,
+      "start_int": 2805,
+      "timestamp_label": "46:45",
+      "text": "your compilation you needed to fix things and"
+    },
+    {
+      "start": 2807.973,
+      "end": 2812.413,
+      "start_int": 2807,
+      "timestamp_label": "46:47",
+      "text": "possibly rebuild your software."
+    },
+    {
+      "start": 2812.504,
+      "end": 2815.463,
+      "start_int": 2812,
+      "timestamp_label": "46:52",
+      "text": "But then if it passed in that,"
+    },
+    {
+      "start": 2815.463,
+      "end": 2820.543,
+      "start_int": 2815,
+      "timestamp_label": "46:55",
+      "text": "then the noted bugs and changes were"
+    },
+    {
+      "start": 2820.543,
+      "end": 2823.363,
+      "start_int": 2820,
+      "timestamp_label": "47:00",
+      "text": "then implemented and still"
+    },
+    {
+      "start": 2823.363,
+      "end": 2826.083,
+      "start_int": 2823,
+      "timestamp_label": "47:03",
+      "text": "we recompiled the software after that,"
+    },
+    {
+      "start": 2826.083,
+      "end": 2828.483,
+      "start_int": 2826,
+      "timestamp_label": "47:06",
+      "text": "but it was less labor"
+    },
+    {
+      "start": 2828.483,
+      "end": 2831.563,
+      "start_int": 2828,
+      "timestamp_label": "47:08",
+      "text": "intensive as opposed to if you,"
+    },
+    {
+      "start": 2831.563,
+      "end": 2834.283,
+      "start_int": 2831,
+      "timestamp_label": "47:11",
+      "text": "you know, crash the vehicle or whatever."
+    },
+    {
+      "start": 2834.283,
+      "end": 2840.343,
+      "start_int": 2834,
+      "timestamp_label": "47:14",
+      "text": "So but kind of basically the same thing."
+    },
+    {
+      "start": 2846.024,
+      "end": 2847.383,
+      "start_int": 2846,
+      "timestamp_label": "47:26",
+      "text": "Thank you."
+    },
+    {
+      "start": 2847.383,
+      "end": 2850.543,
+      "start_int": 2847,
+      "timestamp_label": "47:27",
+      "text": "I do not see any more questions in the chat."
+    },
+    {
+      "start": 2859.104,
+      "end": 2861.323,
+      "start_int": 2859,
+      "timestamp_label": "47:39",
+      "text": "I would like to say, miss John."
+    },
+    {
+      "start": 2861.323,
+      "end": 2864.103,
+      "start_int": 2861,
+      "timestamp_label": "47:41",
+      "text": "A last words you want to give the audience?"
+    },
+    {
+      "start": 2864.944,
+      "end": 2867.543,
+      "start_int": 2864,
+      "timestamp_label": "47:44",
+      "text": "Thanks to everybody for attending."
+    },
+    {
+      "start": 2867.543,
+      "end": 2868.783,
+      "start_int": 2867,
+      "timestamp_label": "47:47",
+      "text": "I hope you took away"
+    },
+    {
+      "start": 2868.783,
+      "end": 2872.703,
+      "start_int": 2868,
+      "timestamp_label": "47:48",
+      "text": "a few nuggets from this to kind of enhance"
+    },
+    {
+      "start": 2872.703,
+      "end": 2881.244,
+      "start_int": 2872,
+      "timestamp_label": "47:52",
+      "text": "your software CM future challenges."
+    },
+    {
+      "start": 2881.244,
+      "end": 2883.703,
+      "start_int": 2881,
+      "timestamp_label": "48:01",
+      "text": "So thank you very much."
+    },
+    {
+      "start": 2888.304,
+      "end": 2889.583,
+      "start_int": 2888,
+      "timestamp_label": "48:08",
+      "text": "Thank you."
+    },
+    {
+      "start": 2889.583,
+      "end": 2890.843,
+      "start_int": 2889,
+      "timestamp_label": "48:09",
+      "text": "We did get one last question"
+    },
+    {
+      "start": 2890.843,
+      "end": 2892.343,
+      "start_int": 2890,
+      "timestamp_label": "48:10",
+      "text": "slid in from Mathew."
+    },
+    {
+      "start": 2892.343,
+      "end": 2894.823,
+      "start_int": 2892,
+      "timestamp_label": "48:12",
+      "text": "It says, Any suggestions on assigning"
+    },
+    {
+      "start": 2894.823,
+      "end": 2896.643,
+      "start_int": 2894,
+      "timestamp_label": "48:14",
+      "text": "software CI items to"
+    },
+    {
+      "start": 2896.643,
+      "end": 2898.063,
+      "start_int": 2896,
+      "timestamp_label": "48:16",
+      "text": "the associated hardware"
+    },
+    {
+      "start": 2898.063,
+      "end": 2900.423,
+      "start_int": 2898,
+      "timestamp_label": "48:18",
+      "text": "components where they operate?"
+    },
+    {
+      "start": 2909.544,
+      "end": 2912.283,
+      "start_int": 2909,
+      "timestamp_label": "48:29",
+      "text": "So in the case of mapping them"
+    },
+    {
+      "start": 2912.283,
+      "end": 2915.823,
+      "start_int": 2912,
+      "timestamp_label": "48:32",
+      "text": "to a hardware item?"
+    },
+    {
+      "start": 2920.624,
+      "end": 2923.424,
+      "start_int": 2920,
+      "timestamp_label": "48:40",
+      "text": "It says assigning."
+    },
+    {
+      "start": 2923.424,
+      "end": 2928.503,
+      "start_int": 2923,
+      "timestamp_label": "48:43",
+      "text": "Okay. So maybe that's mapping them to it."
+    },
+    {
+      "start": 2928.503,
+      "end": 2933.503,
+      "start_int": 2928,
+      "timestamp_label": "48:48",
+      "text": "That would be that you might"
+    },
+    {
+      "start": 2933.503,
+      "end": 2935.483,
+      "start_int": 2933,
+      "timestamp_label": "48:53",
+      "text": "could use tools for mapping them"
+    },
+    {
+      "start": 2935.483,
+      "end": 2938.903,
+      "start_int": 2935,
+      "timestamp_label": "48:55",
+      "text": "back to your hardware."
+    },
+    {
+      "start": 2938.924,
+      "end": 2941.163,
+      "start_int": 2938,
+      "timestamp_label": "48:58",
+      "text": "You definitely have to be aware of"
+    },
+    {
+      "start": 2941.163,
+      "end": 2942.903,
+      "start_int": 2941,
+      "timestamp_label": "49:01",
+      "text": "what hardware is changing when you're"
+    },
+    {
+      "start": 2942.903,
+      "end": 2944.263,
+      "start_int": 2942,
+      "timestamp_label": "49:02",
+      "text": "changing software just to make"
+    },
+    {
+      "start": 2944.263,
+      "end": 2945.783,
+      "start_int": 2944,
+      "timestamp_label": "49:04",
+      "text": "sure you don't need to upgrade"
+    },
+    {
+      "start": 2945.783,
+      "end": 2948.623,
+      "start_int": 2945,
+      "timestamp_label": "49:05",
+      "text": "or and you can"
+    },
+    {
+      "start": 2948.623,
+      "end": 2950.423,
+      "start_int": 2948,
+      "timestamp_label": "49:08",
+      "text": "remain with the same hardware you have."
+    },
+    {
+      "start": 2950.423,
+      "end": 2953.523,
+      "start_int": 2950,
+      "timestamp_label": "49:10",
+      "text": "So like I said,"
+    },
+    {
+      "start": 2954.124,
+      "end": 2956.643,
+      "start_int": 2954,
+      "timestamp_label": "49:14",
+      "text": "technologies come a long way,"
+    },
+    {
+      "start": 2956.643,
+      "end": 2958.003,
+      "start_int": 2956,
+      "timestamp_label": "49:16",
+      "text": "and there's probably tools out"
+    },
+    {
+      "start": 2958.003,
+      "end": 2959.963,
+      "start_int": 2958,
+      "timestamp_label": "49:18",
+      "text": "there that help you do that now as"
+    },
+    {
+      "start": 2959.963,
+      "end": 2963.424,
+      "start_int": 2959,
+      "timestamp_label": "49:19",
+      "text": "opposed to manually spreadsheeting"
+    },
+    {
+      "start": 2963.424,
+      "end": 2966.563,
+      "start_int": 2963,
+      "timestamp_label": "49:23",
+      "text": "it or the ways of the past."
+    },
+    {
+      "start": 2968.284,
+      "end": 2970.643,
+      "start_int": 2968,
+      "timestamp_label": "49:28",
+      "text": "Yeah It's helpful to put"
+    },
+    {
+      "start": 2970.643,
+      "end": 2973.323,
+      "start_int": 2970,
+      "timestamp_label": "49:30",
+      "text": "a product structure together,"
+    },
+    {
+      "start": 2973.444,
+      "end": 2975.903,
+      "start_int": 2973,
+      "timestamp_label": "49:33",
+      "text": "have the systems laid out"
+    },
+    {
+      "start": 2975.903,
+      "end": 2980.563,
+      "start_int": 2975,
+      "timestamp_label": "49:35",
+      "text": "too with the hardware software on it."
+    },
+    {
+      "start": 2981.124,
+      "end": 2983.263,
+      "start_int": 2981,
+      "timestamp_label": "49:41",
+      "text": "Yeah, I was thinking if you have a"
+    },
+    {
+      "start": 2983.263,
+      "end": 2984.463,
+      "start_int": 2983,
+      "timestamp_label": "49:43",
+      "text": "tool that allowed you for"
+    },
+    {
+      "start": 2984.463,
+      "end": 2988.243,
+      "start_int": 2984,
+      "timestamp_label": "49:44",
+      "text": "a hardware yo build up,"
+    },
+    {
+      "start": 2988.243,
+      "end": 2991.623,
+      "start_int": 2988,
+      "timestamp_label": "49:48",
+      "text": "then you can map"
+    },
+    {
+      "start": 2991.623,
+      "end": 2993.403,
+      "start_int": 2991,
+      "timestamp_label": "49:51",
+      "text": "your software to it and kind of integrate"
+    },
+    {
+      "start": 2993.403,
+      "end": 2996.323,
+      "start_int": 2993,
+      "timestamp_label": "49:53",
+      "text": "the two together. Huh."
+    },
+    {
+      "start": 2999.904,
+      "end": 3002.643,
+      "start_int": 2999,
+      "timestamp_label": "49:59",
+      "text": "All right, well, thank you. I want"
+    },
+    {
+      "start": 3002.643,
+      "end": 3004.043,
+      "start_int": 3002,
+      "timestamp_label": "50:02",
+      "text": "to thank miss Jonette."
+    },
+    {
+      "start": 3004.043,
+      "end": 3005.663,
+      "start_int": 3004,
+      "timestamp_label": "50:04",
+      "text": "And the audience, and if from here,"
+    },
+    {
+      "start": 3005.663,
+      "end": 3006.503,
+      "start_int": 3005,
+      "timestamp_label": "50:05",
+      "text": "going to turn it over to"
+    },
+    {
+      "start": 3006.503,
+      "end": 3008.503,
+      "start_int": 3006,
+      "timestamp_label": "50:06",
+      "text": "Michelle to close this out."
+    },
+    {
+      "start": 3009.824,
+      "end": 3012.823,
+      "start_int": 3009,
+      "timestamp_label": "50:09",
+      "text": "Thank you for attending today."
+    },
+    {
+      "start": 3012.823,
+      "end": 3015.023,
+      "start_int": 3012,
+      "timestamp_label": "50:12",
+      "text": "Please remember that access to"
+    },
+    {
+      "start": 3015.023,
+      "end": 3018.223,
+      "start_int": 3015,
+      "timestamp_label": "50:15",
+      "text": "survey that we provided in chat or"
+    },
+    {
+      "start": 3018.223,
+      "end": 3022.213,
+      "start_int": 3018,
+      "timestamp_label": "50:18",
+      "text": "by visiting E. Flash"
+    },
+    {
+      "start": 3022.213,
+      "end": 3024.713,
+      "start_int": 3022,
+      "timestamp_label": "50:22",
+      "text": "events and access the survey"
+    },
+    {
+      "start": 3024.713,
+      "end": 3027.034,
+      "start_int": 3024,
+      "timestamp_label": "50:24",
+      "text": "and the participant resources."
+    },
+    {
+      "start": 3027.034,
+      "end": 3029.593,
+      "start_int": 3027,
+      "timestamp_label": "50:27",
+      "text": "Please remember to follow through"
+    },
+    {
+      "start": 3029.593,
+      "end": 3032.994,
+      "start_int": 3029,
+      "timestamp_label": "50:29",
+      "text": "organizational guidance regarding requesting"
+    },
+    {
+      "start": 3032.994,
+      "end": 3038.533,
+      "start_int": 3032,
+      "timestamp_label": "50:32",
+      "text": "CLPs and remember CLPs for DAU events will"
+    },
+    {
+      "start": 3038.533,
+      "end": 3041.253,
+      "start_int": 3038,
+      "timestamp_label": "50:38",
+      "text": "not post automatically to"
+    },
+    {
+      "start": 3041.253,
+      "end": 3042.874,
+      "start_int": 3041,
+      "timestamp_label": "50:41",
+      "text": "CL transcript"
+    },
+    {
+      "start": 3042.874,
+      "end": 3045.414,
+      "start_int": 3042,
+      "timestamp_label": "50:42",
+      "text": "and must be requested separately."
+    },
+    {
+      "start": 3045.414,
+      "end": 3047.773,
+      "start_int": 3045,
+      "timestamp_label": "50:45",
+      "text": "If I'm able to see the survey,"
+    },
+    {
+      "start": 3047.773,
+      "end": 3049.654,
+      "start_int": 3047,
+      "timestamp_label": "50:47",
+      "text": "please either disconnect"
+    },
+    {
+      "start": 3049.654,
+      "end": 3052.354,
+      "start_int": 3049,
+      "timestamp_label": "50:49",
+      "text": "with organizational PN,"
+    },
+    {
+      "start": 3052.354,
+      "end": 3054.753,
+      "start_int": 3052,
+      "timestamp_label": "50:52",
+      "text": "if possible, or consider"
+    },
+    {
+      "start": 3054.753,
+      "end": 3056.973,
+      "start_int": 3054,
+      "timestamp_label": "50:54",
+      "text": "using a personal device."
+    },
+    {
+      "start": 3056.973,
+      "end": 3060.153,
+      "start_int": 3056,
+      "timestamp_label": "50:56",
+      "text": "Available. Today's events will be"
+    },
+    {
+      "start": 3060.153,
+      "end": 3062.073,
+      "start_int": 3060,
+      "timestamp_label": "51:00",
+      "text": "available at the event pad"
+    },
+    {
+      "start": 3062.073,
+      "end": 3063.833,
+      "start_int": 3062,
+      "timestamp_label": "51:02",
+      "text": "as soon as possible."
+    },
+    {
+      "start": 3063.833,
+      "end": 3067.013,
+      "start_int": 3063,
+      "timestamp_label": "51:03",
+      "text": "That concludes today's web."
+    },
+    {
+      "start": 3067.013,
+      "end": 3071.933,
+      "start_int": 3067,
+      "timestamp_label": "51:07",
+      "text": "Thank you for this and have a great day."
+    },
+    {
+      "start": 3080.734,
+      "end": 3083.353,
+      "start_int": 3080,
+      "timestamp_label": "51:20",
+      "text": "One final closing comment."
+    },
+    {
+      "start": 3083.353,
+      "end": 3085.933,
+      "start_int": 3083,
+      "timestamp_label": "51:23",
+      "text": "Be sure to plan on attending next month,"
+    },
+    {
+      "start": 3085.933,
+      "end": 3087.793,
+      "start_int": 3085,
+      "timestamp_label": "51:25",
+      "text": "look for the announcement notice."
+    },
+    {
+      "start": 3087.793,
+      "end": 3089.333,
+      "start_int": 3087,
+      "timestamp_label": "51:27",
+      "text": "We're going to start talking about"
+    },
+    {
+      "start": 3089.333,
+      "end": 3092.473,
+      "start_int": 3089,
+      "timestamp_label": "51:29",
+      "text": "the application of CM in your program."
+    },
+    {
+      "start": 3092.473,
+      "end": 3093.993,
+      "start_int": 3092,
+      "timestamp_label": "51:32",
+      "text": "So we'll see you then have"
+    },
+    {
+      "start": 3093.993,
+      "end": 3096.413,
+      "start_int": 3093,
+      "timestamp_label": "51:33",
+      "text": "a great Navy day out here."
+    },
+    {
+      "start": 3097.494,
+      "end": 3099.533,
+      "start_int": 3097,
+      "timestamp_label": "51:37",
+      "text": "Yeah."
+    }
+  ]
+}

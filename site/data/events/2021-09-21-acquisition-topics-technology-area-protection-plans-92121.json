@@ -1,0 +1,4968 @@
+{
+  "id": "2021-09-21-acquisition-topics-technology-area-protection-plans-92121",
+  "title": "Acquisition Topics Technology Area Protection Plans 9.21.21",
+  "date": "2021-09-21",
+  "event_url": "https://www.waru.edu/events/acquisition-topics-technology-area-protection-plans",
+  "entry_id": "1_zhl1pu2u",
+  "partner_id": "2203981",
+  "uiconf_id": "39997971",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_zhl1pu2u/version/100001",
+  "cues": [
+    {
+      "start": 0.72,
+      "end": 4.71,
+      "start_int": 0,
+      "timestamp_label": "0:00",
+      "text": "&gt;&gt; I'd like to welcome everybody for joining today's DAU webcast."
+    },
+    {
+      "start": 4.71,
+      "end": 8.41,
+      "start_int": 4,
+      "timestamp_label": "0:04",
+      "text": "Today's topic is Technology Area Protection Plans."
+    },
+    {
+      "start": 8.41,
+      "end": 9.46,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "My name is Emmett Simmons."
+    },
+    {
+      "start": 9.46,
+      "end": 11.72,
+      "start_int": 9,
+      "timestamp_label": "0:09",
+      "text": "I'm the producer for today's event."
+    },
+    {
+      "start": 11.72,
+      "end": 13.15,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "The agenda for today's Post-It."
+    },
+    {
+      "start": 13.15,
+      "end": 15.22,
+      "start_int": 13,
+      "timestamp_label": "0:13",
+      "text": "Your microphones will be muted."
+    },
+    {
+      "start": 15.22,
+      "end": 17.65,
+      "start_int": 15,
+      "timestamp_label": "0:15",
+      "text": "The session is being recorded and will be posted"
+    },
+    {
+      "start": 17.65,
+      "end": 22.99,
+      "start_int": 17,
+      "timestamp_label": "0:17",
+      "text": "to DAU.edu/dau/webcast, which is listed at the bottom."
+    },
+    {
+      "start": 22.99,
+      "end": 26.74,
+      "start_int": 22,
+      "timestamp_label": "0:22",
+      "text": "If you guys have any questions, please submit your questions via the chat."
+    },
+    {
+      "start": 26.74,
+      "end": 31.26,
+      "start_int": 26,
+      "timestamp_label": "0:26",
+      "text": "We'll be verbally responding to any questions towards the end of the webcast."
+    },
+    {
+      "start": 31.26,
+      "end": 32.52,
+      "start_int": 31,
+      "timestamp_label": "0:31",
+      "text": "There is a survey at the end."
+    },
+    {
+      "start": 32.52,
+      "end": 34.24,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "We do appreciate your feedback."
+    },
+    {
+      "start": 34.24,
+      "end": 36.13,
+      "start_int": 34,
+      "timestamp_label": "0:34",
+      "text": "It takes a couple minutes to fill it out."
+    },
+    {
+      "start": 36.13,
+      "end": 39.36,
+      "start_int": 36,
+      "timestamp_label": "0:36",
+      "text": "If you're here for CLPs, this session does qualify for up"
+    },
+    {
+      "start": 39.36,
+      "end": 42.03,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "to 1.5 CLPs with supervisor approval."
+    },
+    {
+      "start": 42.03,
+      "end": 44.98,
+      "start_int": 42,
+      "timestamp_label": "0:42",
+      "text": "It is not automatic."
+    },
+    {
+      "start": 44.98,
+      "end": 46.83,
+      "start_int": 44,
+      "timestamp_label": "0:44",
+      "text": "You will need to apply for them."
+    },
+    {
+      "start": 46.83,
+      "end": 53.45,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "And now I'm going to turn it over to Mr. Tim Denman to introduce our speakers."
+    },
+    {
+      "start": 53.45,
+      "end": 62.33,
+      "start_int": 53,
+      "timestamp_label": "0:53",
+      "text": "&gt;&gt; Very happy to introduce two people today with the Office Under Secretary of Defense."
+    },
+    {
+      "start": 62.33,
+      "end": 64.96,
+      "start_int": 62,
+      "timestamp_label": "1:02",
+      "text": "The first one is Kristopher Gardner."
+    },
+    {
+      "start": 64.96,
+      "end": 66.76,
+      "start_int": 64,
+      "timestamp_label": "1:04",
+      "text": "He is going to be speaking."
+    },
+    {
+      "start": 66.76,
+      "end": 72.44,
+      "start_int": 66,
+      "timestamp_label": "1:06",
+      "text": "Actually, he's going to be the second person speaking, but he is the Director for Science"
+    },
+    {
+      "start": 72.44,
+      "end": 80.48,
+      "start_int": 72,
+      "timestamp_label": "1:12",
+      "text": "and Technology Protection within the Office of Strategic Technology Protection"
+    },
+    {
+      "start": 80.48,
+      "end": 84.88,
+      "start_int": 80,
+      "timestamp_label": "1:20",
+      "text": "and Exploitation, and with OUSD for research and engineering."
+    },
+    {
+      "start": 84.88,
+      "end": 92.76,
+      "start_int": 84,
+      "timestamp_label": "1:24",
+      "text": "He's responsible for developing options to protect emerging science and technology"
+    },
+    {
+      "start": 92.76,
+      "end": 98.19,
+      "start_int": 92,
+      "timestamp_label": "1:32",
+      "text": "and to maintain DoD technical advantage."
+    },
+    {
+      "start": 98.19,
+      "end": 104.73,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "He has extensive experience with the Office of the Secretary of Defense and U.S. Army S&amp;T,"
+    },
+    {
+      "start": 104.73,
+      "end": 110.39,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "which includes responsibilities for S&amp;T protection, research and development,"
+    },
+    {
+      "start": 110.39,
+      "end": 113.59,
+      "start_int": 110,
+      "timestamp_label": "1:50",
+      "text": "and integration in cooperation with the intelligence community."
+    },
+    {
+      "start": 113.59,
+      "end": 119.31,
+      "start_int": 113,
+      "timestamp_label": "1:53",
+      "text": "He has a bachelor's degree in chemical engineering from the University of Virginia."
+    },
+    {
+      "start": 119.31,
+      "end": 125.02,
+      "start_int": 119,
+      "timestamp_label": "1:59",
+      "text": "Okay? The next person I want to Introduce is Burhan Adam."
+    },
+    {
+      "start": 125.02,
+      "end": 132.2,
+      "start_int": 125,
+      "timestamp_label": "2:05",
+      "text": "He is the Director of Resilient Systems Policy Standards,and Guidance, OUSD,"
+    },
+    {
+      "start": 132.2,
+      "end": 134.73,
+      "start_int": 132,
+      "timestamp_label": "2:12",
+      "text": "the Office of the Department of Defense"
+    },
+    {
+      "start": 134.73,
+      "end": 139.44,
+      "start_int": 134,
+      "timestamp_label": "2:14",
+      "text": "of Strategic Technology Protection and Exploitation."
+    },
+    {
+      "start": 139.44,
+      "end": 143.37,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "And Mr. Adam is the lead for Resilient Systems Policy."
+    },
+    {
+      "start": 143.37,
+      "end": 152.05,
+      "start_int": 143,
+      "timestamp_label": "2:23",
+      "text": "Again, he is responsible for overseeing technology protection, technical information,"
+    },
+    {
+      "start": 152.05,
+      "end": 155.43,
+      "start_int": 152,
+      "timestamp_label": "2:32",
+      "text": "program protection, supply chain risk management,"
+    },
+    {
+      "start": 155.43,
+      "end": 162.98,
+      "start_int": 155,
+      "timestamp_label": "2:35",
+      "text": "cyber resilient weapons systems engineering and system security engineering policy, guidance,"
+    },
+    {
+      "start": 162.98,
+      "end": 168.13,
+      "start_int": 162,
+      "timestamp_label": "2:42",
+      "text": "acquisition regulations, standards, education and training,"
+    },
+    {
+      "start": 168.13,
+      "end": 171.65,
+      "start_int": 168,
+      "timestamp_label": "2:48",
+      "text": "engineering methods, tools and techniques."
+    },
+    {
+      "start": 171.65,
+      "end": 177.67,
+      "start_int": 171,
+      "timestamp_label": "2:51",
+      "text": "He establishes policy and guidance transition Technology Area Protection Planning tools,"
+    },
+    {
+      "start": 177.67,
+      "end": 183.83,
+      "start_int": 177,
+      "timestamp_label": "2:57",
+      "text": "methods and activities to Program Protection Policy tools and methods."
+    },
+    {
+      "start": 183.83,
+      "end": 191.43,
+      "start_int": 183,
+      "timestamp_label": "3:03",
+      "text": "So, we are very, very happy to introduce both of them, both of these distinguished men."
+    },
+    {
+      "start": 191.43,
+      "end": 194.58,
+      "start_int": 191,
+      "timestamp_label": "3:11",
+      "text": "As I say, Emmett Simmons is our host here."
+    },
+    {
+      "start": 194.58,
+      "end": 196.16,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "Hey, my name is Tim Denman."
+    },
+    {
+      "start": 196.16,
+      "end": 200.89,
+      "start_int": 196,
+      "timestamp_label": "3:16",
+      "text": "I'm the cybersecurity learning director, and we're going to be talking about Technology"
+    },
+    {
+      "start": 200.89,
+      "end": 209.09,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "and Program Protection changes, based on the DoD instruction 5000.83."
+    },
+    {
+      "start": 209.09,
+      "end": 213.82,
+      "start_int": 209,
+      "timestamp_label": "3:29",
+      "text": "With that, I want to tell you a little bit about what DAU has"
+    },
+    {
+      "start": 213.82,
+      "end": 217.01,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "out there in relation to cybersecurity."
+    },
+    {
+      "start": 217.01,
+      "end": 225.15,
+      "start_int": 217,
+      "timestamp_label": "3:37",
+      "text": "I started, our helped start, a cyber team about six years ago."
+    },
+    {
+      "start": 225.15,
+      "end": 234.3,
+      "start_int": 225,
+      "timestamp_label": "3:45",
+      "text": "And right now, I have nine full-time people that are working for me and the Cyber Enterprise Team"
+    },
+    {
+      "start": 234.3,
+      "end": 238.57,
+      "start_int": 234,
+      "timestamp_label": "3:54",
+      "text": "that have different skills in cybersecurity."
+    },
+    {
+      "start": 238.57,
+      "end": 243.03,
+      "start_int": 238,
+      "timestamp_label": "3:58",
+      "text": "One of them, Dr. Aaron Jacobson, is on the call with us now."
+    },
+    {
+      "start": 243.03,
+      "end": 247.51,
+      "start_int": 243,
+      "timestamp_label": "4:03",
+      "text": "But I'm not going to read you all the different people we have,"
+    },
+    {
+      "start": 247.51,
+      "end": 250.26,
+      "start_int": 247,
+      "timestamp_label": "4:07",
+      "text": "but the main thing, we've got a broad skill set."
+    },
+    {
+      "start": 250.26,
+      "end": 257.8,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "Something that DAU has not necessarily been known for, but it's been pretty exciting"
+    },
+    {
+      "start": 257.8,
+      "end": 263.06,
+      "start_int": 257,
+      "timestamp_label": "4:17",
+      "text": "from the stuff we've been able to do over the last, really, 6-1/2 years now."
+    },
+    {
+      "start": 263.06,
+      "end": 264.32,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "We're doing workshops."
+    },
+    {
+      "start": 264.32,
+      "end": 271.56,
+      "start_int": 264,
+      "timestamp_label": "4:24",
+      "text": "We're doing facilitator training for CTTs, doing program protection workshops, SSE workshops,"
+    },
+    {
+      "start": 271.56,
+      "end": 274.53,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "secure cloud computing workshops."
+    },
+    {
+      "start": 274.53,
+      "end": 279.32,
+      "start_int": 274,
+      "timestamp_label": "4:34",
+      "text": "We also have a lot of online learning assets, and that's what we're here for."
+    },
+    {
+      "start": 279.32,
+      "end": 285.54,
+      "start_int": 279,
+      "timestamp_label": "4:39",
+      "text": "You know, we have a list there of the different -- some of the different online learning assets,"
+    },
+    {
+      "start": 285.54,
+      "end": 291.69,
+      "start_int": 285,
+      "timestamp_label": "4:45",
+      "text": "specifically related to cybersecurity, systems security engineering, and program protection."
+    },
+    {
+      "start": 291.69,
+      "end": 299.08,
+      "start_int": 291,
+      "timestamp_label": "4:51",
+      "text": "We have a program protection credential, and we also have ACQ 160, which is Introduction"
+    },
+    {
+      "start": 299.08,
+      "end": 303.16,
+      "start_int": 299,
+      "timestamp_label": "4:59",
+      "text": "to Program Protection, and then, we have ENG 260,"
+    },
+    {
+      "start": 303.16,
+      "end": 307.65,
+      "start_int": 303,
+      "timestamp_label": "5:03",
+      "text": "which is Program Protection for Practitioners."
+    },
+    {
+      "start": 307.65,
+      "end": 315.94,
+      "start_int": 307,
+      "timestamp_label": "5:07",
+      "text": "And, so, what we're doing this webinar for is really, there's a two-fold purpose for it,"
+    },
+    {
+      "start": 315.94,
+      "end": 324.25,
+      "start_int": 315,
+      "timestamp_label": "5:15",
+      "text": "and one of them is really an update to the ACQ 160 course."
+    },
+    {
+      "start": 324.25,
+      "end": 326.72,
+      "start_int": 324,
+      "timestamp_label": "5:24",
+      "text": "We talked about it a long time."
+    },
+    {
+      "start": 326.72,
+      "end": 329.94,
+      "start_int": 326,
+      "timestamp_label": "5:26",
+      "text": "We said, how can we best get the information out there?"
+    },
+    {
+      "start": 329.94,
+      "end": 333.86,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "How can we best update ACQ 160?"
+    },
+    {
+      "start": 333.86,
+      "end": 334.99,
+      "start_int": 333,
+      "timestamp_label": "5:33",
+      "text": "And we said, hey."
+    },
+    {
+      "start": 334.99,
+      "end": 337.73,
+      "start_int": 334,
+      "timestamp_label": "5:34",
+      "text": "The best way to do that is through this webinar."
+    },
+    {
+      "start": 337.73,
+      "end": 343.41,
+      "start_int": 337,
+      "timestamp_label": "5:37",
+      "text": "And so, one of the things I did was send out an email to all the graduates,"
+    },
+    {
+      "start": 343.41,
+      "end": 346.35,
+      "start_int": 343,
+      "timestamp_label": "5:43",
+      "text": "the recent graduates of that 160."
+    },
+    {
+      "start": 346.35,
+      "end": 352.53,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "We've tried to talk about this with others, but the new policy that's come"
+    },
+    {
+      "start": 352.53,
+      "end": 359.62,
+      "start_int": 352,
+      "timestamp_label": "5:52",
+      "text": "down does have a big effect on what's going on with program protection."
+    },
+    {
+      "start": 359.62,
+      "end": 366.89,
+      "start_int": 359,
+      "timestamp_label": "5:59",
+      "text": "And we've got, really, -- we got the right people speaking on it."
+    },
+    {
+      "start": 366.89,
+      "end": 373.82,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "So, all that to say, if you want to contact me, you have my email down at the bottom here."
+    },
+    {
+      "start": 373.82,
+      "end": 379.53,
+      "start_int": 373,
+      "timestamp_label": "6:13",
+      "text": "Please, please feel free to do that, whether it's the workshop, maybe specifically related"
+    },
+    {
+      "start": 379.53,
+      "end": 384.25,
+      "start_int": 379,
+      "timestamp_label": "6:19",
+      "text": "to program protection, it's asking about a credential that we're working on,"
+    },
+    {
+      "start": 384.25,
+      "end": 391.7,
+      "start_int": 384,
+      "timestamp_label": "6:24",
+      "text": "or its related to ACQ 160 or it's related, specifically, to this webinar."
+    },
+    {
+      "start": 391.7,
+      "end": 397.17,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "We're really interested in helping you out, in talking to you."
+    },
+    {
+      "start": 397.17,
+      "end": 401.24,
+      "start_int": 397,
+      "timestamp_label": "6:37",
+      "text": "So, please call me or email me, as I say there."
+    },
+    {
+      "start": 401.24,
+      "end": 409.45,
+      "start_int": 401,
+      "timestamp_label": "6:41",
+      "text": "I'm not going to spend a whole lot of time talking about what the 5000.83 is."
+    },
+    {
+      "start": 409.45,
+      "end": 411.4,
+      "start_int": 409,
+      "timestamp_label": "6:49",
+      "text": "That's for the experts here."
+    },
+    {
+      "start": 411.4,
+      "end": 417.11,
+      "start_int": 411,
+      "timestamp_label": "6:51",
+      "text": "But what I'm going to do is just kind of introduce you to the purpose of it, and,"
+    },
+    {
+      "start": 417.11,
+      "end": 422.85,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "you know, really, the purpose is found in the title, and that is technology"
+    },
+    {
+      "start": 422.85,
+      "end": 428.02,
+      "start_int": 422,
+      "timestamp_label": "7:02",
+      "text": "and program protection to maintain technological advantage."
+    },
+    {
+      "start": 428.02,
+      "end": 436.27,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "It's really looking at how do we maintain that technological advantage?"
+    },
+    {
+      "start": 436.27,
+      "end": 443.15,
+      "start_int": 436,
+      "timestamp_label": "7:16",
+      "text": "You know, as you understand, program protection is wildly important,"
+    },
+    {
+      "start": 443.15,
+      "end": 450.96,
+      "start_int": 443,
+      "timestamp_label": "7:23",
+      "text": "and the Technology Area Protection Plans are part of that."
+    },
+    {
+      "start": 450.96,
+      "end": 457.77,
+      "start_int": 450,
+      "timestamp_label": "7:30",
+      "text": "In July 2020, was when this policy was when this policy was first sent out."
+    },
+    {
+      "start": 457.77,
+      "end": 468.39,
+      "start_int": 457,
+      "timestamp_label": "7:37",
+      "text": "There's been one change to it, and again, Burhan and Kris were going to talk to that."
+    },
+    {
+      "start": 468.39,
+      "end": 474.73,
+      "start_int": 468,
+      "timestamp_label": "7:48",
+      "text": "Other parts of that purpose, we're going to look at, you know, it's not going to go deep into it."
+    },
+    {
+      "start": 474.73,
+      "end": 480.24,
+      "start_int": 474,
+      "timestamp_label": "7:54",
+      "text": "As I say, this is really going to be an update into what some"
+    },
+    {
+      "start": 480.24,
+      "end": 487.39,
+      "start_int": 480,
+      "timestamp_label": "8:00",
+      "text": "of that introductory information provided in that 160, but it is going to look"
+    },
+    {
+      "start": 487.39,
+      "end": 491.53,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "at how does this, you know, how does this relate to the threat?"
+    },
+    {
+      "start": 491.53,
+      "end": 497.6,
+      "start_int": 491,
+      "timestamp_label": "8:11",
+      "text": "How does this relate to the risk of adversarial exploitation and compromise?"
+    },
+    {
+      "start": 497.6,
+      "end": 503.03,
+      "start_int": 497,
+      "timestamp_label": "8:17",
+      "text": "And how does this relate to some of the new guidance that we've seen"
+    },
+    {
+      "start": 503.03,
+      "end": 509.96,
+      "start_int": 503,
+      "timestamp_label": "8:23",
+      "text": "with the acquisition framework, the Adaptive Acquisition Framework"
+    },
+    {
+      "start": 509.96,
+      "end": 511.28,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "and some of those type things."
+    },
+    {
+      "start": 511.28,
+      "end": 514.75,
+      "start_int": 511,
+      "timestamp_label": "8:31",
+      "text": "So, as we look at this, why we doing this?"
+    },
+    {
+      "start": 514.75,
+      "end": 518.5,
+      "start_int": 514,
+      "timestamp_label": "8:34",
+      "text": "And I've said it, and I'll continue to say it."
+    },
+    {
+      "start": 518.5,
+      "end": 523.05,
+      "start_int": 518,
+      "timestamp_label": "8:38",
+      "text": "You know, as some who's involved with program protection, either you're doing it"
+    },
+    {
+      "start": 523.05,
+      "end": 528.93,
+      "start_int": 523,
+      "timestamp_label": "8:43",
+      "text": "in the general sense, just as an acquisition workforce member, or you're a practitioner,"
+    },
+    {
+      "start": 528.93,
+      "end": 532.46,
+      "start_int": 528,
+      "timestamp_label": "8:48",
+      "text": "obviously, you need to get understand what's going on with the latest policy."
+    },
+    {
+      "start": 532.46,
+      "end": 537.35,
+      "start_int": 532,
+      "timestamp_label": "8:52",
+      "text": "If you've taken that 160, if you plan to take it,"
+    },
+    {
+      "start": 537.35,
+      "end": 539.86,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "this material is going to be added to the course."
+    },
+    {
+      "start": 539.86,
+      "end": 545.73,
+      "start_int": 539,
+      "timestamp_label": "8:59",
+      "text": "It's really important that you understand what's going on, and I can't think of a better way"
+    },
+    {
+      "start": 545.73,
+      "end": 549.76,
+      "start_int": 545,
+      "timestamp_label": "9:05",
+      "text": "to get to know this information and understand what's happening"
+    },
+    {
+      "start": 549.76,
+      "end": 551.72,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "than going straight to the source."
+    },
+    {
+      "start": 551.72,
+      "end": 562.99,
+      "start_int": 551,
+      "timestamp_label": "9:11",
+      "text": "And as I say, we've worked closely, and one thing I didn't mention, and I want to say, DAU,"
+    },
+    {
+      "start": 562.99,
+      "end": 571.06,
+      "start_int": 562,
+      "timestamp_label": "9:22",
+      "text": "sometimes DAU works with stakeholders to develop courses and develop different things."
+    },
+    {
+      "start": 571.06,
+      "end": 579.97,
+      "start_int": 571,
+      "timestamp_label": "9:31",
+      "text": "Sometimes we work directly with subject matter experts that are outside of DAU."
+    },
+    {
+      "start": 579.97,
+      "end": 583.71,
+      "start_int": 579,
+      "timestamp_label": "9:39",
+      "text": "Sometimes we work directly with organizations."
+    },
+    {
+      "start": 583.71,
+      "end": 589.67,
+      "start_int": 583,
+      "timestamp_label": "9:43",
+      "text": "In this case, we worked directly with OUSD to develop this course,"
+    },
+    {
+      "start": 589.67,
+      "end": 594.61,
+      "start_int": 589,
+      "timestamp_label": "9:49",
+      "text": "both courses ACQ 160 and ENG 260."
+    },
+    {
+      "start": 594.61,
+      "end": 605.48,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "The content that you see in ACQ 160 and ENG 260 comes straight from the subject-matter experts"
+    },
+    {
+      "start": 605.48,
+      "end": 608.43,
+      "start_int": 605,
+      "timestamp_label": "10:05",
+      "text": "at the Office of the Under Secretary of Defense."
+    },
+    {
+      "start": 608.43,
+      "end": 619.94,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "So, this webinar is an update to 160, and it's giving you the opportunity to hear"
+    },
+    {
+      "start": 619.94,
+      "end": 623.23,
+      "start_int": 619,
+      "timestamp_label": "10:19",
+      "text": "from the source from those policy changes."
+    },
+    {
+      "start": 623.23,
+      "end": 631.79,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "So, I really look forward to giving you that opportunity to hear, and I just,"
+    },
+    {
+      "start": 631.79,
+      "end": 637.1,
+      "start_int": 631,
+      "timestamp_label": "10:31",
+      "text": "I'm just excited to, again, I'll introduce Burhan to you"
+    },
+    {
+      "start": 637.1,
+      "end": 642.93,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "and then Kris will get a chance to talk you later."
+    },
+    {
+      "start": 642.93,
+      "end": 647.96,
+      "start_int": 642,
+      "timestamp_label": "10:42",
+      "text": "So, leave it with Burhan."
+    },
+    {
+      "start": 647.96,
+      "end": 652.76,
+      "start_int": 647,
+      "timestamp_label": "10:47",
+      "text": "&gt;&gt; Thanks, Tim."
+    },
+    {
+      "start": 665.04,
+      "end": 665.67,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "Hello, everyone."
+    },
+    {
+      "start": 665.67,
+      "end": 668.0,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "Thanks, Tim, for the introduction, as well."
+    },
+    {
+      "start": 668.0,
+      "end": 674.22,
+      "start_int": 668,
+      "timestamp_label": "11:08",
+      "text": "Welcome to all of you, and thank you for your participation in today's webinar."
+    },
+    {
+      "start": 674.22,
+      "end": 675.64,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "It's really appreciated."
+    },
+    {
+      "start": 675.64,
+      "end": 680.5,
+      "start_int": 675,
+      "timestamp_label": "11:15",
+      "text": "I'm grateful to eye and attendedness today."
+    },
+    {
+      "start": 680.5,
+      "end": 688.92,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "Again, DAU Program Protection Planning Awareness Course, or currently known as the ACQ 160."
+    },
+    {
+      "start": 688.92,
+      "end": 693.7,
+      "start_int": 688,
+      "timestamp_label": "11:28",
+      "text": "It's a core and foundational course that's part of, as you know,"
+    },
+    {
+      "start": 693.7,
+      "end": 696.9,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "is part of the acquisition program training of DAU."
+    },
+    {
+      "start": 696.9,
+      "end": 698.74,
+      "start_int": 696,
+      "timestamp_label": "11:36",
+      "text": "It's an online course."
+    },
+    {
+      "start": 698.74,
+      "end": 705.53,
+      "start_int": 698,
+      "timestamp_label": "11:38",
+      "text": "It provides an overview of program protection concepts, policy, and processes."
+    },
+    {
+      "start": 705.53,
+      "end": 710.09,
+      "start_int": 705,
+      "timestamp_label": "11:45",
+      "text": "It's intended for the entire workforce, the acquisition workforce"
+    },
+    {
+      "start": 710.09,
+      "end": 717.28,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "and all acquisition tracks, focusing on engineering aspect of [inaudible], as well."
+    },
+    {
+      "start": 717.28,
+      "end": 723.68,
+      "start_int": 717,
+      "timestamp_label": "11:57",
+      "text": "Therefore, it's really important to keep this course current and meets the needs"
+    },
+    {
+      "start": 723.68,
+      "end": 727.76,
+      "start_int": 723,
+      "timestamp_label": "12:03",
+      "text": "of the students [inaudible] on getting their credentials"
+    },
+    {
+      "start": 727.76,
+      "end": 731.52,
+      "start_int": 727,
+      "timestamp_label": "12:07",
+      "text": "in their acquisition tracks of choice."
+    },
+    {
+      "start": 731.52,
+      "end": 737.83,
+      "start_int": 731,
+      "timestamp_label": "12:11",
+      "text": "I'm not sure if you know it, but we launched this course in August 2016."
+    },
+    {
+      "start": 737.83,
+      "end": 744.24,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "That's more than five years ago, and so, you could appreciate a lot has changed"
+    },
+    {
+      "start": 744.24,
+      "end": 746.31,
+      "start_int": 744,
+      "timestamp_label": "12:24",
+      "text": "since then, and the defense business."
+    },
+    {
+      "start": 746.31,
+      "end": 750.36,
+      "start_int": 746,
+      "timestamp_label": "12:26",
+      "text": "We operate in a dynamic environment, as you see now."
+    },
+    {
+      "start": 750.36,
+      "end": 753.25,
+      "start_int": 750,
+      "timestamp_label": "12:30",
+      "text": "As you know, technology constantly changes."
+    },
+    {
+      "start": 753.25,
+      "end": 758.38,
+      "start_int": 753,
+      "timestamp_label": "12:33",
+      "text": "Along with that, our nation faces forever-changing challenges"
+    },
+    {
+      "start": 758.38,
+      "end": 763.06,
+      "start_int": 758,
+      "timestamp_label": "12:38",
+      "text": "that are getting more sophisticated as technology changes."
+    },
+    {
+      "start": 763.06,
+      "end": 769.26,
+      "start_int": 763,
+      "timestamp_label": "12:43",
+      "text": "So in keeping with this dynamic world in which we live, our policies"
+    },
+    {
+      "start": 769.26,
+      "end": 771.77,
+      "start_int": 769,
+      "timestamp_label": "12:49",
+      "text": "and acquisition processes must also change."
+    },
+    {
+      "start": 771.77,
+      "end": 775.2,
+      "start_int": 771,
+      "timestamp_label": "12:51",
+      "text": "Therefore, the training and education we provide"
+    },
+    {
+      "start": 775.2,
+      "end": 778.24,
+      "start_int": 775,
+      "timestamp_label": "12:55",
+      "text": "to our students must keep pace with this changing environment."
+    },
+    {
+      "start": 778.24,
+      "end": 780.43,
+      "start_int": 778,
+      "timestamp_label": "12:58",
+      "text": "That's really the bottom line."
+    },
+    {
+      "start": 780.43,
+      "end": 788.59,
+      "start_int": 780,
+      "timestamp_label": "13:00",
+      "text": "So, today, we will share some of the changes in the technology and program protection area"
+    },
+    {
+      "start": 788.59,
+      "end": 793.3,
+      "start_int": 788,
+      "timestamp_label": "13:08",
+      "text": "that we plan to add to ACQ 160, as Tim just discussed."
+    },
+    {
+      "start": 793.3,
+      "end": 796.05,
+      "start_int": 793,
+      "timestamp_label": "13:13",
+      "text": "We're making these changes in a phased approach."
+    },
+    {
+      "start": 796.05,
+      "end": 805.0,
+      "start_int": 796,
+      "timestamp_label": "13:16",
+      "text": "Phase I addresses just the policy changes that are germane to, and also updates and references"
+    },
+    {
+      "start": 805.0,
+      "end": 810.62,
+      "start_int": 805,
+      "timestamp_label": "13:25",
+      "text": "to our supporting program protection references into the program."
+    },
+    {
+      "start": 810.62,
+      "end": 819.12,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "And then, Phase II is really where we put together the more content update to the course,"
+    },
+    {
+      "start": 819.12,
+      "end": 824.06,
+      "start_int": 819,
+      "timestamp_label": "13:39",
+      "text": "in the attampts of adding additional material."
+    },
+    {
+      "start": 828.8,
+      "end": 836.55,
+      "start_int": 828,
+      "timestamp_label": "13:48",
+      "text": "So, but, I just want to first, Tim touched on our organization, but I want to quickly just"
+    },
+    {
+      "start": 836.55,
+      "end": 841.51,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "to level set with everyone, just to give you a little introduction to our organization."
+    },
+    {
+      "start": 841.51,
+      "end": 845.68,
+      "start_int": 841,
+      "timestamp_label": "14:01",
+      "text": "This chart introduces the organizational structure of the Science"
+    },
+    {
+      "start": 845.68,
+      "end": 851.08,
+      "start_int": 845,
+      "timestamp_label": "14:05",
+      "text": "and Technology Protection and Exploitation, or STPE as it's commonly known."
+    },
+    {
+      "start": 851.08,
+      "end": 856.19,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "STPE is part of the office of the Undersecretary of Research and Engineering."
+    },
+    {
+      "start": 856.19,
+      "end": 865.82,
+      "start_int": 856,
+      "timestamp_label": "14:16",
+      "text": "Dr. Robert Arie leads the STPE organization, and it has three main groups of directorates."
+    },
+    {
+      "start": 865.82,
+      "end": 871.72,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "Maintain Technology Advantages led by Dr. Jesse Appler."
+    },
+    {
+      "start": 871.72,
+      "end": 876.2,
+      "start_int": 871,
+      "timestamp_label": "14:31",
+      "text": "Resilient Systems is under Ms. Melinda Reed, and Technology"
+    },
+    {
+      "start": 876.2,
+      "end": 880.27,
+      "start_int": 876,
+      "timestamp_label": "14:36",
+      "text": "and Manufacturing Industrial Base is under Mr. Robert Gold."
+    },
+    {
+      "start": 880.27,
+      "end": 888.05,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "The topics we're going to talk about, mainly, are program protection and policy that resides"
+    },
+    {
+      "start": 888.05,
+      "end": 892.43,
+      "start_int": 888,
+      "timestamp_label": "14:48",
+      "text": "within the resilient systems, which is the directorate that I support."
+    },
+    {
+      "start": 892.43,
+      "end": 896.75,
+      "start_int": 892,
+      "timestamp_label": "14:52",
+      "text": "Mr. Kris Gardner will follow me in this presentation"
+    },
+    {
+      "start": 896.75,
+      "end": 899.96,
+      "start_int": 896,
+      "timestamp_label": "14:56",
+      "text": "with [inaudible] technology [inaudible] directorate,"
+    },
+    {
+      "start": 899.96,
+      "end": 902.38,
+      "start_int": 899,
+      "timestamp_label": "14:59",
+      "text": "and I think he will say more about that maybe."
+    },
+    {
+      "start": 902.38,
+      "end": 908.01,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "Kris focuses on the S&amp;T side of the house of the [inaudible] protection."
+    },
+    {
+      "start": 908.01,
+      "end": 914.14,
+      "start_int": 908,
+      "timestamp_label": "15:08",
+      "text": "Within the resilient systems of high-level, this chart just provides you what we do in terms"
+    },
+    {
+      "start": 914.14,
+      "end": 919.88,
+      "start_int": 914,
+      "timestamp_label": "15:14",
+      "text": "of fostering sure resilient mission systems and components."
+    },
+    {
+      "start": 919.88,
+      "end": 925.16,
+      "start_int": 919,
+      "timestamp_label": "15:19",
+      "text": "We do that by setting technical policy direction or technology and program protection."
+    },
+    {
+      "start": 925.16,
+      "end": 929.96,
+      "start_int": 925,
+      "timestamp_label": "15:25",
+      "text": "We focus on growing DoD capability capacity to evaluate"
+    },
+    {
+      "start": 929.96,
+      "end": 932.8,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "and mitigate software component vulnerabilities,"
+    },
+    {
+      "start": 932.8,
+      "end": 937.18,
+      "start_int": 932,
+      "timestamp_label": "15:32",
+      "text": "and we establish the secure cyber-resilient weapons engineering methods"
+    },
+    {
+      "start": 937.18,
+      "end": 942.36,
+      "start_int": 937,
+      "timestamp_label": "15:37",
+      "text": "and workforce competency involvement, which is part of what we do with DAU."
+    },
+    {
+      "start": 942.36,
+      "end": 948.32,
+      "start_int": 942,
+      "timestamp_label": "15:42",
+      "text": "So, you can discern from the mission statement of this chart at the bottom of the banner."
+    },
+    {
+      "start": 948.32,
+      "end": 953.92,
+      "start_int": 948,
+      "timestamp_label": "15:48",
+      "text": "We cover a lot of ground that cut across equities of other organizations within R&amp;E,"
+    },
+    {
+      "start": 953.92,
+      "end": 960.6,
+      "start_int": 953,
+      "timestamp_label": "15:53",
+      "text": "within Research and Engineering Office and other OSD entities."
+    },
+    {
+      "start": 962.73,
+      "end": 968.16,
+      "start_int": 962,
+      "timestamp_label": "16:02",
+      "text": "Also, with that quick agenda, I will brief discuss the approach we are following"
+    },
+    {
+      "start": 968.16,
+      "end": 971.07,
+      "start_int": 968,
+      "timestamp_label": "16:08",
+      "text": "to update the course, ACQ 160."
+    },
+    {
+      "start": 971.07,
+      "end": 977.66,
+      "start_int": 971,
+      "timestamp_label": "16:11",
+      "text": "If you have not heard about this instruction before, as Tim just talked about it,"
+    },
+    {
+      "start": 977.66,
+      "end": 981.95,
+      "start_int": 977,
+      "timestamp_label": "16:17",
+      "text": "it's a critical policy, and we will quickly go through that, as well,"
+    },
+    {
+      "start": 981.95,
+      "end": 986.25,
+      "start_int": 981,
+      "timestamp_label": "16:21",
+      "text": "just to build on where our team left off, and then,"
+    },
+    {
+      "start": 986.25,
+      "end": 992.17,
+      "start_int": 986,
+      "timestamp_label": "16:26",
+      "text": "discuss some of the specific protection changes we are making, proposing to the course"
+    },
+    {
+      "start": 992.17,
+      "end": 997.27,
+      "start_int": 992,
+      "timestamp_label": "16:32",
+      "text": "and for that of high level, and briefly, I will discuss the way ahead, and then,"
+    },
+    {
+      "start": 997.27,
+      "end": 1001.63,
+      "start_int": 997,
+      "timestamp_label": "16:37",
+      "text": "Mr. Gardner will take it from there to go into more detail on the science"
+    },
+    {
+      "start": 1001.63,
+      "end": 1007.5,
+      "start_int": 1001,
+      "timestamp_label": "16:41",
+      "text": "and technology changes that's going also to the ACQ 160."
+    },
+    {
+      "start": 1012.04,
+      "end": 1017.12,
+      "start_int": 1012,
+      "timestamp_label": "16:52",
+      "text": "Up front, this chart, those who are already familiar, again,"
+    },
+    {
+      "start": 1017.12,
+      "end": 1022.03,
+      "start_int": 1017,
+      "timestamp_label": "16:57",
+      "text": "with the DoD Instruction 5083, I apologize."
+    },
+    {
+      "start": 1022.03,
+      "end": 1023.26,
+      "start_int": 1022,
+      "timestamp_label": "17:02",
+      "text": "Here it is again."
+    },
+    {
+      "start": 1023.26,
+      "end": 1027.27,
+      "start_int": 1023,
+      "timestamp_label": "17:03",
+      "text": "If I'm just repeating what Tim said also, I apologize."
+    },
+    {
+      "start": 1027.27,
+      "end": 1031.87,
+      "start_int": 1027,
+      "timestamp_label": "17:07",
+      "text": "However, I just want to level set and quickly introduce this critical policy,"
+    },
+    {
+      "start": 1031.87,
+      "end": 1035.17,
+      "start_int": 1031,
+      "timestamp_label": "17:11",
+      "text": "that governs technology, and program protection."
+    },
+    {
+      "start": 1035.17,
+      "end": 1038.47,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "It's the main driver."
+    },
+    {
+      "start": 1038.47,
+      "end": 1047.63,
+      "start_int": 1038,
+      "timestamp_label": "17:18",
+      "text": "We're all depending on updates that in ACQ 160 and the other courses like Engineering 260"
+    },
+    {
+      "start": 1047.63,
+      "end": 1052.66,
+      "start_int": 1047,
+      "timestamp_label": "17:27",
+      "text": "and potentially new courses that are currently on the drawing board."
+    },
+    {
+      "start": 1052.66,
+      "end": 1060.13,
+      "start_int": 1052,
+      "timestamp_label": "17:32",
+      "text": "This issue just came out in the summer of 2020 with changed one released last May and came"
+    },
+    {
+      "start": 1060.13,
+      "end": 1068.45,
+      "start_int": 1060,
+      "timestamp_label": "17:40",
+      "text": "about as part of the separate replacements of the enclosures and the DoD Instruction 5802."
+    },
+    {
+      "start": 1068.45,
+      "end": 1073.82,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "This issue was replaced in Enclosure 14 as some of you might be familiar,"
+    },
+    {
+      "start": 1073.82,
+      "end": 1077.02,
+      "start_int": 1073,
+      "timestamp_label": "17:53",
+      "text": "which focused on program protection."
+    },
+    {
+      "start": 1077.02,
+      "end": 1083.3,
+      "start_int": 1077,
+      "timestamp_label": "17:57",
+      "text": "As you may know, Enclosure 14 focused primarily on the PM's responsibility when to comes"
+    },
+    {
+      "start": 1083.3,
+      "end": 1087.16,
+      "start_int": 1083,
+      "timestamp_label": "18:03",
+      "text": "to program protection via the acquisition programs."
+    },
+    {
+      "start": 1087.16,
+      "end": 1094.11,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "This instruction, this policy, focuses on the technical community and next the engineering"
+    },
+    {
+      "start": 1094.11,
+      "end": 1096.49,
+      "start_int": 1094,
+      "timestamp_label": "18:14",
+      "text": "of the science and technology communities."
+    },
+    {
+      "start": 1096.49,
+      "end": 1102.02,
+      "start_int": 1096,
+      "timestamp_label": "18:16",
+      "text": "Front and center are how we protect our technologies"
+    },
+    {
+      "start": 1102.02,
+      "end": 1109.18,
+      "start_int": 1102,
+      "timestamp_label": "18:22",
+      "text": "and programs throughout their life cycle, while PMs still use, you know,"
+    },
+    {
+      "start": 1109.18,
+      "end": 1113.17,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "this tool to protect their programs during the acquisition phases."
+    },
+    {
+      "start": 1113.17,
+      "end": 1117.95,
+      "start_int": 1113,
+      "timestamp_label": "18:33",
+      "text": "Engineering and S&amp;T communities are responsible for developing"
+    },
+    {
+      "start": 1117.95,
+      "end": 1121.54,
+      "start_int": 1117,
+      "timestamp_label": "18:37",
+      "text": "and maintaining the content updated protection plans"
+    },
+    {
+      "start": 1121.54,
+      "end": 1130.57,
+      "start_int": 1121,
+      "timestamp_label": "18:41",
+      "text": "and managing associated technical risks throughout the lifecycle appropriately."
+    },
+    {
+      "start": 1130.57,
+      "end": 1133.02,
+      "start_int": 1130,
+      "timestamp_label": "18:50",
+      "text": "I don't plan read every word on this chart."
+    },
+    {
+      "start": 1133.02,
+      "end": 1137.46,
+      "start_int": 1133,
+      "timestamp_label": "18:53",
+      "text": "However, as you can see, this issue establishes policy on science and responsibilities"
+    },
+    {
+      "start": 1137.46,
+      "end": 1141.53,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "on proprietary procedures, with the DoD science and technology managers"
+    },
+    {
+      "start": 1141.53,
+      "end": 1145.95,
+      "start_int": 1141,
+      "timestamp_label": "19:01",
+      "text": "and the engineers concerning program protections in science and technology."
+    },
+    {
+      "start": 1145.95,
+      "end": 1152.06,
+      "start_int": 1145,
+      "timestamp_label": "19:05",
+      "text": "As you can see on this slide, it aligns S&amp;T and program protection activities."
+    },
+    {
+      "start": 1152.06,
+      "end": 1156.16,
+      "start_int": 1152,
+      "timestamp_label": "19:12",
+      "text": "In addition, it aligns our mission in technology and product protection planning"
+    },
+    {
+      "start": 1156.16,
+      "end": 1159.32,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "with the national defense strategy."
+    },
+    {
+      "start": 1159.32,
+      "end": 1163.42,
+      "start_int": 1159,
+      "timestamp_label": "19:19",
+      "text": "With that said, everything, the engineers and the S&amp;T managers do"
+    },
+    {
+      "start": 1163.42,
+      "end": 1168.92,
+      "start_int": 1163,
+      "timestamp_label": "19:23",
+      "text": "in this context supports the PMs, program offices and the POs that oversee them."
+    },
+    {
+      "start": 1168.92,
+      "end": 1173.8,
+      "start_int": 1168,
+      "timestamp_label": "19:28",
+      "text": "Therefore, we'd like to point out that these instructions are also relevant"
+    },
+    {
+      "start": 1173.8,
+      "end": 1179.48,
+      "start_int": 1173,
+      "timestamp_label": "19:33",
+      "text": "to the acquisition community as it is to generics and S&amp;T managers."
+    },
+    {
+      "start": 1179.48,
+      "end": 1185.14,
+      "start_int": 1179,
+      "timestamp_label": "19:39",
+      "text": "It's relevant and supports both functional managers, as well."
+    },
+    {
+      "start": 1185.14,
+      "end": 1189.23,
+      "start_int": 1185,
+      "timestamp_label": "19:45",
+      "text": "So, I want to highlight that fact here, because since the policy only calls"
+    },
+    {
+      "start": 1189.23,
+      "end": 1193.79,
+      "start_int": 1189,
+      "timestamp_label": "19:49",
+      "text": "on specifically science and technology managers and engineers,"
+    },
+    {
+      "start": 1193.79,
+      "end": 1199.43,
+      "start_int": 1193,
+      "timestamp_label": "19:53",
+      "text": "this has led to some misunderstanding of the part of its applicability."
+    },
+    {
+      "start": 1199.43,
+      "end": 1205.84,
+      "start_int": 1199,
+      "timestamp_label": "19:59",
+      "text": "So, it really, you know, alleviate any responsibility for the PMs."
+    },
+    {
+      "start": 1205.84,
+      "end": 1213.8,
+      "start_int": 1205,
+      "timestamp_label": "20:05",
+      "text": "It's still a tool for them to manage and execute and fund the resource from execution."
+    },
+    {
+      "start": 1213.8,
+      "end": 1220.89,
+      "start_int": 1213,
+      "timestamp_label": "20:13",
+      "text": "But it brings the engineers and S&amp;T managers to take more accountability and responsibility"
+    },
+    {
+      "start": 1220.89,
+      "end": 1224.25,
+      "start_int": 1220,
+      "timestamp_label": "20:20",
+      "text": "for the content of the planning, the development of the planning,"
+    },
+    {
+      "start": 1224.25,
+      "end": 1228.49,
+      "start_int": 1224,
+      "timestamp_label": "20:24",
+      "text": "and the delivery of that execution and the management"
+    },
+    {
+      "start": 1228.49,
+      "end": 1241.53,
+      "start_int": 1228,
+      "timestamp_label": "20:28",
+      "text": "of the associated technical risks associated with that."
+    },
+    {
+      "start": 1241.53,
+      "end": 1244.83,
+      "start_int": 1241,
+      "timestamp_label": "20:41",
+      "text": "Yeah, just more on this instruction."
+    },
+    {
+      "start": 1244.83,
+      "end": 1250.3,
+      "start_int": 1244,
+      "timestamp_label": "20:44",
+      "text": "Again, big picture, and really holistically, together, brings a holistic approach"
+    },
+    {
+      "start": 1250.3,
+      "end": 1255.78,
+      "start_int": 1250,
+      "timestamp_label": "20:50",
+      "text": "in addressing technology and program protection across the life cycle of acquisition programs."
+    },
+    {
+      "start": 1255.78,
+      "end": 1262.59,
+      "start_int": 1255,
+      "timestamp_label": "20:55",
+      "text": "S&amp;T programs to the deployed systems policy directs a cohesive-based approach"
+    },
+    {
+      "start": 1262.59,
+      "end": 1267.08,
+      "start_int": 1262,
+      "timestamp_label": "21:02",
+      "text": "to protect systems and technology from adversarial exploitation or compromise."
+    },
+    {
+      "start": 1267.08,
+      "end": 1271.28,
+      "start_int": 1267,
+      "timestamp_label": "21:07",
+      "text": "It, indeed, promotes and implements enhanced technology"
+    },
+    {
+      "start": 1271.28,
+      "end": 1274.74,
+      "start_int": 1271,
+      "timestamp_label": "21:11",
+      "text": "and program protection policy across the entire enterprise."
+    },
+    {
+      "start": 1274.74,
+      "end": 1279.0,
+      "start_int": 1274,
+      "timestamp_label": "21:14",
+      "text": "It drives the development of a mindset of critical artifacts,"
+    },
+    {
+      "start": 1279.0,
+      "end": 1283.61,
+      "start_int": 1279,
+      "timestamp_label": "21:19",
+      "text": "mainly the S&amp;T protection plans, which we will talk about it shortly, and also,"
+    },
+    {
+      "start": 1283.61,
+      "end": 1293.72,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "the associated technology protection plans based on DoD's 11 modernization priorities."
+    },
+    {
+      "start": 1293.72,
+      "end": 1296.51,
+      "start_int": 1293,
+      "timestamp_label": "21:33",
+      "text": "It directs the development of program protection"
+    },
+    {
+      "start": 1296.51,
+      "end": 1299.83,
+      "start_int": 1296,
+      "timestamp_label": "21:36",
+      "text": "and supports engineering program protection activities."
+    },
+    {
+      "start": 1299.83,
+      "end": 1304.55,
+      "start_int": 1299,
+      "timestamp_label": "21:39",
+      "text": "Both the S&amp;T program protection and TAPP both inform the PPP."
+    },
+    {
+      "start": 1304.55,
+      "end": 1315.77,
+      "start_int": 1304,
+      "timestamp_label": "21:44",
+      "text": "So, they are aligned, and more about that maybe from Kris Gardner as we move forward."
+    },
+    {
+      "start": 1315.77,
+      "end": 1322.21,
+      "start_int": 1315,
+      "timestamp_label": "21:55",
+      "text": "Tim mentioned the adaptive acquisition framework, and that's really a critical piece"
+    },
+    {
+      "start": 1322.21,
+      "end": 1327.07,
+      "start_int": 1322,
+      "timestamp_label": "22:02",
+      "text": "of some of the updates that we make, and I assume that you are all familiar"
+    },
+    {
+      "start": 1327.07,
+      "end": 1334.71,
+      "start_int": 1327,
+      "timestamp_label": "22:07",
+      "text": "with the new DoD 5000.02, which identifies the six adaptive acquisition pathways."
+    },
+    {
+      "start": 1334.71,
+      "end": 1342.23,
+      "start_int": 1334,
+      "timestamp_label": "22:14",
+      "text": "I'd like to mention that the 5000.83 addresses implementation of technology"
+    },
+    {
+      "start": 1342.23,
+      "end": 1349.68,
+      "start_int": 1342,
+      "timestamp_label": "22:22",
+      "text": "and program protection planning following this framework, and this graphic of this chart,"
+    },
+    {
+      "start": 1349.68,
+      "end": 1357.88,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "which we can find in the DoD 5000.83, shows the framework and associated, you know,"
+    },
+    {
+      "start": 1357.88,
+      "end": 1364.67,
+      "start_int": 1357,
+      "timestamp_label": "22:37",
+      "text": "pathways that are available for PMs, in alignment with program protection."
+    },
+    {
+      "start": 1364.67,
+      "end": 1369.6,
+      "start_int": 1364,
+      "timestamp_label": "22:44",
+      "text": "It establishes the context and scope within planning, grade after grade,"
+    },
+    {
+      "start": 1369.6,
+      "end": 1372.98,
+      "start_int": 1369,
+      "timestamp_label": "22:49",
+      "text": "from the program life-cycle perspective."
+    },
+    {
+      "start": 1372.98,
+      "end": 1379.56,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "On the left side, it lists the big rocks of the DoD's 11 technology modernization priorities,"
+    },
+    {
+      "start": 1379.56,
+      "end": 1385.96,
+      "start_int": 1379,
+      "timestamp_label": "22:59",
+      "text": "which is based, which is the source that inform the S&amp;T protection plans."
+    },
+    {
+      "start": 1385.96,
+      "end": 1388.53,
+      "start_int": 1385,
+      "timestamp_label": "23:05",
+      "text": "The major shift in here is really that the activities protection,"
+    },
+    {
+      "start": 1388.53,
+      "end": 1397.58,
+      "start_int": 1388,
+      "timestamp_label": "23:08",
+      "text": "in terms of S&amp;T's protection in terms of S&amp;T, as well as program protection and technology,"
+    },
+    {
+      "start": 1397.58,
+      "end": 1402.5,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "starts way before the acquisition portion is established, and the S&amp;T managers"
+    },
+    {
+      "start": 1402.5,
+      "end": 1408.67,
+      "start_int": 1402,
+      "timestamp_label": "23:22",
+      "text": "in these areas must address protection planning, you know, per the 5,000 early"
+    },
+    {
+      "start": 1408.67,
+      "end": 1415.33,
+      "start_int": 1408,
+      "timestamp_label": "23:28",
+      "text": "in the early phases, which informs us and is integrated as the output for that"
+    },
+    {
+      "start": 1415.33,
+      "end": 1417.99,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "and like base [inaudible] onto the acquisition side,"
+    },
+    {
+      "start": 1417.99,
+      "end": 1421.92,
+      "start_int": 1417,
+      "timestamp_label": "23:37",
+      "text": "as in the way of program protection planning."
+    },
+    {
+      "start": 1421.92,
+      "end": 1423.85,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "And that's a big change."
+    },
+    {
+      "start": 1423.85,
+      "end": 1430.4,
+      "start_int": 1423,
+      "timestamp_label": "23:43",
+      "text": "Really, when you look at it from, you know, throw holistically, from, our perspective."
+    },
+    {
+      "start": 1430.4,
+      "end": 1436.13,
+      "start_int": 1430,
+      "timestamp_label": "23:50",
+      "text": "Our challenge right now is, in each one of these pathways, how do we tailor the requirements?"
+    },
+    {
+      "start": 1436.13,
+      "end": 1439.25,
+      "start_int": 1436,
+      "timestamp_label": "23:56",
+      "text": "And that's part of the Phase II, what we plan to do."
+    },
+    {
+      "start": 1439.25,
+      "end": 1443.8,
+      "start_int": 1439,
+      "timestamp_label": "23:59",
+      "text": "And we briefly touched on in phase one what needs to be done."
+    },
+    {
+      "start": 1443.8,
+      "end": 1447.2,
+      "start_int": 1443,
+      "timestamp_label": "24:03",
+      "text": "We have a draft document that we're currently working on, a guidebook,"
+    },
+    {
+      "start": 1447.2,
+      "end": 1453.55,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "that lays out the foundations for that, how we tailored the requirements in each pathway."
+    },
+    {
+      "start": 1453.55,
+      "end": 1458.51,
+      "start_int": 1453,
+      "timestamp_label": "24:13",
+      "text": "So, and we were focusing the first four."
+    },
+    {
+      "start": 1458.51,
+      "end": 1464.42,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "Urgent operational needs, middle tier acquisition, including private [inaudible],"
+    },
+    {
+      "start": 1464.42,
+      "end": 1469.59,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "[inaudible] acquisition, as well as software acquisition pathways."
+    },
+    {
+      "start": 1469.59,
+      "end": 1478.27,
+      "start_int": 1469,
+      "timestamp_label": "24:29",
+      "text": "So, those are four we are focusing on at the beginning."
+    },
+    {
+      "start": 1478.27,
+      "end": 1482.48,
+      "start_int": 1478,
+      "timestamp_label": "24:38",
+      "text": "And this just gets to show you the bottom arrow is the alignment"
+    },
+    {
+      "start": 1482.48,
+      "end": 1488.02,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "across from the cradle-to-grave, from S&amp;T all the way to how they align,"
+    },
+    {
+      "start": 1488.02,
+      "end": 1491.39,
+      "start_int": 1488,
+      "timestamp_label": "24:48",
+      "text": "and it's on one another [inaudible]."
+    },
+    {
+      "start": 1505.2,
+      "end": 1512.76,
+      "start_int": 1505,
+      "timestamp_label": "25:05",
+      "text": "Now this chart shows you another view of the fundamental changes for this instruction."
+    },
+    {
+      "start": 1512.76,
+      "end": 1517.06,
+      "start_int": 1512,
+      "timestamp_label": "25:12",
+      "text": "In reality, when you think about it, there's nothing new in this chart"
+    },
+    {
+      "start": 1517.06,
+      "end": 1522.05,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "that we have not been doing throughout the DoD in the past."
+    },
+    {
+      "start": 1522.05,
+      "end": 1527.61,
+      "start_int": 1522,
+      "timestamp_label": "25:22",
+      "text": "Instead, really, this policy is really, it aligns activities"
+    },
+    {
+      "start": 1527.61,
+      "end": 1534.93,
+      "start_int": 1527,
+      "timestamp_label": "25:27",
+      "text": "and optimizes protection processes by assigning responsibilities to the source,"
+    },
+    {
+      "start": 1534.93,
+      "end": 1539.98,
+      "start_int": 1534,
+      "timestamp_label": "25:34",
+      "text": "which is the S&amp;T community and engineering community, and propriety procedures"
+    },
+    {
+      "start": 1539.98,
+      "end": 1544.24,
+      "start_int": 1539,
+      "timestamp_label": "25:39",
+      "text": "and the guides in terms of executing that mission."
+    },
+    {
+      "start": 1544.24,
+      "end": 1547.82,
+      "start_int": 1544,
+      "timestamp_label": "25:44",
+      "text": "We always had a requirement to protect our own technology crown jewels,"
+    },
+    {
+      "start": 1547.82,
+      "end": 1553.22,
+      "start_int": 1547,
+      "timestamp_label": "25:47",
+      "text": "technological crown jewels, and they show systems work as designed"
+    },
+    {
+      "start": 1553.22,
+      "end": 1556.14,
+      "start_int": 1553,
+      "timestamp_label": "25:53",
+      "text": "in the operational environment and protect it."
+    },
+    {
+      "start": 1556.14,
+      "end": 1559.58,
+      "start_int": 1556,
+      "timestamp_label": "25:56",
+      "text": "So, fundamentally, really, the policy"
+    },
+    {
+      "start": 1559.58,
+      "end": 1563.8,
+      "start_int": 1559,
+      "timestamp_label": "25:59",
+      "text": "to safeguard technology and programs has not changed."
+    },
+    {
+      "start": 1563.8,
+      "end": 1569.81,
+      "start_int": 1563,
+      "timestamp_label": "26:03",
+      "text": "What's needed here is more emphasis on how the protection areas"
+    },
+    {
+      "start": 1569.81,
+      "end": 1578.27,
+      "start_int": 1569,
+      "timestamp_label": "26:09",
+      "text": "and developing specific artifacts, you know, so that we integrate all efforts and align"
+    },
+    {
+      "start": 1578.27,
+      "end": 1582.7,
+      "start_int": 1578,
+      "timestamp_label": "26:18",
+      "text": "and support activities and align all the processes to manage protection activities"
+    },
+    {
+      "start": 1582.7,
+      "end": 1588.71,
+      "start_int": 1582,
+      "timestamp_label": "26:22",
+      "text": "and technical risks more holistically and more robustly."
+    },
+    {
+      "start": 1588.71,
+      "end": 1593.53,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "So, as you look at this chart, we have technology programs to protect."
+    },
+    {
+      "start": 1593.53,
+      "end": 1598.75,
+      "start_int": 1593,
+      "timestamp_label": "26:33",
+      "text": "We have to address risks and mitigate them through their life cycle."
+    },
+    {
+      "start": 1598.75,
+      "end": 1603.81,
+      "start_int": 1598,
+      "timestamp_label": "26:38",
+      "text": "These activities have to be aligned with technology modernization priorities taken there"
+    },
+    {
+      "start": 1603.81,
+      "end": 1608.97,
+      "start_int": 1603,
+      "timestamp_label": "26:43",
+      "text": "for each acquisition pathway, and this is about improving, really, at the end of the day,"
+    },
+    {
+      "start": 1608.97,
+      "end": 1614.73,
+      "start_int": 1608,
+      "timestamp_label": "26:48",
+      "text": "it's about improving and integrating our processes from cradle to grave."
+    },
+    {
+      "start": 1614.73,
+      "end": 1619.49,
+      "start_int": 1614,
+      "timestamp_label": "26:54",
+      "text": "So, from my perspective, it's essential to let you know that most of the policy"
+    },
+    {
+      "start": 1619.49,
+      "end": 1623.54,
+      "start_int": 1619,
+      "timestamp_label": "26:59",
+      "text": "for program protection hasn't fundamentally changed, which means that most"
+    },
+    {
+      "start": 1623.54,
+      "end": 1625.85,
+      "start_int": 1623,
+      "timestamp_label": "27:03",
+      "text": "of the training won't change radically."
+    },
+    {
+      "start": 1625.85,
+      "end": 1633.97,
+      "start_int": 1625,
+      "timestamp_label": "27:05",
+      "text": "We're simply integrating products and optimizing processes and closing loose ends, really."
+    },
+    {
+      "start": 1637.41,
+      "end": 1647.74,
+      "start_int": 1637,
+      "timestamp_label": "27:17",
+      "text": "So, with that, we're doing the update to ACQ in a phased approach, as I mentioned earlier."
+    },
+    {
+      "start": 1647.74,
+      "end": 1654.83,
+      "start_int": 1647,
+      "timestamp_label": "27:27",
+      "text": "Phase I, really, it only addresses the policy changes updates."
+    },
+    {
+      "start": 1654.83,
+      "end": 1662.48,
+      "start_int": 1654,
+      "timestamp_label": "27:34",
+      "text": "And only adding what has changed since, you know, for more than five years ago,"
+    },
+    {
+      "start": 1662.48,
+      "end": 1666.46,
+      "start_int": 1662,
+      "timestamp_label": "27:42",
+      "text": "and what we call, you know, the \"facts of life\" changes,"
+    },
+    {
+      "start": 1666.46,
+      "end": 1671.24,
+      "start_int": 1666,
+      "timestamp_label": "27:46",
+      "text": "and then clean out the references that need to be cleaned up."
+    },
+    {
+      "start": 1671.24,
+      "end": 1677.45,
+      "start_int": 1671,
+      "timestamp_label": "27:51",
+      "text": "Because a lot of issues, things that have been issued, and things have been,"
+    },
+    {
+      "start": 1677.45,
+      "end": 1679.29,
+      "start_int": 1677,
+      "timestamp_label": "27:57",
+      "text": "you know, some things have been retired."
+    },
+    {
+      "start": 1679.29,
+      "end": 1681.84,
+      "start_int": 1679,
+      "timestamp_label": "27:59",
+      "text": "So, we want to make sure we clean that all up."
+    },
+    {
+      "start": 1681.84,
+      "end": 1684.88,
+      "start_int": 1681,
+      "timestamp_label": "28:01",
+      "text": "So, Phase I is the focus, doing that."
+    },
+    {
+      "start": 1684.88,
+      "end": 1692.58,
+      "start_int": 1684,
+      "timestamp_label": "28:04",
+      "text": "And then, Phase II, we will focus on what we need to do develop the contents,"
+    },
+    {
+      "start": 1692.58,
+      "end": 1697.49,
+      "start_int": 1692,
+      "timestamp_label": "28:12",
+      "text": "in terms of tailor for acquisition pathways, ensuring that we align"
+    },
+    {
+      "start": 1697.49,
+      "end": 1701.15,
+      "start_int": 1697,
+      "timestamp_label": "28:17",
+      "text": "that protection planning process, and then,"
+    },
+    {
+      "start": 1701.15,
+      "end": 1707.0,
+      "start_int": 1701,
+      "timestamp_label": "28:21",
+      "text": "focus on developing secure cyber resilient engineering protection programs at DAU."
+    },
+    {
+      "start": 1707.0,
+      "end": 1711.58,
+      "start_int": 1707,
+      "timestamp_label": "28:27",
+      "text": "And then, incorporate all the lessons learned."
+    },
+    {
+      "start": 1720.09,
+      "end": 1723.1,
+      "start_int": 1720,
+      "timestamp_label": "28:40",
+      "text": "So, what are the changes in Phase I in the key area?"
+    },
+    {
+      "start": 1723.1,
+      "end": 1729.25,
+      "start_int": 1723,
+      "timestamp_label": "28:43",
+      "text": "A, the first and foremost, we want to make sure that the implementation and operations"
+    },
+    {
+      "start": 1729.25,
+      "end": 1734.28,
+      "start_int": 1729,
+      "timestamp_label": "28:49",
+      "text": "of the Adaptive Acquisition Framework is clearly -- make sure it's addressed."
+    },
+    {
+      "start": 1734.28,
+      "end": 1739.58,
+      "start_int": 1734,
+      "timestamp_label": "28:54",
+      "text": "Those are aligning, you know, like I said."
+    },
+    {
+      "start": 1739.58,
+      "end": 1751.37,
+      "start_int": 1739,
+      "timestamp_label": "28:59",
+      "text": "Making sure 5000.83 is addressed across the board in ACQ, and then,"
+    },
+    {
+      "start": 1751.37,
+      "end": 1758.0,
+      "start_int": 1751,
+      "timestamp_label": "29:11",
+      "text": "add some of the additional diverse requirements for the policy,"
+    },
+    {
+      "start": 1758.0,
+      "end": 1762.85,
+      "start_int": 1758,
+      "timestamp_label": "29:18",
+      "text": "and making sure things are consistent across the board."
+    },
+    {
+      "start": 1762.85,
+      "end": 1769.57,
+      "start_int": 1762,
+      "timestamp_label": "29:22",
+      "text": "[inaudible] concerning information analysis and correct information related to it."
+    },
+    {
+      "start": 1769.57,
+      "end": 1772.93,
+      "start_int": 1769,
+      "timestamp_label": "29:29",
+      "text": "Control classified information and FOU."
+    },
+    {
+      "start": 1772.93,
+      "end": 1779.79,
+      "start_int": 1772,
+      "timestamp_label": "29:32",
+      "text": "We are addressing policies that give the handling of control and classified information"
+    },
+    {
+      "start": 1779.79,
+      "end": 1783.32,
+      "start_int": 1779,
+      "timestamp_label": "29:39",
+      "text": "and control technical information, as well."
+    },
+    {
+      "start": 1783.32,
+      "end": 1788.26,
+      "start_int": 1783,
+      "timestamp_label": "29:43",
+      "text": "Clarifying all the DFAR clauses associated with that across the board."
+    },
+    {
+      "start": 1788.26,
+      "end": 1791.81,
+      "start_int": 1788,
+      "timestamp_label": "29:48",
+      "text": "So, it's part of the cleanup that we intend to do."
+    },
+    {
+      "start": 1791.81,
+      "end": 1796.95,
+      "start_int": 1791,
+      "timestamp_label": "29:51",
+      "text": "Bottom line, and, you know, the key emphasis of the course update is"
+    },
+    {
+      "start": 1796.95,
+      "end": 1805.29,
+      "start_int": 1796,
+      "timestamp_label": "29:56",
+      "text": "about the Adaptive Acquisition Primary Pathways and the required tailored requirements,"
+    },
+    {
+      "start": 1805.29,
+      "end": 1811.36,
+      "start_int": 1805,
+      "timestamp_label": "30:05",
+      "text": "products, and processes that support those pathways, as we move forward."
+    },
+    {
+      "start": 1814.08,
+      "end": 1818.09,
+      "start_int": 1814,
+      "timestamp_label": "30:14",
+      "text": "So, here are some examples of some of the changes."
+    },
+    {
+      "start": 1818.09,
+      "end": 1822.87,
+      "start_int": 1818,
+      "timestamp_label": "30:18",
+      "text": "We're going to what update the welcome and lesson summary to emphasize, tailor it."
+    },
+    {
+      "start": 1822.87,
+      "end": 1829.8,
+      "start_int": 1822,
+      "timestamp_label": "30:22",
+      "text": "And those are quotations, in terms of some of the specific language is."
+    },
+    {
+      "start": 1829.8,
+      "end": 1835.71,
+      "start_int": 1829,
+      "timestamp_label": "30:29",
+      "text": "We will incorporate some of the key facts of life changes,"
+    },
+    {
+      "start": 1835.71,
+      "end": 1841.0,
+      "start_int": 1835,
+      "timestamp_label": "30:35",
+      "text": "the changes that I just talked about, in terms of references that need"
+    },
+    {
+      "start": 1841.0,
+      "end": 1845.91,
+      "start_int": 1841,
+      "timestamp_label": "30:41",
+      "text": "to be added into the course content."
+    },
+    {
+      "start": 1848.04,
+      "end": 1854.37,
+      "start_int": 1848,
+      "timestamp_label": "30:48",
+      "text": "Just a continuation of that, we will add into the information analysis section"
+    },
+    {
+      "start": 1854.37,
+      "end": 1856.13,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "and lesson summary, in these areas."
+    },
+    {
+      "start": 1856.13,
+      "end": 1858.88,
+      "start_int": 1856,
+      "timestamp_label": "30:56",
+      "text": "I will read the words, and you can see."
+    },
+    {
+      "start": 1858.88,
+      "end": 1863.78,
+      "start_int": 1858,
+      "timestamp_label": "30:58",
+      "text": "You will have this available for you, for your future references."
+    },
+    {
+      "start": 1863.78,
+      "end": 1869.29,
+      "start_int": 1863,
+      "timestamp_label": "31:03",
+      "text": "We also add in the trusted systems, another lesson summary,"
+    },
+    {
+      "start": 1869.29,
+      "end": 1875.69,
+      "start_int": 1869,
+      "timestamp_label": "31:09",
+      "text": "replacing 5000.02 Operation Acquisition Systems with DoD 5000.83."
+    },
+    {
+      "start": 1875.69,
+      "end": 1880.83,
+      "start_int": 1875,
+      "timestamp_label": "31:15",
+      "text": "And then, we added this content, as well."
+    },
+    {
+      "start": 1880.83,
+      "end": 1885.69,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "A lot of this will have implications of what you do on a daily basis."
+    },
+    {
+      "start": 1885.69,
+      "end": 1893.12,
+      "start_int": 1885,
+      "timestamp_label": "31:25",
+      "text": "So, it's really a matter of you coming back and doing a little homework, as well,"
+    },
+    {
+      "start": 1893.12,
+      "end": 1898.37,
+      "start_int": 1893,
+      "timestamp_label": "31:33",
+      "text": "and how it will impact you, in terms of what you do in the area"
+    },
+    {
+      "start": 1898.37,
+      "end": 1901.38,
+      "start_int": 1898,
+      "timestamp_label": "31:38",
+      "text": "of technology and program protection planning."
+    },
+    {
+      "start": 1906.03,
+      "end": 1913.13,
+      "start_int": 1906,
+      "timestamp_label": "31:46",
+      "text": "This chart, I recognize it's a bit busy, but really, it conveys how the Technology"
+    },
+    {
+      "start": 1913.13,
+      "end": 1919.42,
+      "start_int": 1913,
+      "timestamp_label": "31:53",
+      "text": "and Program Protection Plan activities are aligned with acquisition activities."
+    },
+    {
+      "start": 1919.42,
+      "end": 1924.11,
+      "start_int": 1919,
+      "timestamp_label": "31:59",
+      "text": "Program Protection span is not just the acquisition program design"
+    },
+    {
+      "start": 1924.11,
+      "end": 1926.73,
+      "start_int": 1924,
+      "timestamp_label": "32:04",
+      "text": "and development phases."
+    },
+    {
+      "start": 1926.73,
+      "end": 1933.44,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "It includes the planning use for, you know, designs and technology phases."
+    },
+    {
+      "start": 1933.44,
+      "end": 1938.16,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "In the early phases of the acquisition program, it links activities,"
+    },
+    {
+      "start": 1938.16,
+      "end": 1941.18,
+      "start_int": 1938,
+      "timestamp_label": "32:18",
+      "text": "S&amp;T and the acquisition activities."
+    },
+    {
+      "start": 1941.18,
+      "end": 1945.81,
+      "start_int": 1941,
+      "timestamp_label": "32:21",
+      "text": "We ensure that we have the mechanisms to maintain and transition,"
+    },
+    {
+      "start": 1945.81,
+      "end": 1951.86,
+      "start_int": 1945,
+      "timestamp_label": "32:25",
+      "text": "implementing protections applied in S&amp;T, to inform and the engineering design tree"
+    },
+    {
+      "start": 1951.86,
+      "end": 1956.68,
+      "start_int": 1951,
+      "timestamp_label": "32:31",
+      "text": "of decisions in the acquisition planning and implementation"
+    },
+    {
+      "start": 1956.68,
+      "end": 1960.34,
+      "start_int": 1956,
+      "timestamp_label": "32:36",
+      "text": "of those design decisions throughout the life cycle of programs."
+    },
+    {
+      "start": 1960.34,
+      "end": 1968.03,
+      "start_int": 1960,
+      "timestamp_label": "32:40",
+      "text": "As I stated earlier, Technology and Program Protection planning have to front and center"
+    },
+    {
+      "start": 1968.03,
+      "end": 1973.7,
+      "start_int": 1968,
+      "timestamp_label": "32:48",
+      "text": "in everything we do, and weapon systems engineering and acquisition process."
+    },
+    {
+      "start": 1973.7,
+      "end": 1977.62,
+      "start_int": 1973,
+      "timestamp_label": "32:53",
+      "text": "This graph really illustrates the relationship between these activities"
+    },
+    {
+      "start": 1977.62,
+      "end": 1982.79,
+      "start_int": 1977,
+      "timestamp_label": "32:57",
+      "text": "and how these activities inform and support one another."
+    },
+    {
+      "start": 1982.79,
+      "end": 1988.89,
+      "start_int": 1982,
+      "timestamp_label": "33:02",
+      "text": "The PPP is aligned with other key regulatory acquisition benefits"
+    },
+    {
+      "start": 1988.89,
+      "end": 1995.89,
+      "start_int": 1988,
+      "timestamp_label": "33:08",
+      "text": "for major acquisition systems, such as the acquisition strategy systems engineering plan,"
+    },
+    {
+      "start": 1995.89,
+      "end": 1997.77,
+      "start_int": 1995,
+      "timestamp_label": "33:15",
+      "text": "[inaudible] master plan, lifecycle support, [inaudible]."
+    },
+    {
+      "start": 1997.77,
+      "end": 2004.44,
+      "start_int": 1997,
+      "timestamp_label": "33:17",
+      "text": "Likewise, like any engineering feedback loop, we also provide feedback"
+    },
+    {
+      "start": 2004.44,
+      "end": 2009.37,
+      "start_int": 2004,
+      "timestamp_label": "33:24",
+      "text": "from the acquisition program protection activities"
+    },
+    {
+      "start": 2009.37,
+      "end": 2012.99,
+      "start_int": 2009,
+      "timestamp_label": "33:29",
+      "text": "to inform the S&amp;T for protections, as well."
+    },
+    {
+      "start": 2012.99,
+      "end": 2021.87,
+      "start_int": 2012,
+      "timestamp_label": "33:32",
+      "text": "Fundamentally, this chart shows the need for close collaboration between functional areas"
+    },
+    {
+      "start": 2021.87,
+      "end": 2027.83,
+      "start_int": 2021,
+      "timestamp_label": "33:41",
+      "text": "to provide the acquisition community with risk-based plans and outcomes,"
+    },
+    {
+      "start": 2027.83,
+      "end": 2030.98,
+      "start_int": 2027,
+      "timestamp_label": "33:47",
+      "text": "and the key take away is the technology"
+    },
+    {
+      "start": 2030.98,
+      "end": 2035.59,
+      "start_int": 2030,
+      "timestamp_label": "33:50",
+      "text": "and program protection includes all the traditional systems,"
+    },
+    {
+      "start": 2035.59,
+      "end": 2042.84,
+      "start_int": 2035,
+      "timestamp_label": "33:55",
+      "text": "consideration in activities, requires close integration with cross-functional areas,"
+    },
+    {
+      "start": 2042.84,
+      "end": 2050.11,
+      "start_int": 2042,
+      "timestamp_label": "34:02",
+      "text": "and organizations external to the systems engineering community."
+    },
+    {
+      "start": 2050.11,
+      "end": 2059.05,
+      "start_int": 2050,
+      "timestamp_label": "34:10",
+      "text": "So, that really summarizes, you know, what we do in Phase I, particularly in terms of cleanup,"
+    },
+    {
+      "start": 2059.05,
+      "end": 2066.66,
+      "start_int": 2059,
+      "timestamp_label": "34:19",
+      "text": "updating the references, updating the policy changes, within the course, and then, page two,"
+    },
+    {
+      "start": 2066.66,
+      "end": 2074.46,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "moving onto what do we do to tailor for each particular pathway,"
+    },
+    {
+      "start": 2074.46,
+      "end": 2077.15,
+      "start_int": 2074,
+      "timestamp_label": "34:34",
+      "text": "and what are the [inaudible] that we need to develop."
+    },
+    {
+      "start": 2077.15,
+      "end": 2079.21,
+      "start_int": 2077,
+      "timestamp_label": "34:37",
+      "text": "What are the requirements that I must have"
+    },
+    {
+      "start": 2079.21,
+      "end": 2083.49,
+      "start_int": 2079,
+      "timestamp_label": "34:39",
+      "text": "in each area what are the processes, the techniques, the procedures?"
+    },
+    {
+      "start": 2083.49,
+      "end": 2088.9,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "And we will do that in the form of a guidebook, and we'll lay that out."
+    },
+    {
+      "start": 2088.9,
+      "end": 2095.48,
+      "start_int": 2088,
+      "timestamp_label": "34:48",
+      "text": "But we also work in putting together, order, you know, you'll see reference"
+    },
+    {
+      "start": 2095.48,
+      "end": 2101.41,
+      "start_int": 2095,
+      "timestamp_label": "34:55",
+      "text": "to Secure Cyber Resilient Engineering Standardization Area."
+    },
+    {
+      "start": 2101.41,
+      "end": 2102.09,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "We planned [inaudible]."
+    },
+    {
+      "start": 2102.09,
+      "end": 2107.8,
+      "start_int": 2102,
+      "timestamp_label": "35:02",
+      "text": "This is up-and-coming focus area for me and my team."
+    },
+    {
+      "start": 2107.8,
+      "end": 2118.52,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "It's really what we knew from generic, not just the policy compliance and [inaudible] kind"
+    },
+    {
+      "start": 2118.52,
+      "end": 2125.76,
+      "start_int": 2118,
+      "timestamp_label": "35:18",
+      "text": "of stuff but from engineering, in terms of cyber resiliency."
+    },
+    {
+      "start": 2125.76,
+      "end": 2131.4,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "What do we need to do, in terms of making sure that's part and parcel of the system,"
+    },
+    {
+      "start": 2131.4,
+      "end": 2137.67,
+      "start_int": 2131,
+      "timestamp_label": "35:31",
+      "text": "the engineering process, in the design phase of development process in the trade space,"
+    },
+    {
+      "start": 2137.67,
+      "end": 2141.04,
+      "start_int": 2137,
+      "timestamp_label": "35:37",
+      "text": "in terms of position process within the engineering?"
+    },
+    {
+      "start": 2141.04,
+      "end": 2149.57,
+      "start_int": 2141,
+      "timestamp_label": "35:41",
+      "text": "That the requirements, not only just something that's afterthought, but they are the front end."
+    },
+    {
+      "start": 2149.57,
+      "end": 2155.45,
+      "start_int": 2149,
+      "timestamp_label": "35:49",
+      "text": "And work with [inaudible] in terms of development requirements and the processes"
+    },
+    {
+      "start": 2155.45,
+      "end": 2162.2,
+      "start_int": 2155,
+      "timestamp_label": "35:55",
+      "text": "and working with them in the area of what they call Cyber Survivability Endorsement Guides,"
+    },
+    {
+      "start": 2162.2,
+      "end": 2165.03,
+      "start_int": 2162,
+      "timestamp_label": "36:02",
+      "text": "which would hopefully define -- they attempt"
+    },
+    {
+      "start": 2165.03,
+      "end": 2169.05,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "to define weapon systems survivability requirements,"
+    },
+    {
+      "start": 2169.05,
+      "end": 2174.26,
+      "start_int": 2169,
+      "timestamp_label": "36:09",
+      "text": "[inaudible] requirements, and further decompose them."
+    },
+    {
+      "start": 2174.26,
+      "end": 2180.55,
+      "start_int": 2174,
+      "timestamp_label": "36:14",
+      "text": "Lay out the process for the decomposition for those, and assuring that's critically part"
+    },
+    {
+      "start": 2180.55,
+      "end": 2184.96,
+      "start_int": 2180,
+      "timestamp_label": "36:20",
+      "text": "of the requirements development process in the systems engineering."
+    },
+    {
+      "start": 2184.96,
+      "end": 2190.24,
+      "start_int": 2184,
+      "timestamp_label": "36:24",
+      "text": "And we will then adopt, you know, collect, all the best practices right now."
+    },
+    {
+      "start": 2190.24,
+      "end": 2194.98,
+      "start_int": 2190,
+      "timestamp_label": "36:30",
+      "text": "One of the problems in this space is that there's no consistency across the community."
+    },
+    {
+      "start": 2194.98,
+      "end": 2197.78,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "There is not even a common lexicon."
+    },
+    {
+      "start": 2197.78,
+      "end": 2198.83,
+      "start_int": 2197,
+      "timestamp_label": "36:37",
+      "text": "What that really means."
+    },
+    {
+      "start": 2198.83,
+      "end": 2199.67,
+      "start_int": 2198,
+      "timestamp_label": "36:38",
+      "text": "What's resilience?"
+    },
+    {
+      "start": 2199.67,
+      "end": 2200.88,
+      "start_int": 2199,
+      "timestamp_label": "36:39",
+      "text": "What does it mean?"
+    },
+    {
+      "start": 2200.88,
+      "end": 2206.45,
+      "start_int": 2200,
+      "timestamp_label": "36:40",
+      "text": "Every service has its own approach, its own tools, its own ideas of what this is."
+    },
+    {
+      "start": 2206.45,
+      "end": 2213.91,
+      "start_int": 2206,
+      "timestamp_label": "36:46",
+      "text": "So, the intent here is to standardize all of that and lay out a foundational approach,"
+    },
+    {
+      "start": 2213.91,
+      "end": 2220.42,
+      "start_int": 2213,
+      "timestamp_label": "36:53",
+      "text": "key concepts and ideas, lay out engineering principles and concepts,"
+    },
+    {
+      "start": 2220.42,
+      "end": 2224.49,
+      "start_int": 2220,
+      "timestamp_label": "37:00",
+      "text": "lay outs some engineering patterns that will support that."
+    },
+    {
+      "start": 2224.49,
+      "end": 2230.17,
+      "start_int": 2224,
+      "timestamp_label": "37:04",
+      "text": "Identify some potential tools that you can use, and some of the techniques and procedures."
+    },
+    {
+      "start": 2230.17,
+      "end": 2239.76,
+      "start_int": 2230,
+      "timestamp_label": "37:10",
+      "text": "So, we are putting together a guide for that, and hopefully, that will come out in FY 22."
+    },
+    {
+      "start": 2239.76,
+      "end": 2245.23,
+      "start_int": 2239,
+      "timestamp_label": "37:19",
+      "text": "And at the same time, DAU is working in re-credentialing areas,"
+    },
+    {
+      "start": 2245.23,
+      "end": 2249.42,
+      "start_int": 2245,
+      "timestamp_label": "37:25",
+      "text": "as well and supporting courses in that area."
+    },
+    {
+      "start": 2249.42,
+      "end": 2253.52,
+      "start_int": 2249,
+      "timestamp_label": "37:29",
+      "text": "So, keep that in mind, as well, as you move forward in your tracks."
+    },
+    {
+      "start": 2253.52,
+      "end": 2258.7,
+      "start_int": 2253,
+      "timestamp_label": "37:33",
+      "text": "That's coming, you know, to near you, hopefully, within the next two years or two,"
+    },
+    {
+      "start": 2258.7,
+      "end": 2265.09,
+      "start_int": 2258,
+      "timestamp_label": "37:38",
+      "text": "and we're going to work DAU to lay out the foundations of that and the key principles"
+    },
+    {
+      "start": 2265.09,
+      "end": 2268.58,
+      "start_int": 2265,
+      "timestamp_label": "37:45",
+      "text": "that need to go into that, as well, because any guides that we develop has"
+    },
+    {
+      "start": 2268.58,
+      "end": 2271.15,
+      "start_int": 2268,
+      "timestamp_label": "37:48",
+      "text": "to be consistent with the training site."
+    },
+    {
+      "start": 2271.15,
+      "end": 2276.51,
+      "start_int": 2271,
+      "timestamp_label": "37:51",
+      "text": "That's part of things to do in the near future, as well."
+    },
+    {
+      "start": 2276.51,
+      "end": 2281.72,
+      "start_int": 2276,
+      "timestamp_label": "37:56",
+      "text": "That pretty much summarizes the things that I wanted to talk about at a high level."
+    },
+    {
+      "start": 2281.72,
+      "end": 2283.52,
+      "start_int": 2281,
+      "timestamp_label": "38:01",
+      "text": "I appreciate your attention."
+    },
+    {
+      "start": 2283.52,
+      "end": 2288.34,
+      "start_int": 2283,
+      "timestamp_label": "38:03",
+      "text": "If you have any questions, I recommend that you wait until probably Kris finishes his piece,"
+    },
+    {
+      "start": 2288.34,
+      "end": 2293.54,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "as well, and I'd be happy to take any questions, and open that up."
+    },
+    {
+      "start": 2293.54,
+      "end": 2297.4,
+      "start_int": 2293,
+      "timestamp_label": "38:13",
+      "text": "So, I will take and offer the floor to Kris."
+    },
+    {
+      "start": 2297.4,
+      "end": 2299.39,
+      "start_int": 2297,
+      "timestamp_label": "38:17",
+      "text": "Over to you, Kris."
+    },
+    {
+      "start": 2308.25,
+      "end": 2310.08,
+      "start_int": 2308,
+      "timestamp_label": "38:28",
+      "text": "&gt;&gt; Thank you, Burhan."
+    },
+    {
+      "start": 2310.08,
+      "end": 2316.96,
+      "start_int": 2310,
+      "timestamp_label": "38:30",
+      "text": "And actually, I want to think DAU and Tim for pulling this together, as well."
+    },
+    {
+      "start": 2316.96,
+      "end": 2323.66,
+      "start_int": 2316,
+      "timestamp_label": "38:36",
+      "text": "Tim did a great job with an overview of the 5000.83 and Burhan on the changes."
+    },
+    {
+      "start": 2323.66,
+      "end": 2331.69,
+      "start_int": 2323,
+      "timestamp_label": "38:43",
+      "text": "This last section, I'll actually be going over what's the biggest change coming to the ACQ 160,"
+    },
+    {
+      "start": 2331.69,
+      "end": 2335.64,
+      "start_int": 2331,
+      "timestamp_label": "38:51",
+      "text": "which is the addition of the S&amp;T protection aspects of it."
+    },
+    {
+      "start": 2335.64,
+      "end": 2340.42,
+      "start_int": 2335,
+      "timestamp_label": "38:55",
+      "text": "So, this will be a very high level overview of some of the changes that are coming in,"
+    },
+    {
+      "start": 2340.42,
+      "end": 2344.22,
+      "start_int": 2340,
+      "timestamp_label": "39:00",
+      "text": "and actually, at the very end, kind of have three scenarios"
+    },
+    {
+      "start": 2344.22,
+      "end": 2347.2,
+      "start_int": 2344,
+      "timestamp_label": "39:04",
+      "text": "that are going to be included in ACQ 160."
+    },
+    {
+      "start": 2347.2,
+      "end": 2352.84,
+      "start_int": 2347,
+      "timestamp_label": "39:07",
+      "text": "But I'm currently working with Burhan and DAU to do a more detailed case study that goes"
+    },
+    {
+      "start": 2352.84,
+      "end": 2360.21,
+      "start_int": 2352,
+      "timestamp_label": "39:12",
+      "text": "into ENG 260 from a practitioner standpoint."
+    },
+    {
+      "start": 2362.97,
+      "end": 2368.63,
+      "start_int": 2362,
+      "timestamp_label": "39:22",
+      "text": "So, let me do this real quick."
+    },
+    {
+      "start": 2368.63,
+      "end": 2374.78,
+      "start_int": 2368,
+      "timestamp_label": "39:28",
+      "text": "So, part of what I've included here is the addition, the new parts that are going"
+    },
+    {
+      "start": 2374.78,
+      "end": 2380.26,
+      "start_int": 2374,
+      "timestamp_label": "39:34",
+      "text": "into ACQ 160, and really, kind of the learning objectives that go with it."
+    },
+    {
+      "start": 2380.26,
+      "end": 2386.6,
+      "start_int": 2380,
+      "timestamp_label": "39:40",
+      "text": "The three key new aspects that are going and that come from the 5000.83 are"
+    },
+    {
+      "start": 2386.6,
+      "end": 2392.12,
+      "start_int": 2386,
+      "timestamp_label": "39:46",
+      "text": "that DoD is developing Technology Area Protection Plans that provide horizontal"
+    },
+    {
+      "start": 2392.12,
+      "end": 2399.32,
+      "start_int": 2392,
+      "timestamp_label": "39:52",
+      "text": "and consistent guidance across the services, the need to do at S&amp;T risk assessment,"
+    },
+    {
+      "start": 2399.32,
+      "end": 2405.03,
+      "start_int": 2399,
+      "timestamp_label": "39:59",
+      "text": "and potentially, then, develop and S&amp;T protection plan and document"
+    },
+    {
+      "start": 2405.03,
+      "end": 2410.85,
+      "start_int": 2405,
+      "timestamp_label": "40:05",
+      "text": "that at the S&amp;T level, and that shows in Burhan's adapted acquisition framework,"
+    },
+    {
+      "start": 2410.85,
+      "end": 2413.58,
+      "start_int": 2410,
+      "timestamp_label": "40:10",
+      "text": "the trying to get earlier in the cycle."
+    },
+    {
+      "start": 2413.58,
+      "end": 2418.52,
+      "start_int": 2413,
+      "timestamp_label": "40:13",
+      "text": "And then, how does that transition and translate"
+    },
+    {
+      "start": 2418.52,
+      "end": 2423.22,
+      "start_int": 2418,
+      "timestamp_label": "40:18",
+      "text": "to the systems security engineer and the Program Protection Plan?"
+    },
+    {
+      "start": 2423.22,
+      "end": 2429.13,
+      "start_int": 2423,
+      "timestamp_label": "40:23",
+      "text": "So, those are kind of the key three aspects that are new to --"
+    },
+    {
+      "start": 2429.13,
+      "end": 2433.76,
+      "start_int": 2429,
+      "timestamp_label": "40:29",
+      "text": "coming to the ACQ 160, as it comes up."
+    },
+    {
+      "start": 2433.76,
+      "end": 2436.74,
+      "start_int": 2433,
+      "timestamp_label": "40:33",
+      "text": "Burhan went over this, and this really describes those three aspects."
+    },
+    {
+      "start": 2436.74,
+      "end": 2440.89,
+      "start_int": 2436,
+      "timestamp_label": "40:36",
+      "text": "The Technology Area Protection Plan, which is horizontal guidance."
+    },
+    {
+      "start": 2440.89,
+      "end": 2445.05,
+      "start_int": 2440,
+      "timestamp_label": "40:40",
+      "text": "The S&amp;T Protection Plan, and then, how do they migrate"
+    },
+    {
+      "start": 2445.05,
+      "end": 2449.34,
+      "start_int": 2445,
+      "timestamp_label": "40:45",
+      "text": "into the Program Protection Plans, as well?"
+    },
+    {
+      "start": 2449.34,
+      "end": 2452.08,
+      "start_int": 2449,
+      "timestamp_label": "40:49",
+      "text": "So, what is a Technology Area Protection Plan?"
+    },
+    {
+      "start": 2452.08,
+      "end": 2459.61,
+      "start_int": 2452,
+      "timestamp_label": "40:52",
+      "text": "DAU hosted an event just last fall, after the 5000.83 came out,"
+    },
+    {
+      "start": 2459.61,
+      "end": 2461.96,
+      "start_int": 2459,
+      "timestamp_label": "40:59",
+      "text": "and we did a little discussion on that."
+    },
+    {
+      "start": 2461.96,
+      "end": 2471.77,
+      "start_int": 2461,
+      "timestamp_label": "41:01",
+      "text": "But really, what TAPP is is a document that provides guidance on a consistent level"
+    },
+    {
+      "start": 2471.77,
+      "end": 2477.16,
+      "start_int": 2471,
+      "timestamp_label": "41:11",
+      "text": "of what should be protected from an emerging technology standpoint, especially as it applies"
+    },
+    {
+      "start": 2477.16,
+      "end": 2481.5,
+      "start_int": 2477,
+      "timestamp_label": "41:17",
+      "text": "to you that DoD capabilities and needs."
+    },
+    {
+      "start": 2481.5,
+      "end": 2485.12,
+      "start_int": 2481,
+      "timestamp_label": "41:21",
+      "text": "And it is used by just the S&amp;T managers."
+    },
+    {
+      "start": 2485.12,
+      "end": 2487.21,
+      "start_int": 2485,
+      "timestamp_label": "41:25",
+      "text": "It is used by S&amp;T managers."
+    },
+    {
+      "start": 2487.21,
+      "end": 2489.53,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "It is used by the systems engineers."
+    },
+    {
+      "start": 2489.53,
+      "end": 2497.12,
+      "start_int": 2489,
+      "timestamp_label": "41:29",
+      "text": "It's actually also use to inform the CFIUS community, the international collaboration,"
+    },
+    {
+      "start": 2497.12,
+      "end": 2501.4,
+      "start_int": 2497,
+      "timestamp_label": "41:37",
+      "text": "and security and law enforcement, because it really identifies those emerging areas"
+    },
+    {
+      "start": 2501.4,
+      "end": 2503.45,
+      "start_int": 2501,
+      "timestamp_label": "41:41",
+      "text": "that are important to the department."
+    },
+    {
+      "start": 2503.45,
+      "end": 2510.5,
+      "start_int": 2503,
+      "timestamp_label": "41:43",
+      "text": "And as an example, it really can convey up a good bit of information,"
+    },
+    {
+      "start": 2510.5,
+      "end": 2514.68,
+      "start_int": 2510,
+      "timestamp_label": "41:50",
+      "text": "and it really is there to be a reference."
+    },
+    {
+      "start": 2514.68,
+      "end": 2520.63,
+      "start_int": 2514,
+      "timestamp_label": "41:54",
+      "text": "It is not an absolute, but it is there for the S&amp;T managers to go in an say,"
+    },
+    {
+      "start": 2520.63,
+      "end": 2523.92,
+      "start_int": 2520,
+      "timestamp_label": "42:00",
+      "text": "okay, so, I have a new S&amp;T project."
+    },
+    {
+      "start": 2523.92,
+      "end": 2530.08,
+      "start_int": 2523,
+      "timestamp_label": "42:03",
+      "text": "How do I use it to inform what I might need to protect, and then,"
+    },
+    {
+      "start": 2530.08,
+      "end": 2533.59,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "be able to protect it consistently across the department, as well?"
+    },
+    {
+      "start": 2533.59,
+      "end": 2537.15,
+      "start_int": 2533,
+      "timestamp_label": "42:13",
+      "text": "They are primarily for at the unclassified level,"
+    },
+    {
+      "start": 2537.15,
+      "end": 2540.62,
+      "start_int": 2537,
+      "timestamp_label": "42:17",
+      "text": "because from a protection standpoint, classification is a protection."
+    },
+    {
+      "start": 2540.62,
+      "end": 2545.99,
+      "start_int": 2540,
+      "timestamp_label": "42:20",
+      "text": "You can make things secret, top secret, as a protection mechanism, as well."
+    },
+    {
+      "start": 2545.99,
+      "end": 2551.18,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "But they're really used to inform things, such as the export controls."
+    },
+    {
+      "start": 2551.18,
+      "end": 2557.45,
+      "start_int": 2551,
+      "timestamp_label": "42:31",
+      "text": "What export controls are necessary and already documented in some of these areas."
+    },
+    {
+      "start": 2557.45,
+      "end": 2563.92,
+      "start_int": 2557,
+      "timestamp_label": "42:37",
+      "text": "Used to help the services and agency do critical technology information, CTI, determinations."
+    },
+    {
+      "start": 2563.92,
+      "end": 2569.17,
+      "start_int": 2563,
+      "timestamp_label": "42:43",
+      "text": "And then, for protection measures, it identifies the security, intelligence, and law enforcement"
+    },
+    {
+      "start": 2569.17,
+      "end": 2573.42,
+      "start_int": 2569,
+      "timestamp_label": "42:49",
+      "text": "about those areas that we need to protect, as well."
+    },
+    {
+      "start": 2573.42,
+      "end": 2580.2,
+      "start_int": 2573,
+      "timestamp_label": "42:53",
+      "text": "It's a high-level overview of the Technology Area Protection Plans."
+    },
+    {
+      "start": 2580.2,
+      "end": 2585.38,
+      "start_int": 2580,
+      "timestamp_label": "43:00",
+      "text": "Another new aspect is the S&amp;T Protection Plans."
+    },
+    {
+      "start": 2585.38,
+      "end": 2590.14,
+      "start_int": 2585,
+      "timestamp_label": "43:05",
+      "text": "So, had a group develop a potential template"
+    },
+    {
+      "start": 2590.14,
+      "end": 2596.76,
+      "start_int": 2590,
+      "timestamp_label": "43:10",
+      "text": "for the S&amp;T Protection Plan primarily based off the PPP, Program Protection Plan."
+    },
+    {
+      "start": 2596.76,
+      "end": 2601.59,
+      "start_int": 2596,
+      "timestamp_label": "43:16",
+      "text": "But S&amp;T is a little bit different, because when you get to a program protection,"
+    },
+    {
+      "start": 2601.59,
+      "end": 2606.36,
+      "start_int": 2601,
+      "timestamp_label": "43:21",
+      "text": "you are working more specifically towards specific capabilities and requirements,"
+    },
+    {
+      "start": 2606.36,
+      "end": 2611.66,
+      "start_int": 2606,
+      "timestamp_label": "43:26",
+      "text": "and in many cases, you know the performers and specifically, what you're going after."
+    },
+    {
+      "start": 2611.66,
+      "end": 2615.87,
+      "start_int": 2611,
+      "timestamp_label": "43:31",
+      "text": "In the S&amp;T realm, why it's different is we're still trying to determine what the art"
+    },
+    {
+      "start": 2615.87,
+      "end": 2618.36,
+      "start_int": 2615,
+      "timestamp_label": "43:35",
+      "text": "of the possible is for the department."
+    },
+    {
+      "start": 2618.36,
+      "end": 2625.51,
+      "start_int": 2618,
+      "timestamp_label": "43:38",
+      "text": "So, the S&amp;T Protection Plan is a critical thinking tool, really trying to drive"
+    },
+    {
+      "start": 2625.51,
+      "end": 2632.55,
+      "start_int": 2625,
+      "timestamp_label": "43:45",
+      "text": "in a broad area, those areas that might become capabilities for the department."
+    },
+    {
+      "start": 2632.55,
+      "end": 2639.34,
+      "start_int": 2632,
+      "timestamp_label": "43:52",
+      "text": "And they're really used to inform the PPPs as they become available"
+    },
+    {
+      "start": 2639.34,
+      "end": 2643.57,
+      "start_int": 2639,
+      "timestamp_label": "43:59",
+      "text": "and translate into an acquisition program."
+    },
+    {
+      "start": 2643.57,
+      "end": 2647.01,
+      "start_int": 2643,
+      "timestamp_label": "44:03",
+      "text": "It would inform things such as the risk mitigations."
+    },
+    {
+      "start": 2647.01,
+      "end": 2650.78,
+      "start_int": 2647,
+      "timestamp_label": "44:07",
+      "text": "Those are bolded on the slide, anti-tamper, hardware assurance."
+    },
+    {
+      "start": 2650.78,
+      "end": 2656.91,
+      "start_int": 2650,
+      "timestamp_label": "44:10",
+      "text": "But you need to, follow department standpoint, document earlier in the process,"
+    },
+    {
+      "start": 2656.91,
+      "end": 2661.1,
+      "start_int": 2656,
+      "timestamp_label": "44:16",
+      "text": "so that we know we have some type of identification"
+    },
+    {
+      "start": 2661.1,
+      "end": 2665.49,
+      "start_int": 2661,
+      "timestamp_label": "44:21",
+      "text": "and protections wrapped around that, as we move forward."
+    },
+    {
+      "start": 2665.49,
+      "end": 2672.17,
+      "start_int": 2665,
+      "timestamp_label": "44:25",
+      "text": "And the S&amp;T managers, with their kind of counterintelligence, security,"
+    },
+    {
+      "start": 2672.17,
+      "end": 2678.79,
+      "start_int": 2672,
+      "timestamp_label": "44:32",
+      "text": "are responsible for putting this together for every S&amp;T project and is deemed"
+    },
+    {
+      "start": 2678.79,
+      "end": 2682.14,
+      "start_int": 2678,
+      "timestamp_label": "44:38",
+      "text": "to have a risk associated with it."
+    },
+    {
+      "start": 2682.14,
+      "end": 2687.78,
+      "start_int": 2682,
+      "timestamp_label": "44:42",
+      "text": "Okay, and at a minimum, and so, this was a -- it's a guide, and it is a public release."
+    },
+    {
+      "start": 2687.78,
+      "end": 2695.76,
+      "start_int": 2687,
+      "timestamp_label": "44:47",
+      "text": "The link has already been posted within the S&amp;T managers Committee of Practice on DAU,"
+    },
+    {
+      "start": 2695.76,
+      "end": 2700.5,
+      "start_int": 2695,
+      "timestamp_label": "44:55",
+      "text": "and I'm working to get them posted on an R&amp;E portal, as well."
+    },
+    {
+      "start": 2700.5,
+      "end": 2704.64,
+      "start_int": 2700,
+      "timestamp_label": "45:00",
+      "text": "Is the S&amp;T Protection Plan should really identify what are those critical elements"
+    },
+    {
+      "start": 2704.64,
+      "end": 2706.7,
+      "start_int": 2704,
+      "timestamp_label": "45:04",
+      "text": "and the enabling technologies?"
+    },
+    {
+      "start": 2706.7,
+      "end": 2711.7,
+      "start_int": 2706,
+      "timestamp_label": "45:06",
+      "text": "What are the vulnerabilities and the threats to these items, and how,"
+    },
+    {
+      "start": 2711.7,
+      "end": 2715.3,
+      "start_int": 2711,
+      "timestamp_label": "45:11",
+      "text": "from an S&amp;T perspective, you're going to protect it?"
+    },
+    {
+      "start": 2715.3,
+      "end": 2718.18,
+      "start_int": 2715,
+      "timestamp_label": "45:15",
+      "text": "And the countermeasures associated with it."
+    },
+    {
+      "start": 2718.18,
+      "end": 2723.14,
+      "start_int": 2718,
+      "timestamp_label": "45:18",
+      "text": "It also identifies to be able to transition to the program protection,"
+    },
+    {
+      "start": 2723.14,
+      "end": 2726.6,
+      "start_int": 2723,
+      "timestamp_label": "45:23",
+      "text": "who are the responsible point of contact?"
+    },
+    {
+      "start": 2726.6,
+      "end": 2734.15,
+      "start_int": 2726,
+      "timestamp_label": "45:26",
+      "text": "And then, really, how do you deal with a vulnerability that goes with it?"
+    },
+    {
+      "start": 2734.15,
+      "end": 2737.97,
+      "start_int": 2734,
+      "timestamp_label": "45:34",
+      "text": "So, these are all documented in an S&amp;T Protection Plan."
+    },
+    {
+      "start": 2739.53,
+      "end": 2745.03,
+      "start_int": 2739,
+      "timestamp_label": "45:39",
+      "text": "And then, they're made available to transition from the S&amp;T Protection Plan to the PPP,"
+    },
+    {
+      "start": 2745.03,
+      "end": 2751.91,
+      "start_int": 2745,
+      "timestamp_label": "45:45",
+      "text": "when the technology transition decision has been made by the acquisition program, and then,"
+    },
+    {
+      "start": 2751.91,
+      "end": 2755.06,
+      "start_int": 2751,
+      "timestamp_label": "45:51",
+      "text": "the tech transfer requirements have been met, as well."
+    },
+    {
+      "start": 2755.06,
+      "end": 2759.63,
+      "start_int": 2755,
+      "timestamp_label": "45:55",
+      "text": "So, just because something is protected at S&amp;T doesn't necessarily mandate"
+    },
+    {
+      "start": 2759.63,
+      "end": 2764.44,
+      "start_int": 2759,
+      "timestamp_label": "45:59",
+      "text": "that an acquisition program needs to pick it up, as well, but the acquisition program does need"
+    },
+    {
+      "start": 2764.44,
+      "end": 2769.28,
+      "start_int": 2764,
+      "timestamp_label": "46:04",
+      "text": "to make a conscious decision as to whether or not this is something that we want to protect,"
+    },
+    {
+      "start": 2769.28,
+      "end": 2774.42,
+      "start_int": 2769,
+      "timestamp_label": "46:09",
+      "text": "either at the same level, higher level, or actually, at reduced level, as well."
+    },
+    {
+      "start": 2774.42,
+      "end": 2780.57,
+      "start_int": 2774,
+      "timestamp_label": "46:14",
+      "text": "And then, it's incumbent upon the system security engineers"
+    },
+    {
+      "start": 2780.57,
+      "end": 2783.27,
+      "start_int": 2780,
+      "timestamp_label": "46:20",
+      "text": "to review the S&amp;T Protection Plans."
+    },
+    {
+      "start": 2783.27,
+      "end": 2789.1,
+      "start_int": 2783,
+      "timestamp_label": "46:23",
+      "text": "Identify those elements that they do plan on taking on, and then, start documenting them"
+    },
+    {
+      "start": 2789.1,
+      "end": 2794.23,
+      "start_int": 2789,
+      "timestamp_label": "46:29",
+      "text": "into the PPP, as well, and then how they're going to transition those protections"
+    },
+    {
+      "start": 2794.23,
+      "end": 2797.06,
+      "start_int": 2794,
+      "timestamp_label": "46:34",
+      "text": "into the acquisition program, as well."
+    },
+    {
+      "start": 2797.06,
+      "end": 2801.79,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "So, what this should do is provide the acquisition programs something to start with,"
+    },
+    {
+      "start": 2801.79,
+      "end": 2808.56,
+      "start_int": 2801,
+      "timestamp_label": "46:41",
+      "text": "which, in the past, many times, there was nothing available to go with except go"
+    },
+    {
+      "start": 2808.56,
+      "end": 2814.71,
+      "start_int": 2808,
+      "timestamp_label": "46:48",
+      "text": "to the primes and say, hey, here's what you need to develop this on your own"
+    },
+    {
+      "start": 2814.71,
+      "end": 2817.74,
+      "start_int": 2814,
+      "timestamp_label": "46:54",
+      "text": "without having something to refer to about this is what was critical"
+    },
+    {
+      "start": 2817.74,
+      "end": 2821.58,
+      "start_int": 2817,
+      "timestamp_label": "46:57",
+      "text": "in the technology leading into the acquisition program."
+    },
+    {
+      "start": 2825.13,
+      "end": 2827.16,
+      "start_int": 2825,
+      "timestamp_label": "47:05",
+      "text": "So, I have three scenarios here."
+    },
+    {
+      "start": 2827.16,
+      "end": 2832.69,
+      "start_int": 2827,
+      "timestamp_label": "47:07",
+      "text": "Just very high level, and just keep things interesting."
+    },
+    {
+      "start": 2832.69,
+      "end": 2837.75,
+      "start_int": 2832,
+      "timestamp_label": "47:12",
+      "text": "So, we have a brand-new S&amp;T project called Advanced Light Speed UAS Concept,"
+    },
+    {
+      "start": 2837.75,
+      "end": 2844.88,
+      "start_int": 2837,
+      "timestamp_label": "47:17",
+      "text": "and in the review process, the S&amp;T manager identified the potentially the Hypersonics"
+    },
+    {
+      "start": 2844.88,
+      "end": 2849.33,
+      "start_int": 2844,
+      "timestamp_label": "47:24",
+      "text": "and the Microelectronics Technology Area Protection Plans might be relevant"
+    },
+    {
+      "start": 2849.33,
+      "end": 2851.98,
+      "start_int": 2849,
+      "timestamp_label": "47:29",
+      "text": "to this new S&amp;T project."
+    },
+    {
+      "start": 2851.98,
+      "end": 2856.65,
+      "start_int": 2851,
+      "timestamp_label": "47:31",
+      "text": "So, they went and reviewed the Technology Area Protection Plan and did identify"
+    },
+    {
+      "start": 2856.65,
+      "end": 2861.77,
+      "start_int": 2856,
+      "timestamp_label": "47:36",
+      "text": "that there was some technologies under development that they may need"
+    },
+    {
+      "start": 2861.77,
+      "end": 2865.61,
+      "start_int": 2861,
+      "timestamp_label": "47:41",
+      "text": "to to put some protections around, especially to keep it protected horizontally."
+    },
+    {
+      "start": 2865.61,
+      "end": 2868.32,
+      "start_int": 2865,
+      "timestamp_label": "47:45",
+      "text": "So, subcomponents that are identified in there."
+    },
+    {
+      "start": 2868.32,
+      "end": 2874.3,
+      "start_int": 2868,
+      "timestamp_label": "47:48",
+      "text": "So, what they're able to do is use the Technology Area Protection Plans as a reference"
+    },
+    {
+      "start": 2874.3,
+      "end": 2879.36,
+      "start_int": 2874,
+      "timestamp_label": "47:54",
+      "text": "on some of the areas that might be critical and be able to then document"
+    },
+    {
+      "start": 2879.36,
+      "end": 2886.18,
+      "start_int": 2879,
+      "timestamp_label": "47:59",
+      "text": "and have a reference to, okay, the DoD considered these critical."
+    },
+    {
+      "start": 2886.18,
+      "end": 2888.49,
+      "start_int": 2886,
+      "timestamp_label": "48:06",
+      "text": "My service also considered them critical."
+    },
+    {
+      "start": 2888.49,
+      "end": 2894.32,
+      "start_int": 2888,
+      "timestamp_label": "48:08",
+      "text": "So, they're able to document them and start developing the S&amp;T Protection Plan."
+    },
+    {
+      "start": 2897.2,
+      "end": 2901.08,
+      "start_int": 2897,
+      "timestamp_label": "48:17",
+      "text": "Now that is a scenario one, just about, potentially,"
+    },
+    {
+      "start": 2901.08,
+      "end": 2903.69,
+      "start_int": 2901,
+      "timestamp_label": "48:21",
+      "text": "how to use the Technology Area Protection Plan."
+    },
+    {
+      "start": 2903.69,
+      "end": 2908.61,
+      "start_int": 2903,
+      "timestamp_label": "48:23",
+      "text": "And yes, that is a fictional project, Advance Light Speed UAS Concept."
+    },
+    {
+      "start": 2909.78,
+      "end": 2915.68,
+      "start_int": 2909,
+      "timestamp_label": "48:29",
+      "text": "So, another one is I've got many questions on how does the TAPP apply to basic research?"
+    },
+    {
+      "start": 2915.68,
+      "end": 2919.75,
+      "start_int": 2915,
+      "timestamp_label": "48:35",
+      "text": "So, basic research should be full and open,"
+    },
+    {
+      "start": 2919.75,
+      "end": 2923.24,
+      "start_int": 2919,
+      "timestamp_label": "48:39",
+      "text": "but as the basic research starts meeting the capability,"
+    },
+    {
+      "start": 2923.24,
+      "end": 2928.14,
+      "start_int": 2923,
+      "timestamp_label": "48:43",
+      "text": "or potential capability, for the service."
+    },
+    {
+      "start": 2928.14,
+      "end": 2932.9,
+      "start_int": 2928,
+      "timestamp_label": "48:48",
+      "text": "They need to look at the emerging technology out of the basic research,"
+    },
+    {
+      "start": 2932.9,
+      "end": 2939.67,
+      "start_int": 2932,
+      "timestamp_label": "48:52",
+      "text": "and should they start putting CTI protections or CUI protections around them, as well?"
+    },
+    {
+      "start": 2939.67,
+      "end": 2947.03,
+      "start_int": 2939,
+      "timestamp_label": "48:59",
+      "text": "So, this is also where the TAPP can be used to identify those areas, and then,"
+    },
+    {
+      "start": 2947.03,
+      "end": 2954.48,
+      "start_int": 2947,
+      "timestamp_label": "49:07",
+      "text": "the service be able to start documenting those new things coming out of the basic science."
+    },
+    {
+      "start": 2954.48,
+      "end": 2959.15,
+      "start_int": 2954,
+      "timestamp_label": "49:14",
+      "text": "Although it's not directly applied to the basic research side, as well."
+    },
+    {
+      "start": 2959.15,
+      "end": 2968.0,
+      "start_int": 2959,
+      "timestamp_label": "49:19",
+      "text": "And to be able to reference, both the TAPP in areas such as Hypersonics from the materials,"
+    },
+    {
+      "start": 2968.0,
+      "end": 2973.35,
+      "start_int": 2968,
+      "timestamp_label": "49:28",
+      "text": "understanding of thermal properties of materials at high temperatures, which could be applicable"
+    },
+    {
+      "start": 2973.35,
+      "end": 2979.53,
+      "start_int": 2973,
+      "timestamp_label": "49:33",
+      "text": "to Hypersonics, but could be applicable to other technologies, as well, like engines."
+    },
+    {
+      "start": 2980.92,
+      "end": 2991.45,
+      "start_int": 2980,
+      "timestamp_label": "49:40",
+      "text": "Okay? And my third example, then, is transition from an S&amp;T project into a PPP in the program."
+    },
+    {
+      "start": 2991.45,
+      "end": 2998.29,
+      "start_int": 2991,
+      "timestamp_label": "49:51",
+      "text": "So, this is where the system security engineer really looks at the S&amp;T Protection Plans"
+    },
+    {
+      "start": 2998.29,
+      "end": 3003.59,
+      "start_int": 2998,
+      "timestamp_label": "49:58",
+      "text": "and then reviews it because the S&amp;T Protection Plans should both identify what the critical"
+    },
+    {
+      "start": 3003.59,
+      "end": 3008.0,
+      "start_int": 3003,
+      "timestamp_label": "50:03",
+      "text": "technology is, should already be documenting any risks or threats,"
+    },
+    {
+      "start": 3008.0,
+      "end": 3010.66,
+      "start_int": 3008,
+      "timestamp_label": "50:08",
+      "text": "and the mitigations they put in place."
+    },
+    {
+      "start": 3010.66,
+      "end": 3013.39,
+      "start_int": 3010,
+      "timestamp_label": "50:10",
+      "text": "So, this is something that in the coming years,"
+    },
+    {
+      "start": 3013.39,
+      "end": 3017.42,
+      "start_int": 3013,
+      "timestamp_label": "50:13",
+      "text": "because there aren't too many S&amp;T Protection Plans that exist today."
+    },
+    {
+      "start": 3017.42,
+      "end": 3021.24,
+      "start_int": 3017,
+      "timestamp_label": "50:17",
+      "text": "Services and agencies are just starting to develop them, is --"
+    },
+    {
+      "start": 3021.24,
+      "end": 3028.06,
+      "start_int": 3021,
+      "timestamp_label": "50:21",
+      "text": "really should inform things as a PPP but then, also, as part it, identifying what might need"
+    },
+    {
+      "start": 3028.06,
+      "end": 3034.39,
+      "start_int": 3028,
+      "timestamp_label": "50:28",
+      "text": "to be part of the Anti-Tamper and Hardware Assurance and much like Burhan brought up,"
+    },
+    {
+      "start": 3034.39,
+      "end": 3037.72,
+      "start_int": 3034,
+      "timestamp_label": "50:34",
+      "text": "is the Cyber Resilience aspect of it, as well."
+    },
+    {
+      "start": 3037.72,
+      "end": 3043.11,
+      "start_int": 3037,
+      "timestamp_label": "50:37",
+      "text": "So, this is something that the community needs to work together on, back and forth,"
+    },
+    {
+      "start": 3043.11,
+      "end": 3049.98,
+      "start_int": 3043,
+      "timestamp_label": "50:43",
+      "text": "between the systems security engineers and the S&amp;T program managers about what needs"
+    },
+    {
+      "start": 3049.98,
+      "end": 3054.29,
+      "start_int": 3049,
+      "timestamp_label": "50:49",
+      "text": "to be developed and then put into the Program Protection Plan."
+    },
+    {
+      "start": 3057.13,
+      "end": 3065.95,
+      "start_int": 3057,
+      "timestamp_label": "50:57",
+      "text": "Okay? And with that, that was a very high level review"
+    },
+    {
+      "start": 3065.95,
+      "end": 3070.56,
+      "start_int": 3065,
+      "timestamp_label": "51:05",
+      "text": "of the new additions coming into the ACQ 160."
+    },
+    {
+      "start": 3072.39,
+      "end": 3079.38,
+      "start_int": 3072,
+      "timestamp_label": "51:12",
+      "text": "And I believe, if you have any questions for Tim, Burhan, and I, they're open now."
+    },
+    {
+      "start": 3079.38,
+      "end": 3082.03,
+      "start_int": 3079,
+      "timestamp_label": "51:19",
+      "text": "The best way to do that is in the chat."
+    },
+    {
+      "start": 3082.03,
+      "end": 3086.52,
+      "start_int": 3082,
+      "timestamp_label": "51:22",
+      "text": "With that, I'll hand it back over to Tim."
+    },
+    {
+      "start": 3098.13,
+      "end": 3099.26,
+      "start_int": 3098,
+      "timestamp_label": "51:38",
+      "text": "Okay, just a minute here."
+    },
+    {
+      "start": 3099.26,
+      "end": 3101.09,
+      "start_int": 3099,
+      "timestamp_label": "51:39",
+      "text": "I'm getting in some questions."
+    },
+    {
+      "start": 3101.09,
+      "end": 3105.1,
+      "start_int": 3101,
+      "timestamp_label": "51:41",
+      "text": "Just a second."
+    },
+    {
+      "start": 3105.1,
+      "end": 3116.69,
+      "start_int": 3105,
+      "timestamp_label": "51:45",
+      "text": "Okay, the question is who assesses the technology maturity for the TAPP?"
+    },
+    {
+      "start": 3121.61,
+      "end": 3122.23,
+      "start_int": 3121,
+      "timestamp_label": "52:01",
+      "text": "&gt;&gt; So, this is Kris."
+    },
+    {
+      "start": 3122.23,
+      "end": 3124.15,
+      "start_int": 3122,
+      "timestamp_label": "52:02",
+      "text": "That's a great question."
+    },
+    {
+      "start": 3124.15,
+      "end": 3128.55,
+      "start_int": 3124,
+      "timestamp_label": "52:04",
+      "text": "TAPP does not identify technology maturity."
+    },
+    {
+      "start": 3128.55,
+      "end": 3135.77,
+      "start_int": 3128,
+      "timestamp_label": "52:08",
+      "text": "It identifies what are the enabling technologies that are important?"
+    },
+    {
+      "start": 3135.77,
+      "end": 3141.43,
+      "start_int": 3135,
+      "timestamp_label": "52:15",
+      "text": "So, it is incumbent upon the S&amp;T program managers, potentially in collaboration"
+    },
+    {
+      "start": 3141.43,
+      "end": 3146.81,
+      "start_int": 3141,
+      "timestamp_label": "52:21",
+      "text": "with the program managers, to identify tech maturity, and then,"
+    },
+    {
+      "start": 3146.81,
+      "end": 3151.19,
+      "start_int": 3146,
+      "timestamp_label": "52:26",
+      "text": "the transition point that goes with it."
+    },
+    {
+      "start": 3151.19,
+      "end": 3151.61,
+      "start_int": 3151,
+      "timestamp_label": "52:31",
+      "text": "Over."
+    },
+    {
+      "start": 3151.61,
+      "end": 3153.75,
+      "start_int": 3151,
+      "timestamp_label": "52:31",
+      "text": "&gt;&gt; Okay. Okay, very good."
+    },
+    {
+      "start": 3153.75,
+      "end": 3156.79,
+      "start_int": 3153,
+      "timestamp_label": "52:33",
+      "text": "Next one, there's a couple questions for Kris here."
+    },
+    {
+      "start": 3156.79,
+      "end": 3161.78,
+      "start_int": 3156,
+      "timestamp_label": "52:36",
+      "text": "First of all, did you say the outline template"
+    },
+    {
+      "start": 3161.78,
+      "end": 3168.72,
+      "start_int": 3161,
+      "timestamp_label": "52:41",
+      "text": "for an S&amp;T Protection Plan is currently available only on the DAU website,"
+    },
+    {
+      "start": 3168.72,
+      "end": 3172.09,
+      "start_int": 3168,
+      "timestamp_label": "52:48",
+      "text": "under the S&amp;T community of interest?"
+    },
+    {
+      "start": 3172.09,
+      "end": 3178.17,
+      "start_int": 3172,
+      "timestamp_label": "52:52",
+      "text": "And if so, is there a plan to link it to on the R&amp;E website?"
+    },
+    {
+      "start": 3179.61,
+      "end": 3180.93,
+      "start_int": 3179,
+      "timestamp_label": "52:59",
+      "text": "&gt;&gt; So, yes to both."
+    },
+    {
+      "start": 3180.93,
+      "end": 3182.0,
+      "start_int": 3180,
+      "timestamp_label": "53:00",
+      "text": "It is the template."
+    },
+    {
+      "start": 3182.0,
+      "end": 3187.09,
+      "start_int": 3182,
+      "timestamp_label": "53:02",
+      "text": "We developed an S&amp;T template, and we developed a guide that goes with it."
+    },
+    {
+      "start": 3187.09,
+      "end": 3190.05,
+      "start_int": 3187,
+      "timestamp_label": "53:07",
+      "text": "Both are public released end of July."
+    },
+    {
+      "start": 3190.05,
+      "end": 3194.29,
+      "start_int": 3190,
+      "timestamp_label": "53:10",
+      "text": "I am currently working to get the R&amp;E website updated,"
+    },
+    {
+      "start": 3194.29,
+      "end": 3196.28,
+      "start_int": 3194,
+      "timestamp_label": "53:14",
+      "text": "so that I can post it on there, as well."
+    },
+    {
+      "start": 3196.28,
+      "end": 3201.4,
+      "start_int": 3196,
+      "timestamp_label": "53:16",
+      "text": "If somebody needs it, they can email me directly in the meantime"
+    },
+    {
+      "start": 3201.4,
+      "end": 3209.42,
+      "start_int": 3201,
+      "timestamp_label": "53:21",
+      "text": "until I'm able to get it on a public website."
+    },
+    {
+      "start": 3209.42,
+      "end": 3209.89,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "Over."
+    },
+    {
+      "start": 3209.89,
+      "end": 3214.6,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "&gt;&gt; Okay. Then the next question was have you thought through a scenario"
+    },
+    {
+      "start": 3214.6,
+      "end": 3220.93,
+      "start_int": 3214,
+      "timestamp_label": "53:34",
+      "text": "where an S&amp;T program needs a protection plan but is not aligned with a TAPP"
+    },
+    {
+      "start": 3220.93,
+      "end": 3226.45,
+      "start_int": 3220,
+      "timestamp_label": "53:40",
+      "text": "or one of the DoD modernization priorities?"
+    },
+    {
+      "start": 3226.45,
+      "end": 3228.67,
+      "start_int": 3226,
+      "timestamp_label": "53:46",
+      "text": "&gt;&gt; No. Great question."
+    },
+    {
+      "start": 3228.67,
+      "end": 3235.77,
+      "start_int": 3228,
+      "timestamp_label": "53:48",
+      "text": "So, the 5000.83 requires all S&amp;T projects to do a risk assessment"
+    },
+    {
+      "start": 3235.77,
+      "end": 3239.22,
+      "start_int": 3235,
+      "timestamp_label": "53:55",
+      "text": "and potentially develop an S&amp;T Protection Plan,"
+    },
+    {
+      "start": 3239.22,
+      "end": 3243.38,
+      "start_int": 3239,
+      "timestamp_label": "53:59",
+      "text": "even if it is not in one of the modernization areas."
+    },
+    {
+      "start": 3243.38,
+      "end": 3251.26,
+      "start_int": 3243,
+      "timestamp_label": "54:03",
+      "text": "So, the TAPPs provides some additional resources if your S&amp;T project is in those areas,"
+    },
+    {
+      "start": 3251.26,
+      "end": 3256.9,
+      "start_int": 3251,
+      "timestamp_label": "54:11",
+      "text": "but it does not obviate the need to do so across all S&amp;T projects."
+    },
+    {
+      "start": 3258.08,
+      "end": 3264.53,
+      "start_int": 3258,
+      "timestamp_label": "54:18",
+      "text": "&gt;&gt; Okay, and then, another question here."
+    },
+    {
+      "start": 3264.53,
+      "end": 3267.15,
+      "start_int": 3264,
+      "timestamp_label": "54:24",
+      "text": "I think there was a point on slide 17"
+    },
+    {
+      "start": 3267.15,
+      "end": 3274.83,
+      "start_int": 3267,
+      "timestamp_label": "54:27",
+      "text": "or 18 that says the TAPP defines technology maturity or technology readiness."
+    },
+    {
+      "start": 3274.83,
+      "end": 3278.91,
+      "start_int": 3274,
+      "timestamp_label": "54:34",
+      "text": "You said maybe that's not the same as maturity."
+    },
+    {
+      "start": 3278.91,
+      "end": 3284.48,
+      "start_int": 3278,
+      "timestamp_label": "54:38",
+      "text": "I guess, you know, the question is, you know, is that the same,"
+    },
+    {
+      "start": 3284.48,
+      "end": 3288.82,
+      "start_int": 3284,
+      "timestamp_label": "54:44",
+      "text": "or how do you distinguish between those two?"
+    },
+    {
+      "start": 3293.74,
+      "end": 3294.63,
+      "start_int": 3293,
+      "timestamp_label": "54:53",
+      "text": "&gt;&gt; Apologize."
+    },
+    {
+      "start": 3294.63,
+      "end": 3297.97,
+      "start_int": 3294,
+      "timestamp_label": "54:54",
+      "text": "I'm looking at the slides to see how I worded that."
+    },
+    {
+      "start": 3304.12,
+      "end": 3306.02,
+      "start_int": 3304,
+      "timestamp_label": "55:04",
+      "text": "Could you repeat the question please?"
+    },
+    {
+      "start": 3306.02,
+      "end": 3319.17,
+      "start_int": 3306,
+      "timestamp_label": "55:06",
+      "text": "&gt;&gt; Okay, there's -- slide 17 or 18, it says, \"The TAPP defines technology maturity"
+    },
+    {
+      "start": 3319.17,
+      "end": 3328.01,
+      "start_int": 3319,
+      "timestamp_label": "55:19",
+      "text": "or technology readiness,\" and the question is maybe that's not the same as maturity."
+    },
+    {
+      "start": 3328.01,
+      "end": 3333.23,
+      "start_int": 3328,
+      "timestamp_label": "55:28",
+      "text": "So, I guess, maybe is technology maturity and technology readiness,"
+    },
+    {
+      "start": 3333.23,
+      "end": 3336.32,
+      "start_int": 3333,
+      "timestamp_label": "55:33",
+      "text": "are they the same, or are they different?"
+    },
+    {
+      "start": 3343.09,
+      "end": 3348.33,
+      "start_int": 3343,
+      "timestamp_label": "55:43",
+      "text": "That's a good question, I'm not sure -- I'm looking at the slides."
+    },
+    {
+      "start": 3348.33,
+      "end": 3350.87,
+      "start_int": 3348,
+      "timestamp_label": "55:48",
+      "text": "I'm not seeing them at the moment."
+    },
+    {
+      "start": 3350.87,
+      "end": 3360.42,
+      "start_int": 3350,
+      "timestamp_label": "55:50",
+      "text": "In my mind, you may have technology readiness and technology maturity are not the same thing."
+    },
+    {
+      "start": 3360.42,
+      "end": 3368.36,
+      "start_int": 3360,
+      "timestamp_label": "56:00",
+      "text": "You may have a mature technology, but it's not ready for DoD application because, potentially,"
+    },
+    {
+      "start": 3368.36,
+      "end": 3374.22,
+      "start_int": 3368,
+      "timestamp_label": "56:08",
+      "text": "the environment that it has to work in, such as some electronics may be mature,"
+    },
+    {
+      "start": 3374.22,
+      "end": 3378.51,
+      "start_int": 3374,
+      "timestamp_label": "56:14",
+      "text": "but from a technology readiness standpoint, they are not ready to go into our systems,"
+    },
+    {
+      "start": 3378.51,
+      "end": 3385.05,
+      "start_int": 3378,
+      "timestamp_label": "56:18",
+      "text": "because of enclosures and thermal management may cause them to overheat too rapidly."
+    },
+    {
+      "start": 3385.05,
+      "end": 3392.66,
+      "start_int": 3385,
+      "timestamp_label": "56:25",
+      "text": "As an example, so, you have a mature technology that is just not ready for application."
+    },
+    {
+      "start": 3392.66,
+      "end": 3395.62,
+      "start_int": 3392,
+      "timestamp_label": "56:32",
+      "text": "The TAPPs do not get into that level of detail."
+    },
+    {
+      "start": 3395.62,
+      "end": 3402.48,
+      "start_int": 3395,
+      "timestamp_label": "56:35",
+      "text": "That is something that needs to be coordinated between the S&amp;T managers and program managers."
+    },
+    {
+      "start": 3402.48,
+      "end": 3404.44,
+      "start_int": 3402,
+      "timestamp_label": "56:42",
+      "text": "Over."
+    },
+    {
+      "start": 3404.44,
+      "end": 3404.6,
+      "start_int": 3404,
+      "timestamp_label": "56:44",
+      "text": "&gt;&gt; Okay."
+    },
+    {
+      "start": 3404.6,
+      "end": 3409.01,
+      "start_int": 3404,
+      "timestamp_label": "56:44",
+      "text": "&gt;&gt; Well, in the meantime, before the questions may be coming in, I just want to say thank you"
+    },
+    {
+      "start": 3409.01,
+      "end": 3414.78,
+      "start_int": 3409,
+      "timestamp_label": "56:49",
+      "text": "to Mr. Kristopher Gardner and Burhan Adam, and thank you, Tim Denman, as well."
+    },
+    {
+      "start": 3414.78,
+      "end": 3416.15,
+      "start_int": 3414,
+      "timestamp_label": "56:54",
+      "text": "It was a great presentation."
+    },
+    {
+      "start": 3416.15,
+      "end": 3418.79,
+      "start_int": 3416,
+      "timestamp_label": "56:56",
+      "text": "I definitely learned a lot."
+    },
+    {
+      "start": 3419.85,
+      "end": 3427.87,
+      "start_int": 3419,
+      "timestamp_label": "56:59",
+      "text": "&gt;&gt; Yes, really do appreciate, Kris and Burhan, for the presentation."
+    },
+    {
+      "start": 3429.23,
+      "end": 3433.92,
+      "start_int": 3429,
+      "timestamp_label": "57:09",
+      "text": "&gt;&gt; It's our pleasure, and I can speak only for myself, but thank you very much,"
+    },
+    {
+      "start": 3433.92,
+      "end": 3437.99,
+      "start_int": 3433,
+      "timestamp_label": "57:13",
+      "text": "and we want to continue to engage and welcome your feedback."
+    },
+    {
+      "start": 3437.99,
+      "end": 3443.56,
+      "start_int": 3437,
+      "timestamp_label": "57:17",
+      "text": "It should not be a one-way street, in terms of just pushing down to policy [inaudible]."
+    },
+    {
+      "start": 3443.56,
+      "end": 3449.5,
+      "start_int": 3443,
+      "timestamp_label": "57:23",
+      "text": "We want to also get some sort of a feedback loop and collect lessons learned,"
+    },
+    {
+      "start": 3449.5,
+      "end": 3453.8,
+      "start_int": 3449,
+      "timestamp_label": "57:29",
+      "text": "so that we can improve the policies and processes and procedures we have."
+    },
+    {
+      "start": 3453.8,
+      "end": 3464.11,
+      "start_int": 3453,
+      "timestamp_label": "57:33",
+      "text": "That's the best way to evaluate how effective the policies are when we know they are executed"
+    },
+    {
+      "start": 3464.11,
+      "end": 3472.73,
+      "start_int": 3464,
+      "timestamp_label": "57:44",
+      "text": "and implemented as intended,and the practitioners are happy with providing"
+    },
+    {
+      "start": 3472.73,
+      "end": 3475.07,
+      "start_int": 3472,
+      "timestamp_label": "57:52",
+      "text": "in terms of guidance and policies."
+    },
+    {
+      "start": 3475.07,
+      "end": 3480.44,
+      "start_int": 3475,
+      "timestamp_label": "57:55",
+      "text": "And that's executable, and that does, you know, add additional burdens on things"
+    },
+    {
+      "start": 3480.44,
+      "end": 3487.14,
+      "start_int": 3480,
+      "timestamp_label": "58:00",
+      "text": "that are really tie their hands in ways that are not consistent with their missions."
+    },
+    {
+      "start": 3487.14,
+      "end": 3489.43,
+      "start_int": 3487,
+      "timestamp_label": "58:07",
+      "text": "So, we want to partner with all of you."
+    },
+    {
+      "start": 3489.43,
+      "end": 3499.07,
+      "start_int": 3489,
+      "timestamp_label": "58:09",
+      "text": "As you go to respective areas, feel free to reach me anyway, you know,"
+    },
+    {
+      "start": 3499.07,
+      "end": 3501.55,
+      "start_int": 3499,
+      "timestamp_label": "58:19",
+      "text": "you can or email, telephone numbers."
+    },
+    {
+      "start": 3501.55,
+      "end": 3506.35,
+      "start_int": 3501,
+      "timestamp_label": "58:21",
+      "text": "The contact information should be available to the DAU."
+    },
+    {
+      "start": 3506.35,
+      "end": 3512.4,
+      "start_int": 3506,
+      "timestamp_label": "58:26",
+      "text": "We want to make sure that, you know, we are not in our silos and just pushing papers."
+    },
+    {
+      "start": 3512.4,
+      "end": 3517.79,
+      "start_int": 3512,
+      "timestamp_label": "58:32",
+      "text": "Rather, we want to engage you and make sure that what we're delivering in terms of policy"
+    },
+    {
+      "start": 3517.79,
+      "end": 3522.74,
+      "start_int": 3517,
+      "timestamp_label": "58:37",
+      "text": "and procedures are executable and implementable and that there is tangible results"
+    },
+    {
+      "start": 3522.74,
+      "end": 3525.19,
+      "start_int": 3522,
+      "timestamp_label": "58:42",
+      "text": "that we can evaluate with some metrics."
+    },
+    {
+      "start": 3525.19,
+      "end": 3526.36,
+      "start_int": 3525,
+      "timestamp_label": "58:45",
+      "text": "Over to you, Tim."
+    },
+    {
+      "start": 3526.36,
+      "end": 3527.94,
+      "start_int": 3526,
+      "timestamp_label": "58:46",
+      "text": "Thank you very much for the opportunity."
+    },
+    {
+      "start": 3527.94,
+      "end": 3532.67,
+      "start_int": 3527,
+      "timestamp_label": "58:47",
+      "text": "&gt;&gt; Yeah, and let me say something here."
+    },
+    {
+      "start": 3532.67,
+      "end": 3537.35,
+      "start_int": 3532,
+      "timestamp_label": "58:52",
+      "text": "I don't think I'm speaking out of line here."
+    },
+    {
+      "start": 3537.35,
+      "end": 3541.73,
+      "start_int": 3537,
+      "timestamp_label": "58:57",
+      "text": "We do -- we've have a real good collaboration,"
+    },
+    {
+      "start": 3541.73,
+      "end": 3548.99,
+      "start_int": 3541,
+      "timestamp_label": "59:01",
+      "text": "real good work with OUSD, and we want that to continue."
+    },
+    {
+      "start": 3548.99,
+      "end": 3557.42,
+      "start_int": 3548,
+      "timestamp_label": "59:08",
+      "text": "And if one of the things within our team at DAU is we have --"
+    },
+    {
+      "start": 3557.42,
+      "end": 3565.52,
+      "start_int": 3557,
+      "timestamp_label": "59:17",
+      "text": "every one of our guys has at least a top-secret clearance."
+    },
+    {
+      "start": 3565.52,
+      "end": 3573.83,
+      "start_int": 3565,
+      "timestamp_label": "59:25",
+      "text": "We've done a lot of virtual type training and we're still doing that,"
+    },
+    {
+      "start": 3573.83,
+      "end": 3583.34,
+      "start_int": 3573,
+      "timestamp_label": "59:33",
+      "text": "but we understand that with program protection, you know, you can't hardly move without getting"
+    },
+    {
+      "start": 3583.34,
+      "end": 3588.29,
+      "start_int": 3583,
+      "timestamp_label": "59:43",
+      "text": "into secret or top secret, and we have the people."
+    },
+    {
+      "start": 3588.29,
+      "end": 3597.94,
+      "start_int": 3588,
+      "timestamp_label": "59:48",
+      "text": "You know, if you need some training, where we go on site or we do have the clearances."
+    },
+    {
+      "start": 3597.94,
+      "end": 3604.49,
+      "start_int": 3597,
+      "timestamp_label": "59:57",
+      "text": "And again, I think we're really -- we'd love to do some other work"
+    },
+    {
+      "start": 3604.49,
+      "end": 3608.22,
+      "start_int": 3604,
+      "timestamp_label": "1:00:04",
+      "text": "with OUSD in some of those areas."
+    },
+    {
+      "start": 3608.22,
+      "end": 3615.37,
+      "start_int": 3608,
+      "timestamp_label": "1:00:08",
+      "text": "But please, please contact me or others if we can help you guys out in any way."
+    },
+    {
+      "start": 3615.37,
+      "end": 3620.91,
+      "start_int": 3615,
+      "timestamp_label": "1:00:15",
+      "text": "Like I said, whether it be a workshop or whether it be, whatever it may be, we are --"
+    },
+    {
+      "start": 3620.91,
+      "end": 3630.36,
+      "start_int": 3620,
+      "timestamp_label": "1:00:20",
+      "text": "some of the travel that's been shut down is starting to open up, and if I can get a,"
+    },
+    {
+      "start": 3630.36,
+      "end": 3635.56,
+      "start_int": 3630,
+      "timestamp_label": "1:00:30",
+      "text": "you know, if I have a specific customer request, we can start working."
+    },
+    {
+      "start": 3635.56,
+      "end": 3640.55,
+      "start_int": 3635,
+      "timestamp_label": "1:00:35",
+      "text": "From a DAU standpoint, I don't know from others, but from a DAU standpoint,"
+    },
+    {
+      "start": 3640.55,
+      "end": 3644.94,
+      "start_int": 3640,
+      "timestamp_label": "1:00:40",
+      "text": "via specific customer request, we can starting working, you know,"
+    },
+    {
+      "start": 3644.94,
+      "end": 3650.32,
+      "start_int": 3644,
+      "timestamp_label": "1:00:44",
+      "text": "start working about travel, you know, again, at this point."
+    },
+    {
+      "start": 3650.32,
+      "end": 3651.93,
+      "start_int": 3650,
+      "timestamp_label": "1:00:50",
+      "text": "And that is our mission."
+    },
+    {
+      "start": 3651.93,
+      "end": 3658.07,
+      "start_int": 3651,
+      "timestamp_label": "1:00:51",
+      "text": "We do a lot of mission-assistance type work, whether it be workshops"
+    },
+    {
+      "start": 3658.07,
+      "end": 3666.69,
+      "start_int": 3658,
+      "timestamp_label": "1:00:58",
+      "text": "or whether it be content consulting, and we realize that the program protection area,"
+    },
+    {
+      "start": 3666.69,
+      "end": 3671.88,
+      "start_int": 3666,
+      "timestamp_label": "1:01:06",
+      "text": "the systems of security engineering, the cyber resiliency,"
+    },
+    {
+      "start": 3671.88,
+      "end": 3676.31,
+      "start_int": 3671,
+      "timestamp_label": "1:01:11",
+      "text": "all those type areas are extremely important."
+    },
+    {
+      "start": 3676.31,
+      "end": 3680.52,
+      "start_int": 3676,
+      "timestamp_label": "1:01:16",
+      "text": "So, just please kind of reach out to me,"
+    },
+    {
+      "start": 3680.52,
+      "end": 3685.35,
+      "start_int": 3680,
+      "timestamp_label": "1:01:20",
+      "text": "and we'll be very happy to see how we can help you out."
+    },
+    {
+      "start": 3686.99,
+      "end": 3695.78,
+      "start_int": 3686,
+      "timestamp_label": "1:01:26",
+      "text": "Well, I do very much appreciate everyone's participation, and again, thanks for OUSD"
+    },
+    {
+      "start": 3695.78,
+      "end": 3700.13,
+      "start_int": 3695,
+      "timestamp_label": "1:01:35",
+      "text": "and for all the work that's gone into this."
+    },
+    {
+      "start": 3700.13,
+      "end": 3703.56,
+      "start_int": 3700,
+      "timestamp_label": "1:01:40",
+      "text": "Really do appreciate everyone."
+    },
+    {
+      "start": 3703.56,
+      "end": 3708.04,
+      "start_int": 3703,
+      "timestamp_label": "1:01:43",
+      "text": "We're very much looking forward to continuing in the conversation,"
+    },
+    {
+      "start": 3708.04,
+      "end": 3715.85,
+      "start_int": 3708,
+      "timestamp_label": "1:01:48",
+      "text": "and we will look for updated versions of ACQ 160 along"
+    },
+    {
+      "start": 3715.85,
+      "end": 3723.19,
+      "start_int": 3715,
+      "timestamp_label": "1:01:55",
+      "text": "with the video presentation and the slides."
+    },
+    {
+      "start": 3723.19,
+      "end": 3726.26,
+      "start_int": 3723,
+      "timestamp_label": "1:02:03",
+      "text": "They'll be ready shortly."
+    },
+    {
+      "start": 3726.26,
+      "end": 3730.62,
+      "start_int": 3726,
+      "timestamp_label": "1:02:06",
+      "text": "Back over to you, Emmett."
+    },
+    {
+      "start": 3733.74,
+      "end": 3736.39,
+      "start_int": 3733,
+      "timestamp_label": "1:02:13",
+      "text": "Thank you again, everyone."
+    },
+    {
+      "start": 3736.39,
+      "end": 3739.7,
+      "start_int": 3736,
+      "timestamp_label": "1:02:16",
+      "text": "&gt;&gt; Thank you, Tim, and thank you everyone, again."
+    }
+  ]
+}

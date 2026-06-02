@@ -1,0 +1,7705 @@
+{
+  "id": "2024-10-15-cbar-gaining-customer-insight-october-2024",
+  "title": "CBAR - Gaining Customer Insight October 2024",
+  "date": "2024-10-15",
+  "event_url": "https://www.waru.edu/events/cbar-gaining-contractor-insight-october-2024",
+  "entry_id": "1_9dv6uvxp",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_9dv6uvxp/version/100011",
+  "cues": [
+    {
+      "start": 5.36,
+      "end": 7.92,
+      "start_int": 5,
+      "timestamp_label": "0:05",
+      "text": "Hi, everybody, and welcome to"
+    },
+    {
+      "start": 7.92,
+      "end": 11.32,
+      "start_int": 7,
+      "timestamp_label": "0:07",
+      "text": "this installment of the Sea bar Osit."
+    },
+    {
+      "start": 11.32,
+      "end": 13.92,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "So we're here doing this quarterly,"
+    },
+    {
+      "start": 13.92,
+      "end": 16.059,
+      "start_int": 13,
+      "timestamp_label": "0:13",
+      "text": "and we like to take questions from everybody,"
+    },
+    {
+      "start": 16.059,
+      "end": 17.139,
+      "start_int": 16,
+      "timestamp_label": "0:16",
+      "text": "but we do a presentation to"
+    },
+    {
+      "start": 17.139,
+      "end": 18.7,
+      "start_int": 17,
+      "timestamp_label": "0:17",
+      "text": "give a little bit of information."
+    },
+    {
+      "start": 18.7,
+      "end": 20.38,
+      "start_int": 18,
+      "timestamp_label": "0:18",
+      "text": "There's some music playing there,"
+    },
+    {
+      "start": 20.38,
+      "end": 21.899,
+      "start_int": 20,
+      "timestamp_label": "0:20",
+      "text": "Bernie. Thank you. Yeah."
+    },
+    {
+      "start": 21.899,
+      "end": 22.92,
+      "start_int": 21,
+      "timestamp_label": "0:21",
+      "text": "So if you have any questions,"
+    },
+    {
+      "start": 22.92,
+      "end": 23.64,
+      "start_int": 22,
+      "timestamp_label": "0:22",
+      "text": "feel free to put"
+    },
+    {
+      "start": 23.64,
+      "end": 25.599,
+      "start_int": 23,
+      "timestamp_label": "0:23",
+      "text": "them in the chat or jump in."
+    },
+    {
+      "start": 25.599,
+      "end": 27.399,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "Otherwise, I will hand this over to"
+    },
+    {
+      "start": 27.399,
+      "end": 29.219,
+      "start_int": 27,
+      "timestamp_label": "0:27",
+      "text": "Bob Fence right now and his team,"
+    },
+    {
+      "start": 29.219,
+      "end": 31.479,
+      "start_int": 29,
+      "timestamp_label": "0:29",
+      "text": "so take it away, Bob."
+    },
+    {
+      "start": 32.02,
+      "end": 35.639,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "Thank you, Kurt. I'll check in."
+    },
+    {
+      "start": 35.639,
+      "end": 37.599,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "If people can say a quick hi."
+    },
+    {
+      "start": 37.599,
+      "end": 38.519,
+      "start_int": 37,
+      "timestamp_label": "0:37",
+      "text": "I'll probably turn this off"
+    },
+    {
+      "start": 38.519,
+      "end": 39.78,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "once I start doing the slide,"
+    },
+    {
+      "start": 39.78,
+      "end": 42.02,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "so hopefully we won't slow"
+    },
+    {
+      "start": 42.02,
+      "end": 44.879,
+      "start_int": 42,
+      "timestamp_label": "0:42",
+      "text": "down the slides by overloading the band with."
+    },
+    {
+      "start": 44.879,
+      "end": 47.839,
+      "start_int": 44,
+      "timestamp_label": "0:44",
+      "text": "So just a quick hi and thank you to Kurt and"
+    },
+    {
+      "start": 47.839,
+      "end": 49.579,
+      "start_int": 47,
+      "timestamp_label": "0:47",
+      "text": "burn and everyone else helping out from"
+    },
+    {
+      "start": 49.579,
+      "end": 51.799,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "the DAU slide. All right."
+    },
+    {
+      "start": 51.799,
+      "end": 53.279,
+      "start_int": 51,
+      "timestamp_label": "0:51",
+      "text": "Anybody seeing the slides yet,"
+    },
+    {
+      "start": 53.279,
+      "end": 54.48,
+      "start_int": 53,
+      "timestamp_label": "0:53",
+      "text": "and then I'll put it on slide."
+    },
+    {
+      "start": 54.48,
+      "end": 55.399,
+      "start_int": 54,
+      "timestamp_label": "0:54",
+      "text": "Hopefully that makes a"
+    },
+    {
+      "start": 55.399,
+      "end": 56.54,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "little bit bigger and easier"
+    },
+    {
+      "start": 56.54,
+      "end": 61.449,
+      "start_int": 56,
+      "timestamp_label": "0:56",
+      "text": "to see. All right."
+    },
+    {
+      "start": 61.449,
+      "end": 68.589,
+      "start_int": 61,
+      "timestamp_label": "1:01",
+      "text": "Here we go. All right. So here's the agenda."
+    },
+    {
+      "start": 68.589,
+      "end": 70.93,
+      "start_int": 68,
+      "timestamp_label": "1:08",
+      "text": "I'll talk a little bit about different roles"
+    },
+    {
+      "start": 70.93,
+      "end": 72.869,
+      "start_int": 70,
+      "timestamp_label": "1:10",
+      "text": "on the C bar system,"
+    },
+    {
+      "start": 72.869,
+      "end": 75.409,
+      "start_int": 72,
+      "timestamp_label": "1:12",
+      "text": "purpose of C bar, getting access,"
+    },
+    {
+      "start": 75.409,
+      "end": 76.91,
+      "start_int": 75,
+      "timestamp_label": "1:15",
+      "text": "and then I'll take you"
+    },
+    {
+      "start": 76.91,
+      "end": 78.77,
+      "start_int": 76,
+      "timestamp_label": "1:16",
+      "text": "through some screenshots of where to"
+    },
+    {
+      "start": 78.77,
+      "end": 80.09,
+      "start_int": 78,
+      "timestamp_label": "1:18",
+      "text": "find different information in"
+    },
+    {
+      "start": 80.09,
+      "end": 83.61,
+      "start_int": 80,
+      "timestamp_label": "1:20",
+      "text": "the system as we go through here, et cetera."
+    },
+    {
+      "start": 83.61,
+      "end": 85.19,
+      "start_int": 83,
+      "timestamp_label": "1:23",
+      "text": "Then we'll talk a little bit about"
+    },
+    {
+      "start": 85.19,
+      "end": 87.53,
+      "start_int": 85,
+      "timestamp_label": "1:25",
+      "text": "other related DCMA PI applications."
+    },
+    {
+      "start": 87.53,
+      "end": 88.23,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "And then at the end,"
+    },
+    {
+      "start": 88.23,
+      "end": 89.03,
+      "start_int": 88,
+      "timestamp_label": "1:28",
+      "text": "I'm going to throw it over."
+    },
+    {
+      "start": 89.03,
+      "end": 90.65,
+      "start_int": 89,
+      "timestamp_label": "1:29",
+      "text": "We have a guest speaker to talk about"
+    },
+    {
+      "start": 90.65,
+      "end": 92.51,
+      "start_int": 90,
+      "timestamp_label": "1:30",
+      "text": "a special topic on"
+    },
+    {
+      "start": 92.51,
+      "end": 94.389,
+      "start_int": 92,
+      "timestamp_label": "1:32",
+      "text": "pre award surveys after"
+    },
+    {
+      "start": 94.389,
+      "end": 95.309,
+      "start_int": 94,
+      "timestamp_label": "1:34",
+      "text": "I go through"
+    },
+    {
+      "start": 95.309,
+      "end": 97.709,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "a general overview of the system."
+    },
+    {
+      "start": 98.9,
+      "end": 102.099,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "All right. So there's a C bar inbox."
+    },
+    {
+      "start": 102.099,
+      "end": 104.239,
+      "start_int": 102,
+      "timestamp_label": "1:42",
+      "text": "So if you have issues"
+    },
+    {
+      "start": 104.239,
+      "end": 106.679,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "or you have ideas, you know, good, bad,"
+    },
+    {
+      "start": 106.679,
+      "end": 109.34,
+      "start_int": 106,
+      "timestamp_label": "1:46",
+      "text": "you know, and in between, there's a way to"
+    },
+    {
+      "start": 109.34,
+      "end": 111.999,
+      "start_int": 109,
+      "timestamp_label": "1:49",
+      "text": "get into contact us with the C bar team."
+    },
+    {
+      "start": 111.999,
+      "end": 113.7,
+      "start_int": 111,
+      "timestamp_label": "1:51",
+      "text": "I you know, you see something you like,"
+    },
+    {
+      "start": 113.7,
+      "end": 115.32,
+      "start_int": 113,
+      "timestamp_label": "1:53",
+      "text": "you see something, don't like,"
+    },
+    {
+      "start": 115.32,
+      "end": 118.22,
+      "start_int": 115,
+      "timestamp_label": "1:55",
+      "text": "et cetera et cetera"
+    },
+    {
+      "start": 118.63,
+      "end": 120.909,
+      "start_int": 118,
+      "timestamp_label": "1:58",
+      "text": "And then there is CLPs"
+    },
+    {
+      "start": 120.909,
+      "end": 122.73,
+      "start_int": 120,
+      "timestamp_label": "2:00",
+      "text": "for this training available."
+    },
+    {
+      "start": 122.73,
+      "end": 125.75,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "All right. So he's just DCMA mission,"
+    },
+    {
+      "start": 125.75,
+      "end": 127.75,
+      "start_int": 125,
+      "timestamp_label": "2:05",
+      "text": "so that tells you a little bit about us,"
+    },
+    {
+      "start": 127.75,
+      "end": 129.589,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "just because CBR is"
+    },
+    {
+      "start": 129.589,
+      "end": 132.009,
+      "start_int": 129,
+      "timestamp_label": "2:09",
+      "text": "housed in a way in within DCMA,"
+    },
+    {
+      "start": 132.009,
+      "end": 134.329,
+      "start_int": 132,
+      "timestamp_label": "2:12",
+      "text": "but it's really a DOD wide system,"
+    },
+    {
+      "start": 134.329,
+      "end": 135.989,
+      "start_int": 134,
+      "timestamp_label": "2:14",
+      "text": "so buying commands and"
+    },
+    {
+      "start": 135.989,
+      "end": 137.569,
+      "start_int": 135,
+      "timestamp_label": "2:15",
+      "text": "other parts of DOD use it."
+    },
+    {
+      "start": 137.569,
+      "end": 139.109,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "But just to let you know"
+    },
+    {
+      "start": 139.109,
+      "end": 141.609,
+      "start_int": 139,
+      "timestamp_label": "2:19",
+      "text": "a little bit about us and our background."
+    },
+    {
+      "start": 141.609,
+      "end": 146.189,
+      "start_int": 141,
+      "timestamp_label": "2:21",
+      "text": "So there's our mission and vision and values."
+    },
+    {
+      "start": 148.91,
+      "end": 151.53,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "All right. As I said, we perform"
+    },
+    {
+      "start": 151.53,
+      "end": 153.97,
+      "start_int": 151,
+      "timestamp_label": "2:31",
+      "text": "contract administration services for DOD,"
+    },
+    {
+      "start": 153.97,
+      "end": 155.789,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "you may already be familiar with us."
+    },
+    {
+      "start": 155.789,
+      "end": 157.83,
+      "start_int": 155,
+      "timestamp_label": "2:35",
+      "text": "If you've worked on contracts"
+    },
+    {
+      "start": 157.83,
+      "end": 159.449,
+      "start_int": 157,
+      "timestamp_label": "2:37",
+      "text": "from a buying command side,"
+    },
+    {
+      "start": 159.449,
+      "end": 161.61,
+      "start_int": 159,
+      "timestamp_label": "2:39",
+      "text": "and then you've engaged with DCMA to"
+    },
+    {
+      "start": 161.61,
+      "end": 162.79,
+      "start_int": 161,
+      "timestamp_label": "2:41",
+      "text": "perform different"
+    },
+    {
+      "start": 162.79,
+      "end": 165.37,
+      "start_int": 162,
+      "timestamp_label": "2:42",
+      "text": "contract administration services."
+    },
+    {
+      "start": 165.37,
+      "end": 167.849,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "So there's sort of a list of"
+    },
+    {
+      "start": 167.849,
+      "end": 171.65,
+      "start_int": 167,
+      "timestamp_label": "2:47",
+      "text": "different functions that we perform."
+    },
+    {
+      "start": 171.65,
+      "end": 173.629,
+      "start_int": 171,
+      "timestamp_label": "2:51",
+      "text": "At the bottom is the four"
+    },
+    {
+      "start": 173.629,
+      "end": 175.61,
+      "start_int": 173,
+      "timestamp_label": "2:53",
+      "text": "functions that must be performed."
+    },
+    {
+      "start": 175.61,
+      "end": 176.809,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "Having to do with"
+    },
+    {
+      "start": 176.809,
+      "end": 178.729,
+      "start_int": 176,
+      "timestamp_label": "2:56",
+      "text": "ford pricing rate agreements,"
+    },
+    {
+      "start": 178.729,
+      "end": 181.57,
+      "start_int": 178,
+      "timestamp_label": "2:58",
+      "text": "final into direct cost rates,"
+    },
+    {
+      "start": 181.57,
+      "end": 184.649,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "looking at cost accounting standards,"
+    },
+    {
+      "start": 184.649,
+      "end": 186.05,
+      "start_int": 184,
+      "timestamp_label": "3:04",
+      "text": "and determining"
+    },
+    {
+      "start": 186.05,
+      "end": 188.629,
+      "start_int": 186,
+      "timestamp_label": "3:06",
+      "text": "adequacy of contractor accounting systems."
+    },
+    {
+      "start": 188.629,
+      "end": 190.809,
+      "start_int": 188,
+      "timestamp_label": "3:08",
+      "text": "So I've got some far references"
+    },
+    {
+      "start": 190.809,
+      "end": 192.109,
+      "start_int": 190,
+      "timestamp_label": "3:10",
+      "text": "of DFAS references,"
+    },
+    {
+      "start": 192.109,
+      "end": 194.11,
+      "start_int": 192,
+      "timestamp_label": "3:12",
+      "text": "if you want further detail and background"
+    },
+    {
+      "start": 194.11,
+      "end": 197.509,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "on that. All right."
+    },
+    {
+      "start": 197.509,
+      "end": 199.089,
+      "start_int": 197,
+      "timestamp_label": "3:17",
+      "text": "Purpose CFRA is"
+    },
+    {
+      "start": 199.089,
+      "end": 201.989,
+      "start_int": 199,
+      "timestamp_label": "3:19",
+      "text": "a pharmaco pharmacy communication"
+    },
+    {
+      "start": 201.989,
+      "end": 203.89,
+      "start_int": 201,
+      "timestamp_label": "3:21",
+      "text": "for government acquisition professionals"
+    },
+    {
+      "start": 203.89,
+      "end": 205.509,
+      "start_int": 203,
+      "timestamp_label": "3:23",
+      "text": "to share data."
+    },
+    {
+      "start": 205.509,
+      "end": 208.69,
+      "start_int": 205,
+      "timestamp_label": "3:25",
+      "text": "So originally came from Sha Assad."
+    },
+    {
+      "start": 208.69,
+      "end": 212.429,
+      "start_int": 208,
+      "timestamp_label": "3:28",
+      "text": "So Shea came to DOD from,"
+    },
+    {
+      "start": 212.429,
+      "end": 214.089,
+      "start_int": 212,
+      "timestamp_label": "3:32",
+      "text": "I think it was Raytheon and then"
+    },
+    {
+      "start": 214.089,
+      "end": 215.789,
+      "start_int": 214,
+      "timestamp_label": "3:34",
+      "text": "he worked on the contractor side."
+    },
+    {
+      "start": 215.789,
+      "end": 216.789,
+      "start_int": 215,
+      "timestamp_label": "3:35",
+      "text": "And then what they had"
+    },
+    {
+      "start": 216.789,
+      "end": 218.069,
+      "start_int": 216,
+      "timestamp_label": "3:36",
+      "text": "there is they had a system"
+    },
+    {
+      "start": 218.069,
+      "end": 219.39,
+      "start_int": 218,
+      "timestamp_label": "3:38",
+      "text": "basically where they kept"
+    },
+    {
+      "start": 219.39,
+      "end": 221.17,
+      "start_int": 219,
+      "timestamp_label": "3:39",
+      "text": "track of all their negotiations."
+    },
+    {
+      "start": 221.17,
+      "end": 224.499,
+      "start_int": 221,
+      "timestamp_label": "3:41",
+      "text": "So the idea is the you know,"
+    },
+    {
+      "start": 224.499,
+      "end": 226.96,
+      "start_int": 224,
+      "timestamp_label": "3:44",
+      "text": "you know, personnel would work on a contract,"
+    },
+    {
+      "start": 226.96,
+      "end": 228.72,
+      "start_int": 226,
+      "timestamp_label": "3:46",
+      "text": "and then they would at the end,"
+    },
+    {
+      "start": 228.72,
+      "end": 229.519,
+      "start_int": 228,
+      "timestamp_label": "3:48",
+      "text": "they would put down"
+    },
+    {
+      "start": 229.519,
+      "end": 230.98,
+      "start_int": 229,
+      "timestamp_label": "3:49",
+      "text": "their notes and they'd say, okay, well,"
+    },
+    {
+      "start": 230.98,
+      "end": 232.86,
+      "start_int": 230,
+      "timestamp_label": "3:50",
+      "text": "what worked for them, and then"
+    },
+    {
+      "start": 232.86,
+      "end": 235.52,
+      "start_int": 232,
+      "timestamp_label": "3:52",
+      "text": "negotiations didn't work, et cetera."
+    },
+    {
+      "start": 235.52,
+      "end": 238.1,
+      "start_int": 235,
+      "timestamp_label": "3:55",
+      "text": "So kind of like a post game analysis."
+    },
+    {
+      "start": 238.1,
+      "end": 240.06,
+      "start_int": 238,
+      "timestamp_label": "3:58",
+      "text": "And then in order"
+    },
+    {
+      "start": 240.06,
+      "end": 241.84,
+      "start_int": 240,
+      "timestamp_label": "4:00",
+      "text": "to sort of service sort of like"
+    },
+    {
+      "start": 241.84,
+      "end": 244.319,
+      "start_int": 241,
+      "timestamp_label": "4:01",
+      "text": "a pre pre game sort"
+    },
+    {
+      "start": 244.319,
+      "end": 245.979,
+      "start_int": 244,
+      "timestamp_label": "4:04",
+      "text": "of scouting report next time around."
+    },
+    {
+      "start": 245.979,
+      "end": 247.499,
+      "start_int": 245,
+      "timestamp_label": "4:05",
+      "text": "So in other words, you know, they"
+    },
+    {
+      "start": 247.499,
+      "end": 248.58,
+      "start_int": 247,
+      "timestamp_label": "4:07",
+      "text": "negotiate a contract,"
+    },
+    {
+      "start": 248.58,
+      "end": 250.299,
+      "start_int": 248,
+      "timestamp_label": "4:08",
+      "text": "and then five years later, you know,"
+    },
+    {
+      "start": 250.299,
+      "end": 250.959,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "you come around,"
+    },
+    {
+      "start": 250.959,
+      "end": 252.884,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "the contracts up for renewal."
+    },
+    {
+      "start": 252.884,
+      "end": 254.889,
+      "start_int": 252,
+      "timestamp_label": "4:12",
+      "text": "The personnel could be different,"
+    },
+    {
+      "start": 254.889,
+      "end": 255.869,
+      "start_int": 254,
+      "timestamp_label": "4:14",
+      "text": "so you have a new person."
+    },
+    {
+      "start": 255.869,
+      "end": 257.25,
+      "start_int": 255,
+      "timestamp_label": "4:15",
+      "text": "They don't know, you know much about"
+    },
+    {
+      "start": 257.25,
+      "end": 259.07,
+      "start_int": 257,
+      "timestamp_label": "4:17",
+      "text": "the contract or the acquisition"
+    },
+    {
+      "start": 259.07,
+      "end": 261.069,
+      "start_int": 259,
+      "timestamp_label": "4:19",
+      "text": "or the government personnel that they've"
+    },
+    {
+      "start": 261.069,
+      "end": 263.79,
+      "start_int": 261,
+      "timestamp_label": "4:21",
+      "text": "dealt with to get an idea like Hot W,"
+    },
+    {
+      "start": 263.79,
+      "end": 265.629,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "as I said, what good"
+    },
+    {
+      "start": 265.629,
+      "end": 267.53,
+      "start_int": 265,
+      "timestamp_label": "4:25",
+      "text": "or bad from their standpoint."
+    },
+    {
+      "start": 267.53,
+      "end": 269.81,
+      "start_int": 267,
+      "timestamp_label": "4:27",
+      "text": "So he decided that would be"
+    },
+    {
+      "start": 269.81,
+      "end": 270.91,
+      "start_int": 269,
+      "timestamp_label": "4:29",
+      "text": "a good idea for the"
+    },
+    {
+      "start": 270.91,
+      "end": 272.87,
+      "start_int": 270,
+      "timestamp_label": "4:30",
+      "text": "government for us to have,"
+    },
+    {
+      "start": 272.87,
+      "end": 275.25,
+      "start_int": 272,
+      "timestamp_label": "4:32",
+      "text": "in other words, same thing on our side."
+    },
+    {
+      "start": 275.25,
+      "end": 277.149,
+      "start_int": 275,
+      "timestamp_label": "4:35",
+      "text": "You know, contracting personnel,"
+    },
+    {
+      "start": 277.149,
+      "end": 278.729,
+      "start_int": 277,
+      "timestamp_label": "4:37",
+      "text": "they work on a contract."
+    },
+    {
+      "start": 278.729,
+      "end": 280.87,
+      "start_int": 278,
+      "timestamp_label": "4:38",
+      "text": "And then, you know, after it's over,"
+    },
+    {
+      "start": 280.87,
+      "end": 282.75,
+      "start_int": 280,
+      "timestamp_label": "4:40",
+      "text": "put in your notes and say,"
+    },
+    {
+      "start": 282.75,
+      "end": 284.21,
+      "start_int": 282,
+      "timestamp_label": "4:42",
+      "text": "Okay, how did it go?"
+    },
+    {
+      "start": 284.21,
+      "end": 286.35,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "What worked good, what worked in, you know,"
+    },
+    {
+      "start": 286.35,
+      "end": 288.47,
+      "start_int": 286,
+      "timestamp_label": "4:46",
+      "text": "sort of ideas for improvement or,"
+    },
+    {
+      "start": 288.47,
+      "end": 290.79,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "you know, ideas, things to stay away from,"
+    },
+    {
+      "start": 290.79,
+      "end": 292.35,
+      "start_int": 290,
+      "timestamp_label": "4:50",
+      "text": "or or things you did"
+    },
+    {
+      "start": 292.35,
+      "end": 294.249,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "that worked or things that you didn't do,"
+    },
+    {
+      "start": 294.249,
+      "end": 296.049,
+      "start_int": 294,
+      "timestamp_label": "4:54",
+      "text": "that maybe you wish you'd say, gee,"
+    },
+    {
+      "start": 296.049,
+      "end": 297.41,
+      "start_int": 296,
+      "timestamp_label": "4:56",
+      "text": "we didn't do this, but, you know,"
+    },
+    {
+      "start": 297.41,
+      "end": 298.29,
+      "start_int": 297,
+      "timestamp_label": "4:57",
+      "text": "maybe looking back,"
+    },
+    {
+      "start": 298.29,
+      "end": 300.51,
+      "start_int": 298,
+      "timestamp_label": "4:58",
+      "text": "we should have, et cetera."
+    },
+    {
+      "start": 300.52,
+      "end": 303.86,
+      "start_int": 300,
+      "timestamp_label": "5:00",
+      "text": "That's information from both sides."
+    },
+    {
+      "start": 303.86,
+      "end": 306.78,
+      "start_int": 303,
+      "timestamp_label": "5:03",
+      "text": "ACOs, mainly from DCMA,"
+    },
+    {
+      "start": 306.78,
+      "end": 309.34,
+      "start_int": 306,
+      "timestamp_label": "5:06",
+      "text": "are creating contractor data sheets with"
+    },
+    {
+      "start": 309.34,
+      "end": 311.06,
+      "start_int": 309,
+      "timestamp_label": "5:09",
+      "text": "information on the contractors,"
+    },
+    {
+      "start": 311.06,
+      "end": 312.18,
+      "start_int": 311,
+      "timestamp_label": "5:11",
+      "text": "and we'll go into that."
+    },
+    {
+      "start": 312.18,
+      "end": 314.2,
+      "start_int": 312,
+      "timestamp_label": "5:12",
+      "text": "Then PCOs are required by"
+    },
+    {
+      "start": 314.2,
+      "end": 316.32,
+      "start_int": 314,
+      "timestamp_label": "5:14",
+      "text": "acquisition regulation to populate C bar."
+    },
+    {
+      "start": 316.32,
+      "end": 318.38,
+      "start_int": 316,
+      "timestamp_label": "5:16",
+      "text": "So business clearance records of"
+    },
+    {
+      "start": 318.38,
+      "end": 321.22,
+      "start_int": 318,
+      "timestamp_label": "5:18",
+      "text": "$25,000,000 are greater than"
+    },
+    {
+      "start": 321.22,
+      "end": 323.839,
+      "start_int": 321,
+      "timestamp_label": "5:21",
+      "text": "the business clearance records should"
+    },
+    {
+      "start": 323.839,
+      "end": 327.179,
+      "start_int": 323,
+      "timestamp_label": "5:23",
+      "text": "be loaded in the Pi C bar module."
+    },
+    {
+      "start": 327.179,
+      "end": 329.919,
+      "start_int": 327,
+      "timestamp_label": "5:27",
+      "text": "Once again, it's a DOD as I said before,"
+    },
+    {
+      "start": 329.919,
+      "end": 333.179,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "it's a DOD level tool just to reiterate,"
+    },
+    {
+      "start": 333.179,
+      "end": 335.759,
+      "start_int": 333,
+      "timestamp_label": "5:33",
+      "text": "not just a DCMA tool."
+    },
+    {
+      "start": 340.77,
+      "end": 344.069,
+      "start_int": 340,
+      "timestamp_label": "5:40",
+      "text": "All right. So just to reiterate,"
+    },
+    {
+      "start": 344.069,
+      "end": 346.429,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "CBR is now in the Pi platform."
+    },
+    {
+      "start": 346.429,
+      "end": 348.73,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "It used to be an EDA tool,"
+    },
+    {
+      "start": 348.73,
+      "end": 353.189,
+      "start_int": 348,
+      "timestamp_label": "5:48",
+      "text": "and it was, you know, managed by DCMAIT."
+    },
+    {
+      "start": 353.189,
+      "end": 355.61,
+      "start_int": 353,
+      "timestamp_label": "5:53",
+      "text": "But then as with other tools,"
+    },
+    {
+      "start": 355.61,
+      "end": 358.97,
+      "start_int": 355,
+      "timestamp_label": "5:55",
+      "text": "because of bandwidth and platform issues,"
+    },
+    {
+      "start": 358.97,
+      "end": 360.09,
+      "start_int": 358,
+      "timestamp_label": "5:58",
+      "text": "it was decided that the Pi"
+    },
+    {
+      "start": 360.09,
+      "end": 361.65,
+      "start_int": 360,
+      "timestamp_label": "6:00",
+      "text": "would be a better place"
+    },
+    {
+      "start": 361.65,
+      "end": 364.95,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "for it to be moved to in the long term."
+    },
+    {
+      "start": 364.95,
+      "end": 367.31,
+      "start_int": 364,
+      "timestamp_label": "6:04",
+      "text": "So it was moved to Pi and it's now in Pi."
+    },
+    {
+      "start": 367.31,
+      "end": 368.79,
+      "start_int": 367,
+      "timestamp_label": "6:07",
+      "text": "So it's a little bit different now because"
+    },
+    {
+      "start": 368.79,
+      "end": 370.47,
+      "start_int": 368,
+      "timestamp_label": "6:08",
+      "text": "instead of in the past,"
+    },
+    {
+      "start": 370.47,
+      "end": 371.95,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "when it was an EDA, you know,"
+    },
+    {
+      "start": 371.95,
+      "end": 375.08,
+      "start_int": 371,
+      "timestamp_label": "6:11",
+      "text": "that, a contracting personnel from"
+    },
+    {
+      "start": 375.08,
+      "end": 376.8,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "the buying commands would come to"
+    },
+    {
+      "start": 376.8,
+      "end": 379.06,
+      "start_int": 376,
+      "timestamp_label": "6:16",
+      "text": "DCMA to get access."
+    },
+    {
+      "start": 379.06,
+      "end": 380.22,
+      "start_int": 379,
+      "timestamp_label": "6:19",
+      "text": "But now actually, access"
+    },
+    {
+      "start": 380.22,
+      "end": 381.799,
+      "start_int": 380,
+      "timestamp_label": "6:20",
+      "text": "goes through your supervisor."
+    },
+    {
+      "start": 381.799,
+      "end": 383.12,
+      "start_int": 381,
+      "timestamp_label": "6:21",
+      "text": "So go through you would"
+    },
+    {
+      "start": 383.12,
+      "end": 384.819,
+      "start_int": 383,
+      "timestamp_label": "6:23",
+      "text": "request access and GAM,"
+    },
+    {
+      "start": 384.819,
+      "end": 385.74,
+      "start_int": 384,
+      "timestamp_label": "6:24",
+      "text": "and I'll show you"
+    },
+    {
+      "start": 385.74,
+      "end": 387.519,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "the steps more detail later."
+    },
+    {
+      "start": 387.519,
+      "end": 391.039,
+      "start_int": 387,
+      "timestamp_label": "6:27",
+      "text": "And then it would go to your supervisor"
+    },
+    {
+      "start": 391.039,
+      "end": 393.52,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "to approve and then it would go to your GAM,"
+    },
+    {
+      "start": 393.52,
+      "end": 396.14,
+      "start_int": 393,
+      "timestamp_label": "6:33",
+      "text": "your government administrator who is probably"
+    },
+    {
+      "start": 396.14,
+      "end": 397.939,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "the person giving you the access"
+    },
+    {
+      "start": 397.939,
+      "end": 399.819,
+      "start_int": 397,
+      "timestamp_label": "6:37",
+      "text": "on your other systems."
+    },
+    {
+      "start": 399.819,
+      "end": 402.519,
+      "start_int": 399,
+      "timestamp_label": "6:39",
+      "text": "And then no contractor personnel"
+    },
+    {
+      "start": 402.519,
+      "end": 404.439,
+      "start_int": 402,
+      "timestamp_label": "6:42",
+      "text": "are permitted access to the system,"
+    },
+    {
+      "start": 404.439,
+      "end": 405.959,
+      "start_int": 404,
+      "timestamp_label": "6:44",
+      "text": "just to let you know, since"
+    },
+    {
+      "start": 405.959,
+      "end": 408.9,
+      "start_int": 405,
+      "timestamp_label": "6:45",
+      "text": "it's proprietary government information."
+    },
+    {
+      "start": 409.38,
+      "end": 412.959,
+      "start_int": 409,
+      "timestamp_label": "6:49",
+      "text": "All right. So here's a three roles."
+    },
+    {
+      "start": 412.959,
+      "end": 415.98,
+      "start_int": 412,
+      "timestamp_label": "6:52",
+      "text": "So if you're on the bond command,"
+    },
+    {
+      "start": 415.98,
+      "end": 417.3,
+      "start_int": 415,
+      "timestamp_label": "6:55",
+      "text": "then you're probably one want"
+    },
+    {
+      "start": 417.3,
+      "end": 418.88,
+      "start_int": 417,
+      "timestamp_label": "6:57",
+      "text": "the CBR contracting officer."
+    },
+    {
+      "start": 418.88,
+      "end": 421.119,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "So if your PCO or you're supporting the PCO."
+    },
+    {
+      "start": 421.119,
+      "end": 423.87,
+      "start_int": 421,
+      "timestamp_label": "7:01",
+      "text": "This would give you the ability to"
+    },
+    {
+      "start": 423.87,
+      "end": 427.289,
+      "start_int": 423,
+      "timestamp_label": "7:03",
+      "text": "upload and it the business clearance records."
+    },
+    {
+      "start": 427.289,
+      "end": 429.37,
+      "start_int": 427,
+      "timestamp_label": "7:07",
+      "text": "So just to let you know you don't have to"
+    },
+    {
+      "start": 429.37,
+      "end": 430.83,
+      "start_int": 429,
+      "timestamp_label": "7:09",
+      "text": "technically literally be"
+    },
+    {
+      "start": 430.83,
+      "end": 432.629,
+      "start_int": 430,
+      "timestamp_label": "7:10",
+      "text": "a contracting officer,"
+    },
+    {
+      "start": 432.629,
+      "end": 434.509,
+      "start_int": 432,
+      "timestamp_label": "7:12",
+      "text": "you could be, as it says"
+    },
+    {
+      "start": 434.509,
+      "end": 436.229,
+      "start_int": 434,
+      "timestamp_label": "7:14",
+      "text": "a contract specialist who's"
+    },
+    {
+      "start": 436.229,
+      "end": 437.97,
+      "start_int": 436,
+      "timestamp_label": "7:16",
+      "text": "assisting in the effort."
+    },
+    {
+      "start": 437.97,
+      "end": 441.87,
+      "start_int": 437,
+      "timestamp_label": "7:17",
+      "text": "So as long as the management in"
+    },
+    {
+      "start": 441.87,
+      "end": 443.11,
+      "start_int": 441,
+      "timestamp_label": "7:21",
+      "text": "your organization wants"
+    },
+    {
+      "start": 443.11,
+      "end": 444.289,
+      "start_int": 443,
+      "timestamp_label": "7:23",
+      "text": "you to have this role and wants"
+    },
+    {
+      "start": 444.289,
+      "end": 445.73,
+      "start_int": 444,
+      "timestamp_label": "7:24",
+      "text": "you to assist in the duties,"
+    },
+    {
+      "start": 445.73,
+      "end": 446.71,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "then it would be up to them."
+    },
+    {
+      "start": 446.71,
+      "end": 447.85,
+      "start_int": 446,
+      "timestamp_label": "7:26",
+      "text": "So we don't tell people how"
+    },
+    {
+      "start": 447.85,
+      "end": 449.609,
+      "start_int": 447,
+      "timestamp_label": "7:27",
+      "text": "to structure their workload."
+    },
+    {
+      "start": 449.609,
+      "end": 451.53,
+      "start_int": 449,
+      "timestamp_label": "7:29",
+      "text": "They know their personnel better than us."
+    },
+    {
+      "start": 451.53,
+      "end": 453.429,
+      "start_int": 451,
+      "timestamp_label": "7:31",
+      "text": "So who they want to access."
+    },
+    {
+      "start": 453.429,
+      "end": 455.149,
+      "start_int": 453,
+      "timestamp_label": "7:33",
+      "text": "You know, we let them decide."
+    },
+    {
+      "start": 455.149,
+      "end": 456.47,
+      "start_int": 455,
+      "timestamp_label": "7:35",
+      "text": "So it doesn't have to be"
+    },
+    {
+      "start": 456.47,
+      "end": 458.364,
+      "start_int": 456,
+      "timestamp_label": "7:36",
+      "text": "literally a contracting officer."
+    },
+    {
+      "start": 458.364,
+      "end": 459.899,
+      "start_int": 458,
+      "timestamp_label": "7:38",
+      "text": "A CBR view only"
+    },
+    {
+      "start": 459.899,
+      "end": 461.839,
+      "start_int": 459,
+      "timestamp_label": "7:39",
+      "text": "self explanator that be personnel."
+    },
+    {
+      "start": 461.839,
+      "end": 463.04,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "It's like you need to look"
+    },
+    {
+      "start": 463.04,
+      "end": 464.219,
+      "start_int": 463,
+      "timestamp_label": "7:43",
+      "text": "at records on the system,"
+    },
+    {
+      "start": 464.219,
+      "end": 466.179,
+      "start_int": 464,
+      "timestamp_label": "7:44",
+      "text": "but you never need to edit,"
+    },
+    {
+      "start": 466.179,
+      "end": 468.679,
+      "start_int": 466,
+      "timestamp_label": "7:46",
+      "text": "for whatever reason your role you don't"
+    },
+    {
+      "start": 468.679,
+      "end": 471.24,
+      "start_int": 468,
+      "timestamp_label": "7:48",
+      "text": "need to add any records."
+    },
+    {
+      "start": 471.24,
+      "end": 473.279,
+      "start_int": 471,
+      "timestamp_label": "7:51",
+      "text": "CBR ACOs, that's mainly"
+    },
+    {
+      "start": 473.279,
+      "end": 475.3,
+      "start_int": 473,
+      "timestamp_label": "7:53",
+      "text": "what you'll see on the DCMA side,"
+    },
+    {
+      "start": 475.3,
+      "end": 478.379,
+      "start_int": 475,
+      "timestamp_label": "7:55",
+      "text": "where ACOs or personnel who support"
+    },
+    {
+      "start": 478.379,
+      "end": 481.12,
+      "start_int": 478,
+      "timestamp_label": "7:58",
+      "text": "ACOs will upload and"
+    },
+    {
+      "start": 481.12,
+      "end": 482.89,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "edit records on their side."
+    },
+    {
+      "start": 482.89,
+      "end": 485.12,
+      "start_int": 482,
+      "timestamp_label": "8:02",
+      "text": "Okay. All right."
+    },
+    {
+      "start": 485.12,
+      "end": 487.66,
+      "start_int": 485,
+      "timestamp_label": "8:05",
+      "text": "Here's a more detailed list."
+    },
+    {
+      "start": 487.66,
+      "end": 489.099,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "So if you want to"
+    },
+    {
+      "start": 489.099,
+      "end": 491.88,
+      "start_int": 489,
+      "timestamp_label": "8:09",
+      "text": "either you don't have a CBR role and you want"
+    },
+    {
+      "start": 491.88,
+      "end": 493.32,
+      "start_int": 491,
+      "timestamp_label": "8:11",
+      "text": "to get one or you need"
+    },
+    {
+      "start": 493.32,
+      "end": 494.76,
+      "start_int": 493,
+      "timestamp_label": "8:13",
+      "text": "a different role for some reason"
+    },
+    {
+      "start": 494.76,
+      "end": 496.339,
+      "start_int": 494,
+      "timestamp_label": "8:14",
+      "text": "because you changed positions"
+    },
+    {
+      "start": 496.339,
+      "end": 498.199,
+      "start_int": 496,
+      "timestamp_label": "8:16",
+      "text": "or workload has changed."
+    },
+    {
+      "start": 498.199,
+      "end": 499.779,
+      "start_int": 498,
+      "timestamp_label": "8:18",
+      "text": "There's a detailed list."
+    },
+    {
+      "start": 499.779,
+      "end": 501.48,
+      "start_int": 499,
+      "timestamp_label": "8:19",
+      "text": "So then one other thing"
+    },
+    {
+      "start": 501.48,
+      "end": 502.68,
+      "start_int": 501,
+      "timestamp_label": "8:21",
+      "text": "to iterate is that, like,"
+    },
+    {
+      "start": 502.68,
+      "end": 506.5,
+      "start_int": 502,
+      "timestamp_label": "8:22",
+      "text": "CBR is not its own module in Pi."
+    },
+    {
+      "start": 506.5,
+      "end": 507.98,
+      "start_int": 506,
+      "timestamp_label": "8:26",
+      "text": "So if you go into Pi and look for it,"
+    },
+    {
+      "start": 507.98,
+      "end": 509.0,
+      "start_int": 507,
+      "timestamp_label": "8:27",
+      "text": "you won't find it."
+    },
+    {
+      "start": 509.0,
+      "end": 512.279,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "It is under EDA. So it is in the old E tools,"
+    },
+    {
+      "start": 512.279,
+      "end": 513.88,
+      "start_int": 512,
+      "timestamp_label": "8:32",
+      "text": "it was on the top level."
+    },
+    {
+      "start": 513.88,
+      "end": 517.76,
+      "start_int": 513,
+      "timestamp_label": "8:33",
+      "text": "There was no sub level, so to speak."
+    },
+    {
+      "start": 517.76,
+      "end": 519.139,
+      "start_int": 517,
+      "timestamp_label": "8:37",
+      "text": "But now that it's in Pi,"
+    },
+    {
+      "start": 519.139,
+      "end": 521.64,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "it is in Pi, but it's under EDA,"
+    },
+    {
+      "start": 521.64,
+      "end": 522.899,
+      "start_int": 521,
+      "timestamp_label": "8:41",
+      "text": "along with a group of"
+    },
+    {
+      "start": 522.899,
+      "end": 526.1,
+      "start_int": 522,
+      "timestamp_label": "8:42",
+      "text": "other tools that have to do with contracting."
+    },
+    {
+      "start": 526.1,
+      "end": 527.5,
+      "start_int": 526,
+      "timestamp_label": "8:46",
+      "text": "And then, just to let you"
+    },
+    {
+      "start": 527.5,
+      "end": 529.239,
+      "start_int": 527,
+      "timestamp_label": "8:47",
+      "text": "know that you sign on"
+    },
+    {
+      "start": 529.239,
+      "end": 533.155,
+      "start_int": 529,
+      "timestamp_label": "8:49",
+      "text": "and you get access based on your DTA."
+    },
+    {
+      "start": 533.155,
+      "end": 535.029,
+      "start_int": 533,
+      "timestamp_label": "8:53",
+      "text": "So that gives you"
+    },
+    {
+      "start": 535.029,
+      "end": 536.509,
+      "start_int": 535,
+      "timestamp_label": "8:55",
+      "text": "and that's especially important"
+    },
+    {
+      "start": 536.509,
+      "end": 537.929,
+      "start_int": 536,
+      "timestamp_label": "8:56",
+      "text": "if you're in that it"
+    },
+    {
+      "start": 537.929,
+      "end": 540.23,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "contracting officer ACO role,"
+    },
+    {
+      "start": 540.23,
+      "end": 542.469,
+      "start_int": 540,
+      "timestamp_label": "9:00",
+      "text": "then you put in your DDAC,"
+    },
+    {
+      "start": 542.469,
+      "end": 543.53,
+      "start_int": 542,
+      "timestamp_label": "9:02",
+      "text": "and then you have access"
+    },
+    {
+      "start": 543.53,
+      "end": 545.07,
+      "start_int": 543,
+      "timestamp_label": "9:03",
+      "text": "to edit those records."
+    },
+    {
+      "start": 545.07,
+      "end": 547.229,
+      "start_int": 545,
+      "timestamp_label": "9:05",
+      "text": "So other records from other DDAC,"
+    },
+    {
+      "start": 547.229,
+      "end": 549.23,
+      "start_int": 547,
+      "timestamp_label": "9:07",
+      "text": "you can view, but you can't edit."
+    },
+    {
+      "start": 549.23,
+      "end": 552.65,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "So that's the stop gap so that everybody"
+    },
+    {
+      "start": 552.65,
+      "end": 554.729,
+      "start_int": 552,
+      "timestamp_label": "9:12",
+      "text": "is limited to their own workload"
+    },
+    {
+      "start": 554.729,
+      "end": 556.39,
+      "start_int": 554,
+      "timestamp_label": "9:14",
+      "text": "as far as editing purposes."
+    },
+    {
+      "start": 556.39,
+      "end": 557.849,
+      "start_int": 556,
+      "timestamp_label": "9:16",
+      "text": "But view, you can view"
+    },
+    {
+      "start": 557.849,
+      "end": 559.349,
+      "start_int": 557,
+      "timestamp_label": "9:17",
+      "text": "other records on the system if you"
+    },
+    {
+      "start": 559.349,
+      "end": 563.689,
+      "start_int": 559,
+      "timestamp_label": "9:19",
+      "text": "need to. All right."
+    },
+    {
+      "start": 563.689,
+      "end": 564.709,
+      "start_int": 563,
+      "timestamp_label": "9:23",
+      "text": "Just to let you know"
+    },
+    {
+      "start": 564.709,
+      "end": 566.01,
+      "start_int": 564,
+      "timestamp_label": "9:24",
+      "text": "it's probably a rare event,"
+    },
+    {
+      "start": 566.01,
+      "end": 567.549,
+      "start_int": 566,
+      "timestamp_label": "9:26",
+      "text": "but if for some reason,"
+    },
+    {
+      "start": 567.549,
+      "end": 570.779,
+      "start_int": 567,
+      "timestamp_label": "9:27",
+      "text": "you work on contracting"
+    },
+    {
+      "start": 570.779,
+      "end": 573.44,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "efforts in more than one DAC"
+    },
+    {
+      "start": 573.44,
+      "end": 576.06,
+      "start_int": 573,
+      "timestamp_label": "9:33",
+      "text": "and you need to edit in more than one DDAC."
+    },
+    {
+      "start": 576.06,
+      "end": 578.34,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "You can sign up for another DDA."
+    },
+    {
+      "start": 578.34,
+      "end": 581.059,
+      "start_int": 578,
+      "timestamp_label": "9:38",
+      "text": "You can sign up for basically the same role,"
+    },
+    {
+      "start": 581.059,
+      "end": 583.86,
+      "start_int": 581,
+      "timestamp_label": "9:41",
+      "text": "be a contracting officer, ACO."
+    },
+    {
+      "start": 583.86,
+      "end": 586.48,
+      "start_int": 583,
+      "timestamp_label": "9:43",
+      "text": "And here the detailed steps on there."
+    },
+    {
+      "start": 586.48,
+      "end": 587.419,
+      "start_int": 586,
+      "timestamp_label": "9:46",
+      "text": "If you need that probably not"
+    },
+    {
+      "start": 587.419,
+      "end": 588.619,
+      "start_int": 587,
+      "timestamp_label": "9:47",
+      "text": "applicable to too many people,"
+    },
+    {
+      "start": 588.619,
+      "end": 591.26,
+      "start_int": 588,
+      "timestamp_label": "9:48",
+      "text": "but in case you have that question,"
+    },
+    {
+      "start": 591.26,
+      "end": 593.219,
+      "start_int": 591,
+      "timestamp_label": "9:51",
+      "text": "and for some reason, you work with"
+    },
+    {
+      "start": 593.219,
+      "end": 595.36,
+      "start_int": 593,
+      "timestamp_label": "9:53",
+      "text": "two different DD ac and you need to be able"
+    },
+    {
+      "start": 595.36,
+      "end": 597.54,
+      "start_int": 595,
+      "timestamp_label": "9:55",
+      "text": "to not just view both, but edit both."
+    },
+    {
+      "start": 597.54,
+      "end": 600.619,
+      "start_int": 597,
+      "timestamp_label": "9:57",
+      "text": "You can log into pi and then request that"
+    },
+    {
+      "start": 600.619,
+      "end": 605.1,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "second that second role and then once again,"
+    },
+    {
+      "start": 605.1,
+      "end": 605.82,
+      "start_int": 605,
+      "timestamp_label": "10:05",
+      "text": "same process,"
+    },
+    {
+      "start": 605.82,
+      "end": 607.3,
+      "start_int": 605,
+      "timestamp_label": "10:05",
+      "text": "they'll go through your supervisor,"
+    },
+    {
+      "start": 607.3,
+      "end": 609.36,
+      "start_int": 607,
+      "timestamp_label": "10:07",
+      "text": "then route to your gam."
+    },
+    {
+      "start": 609.4,
+      "end": 612.699,
+      "start_int": 609,
+      "timestamp_label": "10:09",
+      "text": "All right. Here's Pi and then I've"
+    },
+    {
+      "start": 612.699,
+      "end": 615.439,
+      "start_int": 612,
+      "timestamp_label": "10:12",
+      "text": "got the log in circled in red on the right,"
+    },
+    {
+      "start": 615.439,
+      "end": 617.48,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "so accessing C bar."
+    },
+    {
+      "start": 617.48,
+      "end": 620.239,
+      "start_int": 617,
+      "timestamp_label": "10:17",
+      "text": "So it is within Pi, so you're going"
+    },
+    {
+      "start": 620.239,
+      "end": 623.479,
+      "start_int": 620,
+      "timestamp_label": "10:20",
+      "text": "to want to log in to Pi and access Pi first."
+    },
+    {
+      "start": 623.479,
+      "end": 628.1,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "Okay. And then accept in the lower corner."
+    },
+    {
+      "start": 628.1,
+      "end": 633.16,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "Try to avoid using the back space buttons."
+    },
+    {
+      "start": 633.16,
+      "end": 635.22,
+      "start_int": 633,
+      "timestamp_label": "10:33",
+      "text": "All right for navigation."
+    },
+    {
+      "start": 635.22,
+      "end": 636.82,
+      "start_int": 635,
+      "timestamp_label": "10:35",
+      "text": "Log in with your card."
+    },
+    {
+      "start": 636.82,
+      "end": 637.459,
+      "start_int": 636,
+      "timestamp_label": "10:36",
+      "text": "So you can see"
+    },
+    {
+      "start": 637.459,
+      "end": 639.039,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "that log in Catar the middle of"
+    },
+    {
+      "start": 639.039,
+      "end": 641.159,
+      "start_int": 639,
+      "timestamp_label": "10:39",
+      "text": "page they'll come up"
+    },
+    {
+      "start": 641.159,
+      "end": 643.079,
+      "start_int": 641,
+      "timestamp_label": "10:41",
+      "text": "and similar to other systems,"
+    },
+    {
+      "start": 643.079,
+      "end": 645.434,
+      "start_int": 643,
+      "timestamp_label": "10:43",
+      "text": "you'll use your C and your pin to get in."
+    },
+    {
+      "start": 645.434,
+      "end": 647.03,
+      "start_int": 645,
+      "timestamp_label": "10:45",
+      "text": "All right. And then, as I said"
+    },
+    {
+      "start": 647.03,
+      "end": 649.03,
+      "start_int": 647,
+      "timestamp_label": "10:47",
+      "text": "before, there's a screenshot."
+    },
+    {
+      "start": 649.03,
+      "end": 651.189,
+      "start_int": 649,
+      "timestamp_label": "10:49",
+      "text": "So you can see, you're in Pi now,"
+    },
+    {
+      "start": 651.189,
+      "end": 652.47,
+      "start_int": 651,
+      "timestamp_label": "10:51",
+      "text": "but you don't see C bar."
+    },
+    {
+      "start": 652.47,
+      "end": 654.81,
+      "start_int": 652,
+      "timestamp_label": "10:52",
+      "text": "Y isn't showing and I've got"
+    },
+    {
+      "start": 654.81,
+      "end": 658.75,
+      "start_int": 654,
+      "timestamp_label": "10:54",
+      "text": "the EDA electronic data access circle."
+    },
+    {
+      "start": 658.75,
+      "end": 660.609,
+      "start_int": 658,
+      "timestamp_label": "10:58",
+      "text": "So go ahead and click on that."
+    },
+    {
+      "start": 660.609,
+      "end": 662.369,
+      "start_int": 660,
+      "timestamp_label": "11:00",
+      "text": "And then as you can see, look"
+    },
+    {
+      "start": 662.369,
+      "end": 663.57,
+      "start_int": 662,
+      "timestamp_label": "11:02",
+      "text": "for it on the left hand side."
+    },
+    {
+      "start": 663.57,
+      "end": 665.01,
+      "start_int": 663,
+      "timestamp_label": "11:03",
+      "text": "I've got that circled in red."
+    },
+    {
+      "start": 665.01,
+      "end": 666.989,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "Click on that C bar to get in"
+    },
+    {
+      "start": 666.989,
+      "end": 669.615,
+      "start_int": 666,
+      "timestamp_label": "11:06",
+      "text": "the sBar system within EDA."
+    },
+    {
+      "start": 669.615,
+      "end": 672.519,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "All right. And then you're acknowledging that"
+    },
+    {
+      "start": 672.519,
+      "end": 674.38,
+      "start_int": 672,
+      "timestamp_label": "11:12",
+      "text": "it is proprietary information"
+    },
+    {
+      "start": 674.38,
+      "end": 675.299,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "that you're dealing with,"
+    },
+    {
+      "start": 675.299,
+      "end": 678.559,
+      "start_int": 675,
+      "timestamp_label": "11:15",
+      "text": "that's covered by certain"
+    },
+    {
+      "start": 678.559,
+      "end": 680.759,
+      "start_int": 678,
+      "timestamp_label": "11:18",
+      "text": "acts and regulations."
+    },
+    {
+      "start": 680.759,
+      "end": 682.76,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "Information is to be"
+    },
+    {
+      "start": 682.76,
+      "end": 684.62,
+      "start_int": 682,
+      "timestamp_label": "11:22",
+      "text": "used for government purposes."
+    },
+    {
+      "start": 684.62,
+      "end": 687.099,
+      "start_int": 684,
+      "timestamp_label": "11:24",
+      "text": "A once again because"
+    },
+    {
+      "start": 687.099,
+      "end": 690.259,
+      "start_int": 687,
+      "timestamp_label": "11:27",
+      "text": "it's important. All right."
+    },
+    {
+      "start": 690.259,
+      "end": 691.84,
+      "start_int": 690,
+      "timestamp_label": "11:30",
+      "text": "And then there's a couple"
+    },
+    {
+      "start": 691.84,
+      "end": 693.299,
+      "start_int": 691,
+      "timestamp_label": "11:31",
+      "text": "of the regulations and"
+    },
+    {
+      "start": 693.299,
+      "end": 699.4,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "acts that govern that information in C bar."
+    },
+    {
+      "start": 699.89,
+      "end": 702.089,
+      "start_int": 699,
+      "timestamp_label": "11:39",
+      "text": "All right. And I'm getting in"
+    },
+    {
+      "start": 702.089,
+      "end": 704.009,
+      "start_int": 702,
+      "timestamp_label": "11:42",
+      "text": "CPR consists of two modules."
+    },
+    {
+      "start": 704.009,
+      "end": 705.369,
+      "start_int": 704,
+      "timestamp_label": "11:44",
+      "text": "So contractor data sheet"
+    },
+    {
+      "start": 705.369,
+      "end": 706.71,
+      "start_int": 705,
+      "timestamp_label": "11:45",
+      "text": "would be ACOs putting"
+    },
+    {
+      "start": 706.71,
+      "end": 710.489,
+      "start_int": 706,
+      "timestamp_label": "11:46",
+      "text": "in their information on contractors."
+    },
+    {
+      "start": 710.489,
+      "end": 712.27,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "We'll go go on that in details,"
+    },
+    {
+      "start": 712.27,
+      "end": 712.99,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "you know the rates,"
+    },
+    {
+      "start": 712.99,
+      "end": 714.93,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "business systems, et cetera."
+    },
+    {
+      "start": 714.93,
+      "end": 718.214,
+      "start_int": 714,
+      "timestamp_label": "11:54",
+      "text": "And then the contractor datasets."
+    },
+    {
+      "start": 718.214,
+      "end": 720.32,
+      "start_int": 718,
+      "timestamp_label": "11:58",
+      "text": "And then the business clearance"
+    },
+    {
+      "start": 720.32,
+      "end": 721.679,
+      "start_int": 720,
+      "timestamp_label": "12:00",
+      "text": "records would be for the PCO."
+    },
+    {
+      "start": 721.679,
+      "end": 723.439,
+      "start_int": 721,
+      "timestamp_label": "12:01",
+      "text": "So the one upgrade"
+    },
+    {
+      "start": 723.439,
+      "end": 724.98,
+      "start_int": 723,
+      "timestamp_label": "12:03",
+      "text": "on new system is in the old system."
+    },
+    {
+      "start": 724.98,
+      "end": 726.56,
+      "start_int": 724,
+      "timestamp_label": "12:04",
+      "text": "It was two separate systems,"
+    },
+    {
+      "start": 726.56,
+      "end": 727.939,
+      "start_int": 726,
+      "timestamp_label": "12:06",
+      "text": "and then you had"
+    },
+    {
+      "start": 727.939,
+      "end": 730.68,
+      "start_int": 727,
+      "timestamp_label": "12:07",
+      "text": "to try to get access to both."
+    },
+    {
+      "start": 730.68,
+      "end": 733.42,
+      "start_int": 730,
+      "timestamp_label": "12:10",
+      "text": "But you have access to both now,"
+    },
+    {
+      "start": 733.42,
+      "end": 735.74,
+      "start_int": 733,
+      "timestamp_label": "12:13",
+      "text": "although you'd be lim editing,"
+    },
+    {
+      "start": 735.74,
+      "end": 737.42,
+      "start_int": 735,
+      "timestamp_label": "12:15",
+      "text": "as I said before on your DTX."
+    },
+    {
+      "start": 737.42,
+      "end": 739.139,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "So so you know,"
+    },
+    {
+      "start": 739.139,
+      "end": 741.6,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "if you're working on buying command,"
+    },
+    {
+      "start": 741.6,
+      "end": 743.74,
+      "start_int": 741,
+      "timestamp_label": "12:21",
+      "text": "okay, business clearance records sections,"
+    },
+    {
+      "start": 743.74,
+      "end": 745.219,
+      "start_int": 743,
+      "timestamp_label": "12:23",
+      "text": "that's where you're going to edit and load"
+    },
+    {
+      "start": 745.219,
+      "end": 746.619,
+      "start_int": 745,
+      "timestamp_label": "12:25",
+      "text": "your business clearance documents,"
+    },
+    {
+      "start": 746.619,
+      "end": 748.739,
+      "start_int": 746,
+      "timestamp_label": "12:26",
+      "text": "but then you also need the information"
+    },
+    {
+      "start": 748.739,
+      "end": 750.679,
+      "start_int": 748,
+      "timestamp_label": "12:28",
+      "text": "from the DCMA side."
+    },
+    {
+      "start": 750.679,
+      "end": 752.919,
+      "start_int": 750,
+      "timestamp_label": "12:30",
+      "text": "So we'll go ahead and Move on."
+    },
+    {
+      "start": 752.919,
+      "end": 755.859,
+      "start_int": 752,
+      "timestamp_label": "12:32",
+      "text": "Here's just a couple sort of tips."
+    },
+    {
+      "start": 755.859,
+      "end": 757.039,
+      "start_int": 755,
+      "timestamp_label": "12:35",
+      "text": "As I said before, you"
+    },
+    {
+      "start": 757.039,
+      "end": 758.459,
+      "start_int": 757,
+      "timestamp_label": "12:37",
+      "text": "can view all records in the system,"
+    },
+    {
+      "start": 758.459,
+      "end": 760.16,
+      "start_int": 758,
+      "timestamp_label": "12:38",
+      "text": "you have to ask for them individually now,"
+    },
+    {
+      "start": 760.16,
+      "end": 761.4,
+      "start_int": 760,
+      "timestamp_label": "12:40",
+      "text": "you can view all the records."
+    },
+    {
+      "start": 761.4,
+      "end": 762.76,
+      "start_int": 761,
+      "timestamp_label": "12:41",
+      "text": "And then, as I said before,"
+    },
+    {
+      "start": 762.76,
+      "end": 764.559,
+      "start_int": 762,
+      "timestamp_label": "12:42",
+      "text": "it's sort of that edit role,"
+    },
+    {
+      "start": 764.559,
+      "end": 766.18,
+      "start_int": 764,
+      "timestamp_label": "12:44",
+      "text": "which makes sense, is limited"
+    },
+    {
+      "start": 766.18,
+      "end": 768.88,
+      "start_int": 766,
+      "timestamp_label": "12:46",
+      "text": "to your DDAC location."
+    },
+    {
+      "start": 768.96,
+      "end": 771.099,
+      "start_int": 768,
+      "timestamp_label": "12:48",
+      "text": "And then we've got some tips"
+    },
+    {
+      "start": 771.099,
+      "end": 773.619,
+      "start_int": 771,
+      "timestamp_label": "12:51",
+      "text": "for on the bottom of certain attached files."
+    },
+    {
+      "start": 773.619,
+      "end": 775.52,
+      "start_int": 773,
+      "timestamp_label": "12:53",
+      "text": "If you're trying to upload a file,"
+    },
+    {
+      "start": 775.52,
+      "end": 778.239,
+      "start_int": 775,
+      "timestamp_label": "12:55",
+      "text": "there's certain symbols that it doesn't like,"
+    },
+    {
+      "start": 778.239,
+      "end": 780.14,
+      "start_int": 778,
+      "timestamp_label": "12:58",
+      "text": "so you need to save the name"
+    },
+    {
+      "start": 780.14,
+      "end": 782.819,
+      "start_int": 780,
+      "timestamp_label": "13:00",
+      "text": "save file over a new name where you would"
+    },
+    {
+      "start": 782.819,
+      "end": 783.719,
+      "start_int": 782,
+      "timestamp_label": "13:02",
+      "text": "take out these sort of"
+    },
+    {
+      "start": 783.719,
+      "end": 785.599,
+      "start_int": 783,
+      "timestamp_label": "13:03",
+      "text": "special characters that give"
+    },
+    {
+      "start": 785.599,
+      "end": 787.02,
+      "start_int": 785,
+      "timestamp_label": "13:05",
+      "text": "it trouble including"
+    },
+    {
+      "start": 787.02,
+      "end": 788.599,
+      "start_int": 787,
+      "timestamp_label": "13:07",
+      "text": "a period for whatever reason."
+    },
+    {
+      "start": 788.599,
+      "end": 790.56,
+      "start_int": 788,
+      "timestamp_label": "13:08",
+      "text": "So just a little helpful tip"
+    },
+    {
+      "start": 790.56,
+      "end": 792.259,
+      "start_int": 790,
+      "timestamp_label": "13:10",
+      "text": "there. Okay, so here you go."
+    },
+    {
+      "start": 792.259,
+      "end": 796.02,
+      "start_int": 792,
+      "timestamp_label": "13:12",
+      "text": "When you click on that Pi and then EDA C bar."
+    },
+    {
+      "start": 796.02,
+      "end": 797.439,
+      "start_int": 796,
+      "timestamp_label": "13:16",
+      "text": "Okay, this is what's going to come up."
+    },
+    {
+      "start": 797.439,
+      "end": 798.86,
+      "start_int": 797,
+      "timestamp_label": "13:17",
+      "text": "So as I said before,"
+    },
+    {
+      "start": 798.86,
+      "end": 800.22,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "there's two main sections,"
+    },
+    {
+      "start": 800.22,
+      "end": 801.74,
+      "start_int": 800,
+      "timestamp_label": "13:20",
+      "text": "contractor data sheet,"
+    },
+    {
+      "start": 801.74,
+      "end": 804.539,
+      "start_int": 801,
+      "timestamp_label": "13:21",
+      "text": "if you're looking for the so called DCMA"
+    },
+    {
+      "start": 804.539,
+      "end": 807.499,
+      "start_int": 804,
+      "timestamp_label": "13:24",
+      "text": "slash ACO information on Contractor,"
+    },
+    {
+      "start": 807.499,
+      "end": 810.239,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "and then the business clearance where in"
+    },
+    {
+      "start": 810.239,
+      "end": 812.3,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "Coman personnel would be editing"
+    },
+    {
+      "start": 812.3,
+      "end": 812.979,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "and uploading"
+    },
+    {
+      "start": 812.979,
+      "end": 815.459,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "documents there and information."
+    },
+    {
+      "start": 815.51,
+      "end": 818.509,
+      "start_int": 815,
+      "timestamp_label": "13:35",
+      "text": "Okay. So let's cover most people"
+    },
+    {
+      "start": 818.509,
+      "end": 820.209,
+      "start_int": 818,
+      "timestamp_label": "13:38",
+      "text": "that this call probably"
+    },
+    {
+      "start": 820.209,
+      "end": 821.389,
+      "start_int": 820,
+      "timestamp_label": "13:40",
+      "text": "on the bond command side."
+    },
+    {
+      "start": 821.389,
+      "end": 823.109,
+      "start_int": 821,
+      "timestamp_label": "13:41",
+      "text": "So we'll cover that part"
+    },
+    {
+      "start": 823.109,
+      "end": 825.189,
+      "start_int": 823,
+      "timestamp_label": "13:43",
+      "text": "for so if you click on"
+    },
+    {
+      "start": 825.189,
+      "end": 827.349,
+      "start_int": 825,
+      "timestamp_label": "13:45",
+      "text": "that business clearance part,"
+    },
+    {
+      "start": 827.51,
+      "end": 829.529,
+      "start_int": 827,
+      "timestamp_label": "13:47",
+      "text": "here's what would come up."
+    },
+    {
+      "start": 829.529,
+      "end": 831.009,
+      "start_int": 829,
+      "timestamp_label": "13:49",
+      "text": "Here's what you would see, as you can see,"
+    },
+    {
+      "start": 831.009,
+      "end": 831.69,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "you're going to search"
+    },
+    {
+      "start": 831.69,
+      "end": 833.249,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "for business clearance record,"
+    },
+    {
+      "start": 833.249,
+      "end": 836.589,
+      "start_int": 833,
+      "timestamp_label": "13:53",
+      "text": "you could search on any of these items."
+    },
+    {
+      "start": 836.589,
+      "end": 837.829,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "Perhaps you have the cage of"
+    },
+    {
+      "start": 837.829,
+      "end": 841.649,
+      "start_int": 837,
+      "timestamp_label": "13:57",
+      "text": "the contractor or maybe a contract number,"
+    },
+    {
+      "start": 841.649,
+      "end": 843.449,
+      "start_int": 841,
+      "timestamp_label": "14:01",
+      "text": "or maybe you're looking"
+    },
+    {
+      "start": 843.449,
+      "end": 846.29,
+      "start_int": 843,
+      "timestamp_label": "14:03",
+      "text": "at by DDA and you're looking at,"
+    },
+    {
+      "start": 846.29,
+      "end": 847.91,
+      "start_int": 846,
+      "timestamp_label": "14:06",
+      "text": "okay, you know, what contracts"
+    },
+    {
+      "start": 847.91,
+      "end": 849.99,
+      "start_int": 847,
+      "timestamp_label": "14:07",
+      "text": "are up under our DDA, et cetera."
+    },
+    {
+      "start": 849.99,
+      "end": 852.269,
+      "start_int": 849,
+      "timestamp_label": "14:09",
+      "text": "But you could use any of"
+    },
+    {
+      "start": 852.47,
+      "end": 854.77,
+      "start_int": 852,
+      "timestamp_label": "14:12",
+      "text": "these fields to search"
+    },
+    {
+      "start": 854.77,
+      "end": 856.789,
+      "start_int": 854,
+      "timestamp_label": "14:14",
+      "text": "for what you're looking for."
+    },
+    {
+      "start": 857.37,
+      "end": 858.689,
+      "start_int": 857,
+      "timestamp_label": "14:17",
+      "text": "All right."
+    },
+    {
+      "start": 858.689,
+      "end": 860.329,
+      "start_int": 858,
+      "timestamp_label": "14:18",
+      "text": "Then with in business clearance,"
+    },
+    {
+      "start": 860.329,
+      "end": 862.549,
+      "start_int": 860,
+      "timestamp_label": "14:20",
+      "text": "two main section, contract details"
+    },
+    {
+      "start": 862.549,
+      "end": 864.23,
+      "start_int": 862,
+      "timestamp_label": "14:22",
+      "text": "and financial details."
+    },
+    {
+      "start": 864.23,
+      "end": 865.87,
+      "start_int": 864,
+      "timestamp_label": "14:24",
+      "text": "So each has information"
+    },
+    {
+      "start": 865.87,
+      "end": 867.71,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "specific to that area."
+    },
+    {
+      "start": 867.71,
+      "end": 869.529,
+      "start_int": 867,
+      "timestamp_label": "14:27",
+      "text": "So we'll go through those."
+    },
+    {
+      "start": 869.529,
+      "end": 872.009,
+      "start_int": 869,
+      "timestamp_label": "14:29",
+      "text": "Okay. So on the contract details,"
+    },
+    {
+      "start": 872.009,
+      "end": 874.59,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "this will be basic information"
+    },
+    {
+      "start": 874.59,
+      "end": 876.05,
+      "start_int": 874,
+      "timestamp_label": "14:34",
+      "text": "on contractor cage,"
+    },
+    {
+      "start": 876.05,
+      "end": 880.309,
+      "start_int": 876,
+      "timestamp_label": "14:36",
+      "text": "contract number, et cetera PUC information."
+    },
+    {
+      "start": 880.309,
+      "end": 880.789,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "You know"
+    },
+    {
+      "start": 880.789,
+      "end": 883.57,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "what government and contractor personnel"
+    },
+    {
+      "start": 883.57,
+      "end": 885.59,
+      "start_int": 883,
+      "timestamp_label": "14:43",
+      "text": "worked on the negotiation,"
+    },
+    {
+      "start": 885.59,
+      "end": 887.709,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "and then attachments to"
+    },
+    {
+      "start": 887.709,
+      "end": 889.895,
+      "start_int": 887,
+      "timestamp_label": "14:47",
+      "text": "the records included also in this area."
+    },
+    {
+      "start": 889.895,
+      "end": 891.719,
+      "start_int": 889,
+      "timestamp_label": "14:49",
+      "text": "All right. So that's what it looks like."
+    },
+    {
+      "start": 891.719,
+      "end": 893.279,
+      "start_int": 891,
+      "timestamp_label": "14:51",
+      "text": "You can see the fields."
+    },
+    {
+      "start": 893.279,
+      "end": 895.679,
+      "start_int": 893,
+      "timestamp_label": "14:53",
+      "text": "And just to know anything or you"
+    },
+    {
+      "start": 895.679,
+      "end": 898.36,
+      "start_int": 895,
+      "timestamp_label": "14:55",
+      "text": "see a red asterisk at the end,"
+    },
+    {
+      "start": 898.36,
+      "end": 900.64,
+      "start_int": 898,
+      "timestamp_label": "14:58",
+      "text": "that would be a required field."
+    },
+    {
+      "start": 900.64,
+      "end": 902.659,
+      "start_int": 900,
+      "timestamp_label": "15:00",
+      "text": "Whereas the other field you"
+    },
+    {
+      "start": 902.659,
+      "end": 904.999,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "may or may not have the information."
+    },
+    {
+      "start": 904.999,
+      "end": 907.84,
+      "start_int": 904,
+      "timestamp_label": "15:04",
+      "text": "So DTEC that's a required field,"
+    },
+    {
+      "start": 907.84,
+      "end": 911.119,
+      "start_int": 907,
+      "timestamp_label": "15:07",
+      "text": "et cetera, the some other ones aren't."
+    },
+    {
+      "start": 911.119,
+      "end": 913.699,
+      "start_int": 911,
+      "timestamp_label": "15:11",
+      "text": "And then you've got a description of"
+    },
+    {
+      "start": 913.699,
+      "end": 915.9,
+      "start_int": 913,
+      "timestamp_label": "15:13",
+      "text": "the acquisition and summary of negotiations."
+    },
+    {
+      "start": 915.9,
+      "end": 918.699,
+      "start_int": 915,
+      "timestamp_label": "15:15",
+      "text": "So that's the chance, as we said before,"
+    },
+    {
+      "start": 918.699,
+      "end": 921.139,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "for the contracting personnel who"
+    },
+    {
+      "start": 921.139,
+      "end": 922.619,
+      "start_int": 921,
+      "timestamp_label": "15:21",
+      "text": "negotiated to put in"
+    },
+    {
+      "start": 922.619,
+      "end": 923.779,
+      "start_int": 922,
+      "timestamp_label": "15:22",
+      "text": "their notes of how the"
+    },
+    {
+      "start": 923.779,
+      "end": 925.239,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "negotiation went, you know,"
+    },
+    {
+      "start": 925.239,
+      "end": 927.4,
+      "start_int": 925,
+      "timestamp_label": "15:25",
+      "text": "good bad and in between"
+    },
+    {
+      "start": 927.4,
+      "end": 929.16,
+      "start_int": 927,
+      "timestamp_label": "15:27",
+      "text": "to help the next personnel"
+    },
+    {
+      "start": 929.16,
+      "end": 931.119,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "who may or may not take over,"
+    },
+    {
+      "start": 931.119,
+      "end": 933.179,
+      "start_int": 931,
+      "timestamp_label": "15:31",
+      "text": "you know, next time if"
+    },
+    {
+      "start": 933.179,
+      "end": 935.739,
+      "start_int": 933,
+      "timestamp_label": "15:33",
+      "text": "the contract is up for renewal."
+    },
+    {
+      "start": 938.94,
+      "end": 941.019,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "All right. So they're still in"
+    },
+    {
+      "start": 941.019,
+      "end": 943.02,
+      "start_int": 941,
+      "timestamp_label": "15:41",
+      "text": "the contract details, more information."
+    },
+    {
+      "start": 943.02,
+      "end": 945.3,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "There's moving down the page,"
+    },
+    {
+      "start": 945.3,
+      "end": 947.2,
+      "start_int": 945,
+      "timestamp_label": "15:45",
+      "text": "point of contact info,"
+    },
+    {
+      "start": 947.2,
+      "end": 950.94,
+      "start_int": 947,
+      "timestamp_label": "15:47",
+      "text": "contract details, more fields there."
+    },
+    {
+      "start": 950.94,
+      "end": 952.859,
+      "start_int": 950,
+      "timestamp_label": "15:50",
+      "text": "And then there's attachment section"
+    },
+    {
+      "start": 952.859,
+      "end": 954.68,
+      "start_int": 952,
+      "timestamp_label": "15:52",
+      "text": "at the bottom for records."
+    },
+    {
+      "start": 954.68,
+      "end": 957.38,
+      "start_int": 954,
+      "timestamp_label": "15:54",
+      "text": "The uploaded to the system."
+    },
+    {
+      "start": 958.56,
+      "end": 960.979,
+      "start_int": 958,
+      "timestamp_label": "15:58",
+      "text": "Okay. Moving on to"
+    },
+    {
+      "start": 960.979,
+      "end": 963.959,
+      "start_int": 960,
+      "timestamp_label": "16:00",
+      "text": "the financial details part"
+    },
+    {
+      "start": 963.959,
+      "end": 965.46,
+      "start_int": 963,
+      "timestamp_label": "16:03",
+      "text": "of the clearance records, okay?"
+    },
+    {
+      "start": 965.46,
+      "end": 967.02,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "Move on that section."
+    },
+    {
+      "start": 967.02,
+      "end": 970.3,
+      "start_int": 967,
+      "timestamp_label": "16:07",
+      "text": "So as you can see at the top,"
+    },
+    {
+      "start": 970.3,
+      "end": 972.06,
+      "start_int": 970,
+      "timestamp_label": "16:10",
+      "text": "you can see it highlighted in blue."
+    },
+    {
+      "start": 972.06,
+      "end": 973.18,
+      "start_int": 972,
+      "timestamp_label": "16:12",
+      "text": "So the first section we're"
+    },
+    {
+      "start": 973.18,
+      "end": 974.88,
+      "start_int": 973,
+      "timestamp_label": "16:13",
+      "text": "going to contract, details,"
+    },
+    {
+      "start": 974.88,
+      "end": 976.099,
+      "start_int": 974,
+      "timestamp_label": "16:14",
+      "text": "now it's great out because we've"
+    },
+    {
+      "start": 976.099,
+      "end": 977.26,
+      "start_int": 976,
+      "timestamp_label": "16:16",
+      "text": "moved on to the next tab,"
+    },
+    {
+      "start": 977.26,
+      "end": 979.059,
+      "start_int": 977,
+      "timestamp_label": "16:17",
+      "text": "which is financial details."
+    },
+    {
+      "start": 979.059,
+      "end": 980.339,
+      "start_int": 979,
+      "timestamp_label": "16:19",
+      "text": "So that shows you how to"
+    },
+    {
+      "start": 980.339,
+      "end": 981.88,
+      "start_int": 980,
+      "timestamp_label": "16:20",
+      "text": "navigate through the system."
+    },
+    {
+      "start": 981.88,
+      "end": 984.2,
+      "start_int": 981,
+      "timestamp_label": "16:21",
+      "text": "And then just as you'd probably guess,"
+    },
+    {
+      "start": 984.2,
+      "end": 985.959,
+      "start_int": 984,
+      "timestamp_label": "16:24",
+      "text": "financial details would be,"
+    },
+    {
+      "start": 985.959,
+      "end": 988.04,
+      "start_int": 985,
+      "timestamp_label": "16:25",
+      "text": "you know, the so called numbers,"
+    },
+    {
+      "start": 988.04,
+      "end": 991.039,
+      "start_int": 988,
+      "timestamp_label": "16:28",
+      "text": "you know, cost price, you know,"
+    },
+    {
+      "start": 991.039,
+      "end": 995.739,
+      "start_int": 991,
+      "timestamp_label": "16:31",
+      "text": "proposed cost, final negotiated values,"
+    },
+    {
+      "start": 995.739,
+      "end": 1001.389,
+      "start_int": 995,
+      "timestamp_label": "16:35",
+      "text": "et cetera and number of fields there."
+    },
+    {
+      "start": 1003.23,
+      "end": 1005.43,
+      "start_int": 1003,
+      "timestamp_label": "16:43",
+      "text": "Okay. So when you're creating"
+    },
+    {
+      "start": 1005.43,
+      "end": 1006.57,
+      "start_int": 1005,
+      "timestamp_label": "16:45",
+      "text": "a business clearance record,"
+    },
+    {
+      "start": 1006.57,
+      "end": 1009.609,
+      "start_int": 1006,
+      "timestamp_label": "16:46",
+      "text": "remember to put the point of contact info for"
+    },
+    {
+      "start": 1009.609,
+      "end": 1013.049,
+      "start_int": 1009,
+      "timestamp_label": "16:49",
+      "text": "the PCO and other government negotiators,"
+    },
+    {
+      "start": 1013.049,
+      "end": 1016.53,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "and then also the contractor, POC info."
+    },
+    {
+      "start": 1016.53,
+      "end": 1018.689,
+      "start_int": 1016,
+      "timestamp_label": "16:56",
+      "text": "If you're working on this,"
+    },
+    {
+      "start": 1018.689,
+      "end": 1019.949,
+      "start_int": 1018,
+      "timestamp_label": "16:58",
+      "text": "if you're working on"
+    },
+    {
+      "start": 1019.949,
+      "end": 1021.29,
+      "start_int": 1019,
+      "timestamp_label": "16:59",
+      "text": "a record and you're not done"
+    },
+    {
+      "start": 1021.29,
+      "end": 1023.43,
+      "start_int": 1021,
+      "timestamp_label": "17:01",
+      "text": "or you're not sure that you're done,"
+    },
+    {
+      "start": 1023.43,
+      "end": 1025.51,
+      "start_int": 1023,
+      "timestamp_label": "17:03",
+      "text": "what we want to do is save it as"
+    },
+    {
+      "start": 1025.51,
+      "end": 1027.309,
+      "start_int": 1025,
+      "timestamp_label": "17:05",
+      "text": "a draft because that means you can"
+    },
+    {
+      "start": 1027.309,
+      "end": 1029.31,
+      "start_int": 1027,
+      "timestamp_label": "17:07",
+      "text": "come back later and then"
+    },
+    {
+      "start": 1029.31,
+      "end": 1030.869,
+      "start_int": 1029,
+      "timestamp_label": "17:09",
+      "text": "either update something that"
+    },
+    {
+      "start": 1030.869,
+      "end": 1032.049,
+      "start_int": 1030,
+      "timestamp_label": "17:10",
+      "text": "you know you missed,"
+    },
+    {
+      "start": 1032.049,
+      "end": 1033.489,
+      "start_int": 1032,
+      "timestamp_label": "17:12",
+      "text": "say you have some of the information"
+    },
+    {
+      "start": 1033.489,
+      "end": 1035.71,
+      "start_int": 1033,
+      "timestamp_label": "17:13",
+      "text": "and not all the information"
+    },
+    {
+      "start": 1035.71,
+      "end": 1037.07,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "or you have all the information,"
+    },
+    {
+      "start": 1037.07,
+      "end": 1038.809,
+      "start_int": 1037,
+      "timestamp_label": "17:17",
+      "text": "but there's something you're not sure of."
+    },
+    {
+      "start": 1038.809,
+      "end": 1039.789,
+      "start_int": 1038,
+      "timestamp_label": "17:18",
+      "text": "You could go ahead and"
+    },
+    {
+      "start": 1039.789,
+      "end": 1040.849,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "save it a draft and then you"
+    },
+    {
+      "start": 1040.849,
+      "end": 1042.69,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "could come back later, for no other reason,"
+    },
+    {
+      "start": 1042.69,
+      "end": 1044.229,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "just to look at it and check it"
+    },
+    {
+      "start": 1044.229,
+      "end": 1046.789,
+      "start_int": 1044,
+      "timestamp_label": "17:24",
+      "text": "before you mark it as complete."
+    },
+    {
+      "start": 1046.789,
+      "end": 1048.809,
+      "start_int": 1046,
+      "timestamp_label": "17:26",
+      "text": "Because when you're complete and"
+    },
+    {
+      "start": 1048.809,
+      "end": 1050.109,
+      "start_int": 1048,
+      "timestamp_label": "17:28",
+      "text": "you save it as complete,"
+    },
+    {
+      "start": 1050.109,
+      "end": 1051.069,
+      "start_int": 1050,
+      "timestamp_label": "17:30",
+      "text": "just let you know that"
+    },
+    {
+      "start": 1051.069,
+      "end": 1052.169,
+      "start_int": 1051,
+      "timestamp_label": "17:31",
+      "text": "you're locking the record."
+    },
+    {
+      "start": 1052.169,
+      "end": 1053.49,
+      "start_int": 1052,
+      "timestamp_label": "17:32",
+      "text": "That means you're done, okay?"
+    },
+    {
+      "start": 1053.49,
+      "end": 1054.469,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "The negotiates over,"
+    },
+    {
+      "start": 1054.469,
+      "end": 1056.09,
+      "start_int": 1054,
+      "timestamp_label": "17:34",
+      "text": "you have all the numbers."
+    },
+    {
+      "start": 1056.09,
+      "end": 1058.689,
+      "start_int": 1056,
+      "timestamp_label": "17:36",
+      "text": "There's nothing left to be determined that"
+    },
+    {
+      "start": 1058.689,
+      "end": 1061.349,
+      "start_int": 1058,
+      "timestamp_label": "17:38",
+      "text": "you're questioning, you're done."
+    },
+    {
+      "start": 1061.349,
+      "end": 1062.989,
+      "start_int": 1061,
+      "timestamp_label": "17:41",
+      "text": "So then once it's complete,"
+    },
+    {
+      "start": 1062.989,
+      "end": 1065.509,
+      "start_int": 1062,
+      "timestamp_label": "17:42",
+      "text": "then you'll lose your edit capability,"
+    },
+    {
+      "start": 1065.509,
+      "end": 1068.139,
+      "start_int": 1065,
+      "timestamp_label": "17:45",
+      "text": "so it literally locks the record."
+    },
+    {
+      "start": 1068.139,
+      "end": 1071.689,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "Now, there is the escape pass that"
+    },
+    {
+      "start": 1071.689,
+      "end": 1073.47,
+      "start_int": 1071,
+      "timestamp_label": "17:51",
+      "text": "if you inadvertently mark"
+    },
+    {
+      "start": 1073.47,
+      "end": 1074.73,
+      "start_int": 1073,
+      "timestamp_label": "17:53",
+      "text": "something as complete."
+    },
+    {
+      "start": 1074.73,
+      "end": 1076.03,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "And then you need to dit,"
+    },
+    {
+      "start": 1076.03,
+      "end": 1078.85,
+      "start_int": 1076,
+      "timestamp_label": "17:56",
+      "text": "you can go ahead and as we showed before,"
+    },
+    {
+      "start": 1078.85,
+      "end": 1081.27,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "you could e mail the CBR inbox."
+    },
+    {
+      "start": 1081.27,
+      "end": 1084.109,
+      "start_int": 1081,
+      "timestamp_label": "18:01",
+      "text": "And then we could open it for you."
+    },
+    {
+      "start": 1084.109,
+      "end": 1085.189,
+      "start_int": 1084,
+      "timestamp_label": "18:04",
+      "text": "But that's somewhat of"
+    },
+    {
+      "start": 1085.189,
+      "end": 1087.049,
+      "start_int": 1085,
+      "timestamp_label": "18:05",
+      "text": "administrative process,"
+    },
+    {
+      "start": 1087.049,
+      "end": 1087.849,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "and I'll take time."
+    },
+    {
+      "start": 1087.849,
+      "end": 1089.99,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "So as I said before, if you're not sure,"
+    },
+    {
+      "start": 1089.99,
+      "end": 1092.39,
+      "start_int": 1089,
+      "timestamp_label": "18:09",
+      "text": "just save it as draft until you're sure"
+    },
+    {
+      "start": 1092.39,
+      "end": 1093.589,
+      "start_int": 1092,
+      "timestamp_label": "18:12",
+      "text": "that you want to save as"
+    },
+    {
+      "start": 1093.589,
+      "end": 1095.329,
+      "start_int": 1093,
+      "timestamp_label": "18:13",
+      "text": "complete and lock the record."
+    },
+    {
+      "start": 1095.329,
+      "end": 1097.489,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "So, I've got the buttons at the bottom,"
+    },
+    {
+      "start": 1097.489,
+      "end": 1098.969,
+      "start_int": 1097,
+      "timestamp_label": "18:17",
+      "text": "you can see save as draft."
+    },
+    {
+      "start": 1098.969,
+      "end": 1101.77,
+      "start_int": 1098,
+      "timestamp_label": "18:18",
+      "text": "Save as complete. So it's"
+    },
+    {
+      "start": 1101.77,
+      "end": 1105.834,
+      "start_int": 1101,
+      "timestamp_label": "18:21",
+      "text": "pretty clear there to follow. All right."
+    },
+    {
+      "start": 1105.834,
+      "end": 1108.18,
+      "start_int": 1105,
+      "timestamp_label": "18:25",
+      "text": "Okay. So moving on to the other side,"
+    },
+    {
+      "start": 1108.18,
+      "end": 1109.9,
+      "start_int": 1108,
+      "timestamp_label": "18:28",
+      "text": "the contractor data sheets."
+    },
+    {
+      "start": 1109.9,
+      "end": 1111.699,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "So this would be information"
+    },
+    {
+      "start": 1111.699,
+      "end": 1114.379,
+      "start_int": 1111,
+      "timestamp_label": "18:31",
+      "text": "about the contractor that would be put in,"
+    },
+    {
+      "start": 1114.379,
+      "end": 1117.119,
+      "start_int": 1114,
+      "timestamp_label": "18:34",
+      "text": "you know, usually by DCMA ACOs"
+    },
+    {
+      "start": 1117.119,
+      "end": 1119.78,
+      "start_int": 1117,
+      "timestamp_label": "18:37",
+      "text": "and the personnel who support them."
+    },
+    {
+      "start": 1119.78,
+      "end": 1122.12,
+      "start_int": 1119,
+      "timestamp_label": "18:39",
+      "text": "So same thing, once again,"
+    },
+    {
+      "start": 1122.12,
+      "end": 1123.039,
+      "start_int": 1122,
+      "timestamp_label": "18:42",
+      "text": "there's a number of"
+    },
+    {
+      "start": 1123.039,
+      "end": 1124.439,
+      "start_int": 1123,
+      "timestamp_label": "18:43",
+      "text": "fields that could be searched for."
+    },
+    {
+      "start": 1124.439,
+      "end": 1125.939,
+      "start_int": 1124,
+      "timestamp_label": "18:44",
+      "text": "So if you're working on"
+    },
+    {
+      "start": 1125.939,
+      "end": 1127.679,
+      "start_int": 1125,
+      "timestamp_label": "18:45",
+      "text": "a contract on a certain contractor and"
+    },
+    {
+      "start": 1127.679,
+      "end": 1128.939,
+      "start_int": 1127,
+      "timestamp_label": "18:47",
+      "text": "you're trying to find out"
+    },
+    {
+      "start": 1128.939,
+      "end": 1131.64,
+      "start_int": 1128,
+      "timestamp_label": "18:48",
+      "text": "the DCMA ACO information,"
+    },
+    {
+      "start": 1131.64,
+      "end": 1133.539,
+      "start_int": 1131,
+      "timestamp_label": "18:51",
+      "text": "you know, you can search on a cage,"
+    },
+    {
+      "start": 1133.539,
+      "end": 1136.499,
+      "start_int": 1133,
+      "timestamp_label": "18:53",
+      "text": "you could search by DoD, et cetera."
+    },
+    {
+      "start": 1136.499,
+      "end": 1138.059,
+      "start_int": 1136,
+      "timestamp_label": "18:56",
+      "text": "You've got a number of fields that you can"
+    },
+    {
+      "start": 1138.059,
+      "end": 1139.759,
+      "start_int": 1138,
+      "timestamp_label": "18:58",
+      "text": "search on here to try to"
+    },
+    {
+      "start": 1139.759,
+      "end": 1144.659,
+      "start_int": 1139,
+      "timestamp_label": "18:59",
+      "text": "find what you're looking for. All right."
+    },
+    {
+      "start": 1144.659,
+      "end": 1146.099,
+      "start_int": 1144,
+      "timestamp_label": "19:04",
+      "text": "So there's just sort of a sample"
+    },
+    {
+      "start": 1146.099,
+      "end": 1147.76,
+      "start_int": 1146,
+      "timestamp_label": "19:06",
+      "text": "test cage that we're"
+    },
+    {
+      "start": 1147.76,
+      "end": 1151.96,
+      "start_int": 1147,
+      "timestamp_label": "19:07",
+      "text": "showing as a note."
+    },
+    {
+      "start": 1151.96,
+      "end": 1153.419,
+      "start_int": 1151,
+      "timestamp_label": "19:11",
+      "text": "So say I typed in"
+    },
+    {
+      "start": 1153.419,
+      "end": 1155.619,
+      "start_int": 1153,
+      "timestamp_label": "19:13",
+      "text": "the cage and then I came back up."
+    },
+    {
+      "start": 1155.619,
+      "end": 1156.959,
+      "start_int": 1155,
+      "timestamp_label": "19:15",
+      "text": "And then as you can see, it's"
+    },
+    {
+      "start": 1156.959,
+      "end": 1158.819,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "like there's not much information."
+    },
+    {
+      "start": 1158.819,
+      "end": 1160.64,
+      "start_int": 1158,
+      "timestamp_label": "19:18",
+      "text": "The trick here as I've got"
+    },
+    {
+      "start": 1160.64,
+      "end": 1162.819,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "circled in red is you can use that tab bar"
+    },
+    {
+      "start": 1162.819,
+      "end": 1164.56,
+      "start_int": 1162,
+      "timestamp_label": "19:22",
+      "text": "on the bottom to move"
+    },
+    {
+      "start": 1164.56,
+      "end": 1166.559,
+      "start_int": 1164,
+      "timestamp_label": "19:24",
+      "text": "over because you won't see"
+    },
+    {
+      "start": 1166.559,
+      "end": 1168.44,
+      "start_int": 1166,
+      "timestamp_label": "19:26",
+      "text": "all the information as you can see there's"
+    },
+    {
+      "start": 1168.44,
+      "end": 1169.94,
+      "start_int": 1168,
+      "timestamp_label": "19:28",
+      "text": "a scroll bar because it's showing"
+    },
+    {
+      "start": 1169.94,
+      "end": 1171.599,
+      "start_int": 1169,
+      "timestamp_label": "19:29",
+      "text": "part of the information, but not all of it."
+    },
+    {
+      "start": 1171.599,
+      "end": 1173.38,
+      "start_int": 1171,
+      "timestamp_label": "19:31",
+      "text": "So you can see some things."
+    },
+    {
+      "start": 1173.38,
+      "end": 1176.099,
+      "start_int": 1173,
+      "timestamp_label": "19:33",
+      "text": "You going to want to go ahead and tab on"
+    },
+    {
+      "start": 1176.099,
+      "end": 1180.5,
+      "start_int": 1176,
+      "timestamp_label": "19:36",
+      "text": "that scroll bar that I've got circled in red."
+    },
+    {
+      "start": 1184.16,
+      "end": 1186.259,
+      "start_int": 1184,
+      "timestamp_label": "19:44",
+      "text": "All right. So then you go over to"
+    },
+    {
+      "start": 1186.259,
+      "end": 1187.479,
+      "start_int": 1186,
+      "timestamp_label": "19:46",
+      "text": "the right and you can click on"
+    },
+    {
+      "start": 1187.479,
+      "end": 1190.759,
+      "start_int": 1187,
+      "timestamp_label": "19:47",
+      "text": "the pencil to look at it and the view at it."
+    },
+    {
+      "start": 1190.759,
+      "end": 1193.419,
+      "start_int": 1190,
+      "timestamp_label": "19:50",
+      "text": "So then this will bring up the record."
+    },
+    {
+      "start": 1193.419,
+      "end": 1194.519,
+      "start_int": 1193,
+      "timestamp_label": "19:53",
+      "text": "All right."
+    },
+    {
+      "start": 1194.519,
+      "end": 1197.239,
+      "start_int": 1194,
+      "timestamp_label": "19:54",
+      "text": "So I'm going in the contractor datasheet."
+    },
+    {
+      "start": 1197.239,
+      "end": 1199.219,
+      "start_int": 1197,
+      "timestamp_label": "19:57",
+      "text": "Once again, as with the business clearance,"
+    },
+    {
+      "start": 1199.219,
+      "end": 1200.34,
+      "start_int": 1199,
+      "timestamp_label": "19:59",
+      "text": "there's different sections."
+    },
+    {
+      "start": 1200.34,
+      "end": 1203.419,
+      "start_int": 1200,
+      "timestamp_label": "20:00",
+      "text": "So you've got corporate dataset,"
+    },
+    {
+      "start": 1203.419,
+      "end": 1205.72,
+      "start_int": 1203,
+      "timestamp_label": "20:03",
+      "text": "the rates, business systems,"
+    },
+    {
+      "start": 1205.72,
+      "end": 1209.64,
+      "start_int": 1205,
+      "timestamp_label": "20:05",
+      "text": "and, and also corporate information."
+    },
+    {
+      "start": 1211.23,
+      "end": 1214.23,
+      "start_int": 1211,
+      "timestamp_label": "20:11",
+      "text": "All right. So corporate data,"
+    },
+    {
+      "start": 1214.23,
+      "end": 1216.789,
+      "start_int": 1214,
+      "timestamp_label": "20:14",
+      "text": "that's going to be your cage"
+    },
+    {
+      "start": 1216.789,
+      "end": 1218.549,
+      "start_int": 1216,
+      "timestamp_label": "20:16",
+      "text": "and other information,"
+    },
+    {
+      "start": 1218.549,
+      "end": 1221.549,
+      "start_int": 1218,
+      "timestamp_label": "20:18",
+      "text": "POC information, et cetera."
+    },
+    {
+      "start": 1221.95,
+      "end": 1224.229,
+      "start_int": 1221,
+      "timestamp_label": "20:21",
+      "text": "That's what it's going to look like."
+    },
+    {
+      "start": 1224.229,
+      "end": 1226.349,
+      "start_int": 1224,
+      "timestamp_label": "20:24",
+      "text": "Then scroll down the page."
+    },
+    {
+      "start": 1226.349,
+      "end": 1230.469,
+      "start_int": 1226,
+      "timestamp_label": "20:26",
+      "text": "There's your POC contact information."
+    },
+    {
+      "start": 1230.67,
+      "end": 1233.15,
+      "start_int": 1230,
+      "timestamp_label": "20:30",
+      "text": "And then corporate details,"
+    },
+    {
+      "start": 1233.15,
+      "end": 1235.609,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "address, cage, et cetera."
+    },
+    {
+      "start": 1235.609,
+      "end": 1237.649,
+      "start_int": 1235,
+      "timestamp_label": "20:35",
+      "text": "And then DDA as far"
+    },
+    {
+      "start": 1237.649,
+      "end": 1242.749,
+      "start_int": 1237,
+      "timestamp_label": "20:37",
+      "text": "as which DCMA office is responsible for it."
+    },
+    {
+      "start": 1243.46,
+      "end": 1246.099,
+      "start_int": 1243,
+      "timestamp_label": "20:43",
+      "text": "Okay. Moving on to the next section"
+    },
+    {
+      "start": 1246.099,
+      "end": 1248.059,
+      "start_int": 1246,
+      "timestamp_label": "20:46",
+      "text": "would be rates."
+    },
+    {
+      "start": 1248.059,
+      "end": 1249.139,
+      "start_int": 1248,
+      "timestamp_label": "20:48",
+      "text": "This is going to be"
+    },
+    {
+      "start": 1249.139,
+      "end": 1251.459,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "where your ford rates are,"
+    },
+    {
+      "start": 1251.459,
+      "end": 1255.7,
+      "start_int": 1251,
+      "timestamp_label": "20:51",
+      "text": "and then also final indirect rates."
+    },
+    {
+      "start": 1256.92,
+      "end": 1260.32,
+      "start_int": 1256,
+      "timestamp_label": "20:56",
+      "text": "Okay. So this actually has subsections."
+    },
+    {
+      "start": 1260.32,
+      "end": 1262.46,
+      "start_int": 1260,
+      "timestamp_label": "21:00",
+      "text": "First section is Ford pricing rates,"
+    },
+    {
+      "start": 1262.46,
+      "end": 1266.0,
+      "start_int": 1262,
+      "timestamp_label": "21:02",
+      "text": "F PRAs, FPRRs, as you can see here."
+    },
+    {
+      "start": 1266.04,
+      "end": 1267.939,
+      "start_int": 1266,
+      "timestamp_label": "21:06",
+      "text": "Then if they happen to"
+    },
+    {
+      "start": 1267.939,
+      "end": 1270.68,
+      "start_int": 1267,
+      "timestamp_label": "21:07",
+      "text": "have any independent research"
+    },
+    {
+      "start": 1270.68,
+      "end": 1273.819,
+      "start_int": 1270,
+      "timestamp_label": "21:10",
+      "text": "and development or bidden proposal costs,"
+    },
+    {
+      "start": 1273.819,
+      "end": 1275.619,
+      "start_int": 1273,
+      "timestamp_label": "21:13",
+      "text": "that would also be in here."
+    },
+    {
+      "start": 1275.619,
+      "end": 1278.479,
+      "start_int": 1275,
+      "timestamp_label": "21:15",
+      "text": "As you can see it's highlighted in blue is"
+    },
+    {
+      "start": 1278.479,
+      "end": 1279.799,
+      "start_int": 1278,
+      "timestamp_label": "21:18",
+      "text": "how you see in the system"
+    },
+    {
+      "start": 1279.799,
+      "end": 1282.279,
+      "start_int": 1279,
+      "timestamp_label": "21:19",
+      "text": "and tap through the meu."
+    },
+    {
+      "start": 1282.279,
+      "end": 1283.819,
+      "start_int": 1282,
+      "timestamp_label": "21:22",
+      "text": "Then if they have"
+    },
+    {
+      "start": 1283.819,
+      "end": 1286.54,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "any cost estimating relationships."
+    },
+    {
+      "start": 1286.54,
+      "end": 1289.319,
+      "start_int": 1286,
+      "timestamp_label": "21:26",
+      "text": "And then final overhead rates"
+    },
+    {
+      "start": 1289.319,
+      "end": 1292.559,
+      "start_int": 1289,
+      "timestamp_label": "21:29",
+      "text": "would be in that section. All right."
+    },
+    {
+      "start": 1292.97,
+      "end": 1295.07,
+      "start_int": 1292,
+      "timestamp_label": "21:32",
+      "text": "Then moving on the next section"
+    },
+    {
+      "start": 1295.07,
+      "end": 1296.81,
+      "start_int": 1295,
+      "timestamp_label": "21:35",
+      "text": "would be business systems."
+    },
+    {
+      "start": 1296.81,
+      "end": 1299.069,
+      "start_int": 1296,
+      "timestamp_label": "21:36",
+      "text": "So this will give you the information on"
+    },
+    {
+      "start": 1299.069,
+      "end": 1300.71,
+      "start_int": 1299,
+      "timestamp_label": "21:39",
+      "text": "the different systems"
+    },
+    {
+      "start": 1300.71,
+      "end": 1303.649,
+      "start_int": 1300,
+      "timestamp_label": "21:40",
+      "text": "and their determinations."
+    },
+    {
+      "start": 1304.21,
+      "end": 1305.509,
+      "start_int": 1304,
+      "timestamp_label": "21:44",
+      "text": "All right."
+    },
+    {
+      "start": 1305.509,
+      "end": 1306.349,
+      "start_int": 1305,
+      "timestamp_label": "21:45",
+      "text": "So here you can see,"
+    },
+    {
+      "start": 1306.349,
+      "end": 1307.969,
+      "start_int": 1306,
+      "timestamp_label": "21:46",
+      "text": "accounting, MS, property,"
+    },
+    {
+      "start": 1307.969,
+      "end": 1312.77,
+      "start_int": 1307,
+      "timestamp_label": "21:47",
+      "text": "et c status status date."
+    },
+    {
+      "start": 1313.21,
+      "end": 1317.61,
+      "start_int": 1313,
+      "timestamp_label": "21:53",
+      "text": "If I there any payment withhold,"
+    },
+    {
+      "start": 1317.61,
+      "end": 1319.909,
+      "start_int": 1317,
+      "timestamp_label": "21:57",
+      "text": "If you got a contract with"
+    },
+    {
+      "start": 1319.909,
+      "end": 1322.329,
+      "start_int": 1319,
+      "timestamp_label": "21:59",
+      "text": "the disproved system and the business clause,"
+    },
+    {
+      "start": 1322.329,
+      "end": 1323.909,
+      "start_int": 1322,
+      "timestamp_label": "22:02",
+      "text": "then you could have withholding."
+    },
+    {
+      "start": 1323.909,
+      "end": 1325.23,
+      "start_int": 1323,
+      "timestamp_label": "22:03",
+      "text": "So that would show a yes"
+    },
+    {
+      "start": 1325.23,
+      "end": 1327.59,
+      "start_int": 1325,
+      "timestamp_label": "22:05",
+      "text": "and and the amount withheld."
+    },
+    {
+      "start": 1327.59,
+      "end": 1329.749,
+      "start_int": 1327,
+      "timestamp_label": "22:07",
+      "text": "Approved and not not"
+    },
+    {
+      "start": 1329.749,
+      "end": 1332.009,
+      "start_int": 1329,
+      "timestamp_label": "22:09",
+      "text": "applicable, not applicable systems."
+    },
+    {
+      "start": 1332.009,
+      "end": 1333.09,
+      "start_int": 1332,
+      "timestamp_label": "22:12",
+      "text": "Then you can see there's"
+    },
+    {
+      "start": 1333.09,
+      "end": 1335.95,
+      "start_int": 1333,
+      "timestamp_label": "22:13",
+      "text": "no withhold And then once again,"
+    },
+    {
+      "start": 1335.95,
+      "end": 1337.889,
+      "start_int": 1335,
+      "timestamp_label": "22:15",
+      "text": "you want to tab over to the right,"
+    },
+    {
+      "start": 1337.889,
+      "end": 1341.389,
+      "start_int": 1337,
+      "timestamp_label": "22:17",
+      "text": "and you're going to see more information,"
+    },
+    {
+      "start": 1341.389,
+      "end": 1344.449,
+      "start_int": 1341,
+      "timestamp_label": "22:21",
+      "text": "next review day notes, et cetera."
+    },
+    {
+      "start": 1344.449,
+      "end": 1345.969,
+      "start_int": 1344,
+      "timestamp_label": "22:24",
+      "text": "And then there's a tab there to"
+    },
+    {
+      "start": 1345.969,
+      "end": 1347.669,
+      "start_int": 1345,
+      "timestamp_label": "22:25",
+      "text": "look at the detail the notes"
+    },
+    {
+      "start": 1347.669,
+      "end": 1349.149,
+      "start_int": 1347,
+      "timestamp_label": "22:27",
+      "text": "or if you want"
+    },
+    {
+      "start": 1349.149,
+      "end": 1351.069,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "to sometimes if you look at the notes,"
+    },
+    {
+      "start": 1351.069,
+      "end": 1352.57,
+      "start_int": 1351,
+      "timestamp_label": "22:31",
+      "text": "like, not all the notes fit"
+    },
+    {
+      "start": 1352.57,
+      "end": 1354.069,
+      "start_int": 1352,
+      "timestamp_label": "22:32",
+      "text": "in that little box neatly."
+    },
+    {
+      "start": 1354.069,
+      "end": 1355.749,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "So if there's a note and then you can see"
+    },
+    {
+      "start": 1355.749,
+      "end": 1356.649,
+      "start_int": 1355,
+      "timestamp_label": "22:35",
+      "text": "there's more and you want"
+    },
+    {
+      "start": 1356.649,
+      "end": 1357.789,
+      "start_int": 1356,
+      "timestamp_label": "22:36",
+      "text": "to read the full note,"
+    },
+    {
+      "start": 1357.789,
+      "end": 1359.55,
+      "start_int": 1357,
+      "timestamp_label": "22:37",
+      "text": "you can go ahead and look on that either"
+    },
+    {
+      "start": 1359.55,
+      "end": 1361.829,
+      "start_int": 1359,
+      "timestamp_label": "22:39",
+      "text": "if you have a view or a view edit button."
+    },
+    {
+      "start": 1361.829,
+      "end": 1364.649,
+      "start_int": 1361,
+      "timestamp_label": "22:41",
+      "text": "I sense that's showing as a pencil,"
+    },
+    {
+      "start": 1364.649,
+      "end": 1366.889,
+      "start_int": 1364,
+      "timestamp_label": "22:44",
+      "text": "but you might have a view sticker instead."
+    },
+    {
+      "start": 1366.889,
+      "end": 1370.189,
+      "start_int": 1366,
+      "timestamp_label": "22:46",
+      "text": "You can view the details."
+    },
+    {
+      "start": 1371.3,
+      "end": 1373.44,
+      "start_int": 1371,
+      "timestamp_label": "22:51",
+      "text": "Then going farther down."
+    },
+    {
+      "start": 1373.44,
+      "end": 1375.24,
+      "start_int": 1373,
+      "timestamp_label": "22:53",
+      "text": "This is disclosure statements."
+    },
+    {
+      "start": 1375.24,
+      "end": 1376.979,
+      "start_int": 1375,
+      "timestamp_label": "22:55",
+      "text": "So if they're applicable,"
+    },
+    {
+      "start": 1376.979,
+      "end": 1379.159,
+      "start_int": 1376,
+      "timestamp_label": "22:56",
+      "text": "maybe they're not applicable or if"
+    },
+    {
+      "start": 1379.159,
+      "end": 1379.92,
+      "start_int": 1379,
+      "timestamp_label": "22:59",
+      "text": "they are if they're"
+    },
+    {
+      "start": 1379.92,
+      "end": 1382.059,
+      "start_int": 1379,
+      "timestamp_label": "22:59",
+      "text": "adequate and compliant or not,"
+    },
+    {
+      "start": 1382.059,
+      "end": 1384.3,
+      "start_int": 1382,
+      "timestamp_label": "23:02",
+      "text": "then that would be filled in there."
+    },
+    {
+      "start": 1384.3,
+      "end": 1386.919,
+      "start_int": 1384,
+      "timestamp_label": "23:04",
+      "text": "Then there's attachments field"
+    },
+    {
+      "start": 1386.919,
+      "end": 1390.66,
+      "start_int": 1386,
+      "timestamp_label": "23:06",
+      "text": "at the bottom for other attachments."
+    },
+    {
+      "start": 1391.9,
+      "end": 1394.179,
+      "start_int": 1391,
+      "timestamp_label": "23:11",
+      "text": "So you might see"
+    },
+    {
+      "start": 1394.179,
+      "end": 1397.259,
+      "start_int": 1394,
+      "timestamp_label": "23:14",
+      "text": "either business determination letters"
+    },
+    {
+      "start": 1397.259,
+      "end": 1399.68,
+      "start_int": 1397,
+      "timestamp_label": "23:17",
+      "text": "either on the individual system line"
+    },
+    {
+      "start": 1399.68,
+      "end": 1402.9,
+      "start_int": 1399,
+      "timestamp_label": "23:19",
+      "text": "or they might be at the bottom or both."
+    },
+    {
+      "start": 1403.82,
+      "end": 1406.599,
+      "start_int": 1403,
+      "timestamp_label": "23:23",
+      "text": "Okay. We went on to"
+    },
+    {
+      "start": 1406.599,
+      "end": 1408.299,
+      "start_int": 1406,
+      "timestamp_label": "23:26",
+      "text": "cast cost accounting standards,"
+    },
+    {
+      "start": 1408.299,
+      "end": 1409.399,
+      "start_int": 1408,
+      "timestamp_label": "23:28",
+      "text": "so that's the next section."
+    },
+    {
+      "start": 1409.399,
+      "end": 1410.599,
+      "start_int": 1409,
+      "timestamp_label": "23:29",
+      "text": "So if it's covered,"
+    },
+    {
+      "start": 1410.599,
+      "end": 1412.919,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "if it's applicable, and"
+    },
+    {
+      "start": 1412.919,
+      "end": 1415.86,
+      "start_int": 1412,
+      "timestamp_label": "23:32",
+      "text": "so they're exempt or modified or full."
+    },
+    {
+      "start": 1415.86,
+      "end": 1417.999,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "So you can see here in this example,"
+    },
+    {
+      "start": 1417.999,
+      "end": 1420.3,
+      "start_int": 1417,
+      "timestamp_label": "23:37",
+      "text": "we've got modified cast."
+    },
+    {
+      "start": 1421.37,
+      "end": 1423.669,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "And then going down, showing"
+    },
+    {
+      "start": 1423.669,
+      "end": 1424.89,
+      "start_int": 1423,
+      "timestamp_label": "23:43",
+      "text": "the individual standards,"
+    },
+    {
+      "start": 1424.89,
+      "end": 1427.949,
+      "start_int": 1424,
+      "timestamp_label": "23:44",
+      "text": "and then there's attachment at the bottom."
+    },
+    {
+      "start": 1427.949,
+      "end": 1429.769,
+      "start_int": 1427,
+      "timestamp_label": "23:47",
+      "text": "All right."
+    },
+    {
+      "start": 1429.769,
+      "end": 1431.31,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "Then the last section"
+    },
+    {
+      "start": 1431.31,
+      "end": 1432.41,
+      "start_int": 1431,
+      "timestamp_label": "23:51",
+      "text": "is corporate information."
+    },
+    {
+      "start": 1432.41,
+      "end": 1435.249,
+      "start_int": 1432,
+      "timestamp_label": "23:52",
+      "text": "So this isn't particular if you have"
+    },
+    {
+      "start": 1435.249,
+      "end": 1436.389,
+      "start_int": 1435,
+      "timestamp_label": "23:55",
+      "text": "other information that's not"
+    },
+    {
+      "start": 1436.389,
+      "end": 1439.31,
+      "start_int": 1436,
+      "timestamp_label": "23:56",
+      "text": "particular to any of the other detailed,"
+    },
+    {
+      "start": 1439.31,
+      "end": 1441.49,
+      "start_int": 1439,
+      "timestamp_label": "23:59",
+      "text": "then it could show up here."
+    },
+    {
+      "start": 1441.49,
+      "end": 1443.949,
+      "start_int": 1441,
+      "timestamp_label": "24:01",
+      "text": "So there could be general information about"
+    },
+    {
+      "start": 1443.949,
+      "end": 1445.329,
+      "start_int": 1443,
+      "timestamp_label": "24:03",
+      "text": "the contractor or"
+    },
+    {
+      "start": 1445.329,
+      "end": 1448.209,
+      "start_int": 1445,
+      "timestamp_label": "24:05",
+      "text": "other information that's in that section."
+    },
+    {
+      "start": 1448.72,
+      "end": 1455.08,
+      "start_int": 1448,
+      "timestamp_label": "24:08",
+      "text": "There are other modules in PI."
+    },
+    {
+      "start": 1455.44,
+      "end": 1459.019,
+      "start_int": 1455,
+      "timestamp_label": "24:15",
+      "text": "Just to let you know the AMT"
+    },
+    {
+      "start": 1459.019,
+      "end": 1460.42,
+      "start_int": 1459,
+      "timestamp_label": "24:19",
+      "text": "used to be a tool called"
+    },
+    {
+      "start": 1460.42,
+      "end": 1462.08,
+      "start_int": 1460,
+      "timestamp_label": "24:20",
+      "text": "CMT Contract Management Team,"
+    },
+    {
+      "start": 1462.08,
+      "end": 1464.139,
+      "start_int": 1462,
+      "timestamp_label": "24:22",
+      "text": "which was an E tool, which showed"
+    },
+    {
+      "start": 1464.139,
+      "end": 1465.779,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "POC information."
+    },
+    {
+      "start": 1465.779,
+      "end": 1467.88,
+      "start_int": 1465,
+      "timestamp_label": "24:25",
+      "text": "You could look up by Agency,"
+    },
+    {
+      "start": 1467.88,
+      "end": 1470.234,
+      "start_int": 1467,
+      "timestamp_label": "24:27",
+      "text": "who's the ACO, et cetera."
+    },
+    {
+      "start": 1470.234,
+      "end": 1473.61,
+      "start_int": 1470,
+      "timestamp_label": "24:30",
+      "text": "So now it's become AMT and it's in Pi."
+    },
+    {
+      "start": 1473.61,
+      "end": 1474.87,
+      "start_int": 1473,
+      "timestamp_label": "24:33",
+      "text": "So if you're saying, well,"
+    },
+    {
+      "start": 1474.87,
+      "end": 1476.689,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "I used to find that information there,"
+    },
+    {
+      "start": 1476.689,
+      "end": 1478.07,
+      "start_int": 1476,
+      "timestamp_label": "24:36",
+      "text": "where is it or where it's gone."
+    },
+    {
+      "start": 1478.07,
+      "end": 1481.23,
+      "start_int": 1478,
+      "timestamp_label": "24:38",
+      "text": "So as with C bar that moved to Pi,"
+    },
+    {
+      "start": 1481.23,
+      "end": 1483.589,
+      "start_int": 1481,
+      "timestamp_label": "24:41",
+      "text": "that module has moved to Pi."
+    },
+    {
+      "start": 1483.589,
+      "end": 1488.249,
+      "start_int": 1483,
+      "timestamp_label": "24:43",
+      "text": "So you can see it there. It's in EDA in"
+    },
+    {
+      "start": 1488.249,
+      "end": 1492.789,
+      "start_int": 1488,
+      "timestamp_label": "24:48",
+      "text": "the same EDA module within Pi as C bar is."
+    },
+    {
+      "start": 1492.789,
+      "end": 1493.57,
+      "start_int": 1492,
+      "timestamp_label": "24:52",
+      "text": "And then there's also"
+    },
+    {
+      "start": 1493.57,
+      "end": 1495.349,
+      "start_int": 1493,
+      "timestamp_label": "24:53",
+      "text": "commercial item database."
+    },
+    {
+      "start": 1495.349,
+      "end": 1497.189,
+      "start_int": 1495,
+      "timestamp_label": "24:55",
+      "text": "DCMA is involved in"
+    },
+    {
+      "start": 1497.189,
+      "end": 1500.049,
+      "start_int": 1497,
+      "timestamp_label": "24:57",
+      "text": "some commercial item determinations."
+    },
+    {
+      "start": 1500.049,
+      "end": 1503.769,
+      "start_int": 1500,
+      "timestamp_label": "25:00",
+      "text": "They also have their own office hours."
+    },
+    {
+      "start": 1503.769,
+      "end": 1505.929,
+      "start_int": 1503,
+      "timestamp_label": "25:03",
+      "text": "So I guess they looking at"
+    },
+    {
+      "start": 1505.929,
+      "end": 1506.769,
+      "start_int": 1505,
+      "timestamp_label": "25:05",
+      "text": "the schedule the next one"
+    },
+    {
+      "start": 1506.769,
+      "end": 1508.234,
+      "start_int": 1506,
+      "timestamp_label": "25:06",
+      "text": "would be November 7."
+    },
+    {
+      "start": 1508.234,
+      "end": 1510.439,
+      "start_int": 1508,
+      "timestamp_label": "25:08",
+      "text": "So you can sign up through DAU events just"
+    },
+    {
+      "start": 1510.439,
+      "end": 1511.299,
+      "start_int": 1510,
+      "timestamp_label": "25:10",
+      "text": "as you signed up for"
+    },
+    {
+      "start": 1511.299,
+      "end": 1513.759,
+      "start_int": 1511,
+      "timestamp_label": "25:11",
+      "text": "this event if you're interested in that."
+    },
+    {
+      "start": 1514.08,
+      "end": 1516.959,
+      "start_int": 1514,
+      "timestamp_label": "25:14",
+      "text": "All right, once again, you"
+    },
+    {
+      "start": 1516.959,
+      "end": 1519.48,
+      "start_int": 1516,
+      "timestamp_label": "25:16",
+      "text": "know, there's our inbox."
+    },
+    {
+      "start": 1520.04,
+      "end": 1522.779,
+      "start_int": 1520,
+      "timestamp_label": "25:20",
+      "text": "You know, if you have questions or"
+    },
+    {
+      "start": 1522.779,
+      "end": 1526.719,
+      "start_int": 1522,
+      "timestamp_label": "25:22",
+      "text": "ideas or feedback, that's a way to reach us."
+    },
+    {
+      "start": 1529.48,
+      "end": 1533.6,
+      "start_int": 1529,
+      "timestamp_label": "25:29",
+      "text": "Then I guess we could open up for questions."
+    },
+    {
+      "start": 1536.99,
+      "end": 1539.51,
+      "start_int": 1536,
+      "timestamp_label": "25:36",
+      "text": "Hey, Bob, this is Marina."
+    },
+    {
+      "start": 1539.51,
+      "end": 1541.29,
+      "start_int": 1539,
+      "timestamp_label": "25:39",
+      "text": "Before we go into questions,"
+    },
+    {
+      "start": 1541.29,
+      "end": 1542.849,
+      "start_int": 1541,
+      "timestamp_label": "25:41",
+      "text": "I would really like to get"
+    },
+    {
+      "start": 1542.849,
+      "end": 1545.929,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "through the pre award survey."
+    },
+    {
+      "start": 1545.929,
+      "end": 1548.109,
+      "start_int": 1545,
+      "timestamp_label": "25:45",
+      "text": "Oh, sure. Yeah, we could do it in that order."
+    },
+    {
+      "start": 1548.109,
+      "end": 1549.689,
+      "start_int": 1548,
+      "timestamp_label": "25:48",
+      "text": "And then we'll take questions and"
+    },
+    {
+      "start": 1549.689,
+      "end": 1551.889,
+      "start_int": 1549,
+      "timestamp_label": "25:49",
+      "text": "answers after that if that's okay."
+    },
+    {
+      "start": 1551.889,
+      "end": 1553.41,
+      "start_int": 1551,
+      "timestamp_label": "25:51",
+      "text": "Oh, sure. That's fine."
+    },
+    {
+      "start": 1553.41,
+      "end": 1555.789,
+      "start_int": 1553,
+      "timestamp_label": "25:53",
+      "text": "Yeah. All right. Okay, everyone."
+    },
+    {
+      "start": 1555.789,
+      "end": 1557.21,
+      "start_int": 1555,
+      "timestamp_label": "25:55",
+      "text": "This is Marina Furbih."
+    },
+    {
+      "start": 1557.21,
+      "end": 1558.83,
+      "start_int": 1557,
+      "timestamp_label": "25:57",
+      "text": "I am also with DCMA,"
+    },
+    {
+      "start": 1558.83,
+      "end": 1560.389,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "the Custom Pricing Center"
+    },
+    {
+      "start": 1560.389,
+      "end": 1562.249,
+      "start_int": 1560,
+      "timestamp_label": "26:00",
+      "text": "Tools and Analysis Group."
+    },
+    {
+      "start": 1562.249,
+      "end": 1564.289,
+      "start_int": 1562,
+      "timestamp_label": "26:02",
+      "text": "One of the things that we wanted to bring to"
+    },
+    {
+      "start": 1564.289,
+      "end": 1566.709,
+      "start_int": 1564,
+      "timestamp_label": "26:04",
+      "text": "light was our pre award survey system."
+    },
+    {
+      "start": 1566.709,
+      "end": 1568.47,
+      "start_int": 1566,
+      "timestamp_label": "26:06",
+      "text": "One of the questions"
+    },
+    {
+      "start": 1568.47,
+      "end": 1570.449,
+      "start_int": 1568,
+      "timestamp_label": "26:08",
+      "text": "that we most frequently get is,"
+    },
+    {
+      "start": 1570.449,
+      "end": 1573.549,
+      "start_int": 1570,
+      "timestamp_label": "26:10",
+      "text": "why is my contractor located in Sea Bar?"
+    },
+    {
+      "start": 1573.549,
+      "end": 1575.83,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "So typically, contractors don't"
+    },
+    {
+      "start": 1575.83,
+      "end": 1578.349,
+      "start_int": 1575,
+      "timestamp_label": "26:15",
+      "text": "always have a CBR record created if they"
+    },
+    {
+      "start": 1578.349,
+      "end": 1580.409,
+      "start_int": 1578,
+      "timestamp_label": "26:18",
+      "text": "don't have a contract requiring"
+    },
+    {
+      "start": 1580.409,
+      "end": 1583.369,
+      "start_int": 1580,
+      "timestamp_label": "26:20",
+      "text": "one of the data points that's located in BR."
+    },
+    {
+      "start": 1583.369,
+      "end": 1586.03,
+      "start_int": 1583,
+      "timestamp_label": "26:23",
+      "text": "So if the contractor doesn't have a contract"
+    },
+    {
+      "start": 1586.03,
+      "end": 1588.23,
+      "start_int": 1586,
+      "timestamp_label": "26:26",
+      "text": "requiring government furnished property"
+    },
+    {
+      "start": 1588.23,
+      "end": 1589.95,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "or a cost contract,"
+    },
+    {
+      "start": 1589.95,
+      "end": 1593.029,
+      "start_int": 1589,
+      "timestamp_label": "26:29",
+      "text": "DCMA will not create a CBR record."
+    },
+    {
+      "start": 1593.029,
+      "end": 1594.589,
+      "start_int": 1593,
+      "timestamp_label": "26:33",
+      "text": "However, we also know"
+    },
+    {
+      "start": 1594.589,
+      "end": 1595.869,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "that if you're looking to"
+    },
+    {
+      "start": 1595.869,
+      "end": 1597.069,
+      "start_int": 1595,
+      "timestamp_label": "26:35",
+      "text": "let a contract which"
+    },
+    {
+      "start": 1597.069,
+      "end": 1598.73,
+      "start_int": 1597,
+      "timestamp_label": "26:37",
+      "text": "has a property requirement,"
+    },
+    {
+      "start": 1598.73,
+      "end": 1600.37,
+      "start_int": 1598,
+      "timestamp_label": "26:38",
+      "text": "or if you're trying to assess"
+    },
+    {
+      "start": 1600.37,
+      "end": 1602.529,
+      "start_int": 1600,
+      "timestamp_label": "26:40",
+      "text": "what capabilities a contractor has,"
+    },
+    {
+      "start": 1602.529,
+      "end": 1604.749,
+      "start_int": 1602,
+      "timestamp_label": "26:42",
+      "text": "such as whether a contractor has"
+    },
+    {
+      "start": 1604.749,
+      "end": 1606.949,
+      "start_int": 1604,
+      "timestamp_label": "26:44",
+      "text": "firefighting capabilities for receipt"
+    },
+    {
+      "start": 1606.949,
+      "end": 1609.829,
+      "start_int": 1606,
+      "timestamp_label": "26:46",
+      "text": "of an aircraft contract or"
+    },
+    {
+      "start": 1610.39,
+      "end": 1612.809,
+      "start_int": 1610,
+      "timestamp_label": "26:50",
+      "text": "An accounting system, if"
+    },
+    {
+      "start": 1612.809,
+      "end": 1614.97,
+      "start_int": 1612,
+      "timestamp_label": "26:52",
+      "text": "you're looking to award a contract,"
+    },
+    {
+      "start": 1614.97,
+      "end": 1617.129,
+      "start_int": 1614,
+      "timestamp_label": "26:54",
+      "text": "DCMA has a system in"
+    },
+    {
+      "start": 1617.129,
+      "end": 1619.629,
+      "start_int": 1617,
+      "timestamp_label": "26:57",
+      "text": "place to assist the buying command"
+    },
+    {
+      "start": 1619.629,
+      "end": 1620.89,
+      "start_int": 1619,
+      "timestamp_label": "26:59",
+      "text": "with evaluating"
+    },
+    {
+      "start": 1620.89,
+      "end": 1623.409,
+      "start_int": 1620,
+      "timestamp_label": "27:00",
+      "text": "a contractor's specific capabilities"
+    },
+    {
+      "start": 1623.409,
+      "end": 1624.869,
+      "start_int": 1623,
+      "timestamp_label": "27:03",
+      "text": "for contract award."
+    },
+    {
+      "start": 1624.869,
+      "end": 1628.029,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "So miss Rita Hicks and Mr. Jack Little,"
+    },
+    {
+      "start": 1628.029,
+      "end": 1630.409,
+      "start_int": 1628,
+      "timestamp_label": "27:08",
+      "text": "who are both staff industrial specialists"
+    },
+    {
+      "start": 1630.409,
+      "end": 1632.37,
+      "start_int": 1630,
+      "timestamp_label": "27:10",
+      "text": "with DCMA headquarters,"
+    },
+    {
+      "start": 1632.37,
+      "end": 1634.469,
+      "start_int": 1632,
+      "timestamp_label": "27:12",
+      "text": "are here to provide an overview of"
+    },
+    {
+      "start": 1634.469,
+      "end": 1637.169,
+      "start_int": 1634,
+      "timestamp_label": "27:14",
+      "text": "the pre award survey process so that"
+    },
+    {
+      "start": 1637.169,
+      "end": 1638.909,
+      "start_int": 1637,
+      "timestamp_label": "27:17",
+      "text": "you can reach out and get"
+    },
+    {
+      "start": 1638.909,
+      "end": 1640.13,
+      "start_int": 1638,
+      "timestamp_label": "27:18",
+      "text": "those capabilities"
+    },
+    {
+      "start": 1640.13,
+      "end": 1642.61,
+      "start_int": 1640,
+      "timestamp_label": "27:20",
+      "text": "evaluated prior to contract award."
+    },
+    {
+      "start": 1642.61,
+      "end": 1648.529,
+      "start_int": 1642,
+      "timestamp_label": "27:22",
+      "text": "Rita, over to you Okay."
+    },
+    {
+      "start": 1648.85,
+      "end": 1652.61,
+      "start_int": 1648,
+      "timestamp_label": "27:28",
+      "text": "I'll come on camera briefly."
+    },
+    {
+      "start": 1653.37,
+      "end": 1656.13,
+      "start_int": 1653,
+      "timestamp_label": "27:33",
+      "text": "Good afternoon, everyone."
+    },
+    {
+      "start": 1656.13,
+      "end": 1660.71,
+      "start_int": 1656,
+      "timestamp_label": "27:36",
+      "text": "And I will mute my camera for the bandwidth."
+    },
+    {
+      "start": 1660.71,
+      "end": 1663.109,
+      "start_int": 1660,
+      "timestamp_label": "27:40",
+      "text": "I hope everyone can hear me."
+    },
+    {
+      "start": 1663.109,
+      "end": 1667.289,
+      "start_int": 1663,
+      "timestamp_label": "27:43",
+      "text": "Okay. I'm going to share my screen."
+    },
+    {
+      "start": 1667.289,
+      "end": 1669.449,
+      "start_int": 1667,
+      "timestamp_label": "27:47",
+      "text": "And I hope you can see my"
+    },
+    {
+      "start": 1669.449,
+      "end": 1670.709,
+      "start_int": 1669,
+      "timestamp_label": "27:49",
+      "text": "screen if someone will"
+    },
+    {
+      "start": 1670.709,
+      "end": 1674.609,
+      "start_int": 1670,
+      "timestamp_label": "27:50",
+      "text": "just do thumbs up or something."
+    },
+    {
+      "start": 1674.609,
+      "end": 1677.169,
+      "start_int": 1674,
+      "timestamp_label": "27:54",
+      "text": "I read that, we can see your screen."
+    },
+    {
+      "start": 1677.169,
+      "end": 1679.949,
+      "start_int": 1677,
+      "timestamp_label": "27:57",
+      "text": "Perfect. Thank you,"
+    },
+    {
+      "start": 1679.949,
+      "end": 1682.59,
+      "start_int": 1679,
+      "timestamp_label": "27:59",
+      "text": "Marina, for the introduction."
+    },
+    {
+      "start": 1682.59,
+      "end": 1685.129,
+      "start_int": 1682,
+      "timestamp_label": "28:02",
+      "text": "And again, I'm Rita Hicks,"
+    },
+    {
+      "start": 1685.129,
+      "end": 1685.809,
+      "start_int": 1685,
+      "timestamp_label": "28:05",
+      "text": "and I'm one of"
+    },
+    {
+      "start": 1685.809,
+      "end": 1687.689,
+      "start_int": 1685,
+      "timestamp_label": "28:05",
+      "text": "the staff industrial specialist for"
+    },
+    {
+      "start": 1687.689,
+      "end": 1689.049,
+      "start_int": 1687,
+      "timestamp_label": "28:07",
+      "text": "the Agency's pre Award"
+    },
+    {
+      "start": 1689.049,
+      "end": 1692.15,
+      "start_int": 1689,
+      "timestamp_label": "28:09",
+      "text": "survey request process."
+    },
+    {
+      "start": 1692.15,
+      "end": 1694.89,
+      "start_int": 1692,
+      "timestamp_label": "28:12",
+      "text": "Jack Little is another PLC"
+    },
+    {
+      "start": 1694.89,
+      "end": 1698.269,
+      "start_int": 1694,
+      "timestamp_label": "28:14",
+      "text": "for the headquarters staff."
+    },
+    {
+      "start": 1698.269,
+      "end": 1701.309,
+      "start_int": 1698,
+      "timestamp_label": "28:18",
+      "text": "We both are responsible for"
+    },
+    {
+      "start": 1701.309,
+      "end": 1704.51,
+      "start_int": 1701,
+      "timestamp_label": "28:21",
+      "text": "Section nine in the agency's Manual,"
+    },
+    {
+      "start": 1704.51,
+      "end": 1710.75,
+      "start_int": 1704,
+      "timestamp_label": "28:24",
+      "text": "DCMA and DCMA Manual 24 oh 1-01."
+    },
+    {
+      "start": 1711.89,
+      "end": 1714.59,
+      "start_int": 1711,
+      "timestamp_label": "28:31",
+      "text": "This presentation is intended"
+    },
+    {
+      "start": 1714.59,
+      "end": 1716.029,
+      "start_int": 1714,
+      "timestamp_label": "28:34",
+      "text": "to provide an overview"
+    },
+    {
+      "start": 1716.029,
+      "end": 1717.809,
+      "start_int": 1716,
+      "timestamp_label": "28:36",
+      "text": "on DCMA's approach to"
+    },
+    {
+      "start": 1717.809,
+      "end": 1719.77,
+      "start_int": 1717,
+      "timestamp_label": "28:37",
+      "text": "performing pre award surveys,"
+    },
+    {
+      "start": 1719.77,
+      "end": 1721.95,
+      "start_int": 1719,
+      "timestamp_label": "28:39",
+      "text": "which is a delegated function."
+    },
+    {
+      "start": 1721.95,
+      "end": 1723.869,
+      "start_int": 1721,
+      "timestamp_label": "28:41",
+      "text": "It's not going to be"
+    },
+    {
+      "start": 1723.869,
+      "end": 1726.409,
+      "start_int": 1723,
+      "timestamp_label": "28:43",
+      "text": "a detailed presentation that"
+    },
+    {
+      "start": 1726.409,
+      "end": 1728.169,
+      "start_int": 1726,
+      "timestamp_label": "28:46",
+      "text": "we would get into as if"
+    },
+    {
+      "start": 1728.169,
+      "end": 1729.829,
+      "start_int": 1728,
+      "timestamp_label": "28:48",
+      "text": "we were providing you"
+    },
+    {
+      "start": 1729.829,
+      "end": 1731.689,
+      "start_int": 1729,
+      "timestamp_label": "28:49",
+      "text": "a lot more intense information"
+    },
+    {
+      "start": 1731.689,
+      "end": 1736.19,
+      "start_int": 1731,
+      "timestamp_label": "28:51",
+      "text": "on the how DCMA executes the approach."
+    },
+    {
+      "start": 1736.19,
+      "end": 1739.089,
+      "start_int": 1736,
+      "timestamp_label": "28:56",
+      "text": "However, it's it's intended to"
+    },
+    {
+      "start": 1739.089,
+      "end": 1742.889,
+      "start_int": 1739,
+      "timestamp_label": "28:59",
+      "text": "just give you some high level content."
+    },
+    {
+      "start": 1745.61,
+      "end": 1748.169,
+      "start_int": 1745,
+      "timestamp_label": "29:05",
+      "text": "So one thing we'd like"
+    },
+    {
+      "start": 1748.169,
+      "end": 1750.469,
+      "start_int": 1748,
+      "timestamp_label": "29:08",
+      "text": "you to make sure that we convey"
+    },
+    {
+      "start": 1750.469,
+      "end": 1753.809,
+      "start_int": 1750,
+      "timestamp_label": "29:10",
+      "text": "today that DCMA uses"
+    },
+    {
+      "start": 1753.809,
+      "end": 1757.35,
+      "start_int": 1753,
+      "timestamp_label": "29:13",
+      "text": "far part nine to guide our actions."
+    },
+    {
+      "start": 1757.35,
+      "end": 1759.069,
+      "start_int": 1757,
+      "timestamp_label": "29:17",
+      "text": "And actually, all of"
+    },
+    {
+      "start": 1759.069,
+      "end": 1761.749,
+      "start_int": 1759,
+      "timestamp_label": "29:19",
+      "text": "the contracting activities are"
+    },
+    {
+      "start": 1761.749,
+      "end": 1764.27,
+      "start_int": 1761,
+      "timestamp_label": "29:21",
+      "text": "required to use far part nine"
+    },
+    {
+      "start": 1764.27,
+      "end": 1768.349,
+      "start_int": 1764,
+      "timestamp_label": "29:24",
+      "text": "to guide actions on performing and"
+    },
+    {
+      "start": 1768.349,
+      "end": 1771.269,
+      "start_int": 1768,
+      "timestamp_label": "29:28",
+      "text": "determining contractor qualifications is"
+    },
+    {
+      "start": 1771.269,
+      "end": 1773.73,
+      "start_int": 1771,
+      "timestamp_label": "29:31",
+      "text": "just not limited to DCMA,"
+    },
+    {
+      "start": 1773.73,
+      "end": 1777.469,
+      "start_int": 1773,
+      "timestamp_label": "29:33",
+      "text": "the DFAS PGI two oh 2.1,"
+    },
+    {
+      "start": 1777.469,
+      "end": 1780.149,
+      "start_int": 1777,
+      "timestamp_label": "29:37",
+      "text": "identify the contracting activities."
+    },
+    {
+      "start": 1780.149,
+      "end": 1783.169,
+      "start_int": 1780,
+      "timestamp_label": "29:40",
+      "text": "So hopefully all are aware of that."
+    },
+    {
+      "start": 1785.57,
+      "end": 1788.589,
+      "start_int": 1785,
+      "timestamp_label": "29:45",
+      "text": "First, we'd like to make sure that everyone"
+    },
+    {
+      "start": 1788.589,
+      "end": 1792.269,
+      "start_int": 1788,
+      "timestamp_label": "29:48",
+      "text": "understands what is a pre award survey,"
+    },
+    {
+      "start": 1792.269,
+      "end": 1795.689,
+      "start_int": 1792,
+      "timestamp_label": "29:52",
+      "text": "and it refers to an evaluation of"
+    },
+    {
+      "start": 1795.689,
+      "end": 1798.47,
+      "start_int": 1795,
+      "timestamp_label": "29:55",
+      "text": "a prospective contractor's capability"
+    },
+    {
+      "start": 1798.47,
+      "end": 1801.42,
+      "start_int": 1798,
+      "timestamp_label": "29:58",
+      "text": "to perform on a proposed contract."
+    },
+    {
+      "start": 1801.42,
+      "end": 1804.589,
+      "start_int": 1801,
+      "timestamp_label": "30:01",
+      "text": "We would like to distinguish here that"
+    },
+    {
+      "start": 1804.589,
+      "end": 1807.59,
+      "start_int": 1804,
+      "timestamp_label": "30:04",
+      "text": "the pre award survey request"
+    },
+    {
+      "start": 1807.59,
+      "end": 1811.489,
+      "start_int": 1807,
+      "timestamp_label": "30:07",
+      "text": "includes solicitations,"
+    },
+    {
+      "start": 1811.489,
+      "end": 1814.909,
+      "start_int": 1811,
+      "timestamp_label": "30:11",
+      "text": "not an actual contract."
+    },
+    {
+      "start": 1814.909,
+      "end": 1817.51,
+      "start_int": 1814,
+      "timestamp_label": "30:14",
+      "text": "DCMA does not perform"
+    },
+    {
+      "start": 1817.51,
+      "end": 1822.129,
+      "start_int": 1817,
+      "timestamp_label": "30:17",
+      "text": "pre award survey request on a contract."
+    },
+    {
+      "start": 1822.129,
+      "end": 1826.849,
+      "start_int": 1822,
+      "timestamp_label": "30:22",
+      "text": "We can assist some of our customers"
+    },
+    {
+      "start": 1826.849,
+      "end": 1830.849,
+      "start_int": 1826,
+      "timestamp_label": "30:26",
+      "text": "when maybe a pre survey"
+    },
+    {
+      "start": 1830.849,
+      "end": 1832.789,
+      "start_int": 1830,
+      "timestamp_label": "30:30",
+      "text": "was required to be conducted."
+    },
+    {
+      "start": 1832.789,
+      "end": 1836.249,
+      "start_int": 1832,
+      "timestamp_label": "30:32",
+      "text": "However, the step may have been missed."
+    },
+    {
+      "start": 1836.249,
+      "end": 1840.079,
+      "start_int": 1836,
+      "timestamp_label": "30:36",
+      "text": "We can conduct a capability survey."
+    },
+    {
+      "start": 1840.079,
+      "end": 1844.47,
+      "start_int": 1840,
+      "timestamp_label": "30:40",
+      "text": "A pre award survey request includes"
+    },
+    {
+      "start": 1844.47,
+      "end": 1846.509,
+      "start_int": 1844,
+      "timestamp_label": "30:44",
+      "text": "evaluation of"
+    },
+    {
+      "start": 1846.509,
+      "end": 1850.389,
+      "start_int": 1846,
+      "timestamp_label": "30:46",
+      "text": "requested factors and a recommendation."
+    },
+    {
+      "start": 1850.389,
+      "end": 1853.909,
+      "start_int": 1850,
+      "timestamp_label": "30:50",
+      "text": "A capability survey, we will"
+    },
+    {
+      "start": 1853.909,
+      "end": 1857.75,
+      "start_int": 1853,
+      "timestamp_label": "30:53",
+      "text": "assess a company's capability,"
+    },
+    {
+      "start": 1857.75,
+      "end": 1860.35,
+      "start_int": 1857,
+      "timestamp_label": "30:57",
+      "text": "but we don't make recommendations."
+    },
+    {
+      "start": 1860.35,
+      "end": 1863.07,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "Again, we follow information"
+    },
+    {
+      "start": 1863.07,
+      "end": 1866.21,
+      "start_int": 1863,
+      "timestamp_label": "31:03",
+      "text": "in far part nine."
+    },
+    {
+      "start": 1870.01,
+      "end": 1872.75,
+      "start_int": 1870,
+      "timestamp_label": "31:10",
+      "text": "Far Part nine also"
+    },
+    {
+      "start": 1872.75,
+      "end": 1875.29,
+      "start_int": 1872,
+      "timestamp_label": "31:12",
+      "text": "identifies surveying activity."
+    },
+    {
+      "start": 1875.29,
+      "end": 1877.669,
+      "start_int": 1875,
+      "timestamp_label": "31:15",
+      "text": "And the reason I highlight this is"
+    },
+    {
+      "start": 1877.669,
+      "end": 1880.55,
+      "start_int": 1877,
+      "timestamp_label": "31:17",
+      "text": "because even within our own environment,"
+    },
+    {
+      "start": 1880.55,
+      "end": 1884.43,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "when the language can be somewhat"
+    },
+    {
+      "start": 1884.43,
+      "end": 1888.549,
+      "start_int": 1884,
+      "timestamp_label": "31:24",
+      "text": "confusing on who is the surveying activity?"
+    },
+    {
+      "start": 1888.549,
+      "end": 1893.61,
+      "start_int": 1888,
+      "timestamp_label": "31:28",
+      "text": "Well, in this particular approach process,"
+    },
+    {
+      "start": 1893.61,
+      "end": 1895.81,
+      "start_int": 1893,
+      "timestamp_label": "31:33",
+      "text": "pre award survey request,"
+    },
+    {
+      "start": 1895.81,
+      "end": 1899.469,
+      "start_int": 1895,
+      "timestamp_label": "31:35",
+      "text": "DCMA is considered the surveying activity."
+    },
+    {
+      "start": 1899.469,
+      "end": 1906.01,
+      "start_int": 1899,
+      "timestamp_label": "31:39",
+      "text": "And the definition is cited in FR 9.101"
+    },
+    {
+      "start": 1909.34,
+      "end": 1916.4,
+      "start_int": 1909,
+      "timestamp_label": "31:49",
+      "text": "I'd like to let you know that DCMA utilizes"
+    },
+    {
+      "start": 1916.4,
+      "end": 1920.479,
+      "start_int": 1916,
+      "timestamp_label": "31:56",
+      "text": "the pre award survey manager's role to"
+    },
+    {
+      "start": 1920.479,
+      "end": 1922.179,
+      "start_int": 1920,
+      "timestamp_label": "32:00",
+      "text": "receive and"
+    },
+    {
+      "start": 1922.179,
+      "end": 1926.3,
+      "start_int": 1922,
+      "timestamp_label": "32:02",
+      "text": "manage the pre award survey request."
+    },
+    {
+      "start": 1926.34,
+      "end": 1931.62,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "When a buying command or contracting officer"
+    },
+    {
+      "start": 1931.62,
+      "end": 1933.94,
+      "start_int": 1931,
+      "timestamp_label": "32:11",
+      "text": "or designees send"
+    },
+    {
+      "start": 1933.94,
+      "end": 1937.41,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "a pre award survey request to DCMA,"
+    },
+    {
+      "start": 1937.41,
+      "end": 1940.48,
+      "start_int": 1937,
+      "timestamp_label": "32:17",
+      "text": "The DCMA prewar survey managers,"
+    },
+    {
+      "start": 1940.48,
+      "end": 1943.019,
+      "start_int": 1940,
+      "timestamp_label": "32:20",
+      "text": "and we refer to them as Pasms."
+    },
+    {
+      "start": 1943.019,
+      "end": 1945.839,
+      "start_int": 1943,
+      "timestamp_label": "32:23",
+      "text": "They're not responsible for"
+    },
+    {
+      "start": 1945.839,
+      "end": 1947.419,
+      "start_int": 1945,
+      "timestamp_label": "32:25",
+      "text": "training representatives"
+    },
+    {
+      "start": 1947.419,
+      "end": 1949.22,
+      "start_int": 1947,
+      "timestamp_label": "32:27",
+      "text": "outside of the agency,"
+    },
+    {
+      "start": 1949.22,
+      "end": 1952.659,
+      "start_int": 1949,
+      "timestamp_label": "32:29",
+      "text": "but they will educate you on"
+    },
+    {
+      "start": 1952.659,
+      "end": 1956.679,
+      "start_int": 1952,
+      "timestamp_label": "32:32",
+      "text": "what DCMA can do to support you."
+    },
+    {
+      "start": 1956.679,
+      "end": 1959.259,
+      "start_int": 1956,
+      "timestamp_label": "32:36",
+      "text": "And they can also educate"
+    },
+    {
+      "start": 1959.259,
+      "end": 1962.039,
+      "start_int": 1959,
+      "timestamp_label": "32:39",
+      "text": "the external customers on"
+    },
+    {
+      "start": 1962.039,
+      "end": 1964.939,
+      "start_int": 1962,
+      "timestamp_label": "32:42",
+      "text": "what type of information they can"
+    },
+    {
+      "start": 1964.939,
+      "end": 1968.7,
+      "start_int": 1964,
+      "timestamp_label": "32:44",
+      "text": "expect to receive back from DCMA."
+    },
+    {
+      "start": 1968.7,
+      "end": 1972.199,
+      "start_int": 1968,
+      "timestamp_label": "32:48",
+      "text": "And there are a few Some of"
+    },
+    {
+      "start": 1972.199,
+      "end": 1974.08,
+      "start_int": 1972,
+      "timestamp_label": "32:52",
+      "text": "the sections in far"
+    },
+    {
+      "start": 1974.08,
+      "end": 1975.76,
+      "start_int": 1974,
+      "timestamp_label": "32:54",
+      "text": "that are highlighted here."
+    },
+    {
+      "start": 1975.76,
+      "end": 1977.159,
+      "start_int": 1975,
+      "timestamp_label": "32:55",
+      "text": "This is not intended to"
+    },
+    {
+      "start": 1977.159,
+      "end": 1978.9,
+      "start_int": 1977,
+      "timestamp_label": "32:57",
+      "text": "be an all inclusive list,"
+    },
+    {
+      "start": 1978.9,
+      "end": 1980.979,
+      "start_int": 1978,
+      "timestamp_label": "32:58",
+      "text": "something to get all"
+    },
+    {
+      "start": 1980.979,
+      "end": 1983.92,
+      "start_int": 1980,
+      "timestamp_label": "33:00",
+      "text": "of the participants of the attendees,"
+    },
+    {
+      "start": 1983.92,
+      "end": 1987.68,
+      "start_int": 1983,
+      "timestamp_label": "33:03",
+      "text": "I'm sorry, online to consider."
+    },
+    {
+      "start": 1992.18,
+      "end": 1994.98,
+      "start_int": 1992,
+      "timestamp_label": "33:12",
+      "text": "The Pasms will utilize"
+    },
+    {
+      "start": 1994.98,
+      "end": 1997.299,
+      "start_int": 1994,
+      "timestamp_label": "33:14",
+      "text": "a tailored approach to"
+    },
+    {
+      "start": 1997.299,
+      "end": 1999.279,
+      "start_int": 1997,
+      "timestamp_label": "33:17",
+      "text": "process and manage the types"
+    },
+    {
+      "start": 1999.279,
+      "end": 2000.619,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "of requests received in"
+    },
+    {
+      "start": 2000.619,
+      "end": 2003.28,
+      "start_int": 2000,
+      "timestamp_label": "33:20",
+      "text": "their assigned geographical regions"
+    },
+    {
+      "start": 2003.28,
+      "end": 2006.799,
+      "start_int": 2003,
+      "timestamp_label": "33:23",
+      "text": "because the types of survey actions received"
+    },
+    {
+      "start": 2006.799,
+      "end": 2010.159,
+      "start_int": 2006,
+      "timestamp_label": "33:26",
+      "text": "will depend on the types of"
+    },
+    {
+      "start": 2010.159,
+      "end": 2012.919,
+      "start_int": 2010,
+      "timestamp_label": "33:30",
+      "text": "requirements that may be produced"
+    },
+    {
+      "start": 2012.919,
+      "end": 2014.159,
+      "start_int": 2012,
+      "timestamp_label": "33:32",
+      "text": "or manufactured in"
+    },
+    {
+      "start": 2014.159,
+      "end": 2016.0,
+      "start_int": 2014,
+      "timestamp_label": "33:34",
+      "text": "those specific environments."
+    },
+    {
+      "start": 2016.0,
+      "end": 2018.68,
+      "start_int": 2016,
+      "timestamp_label": "33:36",
+      "text": "Or if they are doing"
+    },
+    {
+      "start": 2018.68,
+      "end": 2021.64,
+      "start_int": 2018,
+      "timestamp_label": "33:38",
+      "text": "research and development type activities,"
+    },
+    {
+      "start": 2021.64,
+      "end": 2023.719,
+      "start_int": 2021,
+      "timestamp_label": "33:41",
+      "text": "that it will depend on"
+    },
+    {
+      "start": 2023.719,
+      "end": 2026.259,
+      "start_int": 2023,
+      "timestamp_label": "33:43",
+      "text": "what our customers need and"
+    },
+    {
+      "start": 2026.259,
+      "end": 2028.979,
+      "start_int": 2026,
+      "timestamp_label": "33:46",
+      "text": "the specific environment that"
+    },
+    {
+      "start": 2028.979,
+      "end": 2030.94,
+      "start_int": 2028,
+      "timestamp_label": "33:48",
+      "text": "those pre award survey managers"
+    },
+    {
+      "start": 2030.94,
+      "end": 2033.019,
+      "start_int": 2030,
+      "timestamp_label": "33:50",
+      "text": "are working on the types of"
+    },
+    {
+      "start": 2033.019,
+      "end": 2036.22,
+      "start_int": 2033,
+      "timestamp_label": "33:53",
+      "text": "requests that they'll be able to support."
+    },
+    {
+      "start": 2036.22,
+      "end": 2039.759,
+      "start_int": 2036,
+      "timestamp_label": "33:56",
+      "text": "There are opportunities for"
+    },
+    {
+      "start": 2039.759,
+      "end": 2041.48,
+      "start_int": 2039,
+      "timestamp_label": "33:59",
+      "text": "if something is not produced"
+    },
+    {
+      "start": 2041.48,
+      "end": 2043.26,
+      "start_int": 2041,
+      "timestamp_label": "34:01",
+      "text": "in their environment,"
+    },
+    {
+      "start": 2043.26,
+      "end": 2046.779,
+      "start_int": 2043,
+      "timestamp_label": "34:03",
+      "text": "that our customers will probably see"
+    },
+    {
+      "start": 2046.779,
+      "end": 2051.08,
+      "start_int": 2046,
+      "timestamp_label": "34:06",
+      "text": "DCMA initiate the secondary or tertiary,"
+    },
+    {
+      "start": 2051.08,
+      "end": 2053.659,
+      "start_int": 2051,
+      "timestamp_label": "34:11",
+      "text": "or sometimes our customers are initiating"
+    },
+    {
+      "start": 2053.659,
+      "end": 2056.12,
+      "start_int": 2053,
+      "timestamp_label": "34:13",
+      "text": "the secondary and tertiary"
+    },
+    {
+      "start": 2056.12,
+      "end": 2059.48,
+      "start_int": 2056,
+      "timestamp_label": "34:16",
+      "text": "pre award survey request."
+    },
+    {
+      "start": 2059.48,
+      "end": 2061.56,
+      "start_int": 2059,
+      "timestamp_label": "34:19",
+      "text": "DCMA received"
+    },
+    {
+      "start": 2061.56,
+      "end": 2064.159,
+      "start_int": 2061,
+      "timestamp_label": "34:21",
+      "text": "support from some external agencies"
+    },
+    {
+      "start": 2064.159,
+      "end": 2066.239,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "to evaluate the security"
+    },
+    {
+      "start": 2066.239,
+      "end": 2069.0,
+      "start_int": 2066,
+      "timestamp_label": "34:26",
+      "text": "and the accounting system factors."
+    },
+    {
+      "start": 2069.0,
+      "end": 2075.22,
+      "start_int": 2069,
+      "timestamp_label": "34:29",
+      "text": "We obtain support from DCSA and DCAA."
+    },
+    {
+      "start": 2076.14,
+      "end": 2079.539,
+      "start_int": 2076,
+      "timestamp_label": "34:36",
+      "text": "The Pre War Survey managers must"
+    },
+    {
+      "start": 2079.539,
+      "end": 2080.839,
+      "start_int": 2079,
+      "timestamp_label": "34:39",
+      "text": "inform the contracting"
+    },
+    {
+      "start": 2080.839,
+      "end": 2082.56,
+      "start_int": 2080,
+      "timestamp_label": "34:40",
+      "text": "officers and supporting"
+    },
+    {
+      "start": 2082.56,
+      "end": 2083.759,
+      "start_int": 2082,
+      "timestamp_label": "34:42",
+      "text": "specialists that"
+    },
+    {
+      "start": 2083.759,
+      "end": 2086.239,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "DCMA's mission does not include"
+    },
+    {
+      "start": 2086.239,
+      "end": 2088.98,
+      "start_int": 2086,
+      "timestamp_label": "34:46",
+      "text": "assessment of the industrial security factor"
+    },
+    {
+      "start": 2088.98,
+      "end": 2091.339,
+      "start_int": 2088,
+      "timestamp_label": "34:48",
+      "text": "in the Cons environment."
+    },
+    {
+      "start": 2091.339,
+      "end": 2093.679,
+      "start_int": 2091,
+      "timestamp_label": "34:51",
+      "text": "There are some There are also"
+    },
+    {
+      "start": 2093.679,
+      "end": 2097.359,
+      "start_int": 2093,
+      "timestamp_label": "34:53",
+      "text": "limitations at GCO facilities,"
+    },
+    {
+      "start": 2097.359,
+      "end": 2099.999,
+      "start_int": 2097,
+      "timestamp_label": "34:57",
+      "text": "government owned contractor"
+    },
+    {
+      "start": 2099.999,
+      "end": 2102.299,
+      "start_int": 2099,
+      "timestamp_label": "34:59",
+      "text": "operated facilities."
+    },
+    {
+      "start": 2102.299,
+      "end": 2105.28,
+      "start_int": 2102,
+      "timestamp_label": "35:02",
+      "text": "However, in the event"
+    },
+    {
+      "start": 2105.28,
+      "end": 2108.219,
+      "start_int": 2105,
+      "timestamp_label": "35:05",
+      "text": "that a specific request is received,"
+    },
+    {
+      "start": 2108.219,
+      "end": 2111.979,
+      "start_int": 2108,
+      "timestamp_label": "35:08",
+      "text": "and it includes that particular requirement,"
+    },
+    {
+      "start": 2111.979,
+      "end": 2114.159,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "the pre award survey managers will"
+    },
+    {
+      "start": 2114.159,
+      "end": 2118.219,
+      "start_int": 2114,
+      "timestamp_label": "35:14",
+      "text": "work with the requesting activities."
+    },
+    {
+      "start": 2119.07,
+      "end": 2122.91,
+      "start_int": 2119,
+      "timestamp_label": "35:19",
+      "text": "We have an authorized capability to receive"
+    },
+    {
+      "start": 2122.91,
+      "end": 2126.57,
+      "start_int": 2122,
+      "timestamp_label": "35:22",
+      "text": "and maintain pre award survey request."
+    },
+    {
+      "start": 2126.57,
+      "end": 2129.809,
+      "start_int": 2126,
+      "timestamp_label": "35:26",
+      "text": "That's why you will not see information"
+    },
+    {
+      "start": 2129.809,
+      "end": 2133.13,
+      "start_int": 2129,
+      "timestamp_label": "35:29",
+      "text": "for pre award survey request reports"
+    },
+    {
+      "start": 2133.13,
+      "end": 2136.91,
+      "start_int": 2133,
+      "timestamp_label": "35:33",
+      "text": "residing in the Sea bar repository"
+    },
+    {
+      "start": 2136.91,
+      "end": 2141.469,
+      "start_int": 2136,
+      "timestamp_label": "35:36",
+      "text": "in that particular application."
+    },
+    {
+      "start": 2141.75,
+      "end": 2144.409,
+      "start_int": 2141,
+      "timestamp_label": "35:41",
+      "text": "DCMA personnel,"
+    },
+    {
+      "start": 2144.409,
+      "end": 2146.629,
+      "start_int": 2144,
+      "timestamp_label": "35:44",
+      "text": "we're required to limit access to"
+    },
+    {
+      "start": 2146.629,
+      "end": 2148.869,
+      "start_int": 2146,
+      "timestamp_label": "35:46",
+      "text": "pre award survey information and"
+    },
+    {
+      "start": 2148.869,
+      "end": 2150.129,
+      "start_int": 2148,
+      "timestamp_label": "35:48",
+      "text": "the reports that those"
+    },
+    {
+      "start": 2150.129,
+      "end": 2152.349,
+      "start_int": 2150,
+      "timestamp_label": "35:50",
+      "text": "who have a need to know."
+    },
+    {
+      "start": 2153.36,
+      "end": 2156.299,
+      "start_int": 2153,
+      "timestamp_label": "35:53",
+      "text": "Personnel are not authorized to"
+    },
+    {
+      "start": 2156.299,
+      "end": 2158.819,
+      "start_int": 2156,
+      "timestamp_label": "35:56",
+      "text": "provide copies of the reports or"
+    },
+    {
+      "start": 2158.819,
+      "end": 2160.699,
+      "start_int": 2158,
+      "timestamp_label": "35:58",
+      "text": "the potential outcomes on"
+    },
+    {
+      "start": 2160.699,
+      "end": 2162.06,
+      "start_int": 2160,
+      "timestamp_label": "36:00",
+      "text": "a survey request"
+    },
+    {
+      "start": 2162.06,
+      "end": 2165.079,
+      "start_int": 2162,
+      "timestamp_label": "36:02",
+      "text": "to the prospective contractors."
+    },
+    {
+      "start": 2165.92,
+      "end": 2168.98,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "DCMA personnel will provide"
+    },
+    {
+      "start": 2168.98,
+      "end": 2170.519,
+      "start_int": 2168,
+      "timestamp_label": "36:08",
+      "text": "copies of the reports to"
+    },
+    {
+      "start": 2170.519,
+      "end": 2173.9,
+      "start_int": 2170,
+      "timestamp_label": "36:10",
+      "text": "the requesting contracting officer"
+    },
+    {
+      "start": 2173.9,
+      "end": 2179.16,
+      "start_int": 2173,
+      "timestamp_label": "36:13",
+      "text": "and or their authorized representatives only."
+    },
+    {
+      "start": 2180.97,
+      "end": 2183.229,
+      "start_int": 2180,
+      "timestamp_label": "36:20",
+      "text": "So at this point,"
+    },
+    {
+      "start": 2183.229,
+      "end": 2185.329,
+      "start_int": 2183,
+      "timestamp_label": "36:23",
+      "text": "I will turn it well,"
+    },
+    {
+      "start": 2185.329,
+      "end": 2187.329,
+      "start_int": 2185,
+      "timestamp_label": "36:25",
+      "text": "I'll stop here and"
+    },
+    {
+      "start": 2187.329,
+      "end": 2190.089,
+      "start_int": 2187,
+      "timestamp_label": "36:27",
+      "text": "see if there are questions or I will"
+    },
+    {
+      "start": 2190.089,
+      "end": 2192.41,
+      "start_int": 2190,
+      "timestamp_label": "36:30",
+      "text": "turn it over to Marina"
+    },
+    {
+      "start": 2192.41,
+      "end": 2194.489,
+      "start_int": 2192,
+      "timestamp_label": "36:32",
+      "text": "to see how she'd like to"
+    },
+    {
+      "start": 2194.489,
+      "end": 2199.559,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "handle the questions. All right."
+    },
+    {
+      "start": 2199.559,
+      "end": 2201.519,
+      "start_int": 2199,
+      "timestamp_label": "36:39",
+      "text": "So at this time, there were"
+    },
+    {
+      "start": 2201.519,
+      "end": 2203.279,
+      "start_int": 2201,
+      "timestamp_label": "36:41",
+      "text": "two questions in the chat"
+    },
+    {
+      "start": 2203.279,
+      "end": 2205.679,
+      "start_int": 2203,
+      "timestamp_label": "36:43",
+      "text": "that we've answered so far."
+    },
+    {
+      "start": 2205.679,
+      "end": 2208.04,
+      "start_int": 2205,
+      "timestamp_label": "36:45",
+      "text": "If those answers are sufficient,"
+    },
+    {
+      "start": 2208.04,
+      "end": 2209.059,
+      "start_int": 2208,
+      "timestamp_label": "36:48",
+      "text": "please let us know."
+    },
+    {
+      "start": 2209.059,
+      "end": 2212.08,
+      "start_int": 2209,
+      "timestamp_label": "36:49",
+      "text": "If you have any additional questions,"
+    },
+    {
+      "start": 2212.08,
+      "end": 2214.499,
+      "start_int": 2212,
+      "timestamp_label": "36:52",
+      "text": "please drop them in the chat for us"
+    },
+    {
+      "start": 2214.499,
+      "end": 2217.019,
+      "start_int": 2214,
+      "timestamp_label": "36:54",
+      "text": "so we can get you a response."
+    },
+    {
+      "start": 2217.019,
+      "end": 2218.6,
+      "start_int": 2217,
+      "timestamp_label": "36:57",
+      "text": "If you have questions"
+    },
+    {
+      "start": 2218.6,
+      "end": 2220.8,
+      "start_int": 2218,
+      "timestamp_label": "36:58",
+      "text": "related to pre award surveys,"
+    },
+    {
+      "start": 2220.8,
+      "end": 2222.499,
+      "start_int": 2220,
+      "timestamp_label": "37:00",
+      "text": "please drop those in now."
+    },
+    {
+      "start": 2222.499,
+      "end": 2225.28,
+      "start_int": 2222,
+      "timestamp_label": "37:02",
+      "text": "We typically don't have miss Hicks"
+    },
+    {
+      "start": 2225.28,
+      "end": 2228.259,
+      "start_int": 2225,
+      "timestamp_label": "37:05",
+      "text": "or Mr. Little on our sessions with us."
+    },
+    {
+      "start": 2228.259,
+      "end": 2231.029,
+      "start_int": 2228,
+      "timestamp_label": "37:08",
+      "text": "So this was a great opportunity"
+    },
+    {
+      "start": 2231.029,
+      "end": 2232.53,
+      "start_int": 2231,
+      "timestamp_label": "37:11",
+      "text": "for them to share their knowledge."
+    },
+    {
+      "start": 2232.53,
+      "end": 2234.23,
+      "start_int": 2232,
+      "timestamp_label": "37:12",
+      "text": "I know within the buying commands"
+    },
+    {
+      "start": 2234.23,
+      "end": 2236.15,
+      "start_int": 2234,
+      "timestamp_label": "37:14",
+      "text": "there's typically a lot of turnover,"
+    },
+    {
+      "start": 2236.15,
+      "end": 2237.929,
+      "start_int": 2236,
+      "timestamp_label": "37:16",
+      "text": "and people just don't have"
+    },
+    {
+      "start": 2237.929,
+      "end": 2239.249,
+      "start_int": 2237,
+      "timestamp_label": "37:17",
+      "text": "that background of what do"
+    },
+    {
+      "start": 2239.249,
+      "end": 2240.729,
+      "start_int": 2239,
+      "timestamp_label": "37:19",
+      "text": "I do or where do I go?"
+    },
+    {
+      "start": 2240.729,
+      "end": 2242.689,
+      "start_int": 2240,
+      "timestamp_label": "37:20",
+      "text": "So I thought this forum was"
+    },
+    {
+      "start": 2242.689,
+      "end": 2244.41,
+      "start_int": 2242,
+      "timestamp_label": "37:22",
+      "text": "a great opportunity to present"
+    },
+    {
+      "start": 2244.41,
+      "end": 2247.129,
+      "start_int": 2244,
+      "timestamp_label": "37:24",
+      "text": "that information so that you,"
+    },
+    {
+      "start": 2247.129,
+      "end": 2250.45,
+      "start_int": 2247,
+      "timestamp_label": "37:27",
+      "text": "the customers can go back into our systems,"
+    },
+    {
+      "start": 2250.45,
+      "end": 2252.19,
+      "start_int": 2250,
+      "timestamp_label": "37:30",
+      "text": "identify what's needed,"
+    },
+    {
+      "start": 2252.19,
+      "end": 2255.349,
+      "start_int": 2252,
+      "timestamp_label": "37:32",
+      "text": "and then reach back out to our team."
+    },
+    {
+      "start": 2256.33,
+      "end": 2258.669,
+      "start_int": 2256,
+      "timestamp_label": "37:36",
+      "text": "So the question that"
+    },
+    {
+      "start": 2258.669,
+      "end": 2260.249,
+      "start_int": 2258,
+      "timestamp_label": "37:38",
+      "text": "just populated in the chat?"
+    },
+    {
+      "start": 2260.249,
+      "end": 2263.79,
+      "start_int": 2260,
+      "timestamp_label": "37:40",
+      "text": "Is there a video on CBR in Pi training?"
+    },
+    {
+      "start": 2263.79,
+      "end": 2266.169,
+      "start_int": 2263,
+      "timestamp_label": "37:43",
+      "text": "Bob, I think I don't think we"
+    },
+    {
+      "start": 2266.169,
+      "end": 2269.429,
+      "start_int": 2266,
+      "timestamp_label": "37:46",
+      "text": "have a video in C Bar,"
+    },
+    {
+      "start": 2269.429,
+      "end": 2272.149,
+      "start_int": 2269,
+      "timestamp_label": "37:49",
+      "text": "just because the information presented in"
+    },
+    {
+      "start": 2272.149,
+      "end": 2274.89,
+      "start_int": 2272,
+      "timestamp_label": "37:52",
+      "text": "CBR is typically proprietary."
+    },
+    {
+      "start": 2274.89,
+      "end": 2278.649,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "So like the slides that Bob presented today,"
+    },
+    {
+      "start": 2278.649,
+      "end": 2281.949,
+      "start_int": 2278,
+      "timestamp_label": "37:58",
+      "text": "we just gave the very cleansed diversion so"
+    },
+    {
+      "start": 2281.949,
+      "end": 2285.129,
+      "start_int": 2281,
+      "timestamp_label": "38:01",
+      "text": "as not to release proprietary information."
+    },
+    {
+      "start": 2285.129,
+      "end": 2287.609,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "But Bob, do we have a video,"
+    },
+    {
+      "start": 2287.609,
+      "end": 2289.329,
+      "start_int": 2287,
+      "timestamp_label": "38:07",
+      "text": "or are we looking at uploading"
+    },
+    {
+      "start": 2289.329,
+      "end": 2290.805,
+      "start_int": 2289,
+      "timestamp_label": "38:09",
+      "text": "a video for CBR?"
+    },
+    {
+      "start": 2290.805,
+      "end": 2293.159,
+      "start_int": 2290,
+      "timestamp_label": "38:10",
+      "text": "Yeah. I don't I don't think we've ever"
+    },
+    {
+      "start": 2293.159,
+      "end": 2295.9,
+      "start_int": 2293,
+      "timestamp_label": "38:13",
+      "text": "published the videos for that reason."
+    },
+    {
+      "start": 2295.9,
+      "end": 2296.639,
+      "start_int": 2295,
+      "timestamp_label": "38:15",
+      "text": "I know there is"
+    },
+    {
+      "start": 2296.639,
+      "end": 2299.479,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "some limited training on there."
+    },
+    {
+      "start": 2299.479,
+      "end": 2303.54,
+      "start_int": 2299,
+      "timestamp_label": "38:19",
+      "text": "If you go into Pi and then EDA,"
+    },
+    {
+      "start": 2303.54,
+      "end": 2305.719,
+      "start_int": 2303,
+      "timestamp_label": "38:23",
+      "text": "there is, you know,"
+    },
+    {
+      "start": 2305.719,
+      "end": 2307.779,
+      "start_int": 2305,
+      "timestamp_label": "38:25",
+      "text": "a tab at the bottom that"
+    },
+    {
+      "start": 2307.779,
+      "end": 2308.86,
+      "start_int": 2307,
+      "timestamp_label": "38:27",
+      "text": "has to do with training"
+    },
+    {
+      "start": 2308.86,
+      "end": 2310.02,
+      "start_int": 2308,
+      "timestamp_label": "38:28",
+      "text": "and there's different modules."
+    },
+    {
+      "start": 2310.02,
+      "end": 2312.679,
+      "start_int": 2310,
+      "timestamp_label": "38:30",
+      "text": "And there are some I think it's more like"
+    },
+    {
+      "start": 2312.679,
+      "end": 2316.62,
+      "start_int": 2312,
+      "timestamp_label": "38:32",
+      "text": "PDF type of information on CBR."
+    },
+    {
+      "start": 2316.62,
+      "end": 2318.859,
+      "start_int": 2316,
+      "timestamp_label": "38:36",
+      "text": "You know, similar to what I had,"
+    },
+    {
+      "start": 2318.859,
+      "end": 2320.58,
+      "start_int": 2318,
+      "timestamp_label": "38:38",
+      "text": "maybe a little bit more summarized,"
+    },
+    {
+      "start": 2320.58,
+      "end": 2321.899,
+      "start_int": 2320,
+      "timestamp_label": "38:40",
+      "text": "but if people want to know,"
+    },
+    {
+      "start": 2321.899,
+      "end": 2323.12,
+      "start_int": 2321,
+      "timestamp_label": "38:41",
+      "text": "look at that and compare"
+    },
+    {
+      "start": 2323.12,
+      "end": 2325.039,
+      "start_int": 2323,
+      "timestamp_label": "38:43",
+      "text": "or they find something helpful on that,"
+    },
+    {
+      "start": 2325.039,
+      "end": 2328.6,
+      "start_int": 2325,
+      "timestamp_label": "38:45",
+      "text": "that's fine, but there wouldn't be a video."
+    },
+    {
+      "start": 2333.73,
+      "end": 2337.19,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "Frida. There is a question."
+    },
+    {
+      "start": 2337.19,
+      "end": 2339.95,
+      "start_int": 2337,
+      "timestamp_label": "38:57",
+      "text": "Where would one request a pre award survey?"
+    },
+    {
+      "start": 2339.95,
+      "end": 2342.289,
+      "start_int": 2339,
+      "timestamp_label": "38:59",
+      "text": "Is it a module in Pi?"
+    },
+    {
+      "start": 2342.93,
+      "end": 2347.669,
+      "start_int": 2342,
+      "timestamp_label": "39:02",
+      "text": "Actually, DCMA has the pass two point E tool."
+    },
+    {
+      "start": 2347.669,
+      "end": 2350.889,
+      "start_int": 2347,
+      "timestamp_label": "39:07",
+      "text": "And any requester should make sure that"
+    },
+    {
+      "start": 2350.889,
+      "end": 2354.369,
+      "start_int": 2350,
+      "timestamp_label": "39:10",
+      "text": "they have access to that E tool,"
+    },
+    {
+      "start": 2354.369,
+      "end": 2360.19,
+      "start_int": 2354,
+      "timestamp_label": "39:14",
+      "text": "and by submitting a request for access EAM,"
+    },
+    {
+      "start": 2360.19,
+      "end": 2363.41,
+      "start_int": 2360,
+      "timestamp_label": "39:20",
+      "text": "External Web Access Manager."
+    },
+    {
+      "start": 2363.41,
+      "end": 2366.99,
+      "start_int": 2363,
+      "timestamp_label": "39:23",
+      "text": "And they'll be working with Mr. Jack Little."
+    },
+    {
+      "start": 2366.99,
+      "end": 2373.569,
+      "start_int": 2366,
+      "timestamp_label": "39:26",
+      "text": "And Jack, are you online Did I leave."
+    },
+    {
+      "start": 2373.569,
+      "end": 2376.05,
+      "start_int": 2373,
+      "timestamp_label": "39:33",
+      "text": "I'm here. Did I leave anything?"
+    },
+    {
+      "start": 2376.05,
+      "end": 2379.329,
+      "start_int": 2376,
+      "timestamp_label": "39:36",
+      "text": "Can you share a little bit"
+    },
+    {
+      "start": 2379.329,
+      "end": 2381.53,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "about the request process?"
+    },
+    {
+      "start": 2381.53,
+      "end": 2383.129,
+      "start_int": 2381,
+      "timestamp_label": "39:41",
+      "text": "I know I hate to put you on"
+    },
+    {
+      "start": 2383.129,
+      "end": 2385.23,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "the spot. Oh, no problem."
+    },
+    {
+      "start": 2385.23,
+      "end": 2386.81,
+      "start_int": 2385,
+      "timestamp_label": "39:45",
+      "text": "All users, you can access,"
+    },
+    {
+      "start": 2386.81,
+      "end": 2387.609,
+      "start_int": 2386,
+      "timestamp_label": "39:46",
+      "text": "you may have done it"
+    },
+    {
+      "start": 2387.609,
+      "end": 2388.729,
+      "start_int": 2387,
+      "timestamp_label": "39:47",
+      "text": "before when you were trying to"
+    },
+    {
+      "start": 2388.729,
+      "end": 2389.949,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "access C bar before"
+    },
+    {
+      "start": 2389.949,
+      "end": 2391.309,
+      "start_int": 2389,
+      "timestamp_label": "39:49",
+      "text": "it transferred over to Pi,"
+    },
+    {
+      "start": 2391.309,
+      "end": 2394.029,
+      "start_int": 2391,
+      "timestamp_label": "39:51",
+      "text": "but you go to DCMA dot M"
+    },
+    {
+      "start": 2394.029,
+      "end": 2396.59,
+      "start_int": 2394,
+      "timestamp_label": "39:54",
+      "text": "and then select EAM users,"
+    },
+    {
+      "start": 2396.59,
+      "end": 2398.289,
+      "start_int": 2396,
+      "timestamp_label": "39:56",
+      "text": "and then you can go in and"
+    },
+    {
+      "start": 2398.289,
+      "end": 2401.009,
+      "start_int": 2398,
+      "timestamp_label": "39:58",
+      "text": "pre there's not very many of them left,"
+    },
+    {
+      "start": 2401.009,
+      "end": 2403.87,
+      "start_int": 2401,
+      "timestamp_label": "40:01",
+      "text": "but Pass system pre award survey system"
+    },
+    {
+      "start": 2403.87,
+      "end": 2405.469,
+      "start_int": 2403,
+      "timestamp_label": "40:03",
+      "text": "is one of the tools left."
+    },
+    {
+      "start": 2405.469,
+      "end": 2408.01,
+      "start_int": 2405,
+      "timestamp_label": "40:05",
+      "text": "And then you select that radio button."
+    },
+    {
+      "start": 2408.01,
+      "end": 2410.669,
+      "start_int": 2408,
+      "timestamp_label": "40:08",
+      "text": "Fill out the application and submitted to me."
+    },
+    {
+      "start": 2410.669,
+      "end": 2412.349,
+      "start_int": 2410,
+      "timestamp_label": "40:10",
+      "text": "And then I approve them."
+    },
+    {
+      "start": 2412.349,
+      "end": 2413.149,
+      "start_int": 2412,
+      "timestamp_label": "40:12",
+      "text": "I'll come back to you"
+    },
+    {
+      "start": 2413.149,
+      "end": 2414.67,
+      "start_int": 2413,
+      "timestamp_label": "40:13",
+      "text": "ask some verification questions,"
+    },
+    {
+      "start": 2414.67,
+      "end": 2415.809,
+      "start_int": 2414,
+      "timestamp_label": "40:14",
+      "text": "and once I get those back"
+    },
+    {
+      "start": 2415.809,
+      "end": 2417.25,
+      "start_int": 2415,
+      "timestamp_label": "40:15",
+      "text": "then I approve your access,"
+    },
+    {
+      "start": 2417.25,
+      "end": 2418.669,
+      "start_int": 2417,
+      "timestamp_label": "40:17",
+      "text": "that you just simply go in."
+    },
+    {
+      "start": 2418.669,
+      "end": 2420.829,
+      "start_int": 2418,
+      "timestamp_label": "40:18",
+      "text": "If you need a Pasm help or our help,"
+    },
+    {
+      "start": 2420.829,
+      "end": 2422.829,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "we can guide you on how to"
+    },
+    {
+      "start": 2422.829,
+      "end": 2426.009,
+      "start_int": 2422,
+      "timestamp_label": "40:22",
+      "text": "fill out the request and how to use the tool."
+    },
+    {
+      "start": 2426.009,
+      "end": 2427.729,
+      "start_int": 2426,
+      "timestamp_label": "40:26",
+      "text": "But for the most part, the Pasm will"
+    },
+    {
+      "start": 2427.729,
+      "end": 2429.629,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "help you and it's pretty self explanatory."
+    },
+    {
+      "start": 2429.629,
+      "end": 2432.609,
+      "start_int": 2429,
+      "timestamp_label": "40:29",
+      "text": "And I have nothing else to share over."
+    },
+    {
+      "start": 2444.18,
+      "end": 2446.7,
+      "start_int": 2444,
+      "timestamp_label": "40:44",
+      "text": "All right. I'm not showing"
+    },
+    {
+      "start": 2446.7,
+      "end": 2449.219,
+      "start_int": 2446,
+      "timestamp_label": "40:46",
+      "text": "any other questions."
+    },
+    {
+      "start": 2449.42,
+      "end": 2452.22,
+      "start_int": 2449,
+      "timestamp_label": "40:49",
+      "text": "For everybody who's attended,"
+    },
+    {
+      "start": 2452.22,
+      "end": 2453.82,
+      "start_int": 2452,
+      "timestamp_label": "40:52",
+      "text": "if there are other topics"
+    },
+    {
+      "start": 2453.82,
+      "end": 2454.939,
+      "start_int": 2453,
+      "timestamp_label": "40:53",
+      "text": "that you would like to see,"
+    },
+    {
+      "start": 2454.939,
+      "end": 2458.059,
+      "start_int": 2454,
+      "timestamp_label": "40:54",
+      "text": "please feel free to drop those in the chat."
+    },
+    {
+      "start": 2458.059,
+      "end": 2459.839,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "Just like we reached out to"
+    },
+    {
+      "start": 2459.839,
+      "end": 2461.46,
+      "start_int": 2459,
+      "timestamp_label": "40:59",
+      "text": "miss Hicks and Mr. Little,"
+    },
+    {
+      "start": 2461.46,
+      "end": 2463.879,
+      "start_int": 2461,
+      "timestamp_label": "41:01",
+      "text": "we're looking at bringing other points of"
+    },
+    {
+      "start": 2463.879,
+      "end": 2465.119,
+      "start_int": 2463,
+      "timestamp_label": "41:03",
+      "text": "contact from"
+    },
+    {
+      "start": 2465.119,
+      "end": 2468.34,
+      "start_int": 2465,
+      "timestamp_label": "41:05",
+      "text": "DCMA into these training sessions,"
+    },
+    {
+      "start": 2468.34,
+      "end": 2470.24,
+      "start_int": 2468,
+      "timestamp_label": "41:08",
+      "text": "just to familiarize yourself"
+    },
+    {
+      "start": 2470.24,
+      "end": 2471.879,
+      "start_int": 2470,
+      "timestamp_label": "41:10",
+      "text": "with all of the functions that"
+    },
+    {
+      "start": 2471.879,
+      "end": 2473.139,
+      "start_int": 2471,
+      "timestamp_label": "41:11",
+      "text": "we do perform for"
+    },
+    {
+      "start": 2473.139,
+      "end": 2475.72,
+      "start_int": 2473,
+      "timestamp_label": "41:13",
+      "text": "binding commands on a regular basis."
+    },
+    {
+      "start": 2475.72,
+      "end": 2478.34,
+      "start_int": 2475,
+      "timestamp_label": "41:15",
+      "text": "So for future sessions,"
+    },
+    {
+      "start": 2478.34,
+      "end": 2479.679,
+      "start_int": 2478,
+      "timestamp_label": "41:18",
+      "text": "we would, you know,"
+    },
+    {
+      "start": 2479.679,
+      "end": 2481.279,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "if there's interest to"
+    },
+    {
+      "start": 2481.279,
+      "end": 2483.439,
+      "start_int": 2481,
+      "timestamp_label": "41:21",
+      "text": "have miss Hicks and Mr. Little come back,"
+    },
+    {
+      "start": 2483.439,
+      "end": 2485.079,
+      "start_int": 2483,
+      "timestamp_label": "41:23",
+      "text": "we're happy to reach out to them"
+    },
+    {
+      "start": 2485.079,
+      "end": 2487.219,
+      "start_int": 2485,
+      "timestamp_label": "41:25",
+      "text": "again and have them come back and"
+    },
+    {
+      "start": 2487.219,
+      "end": 2488.979,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "give another presentation just"
+    },
+    {
+      "start": 2488.979,
+      "end": 2491.629,
+      "start_int": 2488,
+      "timestamp_label": "41:28",
+      "text": "for those who weren't able to attend today."
+    },
+    {
+      "start": 2491.629,
+      "end": 2494.099,
+      "start_int": 2491,
+      "timestamp_label": "41:31",
+      "text": "We're also looking at"
+    },
+    {
+      "start": 2494.099,
+      "end": 2496.719,
+      "start_int": 2494,
+      "timestamp_label": "41:34",
+      "text": "having one of our Dacos come in."
+    },
+    {
+      "start": 2496.719,
+      "end": 2499.48,
+      "start_int": 2496,
+      "timestamp_label": "41:36",
+      "text": "Maybe talk about contractor business systems,"
+    },
+    {
+      "start": 2499.48,
+      "end": 2501.319,
+      "start_int": 2499,
+      "timestamp_label": "41:39",
+      "text": "and the reasons why you'll see"
+    },
+    {
+      "start": 2501.319,
+      "end": 2504.479,
+      "start_int": 2501,
+      "timestamp_label": "41:41",
+      "text": "a not evaluated or not applicable,"
+    },
+    {
+      "start": 2504.479,
+      "end": 2506.699,
+      "start_int": 2504,
+      "timestamp_label": "41:44",
+      "text": "reasons why you'll see"
+    },
+    {
+      "start": 2506.699,
+      "end": 2510.22,
+      "start_int": 2506,
+      "timestamp_label": "41:46",
+      "text": "cost accounting standards, not evaluated,"
+    },
+    {
+      "start": 2510.22,
+      "end": 2512.059,
+      "start_int": 2510,
+      "timestamp_label": "41:50",
+      "text": "all of those different pieces of"
+    },
+    {
+      "start": 2512.059,
+      "end": 2514.0,
+      "start_int": 2512,
+      "timestamp_label": "41:52",
+      "text": "information that are in CBR,"
+    },
+    {
+      "start": 2514.0,
+      "end": 2516.179,
+      "start_int": 2514,
+      "timestamp_label": "41:54",
+      "text": "but may not be abundantly clear what"
+    },
+    {
+      "start": 2516.179,
+      "end": 2519.019,
+      "start_int": 2516,
+      "timestamp_label": "41:56",
+      "text": "the explanation behind them is."
+    },
+    {
+      "start": 2519.019,
+      "end": 2520.419,
+      "start_int": 2519,
+      "timestamp_label": "41:59",
+      "text": "We're also looking at"
+    },
+    {
+      "start": 2520.419,
+      "end": 2522.359,
+      "start_int": 2520,
+      "timestamp_label": "42:00",
+      "text": "having maybe a discussion on"
+    },
+    {
+      "start": 2522.359,
+      "end": 2524.86,
+      "start_int": 2522,
+      "timestamp_label": "42:02",
+      "text": "forward pricing rate recommendations"
+    },
+    {
+      "start": 2524.86,
+      "end": 2527.974,
+      "start_int": 2524,
+      "timestamp_label": "42:04",
+      "text": "versus a forward pricing rate."
+    },
+    {
+      "start": 2527.974,
+      "end": 2531.03,
+      "start_int": 2527,
+      "timestamp_label": "42:07",
+      "text": "Agreement and the different factors"
+    },
+    {
+      "start": 2531.03,
+      "end": 2533.749,
+      "start_int": 2531,
+      "timestamp_label": "42:11",
+      "text": "and thought processes that go into that."
+    },
+    {
+      "start": 2533.749,
+      "end": 2536.789,
+      "start_int": 2533,
+      "timestamp_label": "42:13",
+      "text": "Looking maybe at financial capability."
+    },
+    {
+      "start": 2536.789,
+      "end": 2538.15,
+      "start_int": 2536,
+      "timestamp_label": "42:16",
+      "text": "If you're looking at a small"
+    },
+    {
+      "start": 2538.15,
+      "end": 2539.649,
+      "start_int": 2538,
+      "timestamp_label": "42:18",
+      "text": "contractor or not sure if they"
+    },
+    {
+      "start": 2539.649,
+      "end": 2543.11,
+      "start_int": 2539,
+      "timestamp_label": "42:19",
+      "text": "have the ability to perform on a contract,"
+    },
+    {
+      "start": 2543.11,
+      "end": 2545.709,
+      "start_int": 2543,
+      "timestamp_label": "42:23",
+      "text": "we do have a financial capability team"
+    },
+    {
+      "start": 2545.709,
+      "end": 2547.289,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "that can go in and take"
+    },
+    {
+      "start": 2547.289,
+      "end": 2549.365,
+      "start_int": 2547,
+      "timestamp_label": "42:27",
+      "text": "a look at that specific contractor"
+    },
+    {
+      "start": 2549.365,
+      "end": 2551.42,
+      "start_int": 2549,
+      "timestamp_label": "42:29",
+      "text": "for that specific contract,"
+    },
+    {
+      "start": 2551.42,
+      "end": 2553.279,
+      "start_int": 2551,
+      "timestamp_label": "42:31",
+      "text": "as miss Hicks mentioned."
+    },
+    {
+      "start": 2553.279,
+      "end": 2556.559,
+      "start_int": 2553,
+      "timestamp_label": "42:33",
+      "text": "So if you're looking at something like that,"
+    },
+    {
+      "start": 2556.559,
+      "end": 2557.979,
+      "start_int": 2556,
+      "timestamp_label": "42:36",
+      "text": "if you have questions"
+    },
+    {
+      "start": 2557.979,
+      "end": 2559.799,
+      "start_int": 2557,
+      "timestamp_label": "42:37",
+      "text": "that you're not sure where they"
+    },
+    {
+      "start": 2559.799,
+      "end": 2561.439,
+      "start_int": 2559,
+      "timestamp_label": "42:39",
+      "text": "belong or who in DCMA"
+    },
+    {
+      "start": 2561.439,
+      "end": 2563.499,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "can support you, drop them in the chat."
+    },
+    {
+      "start": 2563.499,
+      "end": 2564.959,
+      "start_int": 2563,
+      "timestamp_label": "42:43",
+      "text": "We're happy to reach out,"
+    },
+    {
+      "start": 2564.959,
+      "end": 2566.939,
+      "start_int": 2564,
+      "timestamp_label": "42:44",
+      "text": "find those points of contacts"
+    },
+    {
+      "start": 2566.939,
+      "end": 2568.679,
+      "start_int": 2566,
+      "timestamp_label": "42:46",
+      "text": "and bring them in so that you can"
+    },
+    {
+      "start": 2568.679,
+      "end": 2570.459,
+      "start_int": 2568,
+      "timestamp_label": "42:48",
+      "text": "see how they interface with"
+    },
+    {
+      "start": 2570.459,
+      "end": 2574.459,
+      "start_int": 2570,
+      "timestamp_label": "42:50",
+      "text": "CBR or interface with DCMA as a whole."
+    },
+    {
+      "start": 2578.23,
+      "end": 2580.789,
+      "start_int": 2578,
+      "timestamp_label": "42:58",
+      "text": "All right. Kurt, I'm not"
+    },
+    {
+      "start": 2580.789,
+      "end": 2582.689,
+      "start_int": 2580,
+      "timestamp_label": "43:00",
+      "text": "showing any other questions if you"
+    },
+    {
+      "start": 2582.689,
+      "end": 2584.509,
+      "start_int": 2582,
+      "timestamp_label": "43:02",
+      "text": "want to take us home."
+    },
+    {
+      "start": 2584.509,
+      "end": 2586.389,
+      "start_int": 2584,
+      "timestamp_label": "43:04",
+      "text": "Yeah, I will do. Thank you."
+    },
+    {
+      "start": 2586.389,
+      "end": 2587.67,
+      "start_int": 2586,
+      "timestamp_label": "43:06",
+      "text": "So I appreciate everybody"
+    },
+    {
+      "start": 2587.67,
+      "end": 2588.449,
+      "start_int": 2587,
+      "timestamp_label": "43:07",
+      "text": "coming to this meeting,"
+    },
+    {
+      "start": 2588.449,
+      "end": 2590.03,
+      "start_int": 2588,
+      "timestamp_label": "43:08",
+      "text": "and I hope you get your questions answered."
+    },
+    {
+      "start": 2590.03,
+      "end": 2592.529,
+      "start_int": 2590,
+      "timestamp_label": "43:10",
+      "text": "Just remember, DAU also"
+    },
+    {
+      "start": 2592.529,
+      "end": 2594.749,
+      "start_int": 2592,
+      "timestamp_label": "43:12",
+      "text": "has a lot of resources available to you,"
+    },
+    {
+      "start": 2594.749,
+      "end": 2596.469,
+      "start_int": 2594,
+      "timestamp_label": "43:14",
+      "text": "as well as does DCMA."
+    },
+    {
+      "start": 2596.469,
+      "end": 2597.969,
+      "start_int": 2596,
+      "timestamp_label": "43:16",
+      "text": "So visit the websites and"
+    },
+    {
+      "start": 2597.969,
+      "end": 2599.31,
+      "start_int": 2597,
+      "timestamp_label": "43:17",
+      "text": "then send us messages"
+    },
+    {
+      "start": 2599.31,
+      "end": 2600.21,
+      "start_int": 2599,
+      "timestamp_label": "43:19",
+      "text": "if you have any other questions,"
+    },
+    {
+      "start": 2600.21,
+      "end": 2601.809,
+      "start_int": 2600,
+      "timestamp_label": "43:20",
+      "text": "we'll be happy to try and address them."
+    },
+    {
+      "start": 2601.809,
+      "end": 2603.469,
+      "start_int": 2601,
+      "timestamp_label": "43:21",
+      "text": "So, thank you, Bob and the team,"
+    },
+    {
+      "start": 2603.469,
+      "end": 2605.909,
+      "start_int": 2603,
+      "timestamp_label": "43:23",
+      "text": "and everybody have a great day."
+    }
+  ]
+}

@@ -1,0 +1,7614 @@
+{
+  "id": "2024-09-24-piee-open-forum-cor-office-hours-09242024",
+  "title": "PIEE Open Forum- COR Office Hours 09/24/2024",
+  "date": "2024-09-24",
+  "event_url": "https://www.waru.edu/events/cor-office-hours-144",
+  "entry_id": "1_jeggzu84",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_jeggzu84/version/100011",
+  "cues": [
+    {
+      "start": 7.438,
+      "end": 8.438,
+      "start_int": 7,
+      "timestamp_label": "0:07",
+      "text": "Hello everyone."
+    },
+    {
+      "start": 8.478,
+      "end": 12.572,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "I do see that it is 11:45 Eastern Time, so let me go ahead"
+    },
+    {
+      "start": 12.572,
+      "end": 16.598,
+      "start_int": 12,
+      "timestamp_label": "0:12",
+      "text": "and get us started with today. Score Office hour session."
+    },
+    {
+      "start": 16.838,
+      "end": 17.758,
+      "start_int": 16,
+      "timestamp_label": "0:16",
+      "text": "Hello everyone."
+    },
+    {
+      "start": 17.758,
+      "end": 21.166,
+      "start_int": 17,
+      "timestamp_label": "0:17",
+      "text": "My name is Evelyn and I'm your producer for today's session,"
+    },
+    {
+      "start": 21.166,
+      "end": 24.631,
+      "start_int": 21,
+      "timestamp_label": "0:21",
+      "text": "and before we officially begin with today's topic and passing"
+    },
+    {
+      "start": 24.631,
+      "end": 28.095,
+      "start_int": 24,
+      "timestamp_label": "0:24",
+      "text": "the MIC to our guest speakers, I do have a few administrative"
+    },
+    {
+      "start": 28.095,
+      "end": 28.878,
+      "start_int": 28,
+      "timestamp_label": "0:28",
+      "text": "announcements."
+    },
+    {
+      "start": 29.158,
+      "end": 32.574,
+      "start_int": 29,
+      "timestamp_label": "0:29",
+      "text": "Firstly, if you're unable to see the shared screen and the shared"
+    },
+    {
+      "start": 32.574,
+      "end": 35.887,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "screen is currently highlighting today's guest speakers as well"
+    },
+    {
+      "start": 35.887,
+      "end": 37.078,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "as the topic for today."
+    },
+    {
+      "start": 38.028,
+      "end": 41.238,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "If you do not see that shared screen, I recommend that you"
+    },
+    {
+      "start": 41.238,
+      "end": 44.068,
+      "start_int": 41,
+      "timestamp_label": "0:41",
+      "text": "leave this meeting and rejoin via web browser only."
+    },
+    {
+      "start": 45.628,
+      "end": 48.848,
+      "start_int": 45,
+      "timestamp_label": "0:45",
+      "text": "While you're checking to see those settings, double check"
+    },
+    {
+      "start": 48.848,
+      "end": 49.348,
+      "start_int": 48,
+      "timestamp_label": "0:48",
+      "text": "your mic."
+    },
+    {
+      "start": 49.348,
+      "end": 52.377,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "I want to make sure that everyone is aware that you are"
+    },
+    {
+      "start": 52.377,
+      "end": 55.784,
+      "start_int": 52,
+      "timestamp_label": "0:52",
+      "text": "not automatically muted when you enter this meeting, so please"
+    },
+    {
+      "start": 55.784,
+      "end": 59.3,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "take a moment to double check to make sure that there is a slash"
+    },
+    {
+      "start": 59.3,
+      "end": 62.708,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "on that mic icon while you're double checking your microphone."
+    },
+    {
+      "start": 62.708,
+      "end": 65.268,
+      "start_int": 62,
+      "timestamp_label": "1:02",
+      "text": "Double check to make sure that your cameras are turned off."
+    },
+    {
+      "start": 65.628,
+      "end": 69.342,
+      "start_int": 65,
+      "timestamp_label": "1:05",
+      "text": "Make sure that that slash is on there as well as cameras are not"
+    },
+    {
+      "start": 69.342,
+      "end": 70.828,
+      "start_int": 69,
+      "timestamp_label": "1:09",
+      "text": "required for this meeting."
+    },
+    {
+      "start": 71.948,
+      "end": 74.428,
+      "start_int": 71,
+      "timestamp_label": "1:11",
+      "text": "This session is being recorded and will be posted."
+    },
+    {
+      "start": 74.958,
+      "end": 78.099,
+      "start_int": 74,
+      "timestamp_label": "1:14",
+      "text": "On the core community of practice, by the end of the day"
+    },
+    {
+      "start": 78.099,
+      "end": 81.736,
+      "start_int": 78,
+      "timestamp_label": "1:18",
+      "text": "today and towards the end of the session, I will share with you a"
+    },
+    {
+      "start": 81.736,
+      "end": 82.398,
+      "start_int": 81,
+      "timestamp_label": "1:21",
+      "text": "survey link."
+    },
+    {
+      "start": 82.398,
+      "end": 87.139,
+      "start_int": 82,
+      "timestamp_label": "1:22",
+      "text": "Attendees can earn one CLP for attending the entire session. CL"
+    },
+    {
+      "start": 87.139,
+      "end": 91.509,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "PS must be approved by your supervisors as they have final"
+    },
+    {
+      "start": 91.509,
+      "end": 95.806,
+      "start_int": 91,
+      "timestamp_label": "1:31",
+      "text": "say and when requesting a certificate, remember to follow"
+    },
+    {
+      "start": 95.806,
+      "end": 100.325,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "your organizational guidance regarding requesting continuous"
+    },
+    {
+      "start": 100.325,
+      "end": 104.621,
+      "start_int": 100,
+      "timestamp_label": "1:40",
+      "text": "signing points. And remember that CL PS for DAU events do"
+    },
+    {
+      "start": 104.621,
+      "end": 104.918,
+      "start_int": 104,
+      "timestamp_label": "1:44",
+      "text": "not."
+    },
+    {
+      "start": 105.198,
+      "end": 108.742,
+      "start_int": 105,
+      "timestamp_label": "1:45",
+      "text": "Not post automatically to your CL transcript and must be"
+    },
+    {
+      "start": 108.742,
+      "end": 112.722,
+      "start_int": 108,
+      "timestamp_label": "1:48",
+      "text": "requested separately for those in acquisition coded positioned."
+    },
+    {
+      "start": 112.722,
+      "end": 116.205,
+      "start_int": 112,
+      "timestamp_label": "1:52",
+      "text": "You can request continuous learning points through your"
+    },
+    {
+      "start": 116.205,
+      "end": 120.185,
+      "start_int": 116,
+      "timestamp_label": "1:56",
+      "text": "organization system and attach a certificate of attendance from"
+    },
+    {
+      "start": 120.185,
+      "end": 120.558,
+      "start_int": 120,
+      "timestamp_label": "2:00",
+      "text": "there."
+    },
+    {
+      "start": 123.698,
+      "end": 127.09,
+      "start_int": 123,
+      "timestamp_label": "2:03",
+      "text": "For core the non acquisition positions, you may manually"
+    },
+    {
+      "start": 127.09,
+      "end": 130.363,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "track your attendance for the mandatory core refresher"
+    },
+    {
+      "start": 130.363,
+      "end": 133.874,
+      "start_int": 130,
+      "timestamp_label": "2:10",
+      "text": "training requirements. If by chance you missed the link in"
+    },
+    {
+      "start": 133.874,
+      "end": 137.505,
+      "start_int": 133,
+      "timestamp_label": "2:13",
+      "text": "the chat later today, it is also available to you on the DAU"
+    },
+    {
+      "start": 137.505,
+      "end": 140.778,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "events website. The website to the DAU events page is."
+    },
+    {
+      "start": 140.778,
+      "end": 146.849,
+      "start_int": 140,
+      "timestamp_label": "2:20",
+      "text": "Dau.edu/events just be sure to click on today, September 24th"
+    },
+    {
+      "start": 146.849,
+      "end": 149.298,
+      "start_int": 146,
+      "timestamp_label": "2:26",
+      "text": "core office hour session."
+    },
+    {
+      "start": 150.108,
+      "end": 152.508,
+      "start_int": 150,
+      "timestamp_label": "2:30",
+      "text": "Now, today we do have guest speakers from DHA."
+    },
+    {
+      "start": 153.388,
+      "end": 158.088,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "Talk about a pie or pie piee depending on how you pronounce"
+    },
+    {
+      "start": 158.088,
+      "end": 159.028,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "it yourself."
+    },
+    {
+      "start": 159.348,
+      "end": 162.228,
+      "start_int": 159,
+      "timestamp_label": "2:39",
+      "text": "Can I get audio check from our guest speakers please?"
+    },
+    {
+      "start": 163.908,
+      "end": 165.068,
+      "start_int": 163,
+      "timestamp_label": "2:43",
+      "text": "This is Katie."
+    },
+    {
+      "start": 165.988,
+      "end": 167.028,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "Hi, Katie."
+    },
+    {
+      "start": 167.028,
+      "end": 167.868,
+      "start_int": 167,
+      "timestamp_label": "2:47",
+      "text": "I can hear you loud and clear."
+    },
+    {
+      "start": 168.148,
+      "end": 170.308,
+      "start_int": 168,
+      "timestamp_label": "2:48",
+      "text": "I'll go ahead and pass the mic over to you."
+    },
+    {
+      "start": 172.078,
+      "end": 172.678,
+      "start_int": 172,
+      "timestamp_label": "2:52",
+      "text": "OK."
+    },
+    {
+      "start": 172.518,
+      "end": 172.678,
+      "start_int": 172,
+      "timestamp_label": "2:52",
+      "text": "OK."
+    },
+    {
+      "start": 173.478,
+      "end": 175.078,
+      "start_int": 173,
+      "timestamp_label": "2:53",
+      "text": "Alright, good morning."
+    },
+    {
+      "start": 175.278,
+      "end": 178.678,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "My name is Katie Stansberry and I'm one of the."
+    },
+    {
+      "start": 181.508,
+      "end": 186.228,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "With DHA and with me, I have a few of our other games."
+    },
+    {
+      "start": 186.548,
+      "end": 191.625,
+      "start_int": 186,
+      "timestamp_label": "3:06",
+      "text": "Jim Roop, Becky Bushey and Sherry Light and 1st off. I just"
+    },
+    {
+      "start": 191.625,
+      "end": 193.148,
+      "start_int": 191,
+      "timestamp_label": "3:11",
+      "text": "want to thank DAU."
+    },
+    {
+      "start": 194.828,
+      "end": 198.422,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "Speak a little bit about Pai as it is usually a pretty hot"
+    },
+    {
+      "start": 198.422,
+      "end": 198.788,
+      "start_int": 198,
+      "timestamp_label": "3:18",
+      "text": "topic."
+    },
+    {
+      "start": 200.548,
+      "end": 205.415,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "I do have some slides that talk about Pai in general, and then"
+    },
+    {
+      "start": 205.415,
+      "end": 209.973,
+      "start_int": 205,
+      "timestamp_label": "3:25",
+      "text": "there's a few slides with frequently asked questions about"
+    },
+    {
+      "start": 209.973,
+      "end": 211.828,
+      "start_int": 209,
+      "timestamp_label": "3:29",
+      "text": "EDA, GFP, WAAP, and SPM."
+    },
+    {
+      "start": 213.218,
+      "end": 217.646,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "We also have DHA SMEs presenting on these topics, so please feel"
+    },
+    {
+      "start": 217.646,
+      "end": 221.938,
+      "start_int": 217,
+      "timestamp_label": "3:37",
+      "text": "free to ask any questions during any part of the presentation."
+    },
+    {
+      "start": 222.698,
+      "end": 226.338,
+      "start_int": 222,
+      "timestamp_label": "3:42",
+      "text": "I will say that our SP miss me couldn't make it here today."
+    },
+    {
+      "start": 226.338,
+      "end": 230.818,
+      "start_int": 226,
+      "timestamp_label": "3:46",
+      "text": "So if there are any SPM questions, we'll try to answer."
+    },
+    {
+      "start": 233.658,
+      "end": 237.888,
+      "start_int": 233,
+      "timestamp_label": "3:53",
+      "text": "This is very informal and in open forum, so if you have any"
+    },
+    {
+      "start": 237.888,
+      "end": 242.119,
+      "start_int": 237,
+      "timestamp_label": "3:57",
+      "text": "question at all during any point, please ask or even before"
+    },
+    {
+      "start": 242.119,
+      "end": 244.658,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "we get started with the slide show."
+    },
+    {
+      "start": 246.028,
+      "end": 247.028,
+      "start_int": 246,
+      "timestamp_label": "4:06",
+      "text": "Just ask."
+    },
+    {
+      "start": 248.108,
+      "end": 248.548,
+      "start_int": 248,
+      "timestamp_label": "4:08",
+      "text": "I will."
+    },
+    {
+      "start": 250.098,
+      "end": 253.934,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "We are DHA and so we are going to be talking about the"
+    },
+    {
+      "start": 253.934,
+      "end": 258.399,
+      "start_int": 253,
+      "timestamp_label": "4:13",
+      "text": "functionality of Π, so we won't be able to answer any questions"
+    },
+    {
+      "start": 258.399,
+      "end": 261.538,
+      "start_int": 258,
+      "timestamp_label": "4:18",
+      "text": "about policy as your commands may have some."
+    },
+    {
+      "start": 263.738,
+      "end": 265.458,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "So if there are any questions."
+    },
+    {
+      "start": 267.058,
+      "end": 269.538,
+      "start_int": 267,
+      "timestamp_label": "4:27",
+      "text": "Evelyn, do you have the slides?"
+    },
+    {
+      "start": 271.238,
+      "end": 272.398,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "I don't have the slides on hand."
+    },
+    {
+      "start": 272.398,
+      "end": 275.597,
+      "start_int": 272,
+      "timestamp_label": "4:32",
+      "text": "I can double check my e-mail really quickly, but you're also"
+    },
+    {
+      "start": 275.597,
+      "end": 277.958,
+      "start_int": 275,
+      "timestamp_label": "4:35",
+      "text": "welcome to take over presenting at any time."
+    },
+    {
+      "start": 279.458,
+      "end": 282.818,
+      "start_int": 279,
+      "timestamp_label": "4:39",
+      "text": "OK, let me go ahead and do that."
+    },
+    {
+      "start": 281.418,
+      "end": 281.538,
+      "start_int": 281,
+      "timestamp_label": "4:41",
+      "text": "Wow."
+    },
+    {
+      "start": 282.528,
+      "end": 284.288,
+      "start_int": 282,
+      "timestamp_label": "4:42",
+      "text": "You got it or you want me to share? OK."
+    },
+    {
+      "start": 284.418,
+      "end": 284.578,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "Yeah."
+    },
+    {
+      "start": 288.088,
+      "end": 288.488,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "Let me."
+    },
+    {
+      "start": 289.108,
+      "end": 290.308,
+      "start_int": 289,
+      "timestamp_label": "4:49",
+      "text": "If you don't it, I've got a kid."
+    },
+    {
+      "start": 291.258,
+      "end": 292.138,
+      "start_int": 291,
+      "timestamp_label": "4:51",
+      "text": "Oh, you do? OK."
+    },
+    {
+      "start": 292.138,
+      "end": 293.338,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "Yeah, Jim, you can go ahead."
+    },
+    {
+      "start": 301.908,
+      "end": 303.708,
+      "start_int": 301,
+      "timestamp_label": "5:01",
+      "text": "Working on sharing. Wait one please."
+    },
+    {
+      "start": 307.318,
+      "end": 307.518,
+      "start_int": 307,
+      "timestamp_label": "5:07",
+      "text": "Right."
+    },
+    {
+      "start": 319.018,
+      "end": 320.058,
+      "start_int": 319,
+      "timestamp_label": "5:19",
+      "text": "It's not giving me."
+    },
+    {
+      "start": 320.058,
+      "end": 321.098,
+      "start_int": 320,
+      "timestamp_label": "5:20",
+      "text": "Maybe you better share."
+    },
+    {
+      "start": 321.098,
+      "end": 322.098,
+      "start_int": 321,
+      "timestamp_label": "5:21",
+      "text": "It's not letting me do it."
+    },
+    {
+      "start": 326.138,
+      "end": 327.298,
+      "start_int": 326,
+      "timestamp_label": "5:26",
+      "text": "One. Oh, wait, here we go."
+    },
+    {
+      "start": 338.938,
+      "end": 339.898,
+      "start_int": 338,
+      "timestamp_label": "5:38",
+      "text": "It was different than normal."
+    },
+    {
+      "start": 339.898,
+      "end": 341.018,
+      "start_int": 339,
+      "timestamp_label": "5:39",
+      "text": "My apologies everyone."
+    },
+    {
+      "start": 341.098,
+      "end": 343.218,
+      "start_int": 341,
+      "timestamp_label": "5:41",
+      "text": "It it was a slightly different process."
+    },
+    {
+      "start": 344.778,
+      "end": 346.178,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "We could see the shared screen."
+    },
+    {
+      "start": 346.178,
+      "end": 346.618,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "Thank you."
+    },
+    {
+      "start": 347.318,
+      "end": 349.478,
+      "start_int": 347,
+      "timestamp_label": "5:47",
+      "text": "You can see the core office hour slide. Excellent."
+    },
+    {
+      "start": 349.878,
+      "end": 350.358,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "Yes, we can."
+    },
+    {
+      "start": 351.338,
+      "end": 353.058,
+      "start_int": 351,
+      "timestamp_label": "5:51",
+      "text": "Katie, you want to run it?"
+    },
+    {
+      "start": 353.058,
+      "end": 354.658,
+      "start_int": 353,
+      "timestamp_label": "5:53",
+      "text": "I will flip through if you want."
+    },
+    {
+      "start": 357.268,
+      "end": 358.188,
+      "start_int": 357,
+      "timestamp_label": "5:57",
+      "text": "Are you starting it off?"
+    },
+    {
+      "start": 364.408,
+      "end": 364.928,
+      "start_int": 364,
+      "timestamp_label": "6:04",
+      "text": "Jerry."
+    },
+    {
+      "start": 366.368,
+      "end": 372.21,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "Jim, can you change the presentation to the slide decks,"
+    },
+    {
+      "start": 371.258,
+      "end": 375.898,
+      "start_int": 371,
+      "timestamp_label": "6:11",
+      "text": "Yes, I see that it's now not the right thing. Now let's see."
+    },
+    {
+      "start": 372.21,
+      "end": 374.568,
+      "start_int": 372,
+      "timestamp_label": "6:12",
+      "text": "the full screen please?"
+    },
+    {
+      "start": 378.918,
+      "end": 379.638,
+      "start_int": 378,
+      "timestamp_label": "6:18",
+      "text": "How about that?"
+    },
+    {
+      "start": 382.848,
+      "end": 384.608,
+      "start_int": 382,
+      "timestamp_label": "6:22",
+      "text": "Nope, it's still."
+    },
+    {
+      "start": 385.048,
+      "end": 385.888,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "Just give it a second."
+    },
+    {
+      "start": 391.848,
+      "end": 394.928,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "If you it's not presentation mode yet."
+    },
+    {
+      "start": 396.378,
+      "end": 396.458,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "No."
+    },
+    {
+      "start": 397.678,
+      "end": 399.438,
+      "start_int": 397,
+      "timestamp_label": "6:37",
+      "text": "Press F5, somebody said."
+    },
+    {
+      "start": 399.438,
+      "end": 402.198,
+      "start_int": 399,
+      "timestamp_label": "6:39",
+      "text": "I don't know the shortcut, but that's what somebody said I."
+    },
+    {
+      "start": 403.698,
+      "end": 404.018,
+      "start_int": 403,
+      "timestamp_label": "6:43",
+      "text": "Take it they know it."
+    },
+    {
+      "start": 407.018,
+      "end": 409.218,
+      "start_int": 407,
+      "timestamp_label": "6:47",
+      "text": "Or if you click present in teams up at the top."
+    },
+    {
+      "start": 407.988,
+      "end": 409.188,
+      "start_int": 407,
+      "timestamp_label": "6:47",
+      "text": "And that just muted my screen."
+    },
+    {
+      "start": 413.428,
+      "end": 414.748,
+      "start_int": 413,
+      "timestamp_label": "6:53",
+      "text": "No, it's on presentation."
+    },
+    {
+      "start": 414.748,
+      "end": 418.83,
+      "start_int": 414,
+      "timestamp_label": "6:54",
+      "text": "I'm gonna quit sharing because obviously it's not working for"
+    },
+    {
+      "start": 418.83,
+      "end": 419.028,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "me."
+    },
+    {
+      "start": 424.138,
+      "end": 425.938,
+      "start_int": 424,
+      "timestamp_label": "7:04",
+      "text": "My apologies everyone. Jesus is terrible."
+    },
+    {
+      "start": 426.858,
+      "end": 428.978,
+      "start_int": 426,
+      "timestamp_label": "7:06",
+      "text": "Here I got it."
+    },
+    {
+      "start": 428.828,
+      "end": 429.828,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "I've stopped sharing."
+    },
+    {
+      "start": 429.828,
+      "end": 431.028,
+      "start_int": 429,
+      "timestamp_label": "7:09",
+      "text": "Someone else can grab it."
+    },
+    {
+      "start": 431.028,
+      "end": 434.317,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "I've got it in presentation on my screen so I have no idea why"
+    },
+    {
+      "start": 434.317,
+      "end": 435.988,
+      "start_int": 434,
+      "timestamp_label": "7:14",
+      "text": "it wouldn't be presenting share."
+    },
+    {
+      "start": 435.578,
+      "end": 436.578,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "I got it, Katie."
+    },
+    {
+      "start": 454.188,
+      "end": 455.108,
+      "start_int": 454,
+      "timestamp_label": "7:34",
+      "text": "Can everybody see that?"
+    },
+    {
+      "start": 454.538,
+      "end": 456.018,
+      "start_int": 454,
+      "timestamp_label": "7:34",
+      "text": "Looks good, looks good."
+    },
+    {
+      "start": 457.188,
+      "end": 457.628,
+      "start_int": 457,
+      "timestamp_label": "7:37",
+      "text": "OK."
+    },
+    {
+      "start": 459.538,
+      "end": 461.178,
+      "start_int": 459,
+      "timestamp_label": "7:39",
+      "text": "So I'm going to start."
+    },
+    {
+      "start": 461.178,
+      "end": 465.978,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "My name is Sherry Light and I'm one of the games for DHA."
+    },
+    {
+      "start": 466.778,
+      "end": 470.956,
+      "start_int": 466,
+      "timestamp_label": "7:46",
+      "text": "Just so you know, our games are a little bit different than most"
+    },
+    {
+      "start": 470.956,
+      "end": 475.005,
+      "start_int": 470,
+      "timestamp_label": "7:50",
+      "text": "your agencies, and the fact that we are agency level games, we"
+    },
+    {
+      "start": 475.005,
+      "end": 478.734,
+      "start_int": 475,
+      "timestamp_label": "7:55",
+      "text": "don't have them at the different locations which would be"
+    },
+    {
+      "start": 478.734,
+      "end": 481.498,
+      "start_int": 478,
+      "timestamp_label": "7:58",
+      "text": "comparable to bases or offices or regions."
+    },
+    {
+      "start": 483.618,
+      "end": 486.458,
+      "start_int": 483,
+      "timestamp_label": "8:03",
+      "text": "So what is ππ is?"
+    },
+    {
+      "start": 487.278,
+      "end": 491.971,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "The procurement integrated enterprise environment and what"
+    },
+    {
+      "start": 491.971,
+      "end": 494.198,
+      "start_int": 491,
+      "timestamp_label": "8:11",
+      "text": "it is is it basically takes."
+    },
+    {
+      "start": 495.938,
+      "end": 498.218,
+      "start_int": 495,
+      "timestamp_label": "8:15",
+      "text": "The acquisition framework from."
+    },
+    {
+      "start": 501.178,
+      "end": 505.372,
+      "start_int": 501,
+      "timestamp_label": "8:21",
+      "text": "From they call them handshakes and it takes it from the very"
+    },
+    {
+      "start": 505.372,
+      "end": 509.773,
+      "start_int": 505,
+      "timestamp_label": "8:25",
+      "text": "beginning of a solicitation of a contract, requesting proposals"
+    },
+    {
+      "start": 509.773,
+      "end": 513.968,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "or quotes all the way through the contract close out. But it"
+    },
+    {
+      "start": 513.968,
+      "end": 517.956,
+      "start_int": 513,
+      "timestamp_label": "8:33",
+      "text": "then it involves all the other pieces in that acquisition"
+    },
+    {
+      "start": 517.956,
+      "end": 519.538,
+      "start_int": 517,
+      "timestamp_label": "8:37",
+      "text": "framework that include."
+    },
+    {
+      "start": 520.488,
+      "end": 525.848,
+      "start_int": 520,
+      "timestamp_label": "8:40",
+      "text": "Accepting invoices, accepting shipment."
+    },
+    {
+      "start": 527.938,
+      "end": 532.792,
+      "start_int": 527,
+      "timestamp_label": "8:47",
+      "text": "Finance. So that's what we call it, the procure to pay"
+    },
+    {
+      "start": 532.792,
+      "end": 536.058,
+      "start_int": 532,
+      "timestamp_label": "8:52",
+      "text": "application and that is what pie is."
+    },
+    {
+      "start": 537.738,
+      "end": 541.418,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "It it it works with I believe all the Department of Defense."
+    },
+    {
+      "start": 543.018,
+      "end": 548.738,
+      "start_int": 543,
+      "timestamp_label": "9:03",
+      "text": "And all of the fourth estate agencies and then some others."
+    },
+    {
+      "start": 551.348,
+      "end": 556.571,
+      "start_int": 551,
+      "timestamp_label": "9:11",
+      "text": "The use within it is over $7.1 billion, and that's probably"
+    },
+    {
+      "start": 556.571,
+      "end": 560.228,
+      "start_int": 556,
+      "timestamp_label": "9:16",
+      "text": "going to increase as π continues to grow."
+    },
+    {
+      "start": 562.858,
+      "end": 564.938,
+      "start_int": 562,
+      "timestamp_label": "9:22",
+      "text": "Why do we like to use PIE?"
+    },
+    {
+      "start": 565.218,
+      "end": 568.818,
+      "start_int": 565,
+      "timestamp_label": "9:25",
+      "text": "That is because it takes away the manual."
+    },
+    {
+      "start": 570.898,
+      "end": 571.778,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "Entry or."
+    },
+    {
+      "start": 573.538,
+      "end": 576.3,
+      "start_int": 573,
+      "timestamp_label": "9:33",
+      "text": "Multiple systems and it automates everything into one"
+    },
+    {
+      "start": 576.3,
+      "end": 576.658,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "system."
+    },
+    {
+      "start": 578.298,
+      "end": 580.978,
+      "start_int": 578,
+      "timestamp_label": "9:38",
+      "text": "The information flows from WAF to EDA."
+    },
+    {
+      "start": 580.978,
+      "end": 586.928,
+      "start_int": 580,
+      "timestamp_label": "9:40",
+      "text": "And these are just modules within π and so it helps reduce"
+    },
+    {
+      "start": 586.928,
+      "end": 588.138,
+      "start_int": 586,
+      "timestamp_label": "9:46",
+      "text": "human error."
+    },
+    {
+      "start": 588.378,
+      "end": 591.721,
+      "start_int": 588,
+      "timestamp_label": "9:48",
+      "text": "It helps access analytics because it pulls all the"
+    },
+    {
+      "start": 591.721,
+      "end": 593.098,
+      "start_int": 591,
+      "timestamp_label": "9:51",
+      "text": "information together."
+    },
+    {
+      "start": 594.338,
+      "end": 595.138,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "It helps."
+    },
+    {
+      "start": 596.698,
+      "end": 598.538,
+      "start_int": 596,
+      "timestamp_label": "9:56",
+      "text": "In voice control payment control."
+    },
+    {
+      "start": 600.258,
+      "end": 604.538,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "And it enhances visibility because multiple people can see."
+    },
+    {
+      "start": 606.458,
+      "end": 611.124,
+      "start_int": 606,
+      "timestamp_label": "10:06",
+      "text": "Reports or information within Π without having access to"
+    },
+    {
+      "start": 611.124,
+      "end": 613.498,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "actually change something so."
+    },
+    {
+      "start": 615.218,
+      "end": 618.242,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "It really it really promotes a lot of collaboration within the"
+    },
+    {
+      "start": 618.242,
+      "end": 619.298,
+      "start_int": 618,
+      "timestamp_label": "10:18",
+      "text": "Department of Defense."
+    },
+    {
+      "start": 621.618,
+      "end": 624.538,
+      "start_int": 621,
+      "timestamp_label": "10:21",
+      "text": "So these are all of the modules available."
+    },
+    {
+      "start": 625.788,
+      "end": 629.953,
+      "start_int": 625,
+      "timestamp_label": "10:25",
+      "text": "This slide might be a little bit outdated because I know we're"
+    },
+    {
+      "start": 629.953,
+      "end": 634.317,
+      "start_int": 629,
+      "timestamp_label": "10:29",
+      "text": "getting a couple of new ones and I'm not going to go all over all"
+    },
+    {
+      "start": 634.317,
+      "end": 638.615,
+      "start_int": 634,
+      "timestamp_label": "10:34",
+      "text": "of these. If you have access to pie, each one of these will have"
+    },
+    {
+      "start": 638.615,
+      "end": 641.458,
+      "start_int": 638,
+      "timestamp_label": "10:38",
+      "text": "like this is clause logic and it will say."
+    },
+    {
+      "start": 641.468,
+      "end": 646.893,
+      "start_int": 641,
+      "timestamp_label": "10:41",
+      "text": "Clause logic. If you go to there will there will be awbt down"
+    },
+    {
+      "start": 646.893,
+      "end": 649.868,
+      "start_int": 646,
+      "timestamp_label": "10:46",
+      "text": "here which is web-based training."
+    },
+    {
+      "start": 650.658,
+      "end": 654.266,
+      "start_int": 650,
+      "timestamp_label": "10:50",
+      "text": "So if ever you wanted to know information about any of the"
+    },
+    {
+      "start": 654.266,
+      "end": 657.936,
+      "start_int": 654,
+      "timestamp_label": "10:54",
+      "text": "modules within π, you would go to WBT and you can learn all"
+    },
+    {
+      "start": 657.936,
+      "end": 659.098,
+      "start_int": 657,
+      "timestamp_label": "10:57",
+      "text": "about it they have."
+    },
+    {
+      "start": 660.068,
+      "end": 661.348,
+      "start_int": 660,
+      "timestamp_label": "11:00",
+      "text": "Access to videos."
+    },
+    {
+      "start": 661.348,
+      "end": 664.188,
+      "start_int": 661,
+      "timestamp_label": "11:01",
+      "text": "They have access to documents."
+    },
+    {
+      "start": 664.188,
+      "end": 665.668,
+      "start_int": 664,
+      "timestamp_label": "11:04",
+      "text": "It tells you whether it's used for."
+    },
+    {
+      "start": 665.668,
+      "end": 667.588,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "It tells you what the user roles."
+    },
+    {
+      "start": 669.138,
+      "end": 671.298,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "Are who gives you the access?"
+    },
+    {
+      "start": 672.938,
+      "end": 678.618,
+      "start_int": 672,
+      "timestamp_label": "11:12",
+      "text": "Who can have the roles, whether it's agsc or a government?"
+    },
+    {
+      "start": 680.338,
+      "end": 680.578,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "Employee."
+    },
+    {
+      "start": 685.698,
+      "end": 687.738,
+      "start_int": 685,
+      "timestamp_label": "11:25",
+      "text": "Pie is doodak driven."
+    },
+    {
+      "start": 687.818,
+      "end": 691.058,
+      "start_int": 687,
+      "timestamp_label": "11:27",
+      "text": "So when we talk about dodox, I think this is one of."
+    },
+    {
+      "start": 692.618,
+      "end": 693.178,
+      "start_int": 692,
+      "timestamp_label": "11:32",
+      "text": "The biggest."
+    },
+    {
+      "start": 696.178,
+      "end": 700.723,
+      "start_int": 696,
+      "timestamp_label": "11:36",
+      "text": "Convoluted information for pores that are not acquisition coded"
+    },
+    {
+      "start": 700.723,
+      "end": 704.628,
+      "start_int": 700,
+      "timestamp_label": "11:40",
+      "text": "positions and that is when somebody asks you what your"
+    },
+    {
+      "start": 704.628,
+      "end": 705.978,
+      "start_int": 704,
+      "timestamp_label": "11:44",
+      "text": "doodak is, that is."
+    },
+    {
+      "start": 708.058,
+      "end": 713.391,
+      "start_int": 708,
+      "timestamp_label": "11:48",
+      "text": "A combination of letters and numbers that tell the Department"
+    },
+    {
+      "start": 713.391,
+      "end": 714.338,
+      "start_int": 713,
+      "timestamp_label": "11:53",
+      "text": "of Defense."
+    },
+    {
+      "start": 715.238,
+      "end": 717.678,
+      "start_int": 715,
+      "timestamp_label": "11:55",
+      "text": "Where you're located at and what."
+    },
+    {
+      "start": 720.898,
+      "end": 724.498,
+      "start_int": 720,
+      "timestamp_label": "12:00",
+      "text": "What information or what kind of dodak that is?"
+    },
+    {
+      "start": 724.498,
+      "end": 727.178,
+      "start_int": 724,
+      "timestamp_label": "12:04",
+      "text": "So what kind of activity it is?"
+    },
+    {
+      "start": 727.178,
+      "end": 728.698,
+      "start_int": 727,
+      "timestamp_label": "12:07",
+      "text": "Is it a paying office?"
+    },
+    {
+      "start": 728.698,
+      "end": 731.618,
+      "start_int": 728,
+      "timestamp_label": "12:08",
+      "text": "Is it a procurement office?"
+    },
+    {
+      "start": 733.538,
+      "end": 738.298,
+      "start_int": 733,
+      "timestamp_label": "12:13",
+      "text": "So that is the biggest one of the the biggest."
+    },
+    {
+      "start": 740.618,
+      "end": 745.218,
+      "start_int": 740,
+      "timestamp_label": "12:20",
+      "text": "Cases of information that is in π, so for instance."
+    },
+    {
+      "start": 747.578,
+      "end": 753.77,
+      "start_int": 747,
+      "timestamp_label": "12:27",
+      "text": "I just know I can give you some examples, but for DHA, our our"
+    },
+    {
+      "start": 753.77,
+      "end": 757.898,
+      "start_int": 753,
+      "timestamp_label": "12:33",
+      "text": "San Diego Medical Center, their dodoc is."
+    },
+    {
+      "start": 760.058,
+      "end": 762.098,
+      "start_int": 760,
+      "timestamp_label": "12:40",
+      "text": "HT 0500."
+    },
+    {
+      "start": 763.698,
+      "end": 766.818,
+      "start_int": 763,
+      "timestamp_label": "12:43",
+      "text": "So what you're going to do as a core?"
+    },
+    {
+      "start": 768.498,
+      "end": 770.818,
+      "start_int": 768,
+      "timestamp_label": "12:48",
+      "text": "Is you basically need to know."
+    },
+    {
+      "start": 772.228,
+      "end": 776.283,
+      "start_int": 772,
+      "timestamp_label": "12:52",
+      "text": "Who pay what your dodak is when you when it's being paid, what"
+    },
+    {
+      "start": 776.283,
+      "end": 777.828,
+      "start_int": 776,
+      "timestamp_label": "12:56",
+      "text": "your invoices are under."
+    },
+    {
+      "start": 779.378,
+      "end": 780.778,
+      "start_int": 779,
+      "timestamp_label": "12:59",
+      "text": "And these are."
+    },
+    {
+      "start": 781.338,
+      "end": 784.848,
+      "start_int": 781,
+      "timestamp_label": "13:01",
+      "text": "You can find these at the dotad, which I'll have a link to it on"
+    },
+    {
+      "start": 784.848,
+      "end": 785.658,
+      "start_int": 784,
+      "timestamp_label": "13:04",
+      "text": "the next slide."
+    },
+    {
+      "start": 788.178,
+      "end": 793.898,
+      "start_int": 788,
+      "timestamp_label": "13:08",
+      "text": "Many of the army dodacs many of the army dodacs start with W."
+    },
+    {
+      "start": 789.058,
+      "end": 789.258,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "Sorry."
+    },
+    {
+      "start": 794.538,
+      "end": 798.418,
+      "start_int": 794,
+      "timestamp_label": "13:14",
+      "text": "It first starts with FA Navy starts with N."
+    },
+    {
+      "start": 798.898,
+      "end": 803.338,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "They're always 6 digits, whether it's a alphanumeric combination."
+    },
+    {
+      "start": 806.168,
+      "end": 807.728,
+      "start_int": 806,
+      "timestamp_label": "13:26",
+      "text": "This like it."
+    },
+    {
+      "start": 806.278,
+      "end": 806.678,
+      "start_int": 806,
+      "timestamp_label": "13:26",
+      "text": "OK."
+    },
+    {
+      "start": 809.808,
+      "end": 811.568,
+      "start_int": 809,
+      "timestamp_label": "13:29",
+      "text": "We have a we have a question on this topic."
+    },
+    {
+      "start": 809.858,
+      "end": 810.778,
+      "start_int": 809,
+      "timestamp_label": "13:29",
+      "text": "Question yes."
+    },
+    {
+      "start": 812.478,
+      "end": 813.078,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "Yes."
+    },
+    {
+      "start": 813.138,
+      "end": 816.461,
+      "start_int": 813,
+      "timestamp_label": "13:33",
+      "text": "So in the chat it was asked a couple times. Is this the same"
+    },
+    {
+      "start": 816.461,
+      "end": 819.84,
+      "start_int": 816,
+      "timestamp_label": "13:36",
+      "text": "as auic and we let them know it was not the same, but did you"
+    },
+    {
+      "start": 819.84,
+      "end": 823.054,
+      "start_int": 819,
+      "timestamp_label": "13:39",
+      "text": "want me to go any further detail? How they're not the same"
+    },
+    {
+      "start": 822.818,
+      "end": 823.938,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "Yeah, go go ahead."
+    },
+    {
+      "start": 823.054,
+      "end": 823.218,
+      "start_int": 823,
+      "timestamp_label": "13:43",
+      "text": "or?"
+    },
+    {
+      "start": 825.318,
+      "end": 825.878,
+      "start_int": 825,
+      "timestamp_label": "13:45",
+      "text": "OK."
+    },
+    {
+      "start": 825.878,
+      "end": 827.558,
+      "start_int": 825,
+      "timestamp_label": "13:45",
+      "text": "So UIC is a unit identification code."
+    },
+    {
+      "start": 827.558,
+      "end": 832.261,
+      "start_int": 827,
+      "timestamp_label": "13:47",
+      "text": "It's specific to a unit. As Sherry said, Dodex can identify"
+    },
+    {
+      "start": 832.261,
+      "end": 836.807,
+      "start_int": 832,
+      "timestamp_label": "13:52",
+      "text": "unit or an activity, so a unit can have multiple activity"
+    },
+    {
+      "start": 836.807,
+      "end": 837.278,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "types."
+    },
+    {
+      "start": 837.368,
+      "end": 840.639,
+      "start_int": 837,
+      "timestamp_label": "13:57",
+      "text": "It's doing. It can be doing contracting activity, payment"
+    },
+    {
+      "start": 840.639,
+      "end": 843.008,
+      "start_int": 840,
+      "timestamp_label": "14:00",
+      "text": "activity, etcetera or even just delivery?"
+    },
+    {
+      "start": 843.678,
+      "end": 848.958,
+      "start_int": 843,
+      "timestamp_label": "14:03",
+      "text": "So a dodec is sort of more inclusive it it on your do DC."
+    },
+    {
+      "start": 848.958,
+      "end": 853.638,
+      "start_int": 848,
+      "timestamp_label": "14:08",
+      "text": "It may have a UIC identifier tag, but the dodec is slightly"
+    },
+    {
+      "start": 853.638,
+      "end": 856.758,
+      "start_int": 853,
+      "timestamp_label": "14:13",
+      "text": "different than the UIC. Does that help?"
+    },
+    {
+      "start": 863.398,
+      "end": 864.038,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "Hopefully that."
+    },
+    {
+      "start": 865.328,
+      "end": 868.168,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "So I'm gonna keep going this last slide."
+    },
+    {
+      "start": 867.668,
+      "end": 868.068,
+      "start_int": 867,
+      "timestamp_label": "14:27",
+      "text": "Thanks."
+    },
+    {
+      "start": 868.168,
+      "end": 872.24,
+      "start_int": 868,
+      "timestamp_label": "14:28",
+      "text": "I'm sorry if you ever have questions you can go to the do D"
+    },
+    {
+      "start": 872.24,
+      "end": 876.447,
+      "start_int": 872,
+      "timestamp_label": "14:32",
+      "text": "there you can do a search of the doodad directory and it will"
+    },
+    {
+      "start": 876.447,
+      "end": 880.858,
+      "start_int": 876,
+      "timestamp_label": "14:36",
+      "text": "tell you like, for instance, if you have a dodac on the contract"
+    },
+    {
+      "start": 880.858,
+      "end": 884.048,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "that you're the core on, you can look that do."
+    },
+    {
+      "start": 884.168,
+      "end": 885.008,
+      "start_int": 884,
+      "timestamp_label": "14:44",
+      "text": "Up and it will."
+    },
+    {
+      "start": 885.088,
+      "end": 887.734,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "It should have an address and it should be the address that"
+    },
+    {
+      "start": 887.734,
+      "end": 888.528,
+      "start_int": 887,
+      "timestamp_label": "14:47",
+      "text": "you're located at."
+    },
+    {
+      "start": 889.478,
+      "end": 890.238,
+      "start_int": 889,
+      "timestamp_label": "14:49",
+      "text": "Depending on."
+    },
+    {
+      "start": 891.998,
+      "end": 895.552,
+      "start_int": 891,
+      "timestamp_label": "14:51",
+      "text": "For acceptor, do DAC on your on your contract. If you are"
+    },
+    {
+      "start": 895.552,
+      "end": 897.758,
+      "start_int": 895,
+      "timestamp_label": "14:55",
+      "text": "looking for the procurement office."
+    },
+    {
+      "start": 898.948,
+      "end": 902.959,
+      "start_int": 898,
+      "timestamp_label": "14:58",
+      "text": "You could look at the SF30. The first page of the contract and"
+    },
+    {
+      "start": 902.959,
+      "end": 906.333,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "it will say issuing office and admin office for your"
+    },
+    {
+      "start": 906.333,
+      "end": 909.708,
+      "start_int": 906,
+      "timestamp_label": "15:06",
+      "text": "contracting office. You can look those don't accept."
+    },
+    {
+      "start": 909.708,
+      "end": 910.988,
+      "start_int": 909,
+      "timestamp_label": "15:09",
+      "text": "Those will be different."
+    },
+    {
+      "start": 914.408,
+      "end": 919.397,
+      "start_int": 914,
+      "timestamp_label": "15:14",
+      "text": "Sorry I don't know how to change the volume because I am on a"
+    },
+    {
+      "start": 919.397,
+      "end": 921.328,
+      "start_int": 919,
+      "timestamp_label": "15:19",
+      "text": "headphone and dialed in."
+    },
+    {
+      "start": 923.878,
+      "end": 926.558,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "So anyways, here is the link to the doodad."
+    },
+    {
+      "start": 928.718,
+      "end": 930.038,
+      "start_int": 928,
+      "timestamp_label": "15:28",
+      "text": "And then also."
+    },
+    {
+      "start": 932.038,
+      "end": 938.736,
+      "start_int": 932,
+      "timestamp_label": "15:32",
+      "text": "Information for Π is you can also find the GAM for your dodoc"
+    },
+    {
+      "start": 938.736,
+      "end": 944.678,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "by going to finding into π and then click on the help."
+    },
+    {
+      "start": 945.248,
+      "end": 948.906,
+      "start_int": 945,
+      "timestamp_label": "15:45",
+      "text": "When you click on the help, you will come up with the find my"
+    },
+    {
+      "start": 948.906,
+      "end": 952.328,
+      "start_int": 948,
+      "timestamp_label": "15:48",
+      "text": "administrator and that you can put in your location code."
+    },
+    {
+      "start": 952.328,
+      "end": 956.517,
+      "start_int": 952,
+      "timestamp_label": "15:52",
+      "text": "So that would be your jodak for where you are located and then"
+    },
+    {
+      "start": 956.517,
+      "end": 960.705,
+      "start_int": 956,
+      "timestamp_label": "15:56",
+      "text": "you would submit the button and it would tell you it will give"
+    },
+    {
+      "start": 960.705,
+      "end": 962.368,
+      "start_int": 960,
+      "timestamp_label": "16:00",
+      "text": "you a list of your games."
+    },
+    {
+      "start": 962.368,
+      "end": 965.088,
+      "start_int": 962,
+      "timestamp_label": "16:02",
+      "text": "Some games are procurement only."
+    },
+    {
+      "start": 965.088,
+      "end": 968.488,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "Some are finance only, some are logistics only."
+    },
+    {
+      "start": 968.768,
+      "end": 971.968,
+      "start_int": 968,
+      "timestamp_label": "16:08",
+      "text": "Some are government purchase card only so."
+    },
+    {
+      "start": 972.758,
+      "end": 975.358,
+      "start_int": 972,
+      "timestamp_label": "16:12",
+      "text": "You would look for the appropriate topic for that game."
+    },
+    {
+      "start": 984.288,
+      "end": 988.687,
+      "start_int": 984,
+      "timestamp_label": "16:24",
+      "text": "So information you need when you register for π and your"
+    },
+    {
+      "start": 988.687,
+      "end": 993.472,
+      "start_int": 988,
+      "timestamp_label": "16:28",
+      "text": "registration is when you first log on, you would register new"
+    },
+    {
+      "start": 993.472,
+      "end": 996.328,
+      "start_int": 993,
+      "timestamp_label": "16:33",
+      "text": "user information, help your account."
+    },
+    {
+      "start": 996.448,
+      "end": 998.768,
+      "start_int": 996,
+      "timestamp_label": "16:36",
+      "text": "You need to know you need to have your."
+    },
+    {
+      "start": 1001.318,
+      "end": 1006.48,
+      "start_int": 1001,
+      "timestamp_label": "16:41",
+      "text": "Agency it needs to be the same when you type in your agency, it"
+    },
+    {
+      "start": 1006.48,
+      "end": 1010.998,
+      "start_int": 1006,
+      "timestamp_label": "16:46",
+      "text": "needs to be the same as it is on your connect cat card."
+    },
+    {
+      "start": 1010.998,
+      "end": 1013.801,
+      "start_int": 1010,
+      "timestamp_label": "16:50",
+      "text": "You have to have your supervisor's name, phone number,"
+    },
+    {
+      "start": 1013.801,
+      "end": 1014.158,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "e-mail."
+    },
+    {
+      "start": 1014.808,
+      "end": 1019.547,
+      "start_int": 1014,
+      "timestamp_label": "16:54",
+      "text": "It has to be perfect because again, all the information flows"
+    },
+    {
+      "start": 1019.547,
+      "end": 1021.688,
+      "start_int": 1019,
+      "timestamp_label": "16:59",
+      "text": "within, so please make sure."
+    },
+    {
+      "start": 1023.238,
+      "end": 1028.399,
+      "start_int": 1023,
+      "timestamp_label": "17:03",
+      "text": "If you are in the if you're with the army and your cat card, says"
+    },
+    {
+      "start": 1028.399,
+      "end": 1030.198,
+      "start_int": 1028,
+      "timestamp_label": "17:08",
+      "text": "department of the Army."
+    },
+    {
+      "start": 1031.958,
+      "end": 1035.995,
+      "start_int": 1031,
+      "timestamp_label": "17:11",
+      "text": "Or United States Army, then your pie registration should also say"
+    },
+    {
+      "start": 1035.995,
+      "end": 1037.158,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "United States Army."
+    },
+    {
+      "start": 1038.838,
+      "end": 1039.198,
+      "start_int": 1038,
+      "timestamp_label": "17:18",
+      "text": "You can."
+    },
+    {
+      "start": 1039.878,
+      "end": 1045.73,
+      "start_int": 1039,
+      "timestamp_label": "17:19",
+      "text": "Here's a link for the Pyro list you can use that when you"
+    },
+    {
+      "start": 1045.73,
+      "end": 1046.638,
+      "start_int": 1045,
+      "timestamp_label": "17:25",
+      "text": "register."
+    },
+    {
+      "start": 1049.088,
+      "end": 1053.275,
+      "start_int": 1049,
+      "timestamp_label": "17:29",
+      "text": "You need to make sure that the role you ask for is when you"
+    },
+    {
+      "start": 1053.275,
+      "end": 1057.114,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "need because government administrators are required to"
+    },
+    {
+      "start": 1057.114,
+      "end": 1061.301,
+      "start_int": 1057,
+      "timestamp_label": "17:37",
+      "text": "give you the least amount of roles in order to perform your"
+    },
+    {
+      "start": 1061.301,
+      "end": 1062.488,
+      "start_int": 1061,
+      "timestamp_label": "17:41",
+      "text": "job successfully."
+    },
+    {
+      "start": 1062.688,
+      "end": 1066.048,
+      "start_int": 1062,
+      "timestamp_label": "17:42",
+      "text": "So we don't like to give access to roles that you do not need."
+    },
+    {
+      "start": 1068.818,
+      "end": 1072.507,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "Alright. And then we go on to EDA and that will take us to"
+    },
+    {
+      "start": 1072.507,
+      "end": 1073.258,
+      "start_int": 1072,
+      "timestamp_label": "17:52",
+      "text": "Becky Bushy."
+    },
+    {
+      "start": 1074.698,
+      "end": 1076.458,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "Hi does anyone have any questions?"
+    },
+    {
+      "start": 1078.008,
+      "end": 1082.626,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "About Sherry's presentation and anything having to do with"
+    },
+    {
+      "start": 1082.626,
+      "end": 1085.288,
+      "start_int": 1082,
+      "timestamp_label": "18:02",
+      "text": "registration or about the DODAKS."
+    },
+    {
+      "start": 1091.718,
+      "end": 1092.838,
+      "start_int": 1091,
+      "timestamp_label": "18:11",
+      "text": "Jason, you got a hand up?"
+    },
+    {
+      "start": 1094.378,
+      "end": 1099.207,
+      "start_int": 1094,
+      "timestamp_label": "18:14",
+      "text": "Yes. So for the less experienced ones, what is the website that"
+    },
+    {
+      "start": 1099.207,
+      "end": 1103.81,
+      "start_int": 1099,
+      "timestamp_label": "18:19",
+      "text": "we go to gain access into π to be able to load or upload our"
+    },
+    {
+      "start": 1103.81,
+      "end": 1107.658,
+      "start_int": 1103,
+      "timestamp_label": "18:23",
+      "text": "our GFP stuff into a contractual requirement over?"
+    },
+    {
+      "start": 1112.578,
+      "end": 1114.658,
+      "start_int": 1112,
+      "timestamp_label": "18:32",
+      "text": "Load your GFP stuff into a contract."
+    },
+    {
+      "start": 1116.208,
+      "end": 1119.008,
+      "start_int": 1116,
+      "timestamp_label": "18:36",
+      "text": "We're actually gonna be going over GFP in a little bit."
+    },
+    {
+      "start": 1120.368,
+      "end": 1125.597,
+      "start_int": 1120,
+      "timestamp_label": "18:40",
+      "text": "And I think his general question is how do we get, where do we go"
+    },
+    {
+      "start": 1125.597,
+      "end": 1128.688,
+      "start_int": 1125,
+      "timestamp_label": "18:45",
+      "text": "to get into π? OK, OK, that. Yeah. OK."
+    },
+    {
+      "start": 1125.708,
+      "end": 1126.828,
+      "start_int": 1125,
+      "timestamp_label": "18:45",
+      "text": "I just posted the link."
+    },
+    {
+      "start": 1128.688,
+      "end": 1130.768,
+      "start_int": 1128,
+      "timestamp_label": "18:48",
+      "text": "So, OK, Sherry, just put the link in the chat."
+    },
+    {
+      "start": 1133.218,
+      "end": 1133.778,
+      "start_int": 1133,
+      "timestamp_label": "18:53",
+      "text": "OK."
+    },
+    {
+      "start": 1134.298,
+      "end": 1135.618,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "Any other questions?"
+    },
+    {
+      "start": 1134.418,
+      "end": 1137.924,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "So once you get into π, then you're going to register your"
+    },
+    {
+      "start": 1137.924,
+      "end": 1141.253,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "user information under your profile and π. As with most"
+    },
+    {
+      "start": 1141.253,
+      "end": 1144.878,
+      "start_int": 1141,
+      "timestamp_label": "19:01",
+      "text": "systems, they wanna know, you know, build your your shell of"
+    },
+    {
+      "start": 1144.878,
+      "end": 1148.147,
+      "start_int": 1144,
+      "timestamp_label": "19:04",
+      "text": "your profile, and then once you've got a profile, then"
+    },
+    {
+      "start": 1148.147,
+      "end": 1149.098,
+      "start_int": 1148,
+      "timestamp_label": "19:08",
+      "text": "you're going to."
+    },
+    {
+      "start": 1150.718,
+      "end": 1154.078,
+      "start_int": 1150,
+      "timestamp_label": "19:10",
+      "text": "Request to add the various roles as Sherry mentioned, and you're"
+    },
+    {
+      "start": 1154.078,
+      "end": 1157.387,
+      "start_int": 1154,
+      "timestamp_label": "19:14",
+      "text": "going to find out you're going to look at the the link she sent"
+    },
+    {
+      "start": 1157.387,
+      "end": 1160.747,
+      "start_int": 1157,
+      "timestamp_label": "19:17",
+      "text": "you about how to determine which roles appropriate for your job,"
+    },
+    {
+      "start": 1160.747,
+      "end": 1164.055,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "and then you'd add those systems with the specific roles within"
+    },
+    {
+      "start": 1164.055,
+      "end": 1165.038,
+      "start_int": 1164,
+      "timestamp_label": "19:24",
+      "text": "those systems that."
+    },
+    {
+      "start": 1165.038,
+      "end": 1165.278,
+      "start_int": 1165,
+      "timestamp_label": "19:25",
+      "text": "You need."
+    },
+    {
+      "start": 1166.028,
+      "end": 1169.364,
+      "start_int": 1166,
+      "timestamp_label": "19:26",
+      "text": "So for example, if you were core, you'd need EDAS, PM and"
+    },
+    {
+      "start": 1169.364,
+      "end": 1172.7,
+      "start_int": 1169,
+      "timestamp_label": "19:29",
+      "text": "WAFF and probably GFP. If you were gonna have GFP so that"
+    },
+    {
+      "start": 1172.7,
+      "end": 1176.151,
+      "start_int": 1172,
+      "timestamp_label": "19:32",
+      "text": "that's you would go into the site, you'd register, and then"
+    },
+    {
+      "start": 1176.151,
+      "end": 1179.718,
+      "start_int": 1176,
+      "timestamp_label": "19:36",
+      "text": "you'd start adding the roles. You would need specific to your"
+    },
+    {
+      "start": 1179.718,
+      "end": 1179.948,
+      "start_int": 1179,
+      "timestamp_label": "19:39",
+      "text": "job."
+    },
+    {
+      "start": 1180.508,
+      "end": 1183.286,
+      "start_int": 1180,
+      "timestamp_label": "19:40",
+      "text": "And then they have to be approved by your dams and your"
+    },
+    {
+      "start": 1183.286,
+      "end": 1184.428,
+      "start_int": 1183,
+      "timestamp_label": "19:43",
+      "text": "supervisors, of course."
+    },
+    {
+      "start": 1185.998,
+      "end": 1187.798,
+      "start_int": 1185,
+      "timestamp_label": "19:45",
+      "text": "Was there another hand or did that just go down?"
+    },
+    {
+      "start": 1187.798,
+      "end": 1188.278,
+      "start_int": 1187,
+      "timestamp_label": "19:47",
+      "text": "OK."
+    },
+    {
+      "start": 1188.478,
+      "end": 1189.238,
+      "start_int": 1188,
+      "timestamp_label": "19:48",
+      "text": "Sorry, Sherry."
+    },
+    {
+      "start": 1190.378,
+      "end": 1192.618,
+      "start_int": 1190,
+      "timestamp_label": "19:50",
+      "text": "So there's another question in the chat."
+    },
+    {
+      "start": 1194.158,
+      "end": 1198.758,
+      "start_int": 1194,
+      "timestamp_label": "19:54",
+      "text": "Is so is uwic a subset of dotac, so there's."
+    },
+    {
+      "start": 1197.998,
+      "end": 1198.478,
+      "start_int": 1197,
+      "timestamp_label": "19:57",
+      "text": "They are."
+    },
+    {
+      "start": 1198.478,
+      "end": 1203.678,
+      "start_int": 1198,
+      "timestamp_label": "19:58",
+      "text": "They are not a subset. They are used for different things dodex."
+    },
+    {
+      "start": 1206.278,
+      "end": 1208.542,
+      "start_int": 1206,
+      "timestamp_label": "20:06",
+      "text": "I I think theoretically, and I'm the Doodq manager, maybe I'm"
+    },
+    {
+      "start": 1208.542,
+      "end": 1208.798,
+      "start_int": 1208,
+      "timestamp_label": "20:08",
+      "text": "biased."
+    },
+    {
+      "start": 1208.798,
+      "end": 1212.766,
+      "start_int": 1208,
+      "timestamp_label": "20:08",
+      "text": "They will eventually replace these, but uics are specifically"
+    },
+    {
+      "start": 1212.766,
+      "end": 1214.238,
+      "start_int": 1212,
+      "timestamp_label": "20:12",
+      "text": "for identifying a unit."
+    },
+    {
+      "start": 1214.558,
+      "end": 1219.798,
+      "start_int": 1214,
+      "timestamp_label": "20:14",
+      "text": "A dodec is an activity code, so it can be used as the home"
+    },
+    {
+      "start": 1219.798,
+      "end": 1225.038,
+      "start_int": 1219,
+      "timestamp_label": "20:19",
+      "text": "identifier for an activity or a unit location or both. So."
+    },
+    {
+      "start": 1226.718,
+      "end": 1228.598,
+      "start_int": 1226,
+      "timestamp_label": "20:26",
+      "text": "For example, if a unit is doing."
+    },
+    {
+      "start": 1229.408,
+      "end": 1233.467,
+      "start_int": 1229,
+      "timestamp_label": "20:29",
+      "text": "Contracting activity, their dotac would be used to indicate"
+    },
+    {
+      "start": 1233.467,
+      "end": 1234.888,
+      "start_int": 1233,
+      "timestamp_label": "20:33",
+      "text": "contracting activity."
+    },
+    {
+      "start": 1234.888,
+      "end": 1238.86,
+      "start_int": 1234,
+      "timestamp_label": "20:34",
+      "text": "Another dotac might be used for payment options on the finance"
+    },
+    {
+      "start": 1238.86,
+      "end": 1242.58,
+      "start_int": 1238,
+      "timestamp_label": "20:38",
+      "text": "group, and another dodec might be used as a location where"
+    },
+    {
+      "start": 1242.58,
+      "end": 1246.111,
+      "start_int": 1242,
+      "timestamp_label": "20:42",
+      "text": "somebody's going to be delivered. So dot X are assigned"
+    },
+    {
+      "start": 1246.111,
+      "end": 1249.894,
+      "start_int": 1246,
+      "timestamp_label": "20:46",
+      "text": "to a unit for a location or an activity, but they're and so"
+    },
+    {
+      "start": 1249.894,
+      "end": 1251.408,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "they're not always they."
+    },
+    {
+      "start": 1251.448,
+      "end": 1253.568,
+      "start_int": 1251,
+      "timestamp_label": "20:51",
+      "text": "Not directly connected or correlated to each other."
+    },
+    {
+      "start": 1254.518,
+      "end": 1257.318,
+      "start_int": 1254,
+      "timestamp_label": "20:54",
+      "text": "I know that's not clear. You can get with me offline."
+    },
+    {
+      "start": 1257.318,
+      "end": 1259.158,
+      "start_int": 1257,
+      "timestamp_label": "20:57",
+      "text": "It's probably a whole topic in and of itself."
+    },
+    {
+      "start": 1260.768,
+      "end": 1263.168,
+      "start_int": 1260,
+      "timestamp_label": "21:00",
+      "text": "But generally speaking, they are two different things."
+    },
+    {
+      "start": 1263.468,
+      "end": 1266.188,
+      "start_int": 1263,
+      "timestamp_label": "21:03",
+      "text": "After we go through the slides, I will try to show an example."
+    },
+    {
+      "start": 1269.048,
+      "end": 1269.208,
+      "start_int": 1269,
+      "timestamp_label": "21:09",
+      "text": "OK."
+    },
+    {
+      "start": 1270.348,
+      "end": 1272.468,
+      "start_int": 1270,
+      "timestamp_label": "21:10",
+      "text": "Alright, so moving on to EDA."
+    },
+    {
+      "start": 1273.108,
+      "end": 1279.35,
+      "start_int": 1273,
+      "timestamp_label": "21:13",
+      "text": "So EDA is electronic data access and this is the official DoD"
+    },
+    {
+      "start": 1279.35,
+      "end": 1284.788,
+      "start_int": 1279,
+      "timestamp_label": "21:19",
+      "text": "repository for all released awards and modifications."
+    },
+    {
+      "start": 1286.358,
+      "end": 1291.878,
+      "start_int": 1286,
+      "timestamp_label": "21:26",
+      "text": "And most people that have access to π and and have access to EDA."
+    },
+    {
+      "start": 1293.958,
+      "end": 1298.302,
+      "start_int": 1293,
+      "timestamp_label": "21:33",
+      "text": "They're pretty familiar with it. For contracts look up. However,"
+    },
+    {
+      "start": 1298.302,
+      "end": 1301.711,
+      "start_int": 1298,
+      "timestamp_label": "21:38",
+      "text": "there's also another underutilized feature is that"
+    },
+    {
+      "start": 1301.711,
+      "end": 1304.118,
+      "start_int": 1301,
+      "timestamp_label": "21:41",
+      "text": "there are reports available in EDA."
+    },
+    {
+      "start": 1304.928,
+      "end": 1309.918,
+      "start_int": 1304,
+      "timestamp_label": "21:44",
+      "text": "So I will get to those in a moment, but just back to the"
+    },
+    {
+      "start": 1309.918,
+      "end": 1315.258,
+      "start_int": 1309,
+      "timestamp_label": "21:49",
+      "text": "contracts, if a contract is released from a contract writing"
+    },
+    {
+      "start": 1315.258,
+      "end": 1319.811,
+      "start_int": 1315,
+      "timestamp_label": "21:55",
+      "text": "system, there's a lot of different contract writing"
+    },
+    {
+      "start": 1319.811,
+      "end": 1323.75,
+      "start_int": 1319,
+      "timestamp_label": "21:59",
+      "text": "systems, most of them automatically send the"
+    },
+    {
+      "start": 1323.75,
+      "end": 1328.128,
+      "start_int": 1323,
+      "timestamp_label": "22:03",
+      "text": "contractor modification to EDA and it also sends."
+    },
+    {
+      "start": 1329.678,
+      "end": 1333.858,
+      "start_int": 1329,
+      "timestamp_label": "22:09",
+      "text": "Bits and pieces of data about that contract to EDA, which will"
+    },
+    {
+      "start": 1333.858,
+      "end": 1337.64,
+      "start_int": 1333,
+      "timestamp_label": "22:13",
+      "text": "then in turn be available to populate vendor invoices or"
+    },
+    {
+      "start": 1337.64,
+      "end": 1338.038,
+      "start_int": 1337,
+      "timestamp_label": "22:17",
+      "text": "other."
+    },
+    {
+      "start": 1338.698,
+      "end": 1343.018,
+      "start_int": 1338,
+      "timestamp_label": "22:18",
+      "text": "Modules within π, so from the contract."
+    },
+    {
+      "start": 1345.078,
+      "end": 1350.116,
+      "start_int": 1345,
+      "timestamp_label": "22:25",
+      "text": "Eda also shows the contract closeout status of any of these"
+    },
+    {
+      "start": 1350.116,
+      "end": 1355.239,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "awards that are posted, and it'll show the the closeout date"
+    },
+    {
+      "start": 1355.239,
+      "end": 1360.614,
+      "start_int": 1355,
+      "timestamp_label": "22:35",
+      "text": "if there is. If the contract has been closed, that's also noted"
+    },
+    {
+      "start": 1360.614,
+      "end": 1361.118,
+      "start_int": 1360,
+      "timestamp_label": "22:40",
+      "text": "there."
+    },
+    {
+      "start": 1362.838,
+      "end": 1366.878,
+      "start_int": 1362,
+      "timestamp_label": "22:42",
+      "text": "So a lot of you may be familiar with EDA already if your course."
+    },
+    {
+      "start": 1368.478,
+      "end": 1368.518,
+      "start_int": 1368,
+      "timestamp_label": "22:48",
+      "text": "However."
+    },
+    {
+      "start": 1369.538,
+      "end": 1373.418,
+      "start_int": 1369,
+      "timestamp_label": "22:49",
+      "text": "Make sure that you take a look to see if you have."
+    },
+    {
+      "start": 1374.958,
+      "end": 1380.318,
+      "start_int": 1374,
+      "timestamp_label": "22:54",
+      "text": "A role in your EDA where you in the left side of the menu."
+    },
+    {
+      "start": 1380.398,
+      "end": 1383.478,
+      "start_int": 1380,
+      "timestamp_label": "23:00",
+      "text": "I didn't have a screenshot in here, I don't think."
+    },
+    {
+      "start": 1383.478,
+      "end": 1387.838,
+      "start_int": 1383,
+      "timestamp_label": "23:03",
+      "text": "Let me check there's advanced reporting is is the big push"
+    },
+    {
+      "start": 1387.838,
+      "end": 1392.347,
+      "start_int": 1387,
+      "timestamp_label": "23:07",
+      "text": "that we're trying to to get out with the EDA users for cores"
+    },
+    {
+      "start": 1392.347,
+      "end": 1396.486,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "because there's a lot of information in the EDA reports"
+    },
+    {
+      "start": 1396.486,
+      "end": 1398.038,
+      "start_int": 1396,
+      "timestamp_label": "23:16",
+      "text": "that's useful to you."
+    },
+    {
+      "start": 1399.248,
+      "end": 1401.048,
+      "start_int": 1399,
+      "timestamp_label": "23:19",
+      "text": "Jerry, can you want to Click to the next slide?"
+    },
+    {
+      "start": 1409.308,
+      "end": 1410.508,
+      "start_int": 1409,
+      "timestamp_label": "23:29",
+      "text": "Sherry, can you? OK."
+    },
+    {
+      "start": 1410.508,
+      "end": 1411.148,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "There we go."
+    },
+    {
+      "start": 1411.268,
+      "end": 1416.111,
+      "start_int": 1411,
+      "timestamp_label": "23:31",
+      "text": "So if you are in a π user and you have EDA access, check in"
+    },
+    {
+      "start": 1416.111,
+      "end": 1421.116,
+      "start_int": 1416,
+      "timestamp_label": "23:36",
+      "text": "your left column in EDA at the very bottom to see if you have"
+    },
+    {
+      "start": 1421.116,
+      "end": 1424.588,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "an option that says analytics and reports."
+    },
+    {
+      "start": 1425.108,
+      "end": 1430.253,
+      "start_int": 1425,
+      "timestamp_label": "23:45",
+      "text": "If you do, then that means you have the advanced reporting"
+    },
+    {
+      "start": 1430.253,
+      "end": 1433.828,
+      "start_int": 1430,
+      "timestamp_label": "23:50",
+      "text": "option in EDA, and if you don't have it."
+    },
+    {
+      "start": 1434.638,
+      "end": 1437.358,
+      "start_int": 1434,
+      "timestamp_label": "23:54",
+      "text": "I would suggest that you request this role."
+    },
+    {
+      "start": 1437.358,
+      "end": 1441.478,
+      "start_int": 1437,
+      "timestamp_label": "23:57",
+      "text": "For pie it is very helpful and."
+    },
+    {
+      "start": 1441.588,
+      "end": 1447.423,
+      "start_int": 1441,
+      "timestamp_label": "24:01",
+      "text": "And under the reports, there's a new number of different reports"
+    },
+    {
+      "start": 1447.423,
+      "end": 1452.63,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "that we would recommend under award reports and under WAF"
+    },
+    {
+      "start": 1452.63,
+      "end": 1453.348,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "reports."
+    },
+    {
+      "start": 1453.508,
+      "end": 1456.855,
+      "start_int": 1453,
+      "timestamp_label": "24:13",
+      "text": "So they're probably the ones the categories that are gonna be"
+    },
+    {
+      "start": 1456.855,
+      "end": 1459.068,
+      "start_int": 1456,
+      "timestamp_label": "24:16",
+      "text": "most helpful to helpful to you as cores."
+    },
+    {
+      "start": 1460.788,
+      "end": 1465.758,
+      "start_int": 1460,
+      "timestamp_label": "24:20",
+      "text": "And I'm not gonna go through all the different reports available,"
+    },
+    {
+      "start": 1465.758,
+      "end": 1470.503,
+      "start_int": 1465,
+      "timestamp_label": "24:25",
+      "text": "but you can kind of play around to see what's most helpful for"
+    },
+    {
+      "start": 1470.503,
+      "end": 1474.795,
+      "start_int": 1470,
+      "timestamp_label": "24:30",
+      "text": "you. Like under the award report, we recommend there's a"
+    },
+    {
+      "start": 1474.795,
+      "end": 1479.314,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "contract execution history report and under the WAF reports"
+    },
+    {
+      "start": 1479.314,
+      "end": 1482.628,
+      "start_int": 1479,
+      "timestamp_label": "24:39",
+      "text": "category, there's reports that you can run."
+    },
+    {
+      "start": 1482.868,
+      "end": 1484.708,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "That shows all the invoices."
+    },
+    {
+      "start": 1485.468,
+      "end": 1489.86,
+      "start_int": 1485,
+      "timestamp_label": "24:45",
+      "text": "For particular contract or all the invoices for all the line"
+    },
+    {
+      "start": 1489.86,
+      "end": 1494.54,
+      "start_int": 1489,
+      "timestamp_label": "24:49",
+      "text": "items that shows the at the line item level for those particular"
+    },
+    {
+      "start": 1494.54,
+      "end": 1495.548,
+      "start_int": 1494,
+      "timestamp_label": "24:54",
+      "text": "contracts. So."
+    },
+    {
+      "start": 1497.108,
+      "end": 1500.597,
+      "start_int": 1497,
+      "timestamp_label": "24:57",
+      "text": "These reports are very helpful if your core and you're trying"
+    },
+    {
+      "start": 1500.597,
+      "end": 1503.748,
+      "start_int": 1500,
+      "timestamp_label": "25:00",
+      "text": "to track what has been invoiced, what's been paid, and."
+    },
+    {
+      "start": 1505.388,
+      "end": 1506.748,
+      "start_int": 1505,
+      "timestamp_label": "25:05",
+      "text": "So I highly recommend that."
+    },
+    {
+      "start": 1508.998,
+      "end": 1511.918,
+      "start_int": 1508,
+      "timestamp_label": "25:08",
+      "text": "Hey, I think that's it for my EDA slides."
+    },
+    {
+      "start": 1512.038,
+      "end": 1513.038,
+      "start_int": 1512,
+      "timestamp_label": "25:12",
+      "text": "You want to share you."
+    },
+    {
+      "start": 1512.148,
+      "end": 1516.828,
+      "start_int": 1512,
+      "timestamp_label": "25:12",
+      "text": "We have one question. A hand up, Sharon Moser."
+    },
+    {
+      "start": 1518.548,
+      "end": 1519.068,
+      "start_int": 1518,
+      "timestamp_label": "25:18",
+      "text": "OK."
+    },
+    {
+      "start": 1521.548,
+      "end": 1525.388,
+      "start_int": 1521,
+      "timestamp_label": "25:21",
+      "text": "So Sharon, I want help with the WAFF reports. I'm OK."
+    },
+    {
+      "start": 1523.408,
+      "end": 1528.718,
+      "start_int": 1523,
+      "timestamp_label": "25:23",
+      "text": "Work out of WAFF and I'm told that if we are not able to pull"
+    },
+    {
+      "start": 1528.718,
+      "end": 1533.6,
+      "start_int": 1528,
+      "timestamp_label": "25:28",
+      "text": "that status report for a contract and payments made that"
+    },
+    {
+      "start": 1533.6,
+      "end": 1538.568,
+      "start_int": 1533,
+      "timestamp_label": "25:33",
+      "text": "it's because we also need access to G fibs. Is that true?"
+    },
+    {
+      "start": 1542.348,
+      "end": 1546.795,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "No, I mean, there's yeah, there's no link between G fibs"
+    },
+    {
+      "start": 1546.795,
+      "end": 1548.668,
+      "start_int": 1546,
+      "timestamp_label": "25:46",
+      "text": "and and the EDA reports."
+    },
+    {
+      "start": 1550.858,
+      "end": 1555.559,
+      "start_int": 1550,
+      "timestamp_label": "25:50",
+      "text": "Alright, I'll. I'll be giving it a try and if I get stuck I guess"
+    },
+    {
+      "start": 1555.559,
+      "end": 1558.338,
+      "start_int": 1555,
+      "timestamp_label": "25:55",
+      "text": "I'll ask for help. Thank you. OK. Yep."
+    },
+    {
+      "start": 1558.208,
+      "end": 1564.008,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "Sharon, what I would say though is when you do pull a WAF"
+    },
+    {
+      "start": 1564.008,
+      "end": 1570.008,
+      "start_int": 1564,
+      "timestamp_label": "26:04",
+      "text": "reports in EDA, you don't have access to actually go in and"
+    },
+    {
+      "start": 1570.008,
+      "end": 1570.808,
+      "start_int": 1570,
+      "timestamp_label": "26:10",
+      "text": "look at."
+    },
+    {
+      "start": 1572.348,
+      "end": 1577.417,
+      "start_int": 1572,
+      "timestamp_label": "26:12",
+      "text": "Any attachments to the invoices you have to actually go into WA"
+    },
+    {
+      "start": 1575.418,
+      "end": 1576.338,
+      "start_int": 1575,
+      "timestamp_label": "26:15",
+      "text": "OK, got you."
+    },
+    {
+      "start": 1577.417,
+      "end": 1580.268,
+      "start_int": 1577,
+      "timestamp_label": "26:17",
+      "text": "for those, but you can get reports."
+    },
+    {
+      "start": 1581.658,
+      "end": 1582.978,
+      "start_int": 1581,
+      "timestamp_label": "26:21",
+      "text": "All kinds of WAF reports."
+    },
+    {
+      "start": 1582.978,
+      "end": 1587.298,
+      "start_int": 1582,
+      "timestamp_label": "26:22",
+      "text": "You just can't look at like, for instance, if if."
+    },
+    {
+      "start": 1588.998,
+      "end": 1590.678,
+      "start_int": 1588,
+      "timestamp_label": "26:28",
+      "text": "A vendor attaches."
+    },
+    {
+      "start": 1592.838,
+      "end": 1593.158,
+      "start_int": 1592,
+      "timestamp_label": "26:32",
+      "text": "Like maybe?"
+    },
+    {
+      "start": 1594.838,
+      "end": 1600.678,
+      "start_int": 1594,
+      "timestamp_label": "26:34",
+      "text": "Hours of one of the employees to the invoice as documentation."
+    },
+    {
+      "start": 1600.998,
+      "end": 1602.118,
+      "start_int": 1600,
+      "timestamp_label": "26:40",
+      "text": "That is what you cannot get."
+    },
+    {
+      "start": 1603.298,
+      "end": 1606.865,
+      "start_int": 1603,
+      "timestamp_label": "26:43",
+      "text": "Yeah, I'm good with that because we we look at those separately"
+    },
+    {
+      "start": 1606.865,
+      "end": 1610.209,
+      "start_int": 1606,
+      "timestamp_label": "26:46",
+      "text": "at each time that we review invoices for things like travel"
+    },
+    {
+      "start": 1610.209,
+      "end": 1611.658,
+      "start_int": 1610,
+      "timestamp_label": "26:50",
+      "text": "requests or documentation."
+    },
+    {
+      "start": 1613.198,
+      "end": 1614.558,
+      "start_int": 1613,
+      "timestamp_label": "26:53",
+      "text": "Odc documentation."
+    },
+    {
+      "start": 1614.558,
+      "end": 1615.358,
+      "start_int": 1614,
+      "timestamp_label": "26:54",
+      "text": "Got that?"
+    },
+    {
+      "start": 1615.598,
+      "end": 1619.299,
+      "start_int": 1615,
+      "timestamp_label": "26:55",
+      "text": "But what I was hoping to get some help with is I have to do"
+    },
+    {
+      "start": 1619.299,
+      "end": 1623.061,
+      "start_int": 1619,
+      "timestamp_label": "26:59",
+      "text": "this worksheet, you know to track when funds are added, when"
+    },
+    {
+      "start": 1623.061,
+      "end": 1626.824,
+      "start_int": 1623,
+      "timestamp_label": "27:03",
+      "text": "funds are, you know, exercised as we pay invoices. I kind of"
+    },
+    {
+      "start": 1626.824,
+      "end": 1628.798,
+      "start_int": 1626,
+      "timestamp_label": "27:06",
+      "text": "like to have that running total."
+    },
+    {
+      "start": 1631.078,
+      "end": 1634.162,
+      "start_int": 1631,
+      "timestamp_label": "27:11",
+      "text": "Yeah. If we get through all the slides, we can show you guys an"
+    },
+    {
+      "start": 1634.162,
+      "end": 1635.078,
+      "start_int": 1634,
+      "timestamp_label": "27:14",
+      "text": "example at the end."
+    },
+    {
+      "start": 1636.518,
+      "end": 1637.878,
+      "start_int": 1636,
+      "timestamp_label": "27:16",
+      "text": "That would be fabulous. Thank you."
+    },
+    {
+      "start": 1650.828,
+      "end": 1651.668,
+      "start_int": 1650,
+      "timestamp_label": "27:30",
+      "text": "Eda is a great tool."
+    },
+    {
+      "start": 1651.668,
+      "end": 1654.068,
+      "start_int": 1651,
+      "timestamp_label": "27:31",
+      "text": "Everybody, I recommend you get in there and use it."
+    },
+    {
+      "start": 1654.068,
+      "end": 1656.628,
+      "start_int": 1654,
+      "timestamp_label": "27:34",
+      "text": "I mean, most of the other systems here that deal with."
+    },
+    {
+      "start": 1656.238,
+      "end": 1656.878,
+      "start_int": 1656,
+      "timestamp_label": "27:36",
+      "text": "OK."
+    },
+    {
+      "start": 1656.878,
+      "end": 1657.838,
+      "start_int": 1656,
+      "timestamp_label": "27:36",
+      "text": "Oh, GFP attachment, yes."
+    },
+    {
+      "start": 1659.398,
+      "end": 1660.238,
+      "start_int": 1659,
+      "timestamp_label": "27:39",
+      "text": "This is core stuff."
+    },
+    {
+      "start": 1661.818,
+      "end": 1662.218,
+      "start_int": 1661,
+      "timestamp_label": "27:41",
+      "text": "OK."
+    },
+    {
+      "start": 1661.918,
+      "end": 1662.158,
+      "start_int": 1661,
+      "timestamp_label": "27:41",
+      "text": "It's."
+    },
+    {
+      "start": 1662.818,
+      "end": 1663.618,
+      "start_int": 1662,
+      "timestamp_label": "27:42",
+      "text": "Can anyone hear me?"
+    },
+    {
+      "start": 1664.318,
+      "end": 1664.758,
+      "start_int": 1664,
+      "timestamp_label": "27:44",
+      "text": "Anyone here?"
+    },
+    {
+      "start": 1666.898,
+      "end": 1668.338,
+      "start_int": 1666,
+      "timestamp_label": "27:46",
+      "text": "Alright. Hello. Yeah."
+    },
+    {
+      "start": 1667.828,
+      "end": 1668.388,
+      "start_int": 1667,
+      "timestamp_label": "27:47",
+      "text": "Yes, Jim."
+    },
+    {
+      "start": 1667.998,
+      "end": 1668.798,
+      "start_int": 1667,
+      "timestamp_label": "27:47",
+      "text": "Yes, I can hear you."
+    },
+    {
+      "start": 1668.788,
+      "end": 1671.068,
+      "start_int": 1668,
+      "timestamp_label": "27:48",
+      "text": "Yep, I don't know who was trying to talk over me."
+    },
+    {
+      "start": 1670.078,
+      "end": 1670.158,
+      "start_int": 1670,
+      "timestamp_label": "27:50",
+      "text": "Hi."
+    },
+    {
+      "start": 1671.748,
+      "end": 1674.948,
+      "start_int": 1671,
+      "timestamp_label": "27:51",
+      "text": "So the EDA is great because it flows from."
+    },
+    {
+      "start": 1673.428,
+      "end": 1675.228,
+      "start_int": 1673,
+      "timestamp_label": "27:53",
+      "text": "I'm sorry I accidentally had a hot mic."
+    },
+    {
+      "start": 1680.218,
+      "end": 1683.028,
+      "start_int": 1680,
+      "timestamp_label": "28:00",
+      "text": "Most of these other systems, if they have an output of data,"
+    },
+    {
+      "start": 1683.028,
+      "end": 1683.858,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "they'll go to EDA."
+    },
+    {
+      "start": 1683.978,
+      "end": 1688.359,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "So recommend you actually become proficient GFP. Most folks who"
+    },
+    {
+      "start": 1688.359,
+      "end": 1692.739,
+      "start_int": 1688,
+      "timestamp_label": "28:08",
+      "text": "deal with GFP know what GFP is. If you're not sure it's it's in"
+    },
+    {
+      "start": 1692.739,
+      "end": 1693.698,
+      "start_int": 1692,
+      "timestamp_label": "28:12",
+      "text": "the far under."
+    },
+    {
+      "start": 1695.238,
+      "end": 1699.758,
+      "start_int": 1695,
+      "timestamp_label": "28:15",
+      "text": "45252 however, most people aren't familiar with the fact"
+    },
+    {
+      "start": 1699.758,
+      "end": 1704.517,
+      "start_int": 1699,
+      "timestamp_label": "28:19",
+      "text": "that the DoD is making a push to move towards using the GFP"
+    },
+    {
+      "start": 1704.517,
+      "end": 1708.958,
+      "start_int": 1704,
+      "timestamp_label": "28:24",
+      "text": "module as the single and only method for tracking gfpa."
+    },
+    {
+      "start": 1708.998,
+      "end": 1714.051,
+      "start_int": 1708,
+      "timestamp_label": "28:28",
+      "text": "Lot of folks, especially service groups, have used other methods"
+    },
+    {
+      "start": 1714.051,
+      "end": 1717.939,
+      "start_int": 1714,
+      "timestamp_label": "28:34",
+      "text": "to track GFP, including spreadsheets and internal"
+    },
+    {
+      "start": 1717.939,
+      "end": 1720.038,
+      "start_int": 1717,
+      "timestamp_label": "28:37",
+      "text": "service level metrics. But."
+    },
+    {
+      "start": 1720.608,
+      "end": 1725.317,
+      "start_int": 1720,
+      "timestamp_label": "28:40",
+      "text": "The GFP module in in Π is supposed to be what's used. The"
+    },
+    {
+      "start": 1725.317,
+      "end": 1730.027,
+      "start_int": 1725,
+      "timestamp_label": "28:45",
+      "text": "backbone of the GFP module is the GFP attachment. It is a"
+    },
+    {
+      "start": 1730.027,
+      "end": 1735.062,
+      "start_int": 1730,
+      "timestamp_label": "28:50",
+      "text": "document which is created and actually lists the items of GFP"
+    },
+    {
+      "start": 1735.062,
+      "end": 1739.528,
+      "start_int": 1735,
+      "timestamp_label": "28:55",
+      "text": "that that will be associated with a a contract effort."
+    },
+    {
+      "start": 1740.088,
+      "end": 1742.048,
+      "start_int": 1740,
+      "timestamp_label": "29:00",
+      "text": "It's generally created by a core."
+    },
+    {
+      "start": 1742.088,
+      "end": 1745.414,
+      "start_int": 1742,
+      "timestamp_label": "29:02",
+      "text": "It's under the contracting officers purview, but they"
+    },
+    {
+      "start": 1745.414,
+      "end": 1749.049,
+      "start_int": 1745,
+      "timestamp_label": "29:05",
+      "text": "typically delegate that out either to a core or a property"
+    },
+    {
+      "start": 1749.049,
+      "end": 1750.528,
+      "start_int": 1749,
+      "timestamp_label": "29:09",
+      "text": "administrator to create."
+    },
+    {
+      "start": 1751.978,
+      "end": 1754.776,
+      "start_int": 1751,
+      "timestamp_label": "29:11",
+      "text": "And then once you've and basically you go into the"
+    },
+    {
+      "start": 1754.776,
+      "end": 1757.903,
+      "start_int": 1754,
+      "timestamp_label": "29:14",
+      "text": "module, you'll create the document there, you'll send it"
+    },
+    {
+      "start": 1757.903,
+      "end": 1761.304,
+      "start_int": 1757,
+      "timestamp_label": "29:17",
+      "text": "for review in the. Ko will sign off on it, and then once it's"
+    },
+    {
+      "start": 1761.304,
+      "end": 1762.018,
+      "start_int": 1761,
+      "timestamp_label": "29:21",
+      "text": "there, it is."
+    },
+    {
+      "start": 1762.178,
+      "end": 1764.378,
+      "start_int": 1762,
+      "timestamp_label": "29:22",
+      "text": "It's a living document, if you will, of."
+    },
+    {
+      "start": 1766.038,
+      "end": 1766.518,
+      "start_int": 1766,
+      "timestamp_label": "29:26",
+      "text": "The GFP."
+    },
+    {
+      "start": 1766.518,
+      "end": 1769.358,
+      "start_int": 1766,
+      "timestamp_label": "29:26",
+      "text": "That's associated with that particular contract."
+    },
+    {
+      "start": 1770.318,
+      "end": 1771.758,
+      "start_int": 1770,
+      "timestamp_label": "29:30",
+      "text": "You can get different permissions."
+    },
+    {
+      "start": 1771.878,
+      "end": 1774.922,
+      "start_int": 1771,
+      "timestamp_label": "29:31",
+      "text": "There's an entire class on it on we do on GFP. If you have"
+    },
+    {
+      "start": 1774.922,
+      "end": 1777.864,
+      "start_int": 1774,
+      "timestamp_label": "29:34",
+      "text": "questions about GFP, as I go through this, obviously, as"
+    },
+    {
+      "start": 1777.864,
+      "end": 1780.238,
+      "start_int": 1777,
+      "timestamp_label": "29:37",
+      "text": "we've said, go ahead and raise your hand and."
+    },
+    {
+      "start": 1781.838,
+      "end": 1782.838,
+      "start_int": 1781,
+      "timestamp_label": "29:41",
+      "text": "Pops up again the chat."
+    },
+    {
+      "start": 1784.598,
+      "end": 1787.318,
+      "start_int": 1784,
+      "timestamp_label": "29:44",
+      "text": "Let's see. Going to the next slide. Sorry, I."
+    },
+    {
+      "start": 1787.318,
+      "end": 1789.118,
+      "start_int": 1787,
+      "timestamp_label": "29:47",
+      "text": "I was clicking on my screen and nothing was happening."
+    },
+    {
+      "start": 1790.798,
+      "end": 1791.958,
+      "start_int": 1790,
+      "timestamp_label": "29:50",
+      "text": "Can we go to the next screen?"
+    },
+    {
+      "start": 1795.418,
+      "end": 1798.458,
+      "start_int": 1795,
+      "timestamp_label": "29:55",
+      "text": "OK, so as I mentioned, oops too far."
+    },
+    {
+      "start": 1800.278,
+      "end": 1800.718,
+      "start_int": 1800,
+      "timestamp_label": "30:00",
+      "text": "That was 2."
+    },
+    {
+      "start": 1804.288,
+      "end": 1808.421,
+      "start_int": 1804,
+      "timestamp_label": "30:04",
+      "text": "Far 52254 dash, one if you're unfamiliar with GFP, first place"
+    },
+    {
+      "start": 1808.421,
+      "end": 1809.208,
+      "start_int": 1808,
+      "timestamp_label": "30:08",
+      "text": "is starters."
+    },
+    {
+      "start": 1809.208,
+      "end": 1812.608,
+      "start_int": 1809,
+      "timestamp_label": "30:09",
+      "text": "There it'll lay it out for you. The definition and so forth."
+    },
+    {
+      "start": 1812.888,
+      "end": 1817.288,
+      "start_int": 1812,
+      "timestamp_label": "30:12",
+      "text": "It'll also indicate the clauses. There have been some changes to"
+    },
+    {
+      "start": 1817.288,
+      "end": 1821.755,
+      "start_int": 1817,
+      "timestamp_label": "30:17",
+      "text": "what clauses should be included, so other than far 252 excuse me,"
+    },
+    {
+      "start": 1821.755,
+      "end": 1825.885,
+      "start_int": 1821,
+      "timestamp_label": "30:21",
+      "text": "far 52245 dash one. There are some other clauses that if you"
+    },
+    {
+      "start": 1825.885,
+      "end": 1828.728,
+      "start_int": 1825,
+      "timestamp_label": "30:25",
+      "text": "have GFP in your contract or it's a cost."
+    },
+    {
+      "start": 1828.728,
+      "end": 1830.528,
+      "start_int": 1828,
+      "timestamp_label": "30:28",
+      "text": "Plus contract you need to put them in there."
+    },
+    {
+      "start": 1831.318,
+      "end": 1833.678,
+      "start_int": 1831,
+      "timestamp_label": "30:31",
+      "text": "If you notice I've listed them, it's for reference."
+    },
+    {
+      "start": 1834.288,
+      "end": 1838.244,
+      "start_int": 1834,
+      "timestamp_label": "30:34",
+      "text": "I'm not expecting it to give you guys a test at the end of this"
+    },
+    {
+      "start": 1838.244,
+      "end": 1842.015,
+      "start_int": 1838,
+      "timestamp_label": "30:38",
+      "text": "one thing I will note at the bottom. Do you see the Deforest"
+    },
+    {
+      "start": 1842.015,
+      "end": 1843.128,
+      "start_int": 1842,
+      "timestamp_label": "30:42",
+      "text": "252-245-7000 five?"
+    },
+    {
+      "start": 1843.408,
+      "end": 1845.328,
+      "start_int": 1843,
+      "timestamp_label": "30:43",
+      "text": "It's actually a new."
+    },
+    {
+      "start": 1846.878,
+      "end": 1850.266,
+      "start_int": 1846,
+      "timestamp_label": "30:46",
+      "text": "Clause. It replaces the four that I put there underneath that"
+    },
+    {
+      "start": 1850.266,
+      "end": 1850.758,
+      "start_int": 1850,
+      "timestamp_label": "30:50",
+      "text": "asterisk."
+    },
+    {
+      "start": 1851.038,
+      "end": 1854.329,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "So with all these changes that DoD is making to try to make"
+    },
+    {
+      "start": 1854.329,
+      "end": 1857.675,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "sure we're tracking GFP, one of the things they did was they"
+    },
+    {
+      "start": 1857.675,
+      "end": 1860.638,
+      "start_int": 1857,
+      "timestamp_label": "30:57",
+      "text": "cleaned up some of the clauses and consolidated them."
+    },
+    {
+      "start": 1860.878,
+      "end": 1862.878,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "So I know it's it's a little bit."
+    },
+    {
+      "start": 1863.358,
+      "end": 1865.926,
+      "start_int": 1863,
+      "timestamp_label": "31:03",
+      "text": "It's a little it's it's three fewer clauses. You have to put"
+    },
+    {
+      "start": 1865.926,
+      "end": 1868.409,
+      "start_int": 1865,
+      "timestamp_label": "31:05",
+      "text": "in, but more importantly, the language is in there to make"
+    },
+    {
+      "start": 1868.409,
+      "end": 1870.514,
+      "start_int": 1868,
+      "timestamp_label": "31:08",
+      "text": "sure folks realize that they should be doing this"
+    },
+    {
+      "start": 1870.514,
+      "end": 1872.198,
+      "start_int": 1870,
+      "timestamp_label": "31:10",
+      "text": "electronically through the G FP module."
+    },
+    {
+      "start": 1872.808,
+      "end": 1876.33,
+      "start_int": 1872,
+      "timestamp_label": "31:12",
+      "text": "Using the GFP attachment, I do see a question for you real"
+    },
+    {
+      "start": 1876.33,
+      "end": 1876.688,
+      "start_int": 1876,
+      "timestamp_label": "31:16",
+      "text": "quick."
+    },
+    {
+      "start": 1877.168,
+      "end": 1880.969,
+      "start_int": 1877,
+      "timestamp_label": "31:17",
+      "text": "Is the GFP module used to track ongoing changes to the GFP and"
+    },
+    {
+      "start": 1880.969,
+      "end": 1884.168,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "GFP on location throughout the life of the contract."
+    },
+    {
+      "start": 1884.328,
+      "end": 1884.848,
+      "start_int": 1884,
+      "timestamp_label": "31:24",
+      "text": "Thank you."
+    },
+    {
+      "start": 1885.048,
+      "end": 1888.288,
+      "start_int": 1885,
+      "timestamp_label": "31:25",
+      "text": "So in a sense it does. It's technically not."
+    },
+    {
+      "start": 1890.358,
+      "end": 1892.964,
+      "start_int": 1890,
+      "timestamp_label": "31:30",
+      "text": "A live tracking system theoretically, but the way it"
+    },
+    {
+      "start": 1892.964,
+      "end": 1896.111,
+      "start_int": 1892,
+      "timestamp_label": "31:32",
+      "text": "works it kind of works out to be what you would do is you would"
+    },
+    {
+      "start": 1896.111,
+      "end": 1899.208,
+      "start_int": 1896,
+      "timestamp_label": "31:36",
+      "text": "on your attachment, you'd list all the GFP you would need over"
+    },
+    {
+      "start": 1899.208,
+      "end": 1900.438,
+      "start_int": 1899,
+      "timestamp_label": "31:39",
+      "text": "the life of the contract."
+    },
+    {
+      "start": 1900.438,
+      "end": 1903.703,
+      "start_int": 1900,
+      "timestamp_label": "31:40",
+      "text": "So if it's a five year effort, you're going to try to and you"
+    },
+    {
+      "start": 1903.703,
+      "end": 1904.598,
+      "start_int": 1903,
+      "timestamp_label": "31:43",
+      "text": "identify in your."
+    },
+    {
+      "start": 1907.038,
+      "end": 1910.538,
+      "start_int": 1907,
+      "timestamp_label": "31:47",
+      "text": "Contract the anticipated need for GFP? You're going to put it"
+    },
+    {
+      "start": 1910.538,
+      "end": 1913.078,
+      "start_int": 1910,
+      "timestamp_label": "31:50",
+      "text": "on there, whether it's serially got managed."
+    },
+    {
+      "start": 1913.358,
+      "end": 1916.398,
+      "start_int": 1913,
+      "timestamp_label": "31:53",
+      "text": "Excuse me serially identified or or non serially identified."
+    },
+    {
+      "start": 1916.518,
+      "end": 1919.758,
+      "start_int": 1916,
+      "timestamp_label": "31:56",
+      "text": "You'll list it on that attachment, and then obviously"
+    },
+    {
+      "start": 1919.758,
+      "end": 1923.178,
+      "start_int": 1919,
+      "timestamp_label": "31:59",
+      "text": "if you don't initially issue all of the beginning of the"
+    },
+    {
+      "start": 1923.178,
+      "end": 1926.778,
+      "start_int": 1923,
+      "timestamp_label": "32:03",
+      "text": "contract, you will then start to ship some of it out to the"
+    },
+    {
+      "start": 1926.778,
+      "end": 1930.198,
+      "start_int": 1926,
+      "timestamp_label": "32:06",
+      "text": "contractor. But some of it may not be shipped initially."
+    },
+    {
+      "start": 1930.238,
+      "end": 1933.82,
+      "start_int": 1930,
+      "timestamp_label": "32:10",
+      "text": "So when you do ship it, it will move from a disposition of in"
+    },
+    {
+      "start": 1933.82,
+      "end": 1935.438,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "the government's control to."
+    },
+    {
+      "start": 1935.918,
+      "end": 1937.798,
+      "start_int": 1935,
+      "timestamp_label": "32:15",
+      "text": "In the contractor's hands, they'll receive it."
+    },
+    {
+      "start": 1937.798,
+      "end": 1941.198,
+      "start_int": 1937,
+      "timestamp_label": "32:17",
+      "text": "That receipt will be acknowledged in the GFP module."
+    },
+    {
+      "start": 1941.358,
+      "end": 1945.149,
+      "start_int": 1941,
+      "timestamp_label": "32:21",
+      "text": "So you will actually have an updating status of your will of"
+    },
+    {
+      "start": 1945.149,
+      "end": 1948.941,
+      "start_int": 1945,
+      "timestamp_label": "32:25",
+      "text": "those items you've list on your attachment in the module. So"
+    },
+    {
+      "start": 1948.941,
+      "end": 1951.987,
+      "start_int": 1948,
+      "timestamp_label": "32:28",
+      "text": "government ships it out. Contractor receives it,"
+    },
+    {
+      "start": 1951.987,
+      "end": 1955.716,
+      "start_int": 1951,
+      "timestamp_label": "32:31",
+      "text": "acknowledges it, and then if someone would then pull up the"
+    },
+    {
+      "start": 1955.716,
+      "end": 1958.638,
+      "start_int": 1955,
+      "timestamp_label": "32:35",
+      "text": "GFP report, they would see half of the comput."
+    },
+    {
+      "start": 1958.638,
+      "end": 1961.035,
+      "start_int": 1958,
+      "timestamp_label": "32:38",
+      "text": "Are still not shipped out, but we are anticipating needing"
+    },
+    {
+      "start": 1961.035,
+      "end": 1961.238,
+      "start_int": 1961,
+      "timestamp_label": "32:41",
+      "text": "them."
+    },
+    {
+      "start": 1961.238,
+      "end": 1962.038,
+      "start_int": 1961,
+      "timestamp_label": "32:41",
+      "text": "Maybe an option?"
+    },
+    {
+      "start": 1962.038,
+      "end": 1965.838,
+      "start_int": 1962,
+      "timestamp_label": "32:42",
+      "text": "Year 234. But anything that has been shipped out they would see."
+    },
+    {
+      "start": 1966.078,
+      "end": 1969.325,
+      "start_int": 1966,
+      "timestamp_label": "32:46",
+      "text": "Is in a disposition after the contractor, and then probably"
+    },
+    {
+      "start": 1969.325,
+      "end": 1972.41,
+      "start_int": 1969,
+      "timestamp_label": "32:49",
+      "text": "there's language in your contract that says periodically"
+    },
+    {
+      "start": 1972.41,
+      "end": 1975.766,
+      "start_int": 1972,
+      "timestamp_label": "32:52",
+      "text": "the government wants a report back from the contractor on the"
+    },
+    {
+      "start": 1975.766,
+      "end": 1979.122,
+      "start_int": 1975,
+      "timestamp_label": "32:55",
+      "text": "status of the GFP that they've given to them, and then at the"
+    },
+    {
+      "start": 1979.122,
+      "end": 1981.558,
+      "start_int": 1979,
+      "timestamp_label": "32:59",
+      "text": "end, when all the contractors turn in their."
+    },
+    {
+      "start": 1981.558,
+      "end": 1984.798,
+      "start_int": 1981,
+      "timestamp_label": "33:01",
+      "text": "Property, it'll get moved back over to the government side."
+    },
+    {
+      "start": 1986.358,
+      "end": 1989.758,
+      "start_int": 1986,
+      "timestamp_label": "33:06",
+      "text": "Second question, where is the module icon in Π?"
+    },
+    {
+      "start": 1990.158,
+      "end": 1992.678,
+      "start_int": 1990,
+      "timestamp_label": "33:10",
+      "text": "Can we go back to that screen? Let's see."
+    },
+    {
+      "start": 1994.698,
+      "end": 1998.004,
+      "start_int": 1994,
+      "timestamp_label": "33:14",
+      "text": "Now, Sherry provided the the the blow up of the π modules. I"
+    },
+    {
+      "start": 1998.004,
+      "end": 2001.202,
+      "start_int": 1998,
+      "timestamp_label": "33:18",
+      "text": "think that was Sherry, and no one's screen looks like this"
+    },
+    {
+      "start": 2001.202,
+      "end": 2002.178,
+      "start_int": 2001,
+      "timestamp_label": "33:21",
+      "text": "that I'm aware of."
+    },
+    {
+      "start": 2002.178,
+      "end": 2005.196,
+      "start_int": 2002,
+      "timestamp_label": "33:22",
+      "text": "This is pretty much everything Sherry's might look like this,"
+    },
+    {
+      "start": 2005.196,
+      "end": 2007.338,
+      "start_int": 2005,
+      "timestamp_label": "33:25",
+      "text": "but it's under the property management bar."
+    },
+    {
+      "start": 2007.738,
+      "end": 2011.362,
+      "start_int": 2007,
+      "timestamp_label": "33:27",
+      "text": "It's actually a small little group there you see in the"
+    },
+    {
+      "start": 2011.362,
+      "end": 2015.115,
+      "start_int": 2011,
+      "timestamp_label": "33:31",
+      "text": "middle of the bottom third there. It can be GFP, the Iuid"
+    },
+    {
+      "start": 2015.115,
+      "end": 2015.698,
+      "start_int": 2015,
+      "timestamp_label": "33:35",
+      "text": "and cpam."
+    },
+    {
+      "start": 2015.698,
+      "end": 2018.418,
+      "start_int": 2015,
+      "timestamp_label": "33:35",
+      "text": "I don't use Cpam, so I'm not too familiar with that."
+    },
+    {
+      "start": 2018.658,
+      "end": 2022.166,
+      "start_int": 2018,
+      "timestamp_label": "33:38",
+      "text": "The Iuid registry is is probably being phased out, but the GFP"
+    },
+    {
+      "start": 2022.166,
+      "end": 2024.338,
+      "start_int": 2022,
+      "timestamp_label": "33:42",
+      "text": "module is there under property manage."
+    },
+    {
+      "start": 2024.858,
+      "end": 2027.858,
+      "start_int": 2024,
+      "timestamp_label": "33:44",
+      "text": "It's a tone group. Most people won't see it especially, and if"
+    },
+    {
+      "start": 2027.858,
+      "end": 2030.858,
+      "start_int": 2027,
+      "timestamp_label": "33:47",
+      "text": "you don't have the, the if you haven't requested the roles for"
+    },
+    {
+      "start": 2030.858,
+      "end": 2032.858,
+      "start_int": 2030,
+      "timestamp_label": "33:50",
+      "text": "that system, you absolutely won't see it."
+    },
+    {
+      "start": 2033.058,
+      "end": 2034.978,
+      "start_int": 2033,
+      "timestamp_label": "33:53",
+      "text": "But it's there under the property management section."
+    },
+    {
+      "start": 2036.718,
+      "end": 2039.784,
+      "start_int": 2036,
+      "timestamp_label": "33:56",
+      "text": "Now again, if you use the GFP module, you can go back to the"
+    },
+    {
+      "start": 2039.784,
+      "end": 2040.438,
+      "start_int": 2039,
+      "timestamp_label": "33:59",
+      "text": "other slides."
+    },
+    {
+      "start": 2040.438,
+      "end": 2043.412,
+      "start_int": 2040,
+      "timestamp_label": "34:00",
+      "text": "Thank you. If you go on, if you're using the GFE module,"
+    },
+    {
+      "start": 2043.412,
+      "end": 2046.856,
+      "start_int": 2043,
+      "timestamp_label": "34:03",
+      "text": "you're probably going to want to have access to EDA as well since"
+    },
+    {
+      "start": 2046.856,
+      "end": 2049.882,
+      "start_int": 2046,
+      "timestamp_label": "34:06",
+      "text": "you know that report will get once something is processed"
+    },
+    {
+      "start": 2049.882,
+      "end": 2052.804,
+      "start_int": 2049,
+      "timestamp_label": "34:09",
+      "text": "through the GFP module, it becomes a living document or"
+    },
+    {
+      "start": 2052.804,
+      "end": 2054.318,
+      "start_int": 2052,
+      "timestamp_label": "34:12",
+      "text": "becomes a document stored in."
+    },
+    {
+      "start": 2054.728,
+      "end": 2054.848,
+      "start_int": 2054,
+      "timestamp_label": "34:14",
+      "text": "Eda."
+    },
+    {
+      "start": 2056.118,
+      "end": 2057.998,
+      "start_int": 2056,
+      "timestamp_label": "34:16",
+      "text": "Is there any? I have another question."
+    },
+    {
+      "start": 2058.278,
+      "end": 2062.72,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "Is there any interaction with the GP module and an agency"
+    },
+    {
+      "start": 2062.72,
+      "end": 2064.558,
+      "start_int": 2062,
+      "timestamp_label": "34:22",
+      "text": "asset management system?"
+    },
+    {
+      "start": 2064.998,
+      "end": 2066.918,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "So the GFE module."
+    },
+    {
+      "start": 2068.648,
+      "end": 2072.948,
+      "start_int": 2068,
+      "timestamp_label": "34:28",
+      "text": "Is connected to the Apsr or the accounting or excuse me the yeah"
+    },
+    {
+      "start": 2072.948,
+      "end": 2075.528,
+      "start_int": 2072,
+      "timestamp_label": "34:32",
+      "text": "apsr which is the for DHA for example."
+    },
+    {
+      "start": 2075.528,
+      "end": 2076.368,
+      "start_int": 2075,
+      "timestamp_label": "34:35",
+      "text": "That's demos."
+    },
+    {
+      "start": 2076.608,
+      "end": 2081.585,
+      "start_int": 2076,
+      "timestamp_label": "34:36",
+      "text": "So any property that's in there is supposed to be connected to"
+    },
+    {
+      "start": 2081.585,
+      "end": 2082.928,
+      "start_int": 2081,
+      "timestamp_label": "34:41",
+      "text": "the to your apsr."
+    },
+    {
+      "start": 2083.048,
+      "end": 2086.048,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "Different agencies use different apsr."
+    },
+    {
+      "start": 2087.748,
+      "end": 2091.546,
+      "start_int": 2087,
+      "timestamp_label": "34:47",
+      "text": "What's probably most important and a disconnect that we're"
+    },
+    {
+      "start": 2091.546,
+      "end": 2095.472,
+      "start_int": 2091,
+      "timestamp_label": "34:51",
+      "text": "seeing is the best way to make sure that the activities that"
+    },
+    {
+      "start": 2095.472,
+      "end": 2099.528,
+      "start_int": 2095,
+      "timestamp_label": "34:55",
+      "text": "are being tracked through the GFP module and on the attachment"
+    },
+    {
+      "start": 2099.528,
+      "end": 2101.588,
+      "start_int": 2099,
+      "timestamp_label": "34:59",
+      "text": "is to when you set up your flow."
+    },
+    {
+      "start": 2101.948,
+      "end": 2105.199,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "So I I mentioned before the course, probably the person who"
+    },
+    {
+      "start": 2105.199,
+      "end": 2108.668,
+      "start_int": 2105,
+      "timestamp_label": "35:05",
+      "text": "will create the attachment, it goes to the contracting officer."
+    },
+    {
+      "start": 2108.788,
+      "end": 2111.868,
+      "start_int": 2108,
+      "timestamp_label": "35:08",
+      "text": "But there's an intermediate stage where it can go for"
+    },
+    {
+      "start": 2111.868,
+      "end": 2112.268,
+      "start_int": 2111,
+      "timestamp_label": "35:11",
+      "text": "review."
+    },
+    {
+      "start": 2113.048,
+      "end": 2116.847,
+      "start_int": 2113,
+      "timestamp_label": "35:13",
+      "text": "It's one of the best practices to have your property managers,"
+    },
+    {
+      "start": 2116.847,
+      "end": 2120.043,
+      "start_int": 2116,
+      "timestamp_label": "35:16",
+      "text": "your or your property administrator's. The folks who"
+    },
+    {
+      "start": 2120.043,
+      "end": 2123.963,
+      "start_int": 2120,
+      "timestamp_label": "35:20",
+      "text": "actually physically have control of the the the equipment you're"
+    },
+    {
+      "start": 2123.963,
+      "end": 2124.808,
+      "start_int": 2123,
+      "timestamp_label": "35:23",
+      "text": "talking about."
+    },
+    {
+      "start": 2125.598,
+      "end": 2126.798,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "As that reviewer."
+    },
+    {
+      "start": 2126.918,
+      "end": 2130.66,
+      "start_int": 2126,
+      "timestamp_label": "35:26",
+      "text": "That way they know when things are being tagged and earmarked"
+    },
+    {
+      "start": 2130.66,
+      "end": 2134.583,
+      "start_int": 2130,
+      "timestamp_label": "35:30",
+      "text": "for release, and then also they get notices and notifications as"
+    },
+    {
+      "start": 2134.583,
+      "end": 2138.204,
+      "start_int": 2134,
+      "timestamp_label": "35:34",
+      "text": "things are flowing back and forth across that receiving and"
+    },
+    {
+      "start": 2138.204,
+      "end": 2140.558,
+      "start_int": 2138,
+      "timestamp_label": "35:38",
+      "text": "and or shipping and receiving process."
+    },
+    {
+      "start": 2140.838,
+      "end": 2144.818,
+      "start_int": 2140,
+      "timestamp_label": "35:40",
+      "text": "So it's it makes sure when you set it up that you're clear."
+    },
+    {
+      "start": 2144.818,
+      "end": 2146.278,
+      "start_int": 2144,
+      "timestamp_label": "35:44",
+      "text": "While I see questions."
+    },
+    {
+      "start": 2146.278,
+      "end": 2147.438,
+      "start_int": 2146,
+      "timestamp_label": "35:46",
+      "text": "Just scroll to that."
+    },
+    {
+      "start": 2147.678,
+      "end": 2150.813,
+      "start_int": 2147,
+      "timestamp_label": "35:47",
+      "text": "You're you're tying your your property managers into the"
+    },
+    {
+      "start": 2150.813,
+      "end": 2151.198,
+      "start_int": 2150,
+      "timestamp_label": "35:50",
+      "text": "system."
+    },
+    {
+      "start": 2151.478,
+      "end": 2152.678,
+      "start_int": 2151,
+      "timestamp_label": "35:51",
+      "text": "I'm gonna scroll up here."
+    },
+    {
+      "start": 2152.878,
+      "end": 2154.598,
+      "start_int": 2152,
+      "timestamp_label": "35:52",
+      "text": "We hit like 5 questions pop up."
+    },
+    {
+      "start": 2156.448,
+      "end": 2156.728,
+      "start_int": 2156,
+      "timestamp_label": "35:56",
+      "text": "OK."
+    },
+    {
+      "start": 2156.728,
+      "end": 2158.408,
+      "start_int": 2156,
+      "timestamp_label": "35:56",
+      "text": "That was a general question."
+    },
+    {
+      "start": 2159.508,
+      "end": 2164.014,
+      "start_int": 2159,
+      "timestamp_label": "35:59",
+      "text": "Can you clarify if a contractor is shipping something to unit in"
+    },
+    {
+      "start": 2164.014,
+      "end": 2164.708,
+      "start_int": 2164,
+      "timestamp_label": "36:04",
+      "text": "the field?"
+    },
+    {
+      "start": 2165.308,
+      "end": 2170.067,
+      "start_int": 2165,
+      "timestamp_label": "36:05",
+      "text": "Does it automatically update or does the field POC need to go"
+    },
+    {
+      "start": 2170.067,
+      "end": 2172.908,
+      "start_int": 2170,
+      "timestamp_label": "36:10",
+      "text": "into π to accept verify shipment OK?"
+    },
+    {
+      "start": 2172.908,
+      "end": 2176.655,
+      "start_int": 2172,
+      "timestamp_label": "36:12",
+      "text": "So the question starts me off with a scratcher, because"
+    },
+    {
+      "start": 2176.655,
+      "end": 2180.201,
+      "start_int": 2176,
+      "timestamp_label": "36:16",
+      "text": "contractor shipping stuff is nothing to do with U.S."
+    },
+    {
+      "start": 2180.201,
+      "end": 2183.748,
+      "start_int": 2180,
+      "timestamp_label": "36:20",
+      "text": "government furnished properties government property."
+    },
+    {
+      "start": 2183.988,
+      "end": 2187.438,
+      "start_int": 2183,
+      "timestamp_label": "36:23",
+      "text": "So if we've given something to a contractor and they subsequently"
+    },
+    {
+      "start": 2187.438,
+      "end": 2189.268,
+      "start_int": 2187,
+      "timestamp_label": "36:27",
+      "text": "do something with it, that's part."
+    },
+    {
+      "start": 2189.498,
+      "end": 2193.521,
+      "start_int": 2189,
+      "timestamp_label": "36:29",
+      "text": "Their own internal controls and you may want to report on that,"
+    },
+    {
+      "start": 2193.521,
+      "end": 2197.418,
+      "start_int": 2193,
+      "timestamp_label": "36:33",
+      "text": "but you have given it in the system to whoever has privity in"
+    },
+    {
+      "start": 2197.418,
+      "end": 2198.298,
+      "start_int": 2197,
+      "timestamp_label": "36:37",
+      "text": "your contract."
+    },
+    {
+      "start": 2198.298,
+      "end": 2201.365,
+      "start_int": 2198,
+      "timestamp_label": "36:38",
+      "text": "So if you've got a prime and you wish them equipment and they"
+    },
+    {
+      "start": 2201.365,
+      "end": 2204.185,
+      "start_int": 2201,
+      "timestamp_label": "36:41",
+      "text": "turn around and give it to somebody else, if it's within"
+    },
+    {
+      "start": 2204.185,
+      "end": 2207.203,
+      "start_int": 2204,
+      "timestamp_label": "36:44",
+      "text": "the organization, that's a non event for us. If it's outside"
+    },
+    {
+      "start": 2207.203,
+      "end": 2209.973,
+      "start_int": 2207,
+      "timestamp_label": "36:47",
+      "text": "the organization, you're probably going to want to know"
+    },
+    {
+      "start": 2209.973,
+      "end": 2211.408,
+      "start_int": 2209,
+      "timestamp_label": "36:49",
+      "text": "about it, but it's still not."
+    },
+    {
+      "start": 2211.408,
+      "end": 2212.378,
+      "start_int": 2211,
+      "timestamp_label": "36:51",
+      "text": "Tracked through the module."
+    },
+    {
+      "start": 2214.688,
+      "end": 2217.528,
+      "start_int": 2214,
+      "timestamp_label": "36:54",
+      "text": "I hope that answers that question. If you didn't mean to"
+    },
+    {
+      "start": 2217.528,
+      "end": 2220.568,
+      "start_int": 2217,
+      "timestamp_label": "36:57",
+      "text": "say contractor, then I'm just a slightly different question."
+    },
+    {
+      "start": 2222.778,
+      "end": 2223.298,
+      "start_int": 2222,
+      "timestamp_label": "37:02",
+      "text": "So."
+    },
+    {
+      "start": 2223.868,
+      "end": 2225.268,
+      "start_int": 2223,
+      "timestamp_label": "37:03",
+      "text": "Wanna make sure you don't miss it?"
+    },
+    {
+      "start": 2225.708,
+      "end": 2232.053,
+      "start_int": 2225,
+      "timestamp_label": "37:05",
+      "text": "It's what is the document called and I think that's in regards to"
+    },
+    {
+      "start": 2230.188,
+      "end": 2230.748,
+      "start_int": 2230,
+      "timestamp_label": "37:10",
+      "text": "Where you at?"
+    },
+    {
+      "start": 2232.053,
+      "end": 2236.188,
+      "start_int": 2232,
+      "timestamp_label": "37:12",
+      "text": "the attachment. It's above. It's at 12:14."
+    },
+    {
+      "start": 2237.468,
+      "end": 2238.628,
+      "start_int": 2237,
+      "timestamp_label": "37:17",
+      "text": "No, I did. You're right."
+    },
+    {
+      "start": 2238.628,
+      "end": 2238.708,
+      "start_int": 2238,
+      "timestamp_label": "37:18",
+      "text": "Thank you."
+    },
+    {
+      "start": 2238.948,
+      "end": 2239.868,
+      "start_int": 2238,
+      "timestamp_label": "37:18",
+      "text": "I didn't even see that one."
+    },
+    {
+      "start": 2240.468,
+      "end": 2241.908,
+      "start_int": 2240,
+      "timestamp_label": "37:20",
+      "text": "Where is the module icon."
+    },
+    {
+      "start": 2241.908,
+      "end": 2242.428,
+      "start_int": 2241,
+      "timestamp_label": "37:21",
+      "text": "Is there?"
+    },
+    {
+      "start": 2243.968,
+      "end": 2246.088,
+      "start_int": 2243,
+      "timestamp_label": "37:23",
+      "text": "Actually, did I miss that test way back there."
+    },
+    {
+      "start": 2246.088,
+      "end": 2246.768,
+      "start_int": 2246,
+      "timestamp_label": "37:26",
+      "text": "Oh, here we go."
+    },
+    {
+      "start": 2247.208,
+      "end": 2251.793,
+      "start_int": 2247,
+      "timestamp_label": "37:27",
+      "text": "What is the document called? The document's called the GFP"
+    },
+    {
+      "start": 2251.793,
+      "end": 2252.648,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "attachment."
+    },
+    {
+      "start": 2253.248,
+      "end": 2254.088,
+      "start_int": 2253,
+      "timestamp_label": "37:33",
+      "text": "Is that what you mean?"
+    },
+    {
+      "start": 2259.438,
+      "end": 2263.041,
+      "start_int": 2259,
+      "timestamp_label": "37:39",
+      "text": "I know that was right on the end of our EDA comment, so if that"
+    },
+    {
+      "start": 2263.041,
+      "end": 2265.8,
+      "start_int": 2263,
+      "timestamp_label": "37:43",
+      "text": "was an EDA question, I apologize. It kind of got"
+    },
+    {
+      "start": 2265.8,
+      "end": 2266.758,
+      "start_int": 2265,
+      "timestamp_label": "37:45",
+      "text": "swallowed by GFP."
+    },
+    {
+      "start": 2270.718,
+      "end": 2275.153,
+      "start_int": 2270,
+      "timestamp_label": "37:50",
+      "text": "To answer, I think the general intent of this question from"
+    },
+    {
+      "start": 2275.153,
+      "end": 2276.558,
+      "start_int": 2275,
+      "timestamp_label": "37:55",
+      "text": "Kelly Keperlian so."
+    },
+    {
+      "start": 2278.648,
+      "end": 2282.512,
+      "start_int": 2278,
+      "timestamp_label": "37:58",
+      "text": "The government has people who are have roles in the system, so"
+    },
+    {
+      "start": 2282.512,
+      "end": 2285.824,
+      "start_int": 2282,
+      "timestamp_label": "38:02",
+      "text": "as we're we created, we documented, we make sure it's"
+    },
+    {
+      "start": 2285.824,
+      "end": 2289.688,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "connected to our apsr when we ship something that's an action,"
+    },
+    {
+      "start": 2289.688,
+      "end": 2293.429,
+      "start_int": 2289,
+      "timestamp_label": "38:09",
+      "text": "we push the contractor who's involved in the in the contract"
+    },
+    {
+      "start": 2293.429,
+      "end": 2295.208,
+      "start_int": 2293,
+      "timestamp_label": "38:13",
+      "text": "also needs to be have access."
+    },
+    {
+      "start": 2295.208,
+      "end": 2298.396,
+      "start_int": 2295,
+      "timestamp_label": "38:15",
+      "text": "To GFP module they need to have a role and they can and you as a"
+    },
+    {
+      "start": 2298.396,
+      "end": 2301.486,
+      "start_int": 2298,
+      "timestamp_label": "38:18",
+      "text": "core contracting officer might need to teach them, or at least"
+    },
+    {
+      "start": 2301.486,
+      "end": 2303.448,
+      "start_int": 2301,
+      "timestamp_label": "38:21",
+      "text": "refer them to the sites they can go to."
+    },
+    {
+      "start": 2304.128,
+      "end": 2306.793,
+      "start_int": 2304,
+      "timestamp_label": "38:24",
+      "text": "And the slide that shows up right there actually has some"
+    },
+    {
+      "start": 2306.793,
+      "end": 2308.448,
+      "start_int": 2306,
+      "timestamp_label": "38:26",
+      "text": "great resources for how to do that."
+    },
+    {
+      "start": 2308.608,
+      "end": 2312.477,
+      "start_int": 2308,
+      "timestamp_label": "38:28",
+      "text": "But the contractor will need to go into the system to have a"
+    },
+    {
+      "start": 2312.477,
+      "end": 2316.346,
+      "start_int": 2312,
+      "timestamp_label": "38:32",
+      "text": "role so that when they do get that GSP, they can acknowledge"
+    },
+    {
+      "start": 2316.346,
+      "end": 2317.488,
+      "start_int": 2316,
+      "timestamp_label": "38:36",
+      "text": "that they have it."
+    },
+    {
+      "start": 2317.488,
+      "end": 2319.248,
+      "start_int": 2317,
+      "timestamp_label": "38:37",
+      "text": "They can also submit a discrepancy."
+    },
+    {
+      "start": 2319.248,
+      "end": 2320.608,
+      "start_int": 2319,
+      "timestamp_label": "38:39",
+      "text": "Hey, you said you sent me 10."
+    },
+    {
+      "start": 2320.608,
+      "end": 2324.768,
+      "start_int": 2320,
+      "timestamp_label": "38:40",
+      "text": "I got 8 or I got 27 and not ten. Whatever the case may be."
+    },
+    {
+      "start": 2324.768,
+      "end": 2327.934,
+      "start_int": 2324,
+      "timestamp_label": "38:44",
+      "text": "And then there will there's a way to the KO to resolve that"
+    },
+    {
+      "start": 2327.934,
+      "end": 2328.568,
+      "start_int": 2327,
+      "timestamp_label": "38:47",
+      "text": "discrepancy."
+    },
+    {
+      "start": 2329.648,
+      "end": 2333.067,
+      "start_int": 2329,
+      "timestamp_label": "38:49",
+      "text": "But when they do get a shipment or something shipped to them,"
+    },
+    {
+      "start": 2333.067,
+      "end": 2336.432,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "they will send a acknowledgement of receipt and all of those"
+    },
+    {
+      "start": 2336.432,
+      "end": 2338.528,
+      "start_int": 2336,
+      "timestamp_label": "38:56",
+      "text": "actions are logged in the GFP module."
+    },
+    {
+      "start": 2338.898,
+      "end": 2341.909,
+      "start_int": 2338,
+      "timestamp_label": "38:58",
+      "text": "And then it updates the GFP attachment. If there's a"
+    },
+    {
+      "start": 2341.909,
+      "end": 2343.898,
+      "start_int": 2341,
+      "timestamp_label": "39:01",
+      "text": "modification that needs to happen."
+    },
+    {
+      "start": 2344.018,
+      "end": 2346.931,
+      "start_int": 2344,
+      "timestamp_label": "39:04",
+      "text": "Hey, we thought we were going to get 1000 pieces of this"
+    },
+    {
+      "start": 2346.931,
+      "end": 2350.253,
+      "start_int": 2346,
+      "timestamp_label": "39:06",
+      "text": "equipment that we were going to give them, but turns out we only"
+    },
+    {
+      "start": 2350.253,
+      "end": 2351.378,
+      "start_int": 2350,
+      "timestamp_label": "39:10",
+      "text": "need to give them 500."
+    },
+    {
+      "start": 2351.658,
+      "end": 2352.458,
+      "start_int": 2351,
+      "timestamp_label": "39:11",
+      "text": "You would go in."
+    },
+    {
+      "start": 2352.458,
+      "end": 2355.227,
+      "start_int": 2352,
+      "timestamp_label": "39:12",
+      "text": "You would obviously need to modify the contract if that's a"
+    },
+    {
+      "start": 2355.227,
+      "end": 2357.858,
+      "start_int": 2355,
+      "timestamp_label": "39:15",
+      "text": "material thing that you've listed under your scope. That"
+    },
+    {
+      "start": 2357.858,
+      "end": 2360.765,
+      "start_int": 2357,
+      "timestamp_label": "39:17",
+      "text": "would have a parallel adjustment that would need to be made to"
+    },
+    {
+      "start": 2360.765,
+      "end": 2361.458,
+      "start_int": 2360,
+      "timestamp_label": "39:20",
+      "text": "the attachment."
+    },
+    {
+      "start": 2361.458,
+      "end": 2364.558,
+      "start_int": 2361,
+      "timestamp_label": "39:21",
+      "text": "So if you mod the contract with an actual mod, I'm using that"
+    },
+    {
+      "start": 2364.558,
+      "end": 2367.508,
+      "start_int": 2364,
+      "timestamp_label": "39:24",
+      "text": "that verb you would actually need to go in and adjust your"
+    },
+    {
+      "start": 2367.508,
+      "end": 2368.858,
+      "start_int": 2367,
+      "timestamp_label": "39:27",
+      "text": "attachment to reflect that."
+    },
+    {
+      "start": 2369.758,
+      "end": 2373.267,
+      "start_int": 2369,
+      "timestamp_label": "39:29",
+      "text": "If you adjust the attachment, it must have a corresponding mod in"
+    },
+    {
+      "start": 2373.267,
+      "end": 2373.958,
+      "start_int": 2373,
+      "timestamp_label": "39:33",
+      "text": "the contract."
+    },
+    {
+      "start": 2374.438,
+      "end": 2376.118,
+      "start_int": 2374,
+      "timestamp_label": "39:34",
+      "text": "You cannot do one without the other."
+    },
+    {
+      "start": 2376.158,
+      "end": 2379.626,
+      "start_int": 2376,
+      "timestamp_label": "39:36",
+      "text": "Again, if there's a language for GFP, treatment should be in your"
+    },
+    {
+      "start": 2379.626,
+      "end": 2382.885,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "contract and the GFP attachment should reflect what's in your"
+    },
+    {
+      "start": 2382.885,
+      "end": 2383.358,
+      "start_int": 2382,
+      "timestamp_label": "39:42",
+      "text": "contract."
+    },
+    {
+      "start": 2383.878,
+      "end": 2384.678,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "But that does happen."
+    },
+    {
+      "start": 2384.678,
+      "end": 2387.763,
+      "start_int": 2384,
+      "timestamp_label": "39:44",
+      "text": "We don't know when we make plans in the beginning, when we make"
+    },
+    {
+      "start": 2387.763,
+      "end": 2390.752,
+      "start_int": 2387,
+      "timestamp_label": "39:47",
+      "text": "contracts, we have a plan for how it's going to work out. But"
+    },
+    {
+      "start": 2390.752,
+      "end": 2392.198,
+      "start_int": 2390,
+      "timestamp_label": "39:50",
+      "text": "as we all know, things change."
+    },
+    {
+      "start": 2392.198,
+      "end": 2395.797,
+      "start_int": 2392,
+      "timestamp_label": "39:52",
+      "text": "GFP is no exception, so if you do add or subtract GFP from your"
+    },
+    {
+      "start": 2395.797,
+      "end": 2396.078,
+      "start_int": 2395,
+      "timestamp_label": "39:55",
+      "text": "plan."
+    },
+    {
+      "start": 2396.888,
+      "end": 2399.507,
+      "start_int": 2396,
+      "timestamp_label": "39:56",
+      "text": "As you change it in your contract with mods, you need to"
+    },
+    {
+      "start": 2399.507,
+      "end": 2402.448,
+      "start_int": 2399,
+      "timestamp_label": "39:59",
+      "text": "make sure you change it on the module in the on the attachment."
+    },
+    {
+      "start": 2403.608,
+      "end": 2406.128,
+      "start_int": 2403,
+      "timestamp_label": "40:03",
+      "text": "We don't have access to the GFP module."
+    },
+    {
+      "start": 2406.128,
+      "end": 2409.088,
+      "start_int": 2406,
+      "timestamp_label": "40:06",
+      "text": "Do we need to get it if we don't have access?"
+    },
+    {
+      "start": 2409.888,
+      "end": 2413.119,
+      "start_int": 2409,
+      "timestamp_label": "40:09",
+      "text": "You don't have to get access to it if you're using GFP on a"
+    },
+    {
+      "start": 2413.119,
+      "end": 2415.328,
+      "start_int": 2413,
+      "timestamp_label": "40:13",
+      "text": "contract, you absolutely should have it."
+    },
+    {
+      "start": 2417.748,
+      "end": 2420.432,
+      "start_int": 2417,
+      "timestamp_label": "40:17",
+      "text": "And if you do, if you should have it, you need to submit for"
+    },
+    {
+      "start": 2420.432,
+      "end": 2420.828,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "the role."
+    },
+    {
+      "start": 2420.828,
+      "end": 2422.108,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "Hopefully that answers that question."
+    },
+    {
+      "start": 2423.728,
+      "end": 2426.048,
+      "start_int": 2423,
+      "timestamp_label": "40:23",
+      "text": "Tekayata I butchered your name."
+    },
+    {
+      "start": 2426.048,
+      "end": 2426.728,
+      "start_int": 2426,
+      "timestamp_label": "40:26",
+      "text": "I apologize."
+    },
+    {
+      "start": 2427.488,
+      "end": 2430.128,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "I have a contractor struggling with."
+    },
+    {
+      "start": 2428.158,
+      "end": 2428.918,
+      "start_int": 2428,
+      "timestamp_label": "40:28",
+      "text": "Can we?"
+    },
+    {
+      "start": 2430.328,
+      "end": 2432.368,
+      "start_int": 2430,
+      "timestamp_label": "40:30",
+      "text": "I'm talking fast 'cause. We have a lot of topics."
+    },
+    {
+      "start": 2432.368,
+      "end": 2436.234,
+      "start_int": 2432,
+      "timestamp_label": "40:32",
+      "text": "I know everybody loves gfpi have a contractor struggling with"
+    },
+    {
+      "start": 2436.234,
+      "end": 2440.163,
+      "start_int": 2436,
+      "timestamp_label": "40:36",
+      "text": "clarity of process and how to use systems even after training."
+    },
+    {
+      "start": 2440.163,
+      "end": 2443.968,
+      "start_int": 2440,
+      "timestamp_label": "40:40",
+      "text": "Yikes. OK, so that slide that we're on now, where did we go?"
+    },
+    {
+      "start": 2444.568,
+      "end": 2448.275,
+      "start_int": 2444,
+      "timestamp_label": "40:44",
+      "text": "Oh, already skipped past me, so I will end in this. I I do a"
+    },
+    {
+      "start": 2448.275,
+      "end": 2449.248,
+      "start_int": 2448,
+      "timestamp_label": "40:48",
+      "text": "training that's."
+    },
+    {
+      "start": 2449.828,
+      "end": 2454.468,
+      "start_int": 2449,
+      "timestamp_label": "40:49",
+      "text": "An hour long on GFP and it just sometimes isn't enough either."
+    },
+    {
+      "start": 2454.828,
+      "end": 2456.068,
+      "start_int": 2454,
+      "timestamp_label": "40:54",
+      "text": "Can we scroll up one more slide?"
+    },
+    {
+      "start": 2458.528,
+      "end": 2462.464,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "The the the best thing for folks who are are new to GFP or have a"
+    },
+    {
+      "start": 2462.464,
+      "end": 2466.042,
+      "start_int": 2462,
+      "timestamp_label": "41:02",
+      "text": "contractor who's struggling, as you pointed out here, is to"
+    },
+    {
+      "start": 2466.042,
+      "end": 2468.488,
+      "start_int": 2466,
+      "timestamp_label": "41:06",
+      "text": "reach into that DoD procurement toolbox."
+    },
+    {
+      "start": 2468.488,
+      "end": 2471.008,
+      "start_int": 2468,
+      "timestamp_label": "41:08",
+      "text": "The GFP section is awesome."
+    },
+    {
+      "start": 2471.008,
+      "end": 2472.368,
+      "start_int": 2471,
+      "timestamp_label": "41:11",
+      "text": "That's where I get my stuff from."
+    },
+    {
+      "start": 2472.408,
+      "end": 2475.753,
+      "start_int": 2472,
+      "timestamp_label": "41:12",
+      "text": "Dpc does a great job of maintaining presentations,"
+    },
+    {
+      "start": 2475.753,
+      "end": 2479.36,
+      "start_int": 2475,
+      "timestamp_label": "41:15",
+      "text": "whether as just slides or recorded events that they've"
+    },
+    {
+      "start": 2479.36,
+      "end": 2479.688,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "done."
+    },
+    {
+      "start": 2479.848,
+      "end": 2481.328,
+      "start_int": 2479,
+      "timestamp_label": "41:19",
+      "text": "And they have it by every topic."
+    },
+    {
+      "start": 2481.368,
+      "end": 2484.099,
+      "start_int": 2481,
+      "timestamp_label": "41:21",
+      "text": "So they've got a whole section for just the government folks"
+    },
+    {
+      "start": 2484.099,
+      "end": 2486.248,
+      "start_int": 2484,
+      "timestamp_label": "41:24",
+      "text": "and they've got a whole section for contractor."
+    },
+    {
+      "start": 2486.248,
+      "end": 2487.608,
+      "start_int": 2486,
+      "timestamp_label": "41:26",
+      "text": "So if you're working."
+    },
+    {
+      "start": 2487.928,
+      "end": 2490.669,
+      "start_int": 2487,
+      "timestamp_label": "41:27",
+      "text": "Workload is such that you know you can't take 3 hours to"
+    },
+    {
+      "start": 2490.669,
+      "end": 2492.448,
+      "start_int": 2490,
+      "timestamp_label": "41:30",
+      "text": "handhold a contractor, and I get it."
+    },
+    {
+      "start": 2493.008,
+      "end": 2495.848,
+      "start_int": 2493,
+      "timestamp_label": "41:33",
+      "text": "At least start them by giving them that resource to go in"
+    },
+    {
+      "start": 2495.848,
+      "end": 2499.08,
+      "start_int": 2495,
+      "timestamp_label": "41:35",
+      "text": "there and see those presentation and see those slides and they're"
+    },
+    {
+      "start": 2499.08,
+      "end": 2502.214,
+      "start_int": 2499,
+      "timestamp_label": "41:39",
+      "text": "pretty good about the detailed level of walking someone through"
+    },
+    {
+      "start": 2502.214,
+      "end": 2505.397,
+      "start_int": 2502,
+      "timestamp_label": "41:42",
+      "text": "how to do most of the functions, and it's broken out by function"
+    },
+    {
+      "start": 2505.397,
+      "end": 2506.328,
+      "start_int": 2505,
+      "timestamp_label": "41:45",
+      "text": "so they don't have."
+    },
+    {
+      "start": 2506.328,
+      "end": 2507.688,
+      "start_int": 2506,
+      "timestamp_label": "41:46",
+      "text": "To read all of them, they can go in there."
+    },
+    {
+      "start": 2507.688,
+      "end": 2508.888,
+      "start_int": 2507,
+      "timestamp_label": "41:47",
+      "text": "I don't know how to register."
+    },
+    {
+      "start": 2508.888,
+      "end": 2511.07,
+      "start_int": 2508,
+      "timestamp_label": "41:48",
+      "text": "There's one in there for how contractors register, but I"
+    },
+    {
+      "start": 2511.07,
+      "end": 2512.448,
+      "start_int": 2511,
+      "timestamp_label": "41:51",
+      "text": "don't know how to receive shipment."
+    },
+    {
+      "start": 2512.448,
+      "end": 2514.048,
+      "start_int": 2512,
+      "timestamp_label": "41:52",
+      "text": "There's one there for how to receive a shipment."
+    },
+    {
+      "start": 2514.848,
+      "end": 2517.631,
+      "start_int": 2514,
+      "timestamp_label": "41:54",
+      "text": "Specific so I recommend the tool box. I recommend those"
+    },
+    {
+      "start": 2517.631,
+      "end": 2518.128,
+      "start_int": 2517,
+      "timestamp_label": "41:57",
+      "text": "resources."
+    },
+    {
+      "start": 2519.358,
+      "end": 2520.918,
+      "start_int": 2519,
+      "timestamp_label": "41:59",
+      "text": "I think I hit most of the questions."
+    },
+    {
+      "start": 2521.078,
+      "end": 2523.238,
+      "start_int": 2521,
+      "timestamp_label": "42:01",
+      "text": "Don't be offended by the fact that I talk fast, folks."
+    },
+    {
+      "start": 2523.238,
+      "end": 2526.077,
+      "start_int": 2523,
+      "timestamp_label": "42:03",
+      "text": "I was just trying to get through. All of them will circle"
+    },
+    {
+      "start": 2526.077,
+      "end": 2529.161,
+      "start_int": 2526,
+      "timestamp_label": "42:06",
+      "text": "back at the end if we need to, but I'm going to move on now to"
+    },
+    {
+      "start": 2529.161,
+      "end": 2529.798,
+      "start_int": 2529,
+      "timestamp_label": "42:09",
+      "text": "WAFF I think."
+    },
+    {
+      "start": 2530.478,
+      "end": 2531.078,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "Am I wrong?"
+    },
+    {
+      "start": 2538.068,
+      "end": 2538.468,
+      "start_int": 2538,
+      "timestamp_label": "42:18",
+      "text": "OK."
+    },
+    {
+      "start": 2540.598,
+      "end": 2548.095,
+      "start_int": 2540,
+      "timestamp_label": "42:20",
+      "text": "I am Katie Stansberry and I am the WAFF me for DHA. I've been"
+    },
+    {
+      "start": 2548.095,
+      "end": 2555.472,
+      "start_int": 2548,
+      "timestamp_label": "42:28",
+      "text": "using way or another since 2007 and so I've been when around"
+    },
+    {
+      "start": 2555.472,
+      "end": 2556.198,
+      "start_int": 2555,
+      "timestamp_label": "42:35",
+      "text": "since."
+    },
+    {
+      "start": 2558.798,
+      "end": 2564.155,
+      "start_int": 2558,
+      "timestamp_label": "42:38",
+      "text": "Its own website and it was I wrapped and the single most"
+    },
+    {
+      "start": 2564.155,
+      "end": 2569.7,
+      "start_int": 2564,
+      "timestamp_label": "42:44",
+      "text": "popular question that I get is when does interest start to"
+    },
+    {
+      "start": 2569.7,
+      "end": 2570.358,
+      "start_int": 2569,
+      "timestamp_label": "42:49",
+      "text": "accrue?"
+    },
+    {
+      "start": 2572.158,
+      "end": 2572.798,
+      "start_int": 2572,
+      "timestamp_label": "42:52",
+      "text": "And per the."
+    },
+    {
+      "start": 2575.438,
+      "end": 2578.238,
+      "start_int": 2575,
+      "timestamp_label": "42:55",
+      "text": "52.232 dash."
+    },
+    {
+      "start": 2579.918,
+      "end": 2581.118,
+      "start_int": 2579,
+      "timestamp_label": "42:59",
+      "text": "It does not start to accrue."
+    },
+    {
+      "start": 2583.828,
+      "end": 2588.988,
+      "start_int": 2583,
+      "timestamp_label": "43:03",
+      "text": "Of a properly submitted invoice and so it does say properly."
+    },
+    {
+      "start": 2588.988,
+      "end": 2593.617,
+      "start_int": 2588,
+      "timestamp_label": "43:08",
+      "text": "And that means if an invoice had to be rejected for whatever"
+    },
+    {
+      "start": 2593.617,
+      "end": 2594.148,
+      "start_int": 2593,
+      "timestamp_label": "43:13",
+      "text": "reason."
+    },
+    {
+      "start": 2596.078,
+      "end": 2597.438,
+      "start_int": 2596,
+      "timestamp_label": "43:16",
+      "text": "The starts again."
+    },
+    {
+      "start": 2597.598,
+      "end": 2600.438,
+      "start_int": 2597,
+      "timestamp_label": "43:17",
+      "text": "So even if something was rejected, say."
+    },
+    {
+      "start": 2602.478,
+      "end": 2602.878,
+      "start_int": 2602,
+      "timestamp_label": "43:22",
+      "text": "It was."
+    },
+    {
+      "start": 2604.838,
+      "end": 2605.758,
+      "start_int": 2604,
+      "timestamp_label": "43:24",
+      "text": "Rejected on the 15th."
+    },
+    {
+      "start": 2605.758,
+      "end": 2606.718,
+      "start_int": 2605,
+      "timestamp_label": "43:25",
+      "text": "The clock doesn't start."
+    },
+    {
+      "start": 2608.278,
+      "end": 2611.078,
+      "start_int": 2608,
+      "timestamp_label": "43:28",
+      "text": "Clock restarts on the 15th, so you have until."
+    },
+    {
+      "start": 2612.678,
+      "end": 2614.678,
+      "start_int": 2612,
+      "timestamp_label": "43:32",
+      "text": "Basically, the 15th of the next month."
+    },
+    {
+      "start": 2616.118,
+      "end": 2620.817,
+      "start_int": 2616,
+      "timestamp_label": "43:36",
+      "text": "For the vendor to be paid and per the prompt payment act, they"
+    },
+    {
+      "start": 2620.817,
+      "end": 2625.666,
+      "start_int": 2620,
+      "timestamp_label": "43:40",
+      "text": "do say that the acceptor should be accepting or rejecting within"
+    },
+    {
+      "start": 2625.666,
+      "end": 2627.158,
+      "start_int": 2625,
+      "timestamp_label": "43:45",
+      "text": "seven calendar days."
+    },
+    {
+      "start": 2628.718,
+      "end": 2631.397,
+      "start_int": 2628,
+      "timestamp_label": "43:48",
+      "text": "Of the submittal, and that is calendar days, so includes"
+    },
+    {
+      "start": 2631.397,
+      "end": 2632.478,
+      "start_int": 2631,
+      "timestamp_label": "43:51",
+      "text": "weekends unfortunately."
+    },
+    {
+      "start": 2634.118,
+      "end": 2638.788,
+      "start_int": 2634,
+      "timestamp_label": "43:54",
+      "text": "And that is so that the vendor can be paid within that 30 day"
+    },
+    {
+      "start": 2638.788,
+      "end": 2643.156,
+      "start_int": 2638,
+      "timestamp_label": "43:58",
+      "text": "time frame and the interest is triggered from the invoice"
+    },
+    {
+      "start": 2643.156,
+      "end": 2646.998,
+      "start_int": 2643,
+      "timestamp_label": "44:03",
+      "text": "received date and that is actually the time stamp."
+    },
+    {
+      "start": 2647.798,
+      "end": 2653.593,
+      "start_int": 2647,
+      "timestamp_label": "44:07",
+      "text": "That the vendor is submitting their invoice. So say that they"
+    },
+    {
+      "start": 2653.593,
+      "end": 2657.238,
+      "start_int": 2653,
+      "timestamp_label": "44:13",
+      "text": "invoiced today for something that was."
+    },
+    {
+      "start": 2657.328,
+      "end": 2662.128,
+      "start_int": 2657,
+      "timestamp_label": "44:17",
+      "text": "Is supposed to be like build back in."
+    },
+    {
+      "start": 2665.098,
+      "end": 2667.618,
+      "start_int": 2665,
+      "timestamp_label": "44:25",
+      "text": "And they can say that we owe them."
+    },
+    {
+      "start": 2667.618,
+      "end": 2671.635,
+      "start_int": 2667,
+      "timestamp_label": "44:27",
+      "text": "The government owes them nine months of interest, but that's"
+    },
+    {
+      "start": 2671.635,
+      "end": 2675.718,
+      "start_int": 2671,
+      "timestamp_label": "44:31",
+      "text": "not true because the invoice received date was today, so they"
+    },
+    {
+      "start": 2675.718,
+      "end": 2679.538,
+      "start_int": 2675,
+      "timestamp_label": "44:35",
+      "text": "were just nine months tardy and submitting their invoice."
+    },
+    {
+      "start": 2681.088,
+      "end": 2682.968,
+      "start_int": 2681,
+      "timestamp_label": "44:41",
+      "text": "And it is the invoice received date."
+    },
+    {
+      "start": 2686.218,
+      "end": 2690.622,
+      "start_int": 2686,
+      "timestamp_label": "44:46",
+      "text": "The date accepted is for your combo invoices and a signature"
+    },
+    {
+      "start": 2690.622,
+      "end": 2692.138,
+      "start_int": 2690,
+      "timestamp_label": "44:50",
+      "text": "date is for your two."
+    },
+    {
+      "start": 2694.128,
+      "end": 2698.64,
+      "start_int": 2694,
+      "timestamp_label": "44:54",
+      "text": "And so if you are, if you are the acceptor and are late in"
+    },
+    {
+      "start": 2698.64,
+      "end": 2701.088,
+      "start_int": 2698,
+      "timestamp_label": "44:58",
+      "text": "accepting and then that is when."
+    },
+    {
+      "start": 2702.688,
+      "end": 2707.408,
+      "start_int": 2702,
+      "timestamp_label": "45:02",
+      "text": "The invoice might have some some interest accrued."
+    },
+    {
+      "start": 2709.088,
+      "end": 2709.728,
+      "start_int": 2709,
+      "timestamp_label": "45:09",
+      "text": "I think I had."
+    },
+    {
+      "start": 2709.808,
+      "end": 2711.248,
+      "start_int": 2709,
+      "timestamp_label": "45:09",
+      "text": "I think I saw a hand."
+    },
+    {
+      "start": 2713.028,
+      "end": 2715.148,
+      "start_int": 2713,
+      "timestamp_label": "45:13",
+      "text": "Let me see. Yeah. Yep."
+    },
+    {
+      "start": 2713.498,
+      "end": 2716.458,
+      "start_int": 2713,
+      "timestamp_label": "45:13",
+      "text": "Yeah. Can you hear me?"
+    },
+    {
+      "start": 2716.458,
+      "end": 2717.698,
+      "start_int": 2716,
+      "timestamp_label": "45:16",
+      "text": "Hi. So I just had a quick question."
+    },
+    {
+      "start": 2717.698,
+      "end": 2720.338,
+      "start_int": 2717,
+      "timestamp_label": "45:17",
+      "text": "So with the invoice date."
+    },
+    {
+      "start": 2721.878,
+      "end": 2725.54,
+      "start_int": 2721,
+      "timestamp_label": "45:21",
+      "text": "Do you go by the date that is in WAFF that it says been submitted"
+    },
+    {
+      "start": 2725.54,
+      "end": 2727.038,
+      "start_int": 2725,
+      "timestamp_label": "45:25",
+      "text": "or the date on the invoice?"
+    },
+    {
+      "start": 2727.038,
+      "end": 2730.118,
+      "start_int": 2727,
+      "timestamp_label": "45:27",
+      "text": "Because that's usually different that I've seen."
+    },
+    {
+      "start": 2730.028,
+      "end": 2731.868,
+      "start_int": 2730,
+      "timestamp_label": "45:30",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 2731.948,
+      "end": 2734.548,
+      "start_int": 2731,
+      "timestamp_label": "45:31",
+      "text": "So there is an invoice received date."
+    },
+    {
+      "start": 2737.528,
+      "end": 2740.208,
+      "start_int": 2737,
+      "timestamp_label": "45:37",
+      "text": "Voice portion. It is a time stamp."
+    },
+    {
+      "start": 2740.208,
+      "end": 2743.652,
+      "start_int": 2740,
+      "timestamp_label": "45:40",
+      "text": "That is when the vendor is sitting at their computer and"
+    },
+    {
+      "start": 2743.652,
+      "end": 2747.641,
+      "start_int": 2743,
+      "timestamp_label": "45:43",
+      "text": "actually submitting and there is something else called an invoice"
+    },
+    {
+      "start": 2747.641,
+      "end": 2750.904,
+      "start_int": 2747,
+      "timestamp_label": "45:47",
+      "text": "date and that is a field that the vendor can actually"
+    },
+    {
+      "start": 2750.904,
+      "end": 2751.448,
+      "start_int": 2750,
+      "timestamp_label": "45:50",
+      "text": "manually."
+    },
+    {
+      "start": 2754.308,
+      "end": 2758.119,
+      "start_int": 2754,
+      "timestamp_label": "45:54",
+      "text": "The times of the π or of the WAFF system itself, because the"
+    },
+    {
+      "start": 2758.119,
+      "end": 2759.868,
+      "start_int": 2758,
+      "timestamp_label": "45:58",
+      "text": "other one is manually enter."
+    },
+    {
+      "start": 2764.058,
+      "end": 2765.778,
+      "start_int": 2764,
+      "timestamp_label": "46:04",
+      "text": "Hopefully that answers your question."
+    },
+    {
+      "start": 2766.248,
+      "end": 2769.628,
+      "start_int": 2766,
+      "timestamp_label": "46:06",
+      "text": "Right. Yeah, it does 'cause. I I just noticed 'cause sometimes"
+    },
+    {
+      "start": 2769.628,
+      "end": 2772.739,
+      "start_int": 2769,
+      "timestamp_label": "46:09",
+      "text": "when I have to reject the invoice they will resubmit, but"
+    },
+    {
+      "start": 2772.739,
+      "end": 2776.066,
+      "start_int": 2772,
+      "timestamp_label": "46:12",
+      "text": "it be the same date on it, they don't change the date but the"
+    },
+    {
+      "start": 2775.928,
+      "end": 2776.128,
+      "start_int": 2775,
+      "timestamp_label": "46:15",
+      "text": "Mm hmm."
+    },
+    {
+      "start": 2776.066,
+      "end": 2777.568,
+      "start_int": 2776,
+      "timestamp_label": "46:16",
+      "text": "date of course be different."
+    },
+    {
+      "start": 2779.118,
+      "end": 2781.118,
+      "start_int": 2779,
+      "timestamp_label": "46:19",
+      "text": "And WAFF it shows when they resubmitted it."
+    },
+    {
+      "start": 2782.218,
+      "end": 2784.899,
+      "start_int": 2782,
+      "timestamp_label": "46:22",
+      "text": "Yeah. And so is that resubmit date that is gonna be the"
+    },
+    {
+      "start": 2784.899,
+      "end": 2785.618,
+      "start_int": 2784,
+      "timestamp_label": "46:24",
+      "text": "important date."
+    },
+    {
+      "start": 2787.468,
+      "end": 2787.748,
+      "start_int": 2787,
+      "timestamp_label": "46:27",
+      "text": "OK."
+    },
+    {
+      "start": 2787.748,
+      "end": 2788.188,
+      "start_int": 2787,
+      "timestamp_label": "46:27",
+      "text": "Thank you."
+    },
+    {
+      "start": 2789.108,
+      "end": 2789.228,
+      "start_int": 2789,
+      "timestamp_label": "46:29",
+      "text": "Hmm."
+    },
+    {
+      "start": 2791.058,
+      "end": 2794.058,
+      "start_int": 2791,
+      "timestamp_label": "46:31",
+      "text": "Hey, is there any other questions about interest?"
+    },
+    {
+      "start": 2797.008,
+      "end": 2797.088,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "Oh."
+    },
+    {
+      "start": 2798.328,
+      "end": 2798.568,
+      "start_int": 2798,
+      "timestamp_label": "46:38",
+      "text": "OK."
+    },
+    {
+      "start": 2800.568,
+      "end": 2804.203,
+      "start_int": 2800,
+      "timestamp_label": "46:40",
+      "text": "And I also get a lot of questions about where the vendor"
+    },
+    {
+      "start": 2804.203,
+      "end": 2804.968,
+      "start_int": 2804,
+      "timestamp_label": "46:44",
+      "text": "can receive."
+    },
+    {
+      "start": 2807.008,
+      "end": 2808.528,
+      "start_int": 2807,
+      "timestamp_label": "46:47",
+      "text": "This I know for a DHA."
+    },
+    {
+      "start": 2808.528,
+      "end": 2812.996,
+      "start_int": 2808,
+      "timestamp_label": "46:48",
+      "text": "We don't have the bandwidth to assist walking through the"
+    },
+    {
+      "start": 2812.996,
+      "end": 2816.848,
+      "start_int": 2812,
+      "timestamp_label": "46:52",
+      "text": "vendors with every single invoice that they have."
+    },
+    {
+      "start": 2817.208,
+      "end": 2821.748,
+      "start_int": 2817,
+      "timestamp_label": "46:57",
+      "text": "I know some commands like I I used to be with umed and we did"
+    },
+    {
+      "start": 2821.748,
+      "end": 2821.968,
+      "start_int": 2821,
+      "timestamp_label": "47:01",
+      "text": "we."
+    },
+    {
+      "start": 2824.688,
+      "end": 2826.168,
+      "start_int": 2824,
+      "timestamp_label": "47:04",
+      "text": "With their invoicing needs."
+    },
+    {
+      "start": 2827.848,
+      "end": 2829.848,
+      "start_int": 2827,
+      "timestamp_label": "47:07",
+      "text": "But if your command doesn't have that."
+    },
+    {
+      "start": 2831.988,
+      "end": 2834.588,
+      "start_int": 2831,
+      "timestamp_label": "47:11",
+      "text": "Definitely refer them to the EB service desk."
+    },
+    {
+      "start": 2834.588,
+      "end": 2838.228,
+      "start_int": 2834,
+      "timestamp_label": "47:14",
+      "text": "They're the 866 number."
+    },
+    {
+      "start": 2838.228,
+      "end": 2838.788,
+      "start_int": 2838,
+      "timestamp_label": "47:18",
+      "text": "And there's also."
+    },
+    {
+      "start": 2840.328,
+      "end": 2842.808,
+      "start_int": 2840,
+      "timestamp_label": "47:20",
+      "text": "An e-mail they do prefer phone calls."
+    },
+    {
+      "start": 2845.558,
+      "end": 2850.472,
+      "start_int": 2845,
+      "timestamp_label": "47:25",
+      "text": "Have the help desk hours from Monday to Friday 6:30 to"
+    },
+    {
+      "start": 2850.472,
+      "end": 2852.438,
+      "start_int": 2850,
+      "timestamp_label": "47:30",
+      "text": "midnight Eastern Time."
+    },
+    {
+      "start": 2856.398,
+      "end": 2856.558,
+      "start_int": 2856,
+      "timestamp_label": "47:36",
+      "text": "OK."
+    },
+    {
+      "start": 2857.578,
+      "end": 2858.418,
+      "start_int": 2857,
+      "timestamp_label": "47:37",
+      "text": "Questions."
+    },
+    {
+      "start": 2864.198,
+      "end": 2867.158,
+      "start_int": 2864,
+      "timestamp_label": "47:44",
+      "text": "Does anybody have a invoice review checklist?"
+    },
+    {
+      "start": 2868.968,
+      "end": 2872.488,
+      "start_int": 2868,
+      "timestamp_label": "47:48",
+      "text": "So that would be something that you're."
+    },
+    {
+      "start": 2874.648,
+      "end": 2878.328,
+      "start_int": 2874,
+      "timestamp_label": "47:54",
+      "text": "It sounds like you're asking if there is a checklist."
+    },
+    {
+      "start": 2881.318,
+      "end": 2885.32,
+      "start_int": 2881,
+      "timestamp_label": "48:01",
+      "text": "Information that should be in the invoice or receiving report"
+    },
+    {
+      "start": 2885.32,
+      "end": 2887.838,
+      "start_int": 2885,
+      "timestamp_label": "48:05",
+      "text": "that's going to depend on your agency."
+    },
+    {
+      "start": 2889.408,
+      "end": 2891.248,
+      "start_int": 2889,
+      "timestamp_label": "48:09",
+      "text": "DHA is Defense health agency."
+    },
+    {
+      "start": 2892.128,
+      "end": 2894.128,
+      "start_int": 2892,
+      "timestamp_label": "48:12",
+      "text": "So we don't have."
+    },
+    {
+      "start": 2895.888,
+      "end": 2895.928,
+      "start_int": 2895,
+      "timestamp_label": "48:15",
+      "text": "A."
+    },
+    {
+      "start": 2895.928,
+      "end": 2898.288,
+      "start_int": 2895,
+      "timestamp_label": "48:15",
+      "text": "A policy on what needs to be entered. But you're."
+    },
+    {
+      "start": 2903.798,
+      "end": 2907.278,
+      "start_int": 2903,
+      "timestamp_label": "48:23",
+      "text": "All right. So if there's no other questions about."
+    },
+    {
+      "start": 2908.928,
+      "end": 2912.168,
+      "start_int": 2908,
+      "timestamp_label": "48:28",
+      "text": "I am going to do the SPM."
+    },
+    {
+      "start": 2914.208,
+      "end": 2919.208,
+      "start_int": 2914,
+      "timestamp_label": "48:34",
+      "text": "Our SPM SME is not here today, so I try my best."
+    },
+    {
+      "start": 2919.648,
+      "end": 2920.528,
+      "start_int": 2919,
+      "timestamp_label": "48:39",
+      "text": "So don't be mean."
+    },
+    {
+      "start": 2922.168,
+      "end": 2922.888,
+      "start_int": 2922,
+      "timestamp_label": "48:42",
+      "text": "OK so."
+    },
+    {
+      "start": 2924.648,
+      "end": 2929.983,
+      "start_int": 2924,
+      "timestamp_label": "48:44",
+      "text": "Start myself nomination in jam. I am receiving an error that the"
+    },
+    {
+      "start": 2929.983,
+      "end": 2930.968,
+      "start_int": 2929,
+      "timestamp_label": "48:49",
+      "text": "contract is."
+    },
+    {
+      "start": 2934.998,
+      "end": 2940.729,
+      "start_int": 2934,
+      "timestamp_label": "48:54",
+      "text": "So one of the things that this could mean is that your issue"
+    },
+    {
+      "start": 2940.729,
+      "end": 2946.366,
+      "start_int": 2940,
+      "timestamp_label": "49:00",
+      "text": "this dodac is incorrect and I know a lot of the people will"
+    },
+    {
+      "start": 2946.366,
+      "end": 2951.158,
+      "start_int": 2946,
+      "timestamp_label": "49:06",
+      "text": "enter their home org zodac or a different entered."
+    },
+    {
+      "start": 2951.158,
+      "end": 2955.557,
+      "start_int": 2951,
+      "timestamp_label": "49:11",
+      "text": "It's going to be the first 6 digits of your contract and that"
+    },
+    {
+      "start": 2955.557,
+      "end": 2957.118,
+      "start_int": 2955,
+      "timestamp_label": "49:15",
+      "text": "is the issuing office."
+    },
+    {
+      "start": 2957.118,
+      "end": 2960.038,
+      "start_int": 2957,
+      "timestamp_label": "49:17",
+      "text": "Do DAC, so make sure if you're doing a core nomination."
+    },
+    {
+      "start": 2960.928,
+      "end": 2961.368,
+      "start_int": 2960,
+      "timestamp_label": "49:20",
+      "text": "You're doing."
+    },
+    {
+      "start": 2964.558,
+      "end": 2969.79,
+      "start_int": 2964,
+      "timestamp_label": "49:24",
+      "text": "Another option could be that the contract has not been awarded"
+    },
+    {
+      "start": 2969.79,
+      "end": 2973.278,
+      "start_int": 2969,
+      "timestamp_label": "49:29",
+      "text": "yet and so the information is not an EDA."
+    },
+    {
+      "start": 2974.848,
+      "end": 2978.112,
+      "start_int": 2974,
+      "timestamp_label": "49:34",
+      "text": "And another one is the contract is closed and so this is one of"
+    },
+    {
+      "start": 2978.112,
+      "end": 2978.928,
+      "start_int": 2978,
+      "timestamp_label": "49:38",
+      "text": "the reasons why."
+    },
+    {
+      "start": 2983.328,
+      "end": 2987.65,
+      "start_int": 2983,
+      "timestamp_label": "49:43",
+      "text": "Suggest having a course to have the EDA roles and so you can"
+    },
+    {
+      "start": 2987.65,
+      "end": 2992.114,
+      "start_int": 2987,
+      "timestamp_label": "49:47",
+      "text": "kind of see what's going on in EDA as to why you can't do your"
+    },
+    {
+      "start": 2992.114,
+      "end": 2993.248,
+      "start_int": 2992,
+      "timestamp_label": "49:52",
+      "text": "core nomination."
+    },
+    {
+      "start": 2994.928,
+      "end": 2995.288,
+      "start_int": 2994,
+      "timestamp_label": "49:54",
+      "text": "OK."
+    },
+    {
+      "start": 2996.338,
+      "end": 2997.098,
+      "start_int": 2996,
+      "timestamp_label": "49:56",
+      "text": "Next."
+    },
+    {
+      "start": 3003.928,
+      "end": 3004.288,
+      "start_int": 3003,
+      "timestamp_label": "50:03",
+      "text": "OK."
+    },
+    {
+      "start": 3004.288,
+      "end": 3007.848,
+      "start_int": 3004,
+      "timestamp_label": "50:04",
+      "text": "So where do, where and how do I?"
+    },
+    {
+      "start": 3009.448,
+      "end": 3011.728,
+      "start_int": 3009,
+      "timestamp_label": "50:09",
+      "text": "Oh, my audio is trailing off."
+    },
+    {
+      "start": 3011.728,
+      "end": 3013.808,
+      "start_int": 3011,
+      "timestamp_label": "50:11",
+      "text": "Is anybody else having issues with me?"
+    },
+    {
+      "start": 3019.598,
+      "end": 3023.318,
+      "start_int": 3019,
+      "timestamp_label": "50:19",
+      "text": "Are you just fine? OK, drop something on this end."
+    },
+    {
+      "start": 3019.668,
+      "end": 3021.788,
+      "start_int": 3019,
+      "timestamp_label": "50:19",
+      "text": "Nope, everything is clear."
+    },
+    {
+      "start": 3023.618,
+      "end": 3027.298,
+      "start_int": 3023,
+      "timestamp_label": "50:23",
+      "text": "All right. OK. All right, we'll continue."
+    },
+    {
+      "start": 3028.838,
+      "end": 3033.168,
+      "start_int": 3028,
+      "timestamp_label": "50:28",
+      "text": "Where and how do I add contract reports and documents to our"
+    },
+    {
+      "start": 3033.168,
+      "end": 3033.878,
+      "start_int": 3033,
+      "timestamp_label": "50:33",
+      "text": "Corp file?"
+    },
+    {
+      "start": 3035.478,
+      "end": 3040.209,
+      "start_int": 3035,
+      "timestamp_label": "50:35",
+      "text": "Your contract reports documents are loaded into SPM. Once you're"
+    },
+    {
+      "start": 3040.209,
+      "end": 3044.43,
+      "start_int": 3040,
+      "timestamp_label": "50:40",
+      "text": "in SPM, click on the core oversight core surveillance and"
+    },
+    {
+      "start": 3044.43,
+      "end": 3045.158,
+      "start_int": 3044,
+      "timestamp_label": "50:44",
+      "text": "oversight."
+    },
+    {
+      "start": 3048.628,
+      "end": 3049.948,
+      "start_int": 3048,
+      "timestamp_label": "50:48",
+      "text": "The second option."
+    },
+    {
+      "start": 3050.028,
+      "end": 3054.083,
+      "start_int": 3050,
+      "timestamp_label": "50:50",
+      "text": "I don't remember quite what it says offhand, but it sounds like"
+    },
+    {
+      "start": 3054.083,
+      "end": 3056.428,
+      "start_int": 3054,
+      "timestamp_label": "50:54",
+      "text": "the one that you should be clicking."
+    },
+    {
+      "start": 3056.428,
+      "end": 3060.675,
+      "start_int": 3056,
+      "timestamp_label": "50:56",
+      "text": "But it's actually going to be the top one, and you'll be able"
+    },
+    {
+      "start": 3060.675,
+      "end": 3062.388,
+      "start_int": 3060,
+      "timestamp_label": "51:00",
+      "text": "to to update information."
+    },
+    {
+      "start": 3062.628,
+      "end": 3064.868,
+      "start_int": 3062,
+      "timestamp_label": "51:02",
+      "text": "The other one is just more like a view only."
+    },
+    {
+      "start": 3065.748,
+      "end": 3069.083,
+      "start_int": 3065,
+      "timestamp_label": "51:05",
+      "text": "So you won't be able to update your your core information"
+    },
+    {
+      "start": 3069.083,
+      "end": 3069.428,
+      "start_int": 3069,
+      "timestamp_label": "51:09",
+      "text": "there."
+    },
+    {
+      "start": 3071.318,
+      "end": 3074.8,
+      "start_int": 3071,
+      "timestamp_label": "51:11",
+      "text": "And then once there you would enter your search criteria which"
+    },
+    {
+      "start": 3074.8,
+      "end": 3077.398,
+      "start_int": 3074,
+      "timestamp_label": "51:14",
+      "text": "is basically going to be your contract number."
+    },
+    {
+      "start": 3078.298,
+      "end": 3078.378,
+      "start_int": 3078,
+      "timestamp_label": "51:18",
+      "text": "Oh."
+    },
+    {
+      "start": 3081.318,
+      "end": 3083.998,
+      "start_int": 3081,
+      "timestamp_label": "51:21",
+      "text": "Add documents or add smart form."
+    },
+    {
+      "start": 3089.808,
+      "end": 3092.888,
+      "start_int": 3089,
+      "timestamp_label": "51:29",
+      "text": "I am not sharing my screen."
+    },
+    {
+      "start": 3093.288,
+      "end": 3095.968,
+      "start_int": 3093,
+      "timestamp_label": "51:33",
+      "text": "It's the PowerPoint that I'm I'm talking about."
+    },
+    {
+      "start": 3096.088,
+      "end": 3098.848,
+      "start_int": 3096,
+      "timestamp_label": "51:36",
+      "text": "It's jam SPMFAQS if."
+    },
+    {
+      "start": 3100.358,
+      "end": 3101.318,
+      "start_int": 3100,
+      "timestamp_label": "51:40",
+      "text": "You're able to see that."
+    },
+    {
+      "start": 3105.578,
+      "end": 3107.378,
+      "start_int": 3105,
+      "timestamp_label": "51:45",
+      "text": "We do have a question for EDA."
+    },
+    {
+      "start": 3108.218,
+      "end": 3109.938,
+      "start_int": 3108,
+      "timestamp_label": "51:48",
+      "text": "How do I retrieve a copy of?"
+    },
+    {
+      "start": 3113.248,
+      "end": 3118.248,
+      "start_int": 3113,
+      "timestamp_label": "51:53",
+      "text": "If you have the EDA contracts roll, you will be able to."
+    },
+    {
+      "start": 3119.798,
+      "end": 3124.61,
+      "start_int": 3119,
+      "timestamp_label": "51:59",
+      "text": "Enter your contract number in in EDA and you should be able to"
+    },
+    {
+      "start": 3124.61,
+      "end": 3129.576,
+      "start_int": 3124,
+      "timestamp_label": "52:04",
+      "text": "get the original as well as all of the modifications attached to"
+    },
+    {
+      "start": 3129.576,
+      "end": 3129.958,
+      "start_int": 3129,
+      "timestamp_label": "52:09",
+      "text": "that."
+    },
+    {
+      "start": 3134.498,
+      "end": 3138.498,
+      "start_int": 3134,
+      "timestamp_label": "52:14",
+      "text": "There were three things for SPM. Was there another FAQ?"
+    },
+    {
+      "start": 3146.928,
+      "end": 3148.328,
+      "start_int": 3146,
+      "timestamp_label": "52:26",
+      "text": "I signed my designation."
+    },
+    {
+      "start": 3165.188,
+      "end": 3166.348,
+      "start_int": 3165,
+      "timestamp_label": "52:45",
+      "text": "Katie, are you still on?"
+    },
+    {
+      "start": 3167.208,
+      "end": 3171.568,
+      "start_int": 3167,
+      "timestamp_label": "52:47",
+      "text": "Yeah, it still says where and how do I find the SPM?"
+    },
+    {
+      "start": 3173.078,
+      "end": 3173.398,
+      "start_int": 3173,
+      "timestamp_label": "52:53",
+      "text": "Can you hear me?"
+    },
+    {
+      "start": 3173.158,
+      "end": 3173.638,
+      "start_int": 3173,
+      "timestamp_label": "52:53",
+      "text": "OK."
+    },
+    {
+      "start": 3174.438,
+      "end": 3176.558,
+      "start_int": 3174,
+      "timestamp_label": "52:54",
+      "text": "Yeah, I have the slide up."
+    },
+    {
+      "start": 3176.558,
+      "end": 3180.838,
+      "start_int": 3176,
+      "timestamp_label": "52:56",
+      "text": "That is where and how do I add contract reports?"
+    },
+    {
+      "start": 3178.218,
+      "end": 3178.978,
+      "start_int": 3178,
+      "timestamp_label": "52:58",
+      "text": "Definition."
+    },
+    {
+      "start": 3181.928,
+      "end": 3184.95,
+      "start_int": 3181,
+      "timestamp_label": "53:01",
+      "text": "Sorry, whenever that is the one before this one that we need to"
+    },
+    {
+      "start": 3184.95,
+      "end": 3185.328,
+      "start_int": 3184,
+      "timestamp_label": "53:04",
+      "text": "go over."
+    },
+    {
+      "start": 3188.988,
+      "end": 3192.205,
+      "start_int": 3188,
+      "timestamp_label": "53:08",
+      "text": "So I signed my designation letter, but the nomination"
+    },
+    {
+      "start": 3192.205,
+      "end": 3194.708,
+      "start_int": 3192,
+      "timestamp_label": "53:12",
+      "text": "status still says pending core signature."
+    },
+    {
+      "start": 3195.108,
+      "end": 3196.428,
+      "start_int": 3195,
+      "timestamp_label": "53:15",
+      "text": "What did I do wrong?"
+    },
+    {
+      "start": 3197.108,
+      "end": 3201.116,
+      "start_int": 3197,
+      "timestamp_label": "53:17",
+      "text": "So when it says pending score signature, there is one more"
+    },
+    {
+      "start": 3201.116,
+      "end": 3202.068,
+      "start_int": 3201,
+      "timestamp_label": "53:21",
+      "text": "step to to do."
+    },
+    {
+      "start": 3202.228,
+      "end": 3204.388,
+      "start_int": 3202,
+      "timestamp_label": "53:22",
+      "text": "And a lot of times this is missed."
+    },
+    {
+      "start": 3205.268,
+      "end": 3209.764,
+      "start_int": 3205,
+      "timestamp_label": "53:25",
+      "text": "So after you sign your letter, you actually have to scroll to"
+    },
+    {
+      "start": 3209.764,
+      "end": 3211.868,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "the bottom and click approve."
+    },
+    {
+      "start": 3211.868,
+      "end": 3214.452,
+      "start_int": 3211,
+      "timestamp_label": "53:31",
+      "text": "So a lot of people think like after they're signing their"
+    },
+    {
+      "start": 3214.452,
+      "end": 3217.125,
+      "start_int": 3214,
+      "timestamp_label": "53:34",
+      "text": "letter, they're good to go. But there's like that one other"
+    },
+    {
+      "start": 3217.125,
+      "end": 3217.348,
+      "start_int": 3217,
+      "timestamp_label": "53:37",
+      "text": "step."
+    },
+    {
+      "start": 3218.158,
+      "end": 3218.958,
+      "start_int": 3218,
+      "timestamp_label": "53:38",
+      "text": "And so then."
+    },
+    {
+      "start": 3220.188,
+      "end": 3225.166,
+      "start_int": 3220,
+      "timestamp_label": "53:40",
+      "text": "That will go to your supervisor for action and then if you don't"
+    },
+    {
+      "start": 3225.166,
+      "end": 3229.686,
+      "start_int": 3225,
+      "timestamp_label": "53:45",
+      "text": "click the approve in your nomination, it will stay pending"
+    },
+    {
+      "start": 3229.686,
+      "end": 3230.988,
+      "start_int": 3229,
+      "timestamp_label": "53:49",
+      "text": "course signature."
+    },
+    {
+      "start": 3230.988,
+      "end": 3233.468,
+      "start_int": 3230,
+      "timestamp_label": "53:50",
+      "text": "So it's kind of a two step process for that part."
+    },
+    {
+      "start": 3234.228,
+      "end": 3237.893,
+      "start_int": 3234,
+      "timestamp_label": "53:54",
+      "text": "So this makes sure that you are clicking approve after you sign"
+    },
+    {
+      "start": 3237.893,
+      "end": 3239.268,
+      "start_int": 3237,
+      "timestamp_label": "53:57",
+      "text": "your designation letter."
+    },
+    {
+      "start": 3240.838,
+      "end": 3241.438,
+      "start_int": 3240,
+      "timestamp_label": "54:00",
+      "text": "And I think."
+    },
+    {
+      "start": 3243.978,
+      "end": 3246.698,
+      "start_int": 3243,
+      "timestamp_label": "54:03",
+      "text": "Is all for."
+    },
+    {
+      "start": 3249.528,
+      "end": 3252.048,
+      "start_int": 3249,
+      "timestamp_label": "54:09",
+      "text": "I did see some questions I didn't get to that."
+    },
+    {
+      "start": 3252.048,
+      "end": 3255.128,
+      "start_int": 3252,
+      "timestamp_label": "54:12",
+      "text": "I didn't Scroll down on my chat for GFP, just real quickly."
+    },
+    {
+      "start": 3255.168,
+      "end": 3255.688,
+      "start_int": 3255,
+      "timestamp_label": "54:15",
+      "text": "Were you done?"
+    },
+    {
+      "start": 3257.988,
+      "end": 3258.828,
+      "start_int": 3257,
+      "timestamp_label": "54:17",
+      "text": "Was there anything?"
+    },
+    {
+      "start": 3258.918,
+      "end": 3259.078,
+      "start_int": 3258,
+      "timestamp_label": "54:18",
+      "text": "No."
+    },
+    {
+      "start": 3259.488,
+      "end": 3264.219,
+      "start_int": 3259,
+      "timestamp_label": "54:19",
+      "text": "So at SPM, somebody was asking where to upload files for the"
+    },
+    {
+      "start": 3264.219,
+      "end": 3265.848,
+      "start_int": 3264,
+      "timestamp_label": "54:24",
+      "text": "quas and I won't say."
+    },
+    {
+      "start": 3267.208,
+      "end": 3271.009,
+      "start_int": 3267,
+      "timestamp_label": "54:27",
+      "text": "When you do your core nomination, it's the mandatory"
+    },
+    {
+      "start": 3271.009,
+      "end": 3273.448,
+      "start_int": 3271,
+      "timestamp_label": "54:31",
+      "text": "field that you have to enter the."
+    },
+    {
+      "start": 3277.728,
+      "end": 3279.648,
+      "start_int": 3277,
+      "timestamp_label": "54:37",
+      "text": "It won't let you go forward."
+    },
+    {
+      "start": 3279.648,
+      "end": 3283.974,
+      "start_int": 3279,
+      "timestamp_label": "54:39",
+      "text": "So when you're doing your core nomination, self believe it"
+    },
+    {
+      "start": 3283.974,
+      "end": 3285.808,
+      "start_int": 3283,
+      "timestamp_label": "54:43",
+      "text": "should be asking for the."
+    },
+    {
+      "start": 3289.228,
+      "end": 3289.628,
+      "start_int": 3289,
+      "timestamp_label": "54:49",
+      "text": "OK."
+    },
+    {
+      "start": 3291.238,
+      "end": 3292.358,
+      "start_int": 3291,
+      "timestamp_label": "54:51",
+      "text": "I think I'm good."
+    },
+    {
+      "start": 3297.828,
+      "end": 3300.668,
+      "start_int": 3297,
+      "timestamp_label": "54:57",
+      "text": "Just real quick, I know that there was a follow on question"
+    },
+    {
+      "start": 3300.668,
+      "end": 3303.651,
+      "start_int": 3300,
+      "timestamp_label": "55:00",
+      "text": "about the contractor trying to use the GFP module, and again I"
+    },
+    {
+      "start": 3303.651,
+      "end": 3306.492,
+      "start_int": 3303,
+      "timestamp_label": "55:03",
+      "text": "I I kind of gave you the the core answer which is you know,"
+    },
+    {
+      "start": 3306.492,
+      "end": 3309.096,
+      "start_int": 3306,
+      "timestamp_label": "55:06",
+      "text": "given the training the contracting officer is supposed"
+    },
+    {
+      "start": 3309.096,
+      "end": 3309.948,
+      "start_int": 3309,
+      "timestamp_label": "55:09",
+      "text": "to make sure that."
+    },
+    {
+      "start": 3309.948,
+      "end": 3312.951,
+      "start_int": 3309,
+      "timestamp_label": "55:09",
+      "text": "There's resources for their contractor to fulfill their end"
+    },
+    {
+      "start": 3312.951,
+      "end": 3315.904,
+      "start_int": 3312,
+      "timestamp_label": "55:12",
+      "text": "at the end of the day, the contractor, if it's stipulating"
+    },
+    {
+      "start": 3315.904,
+      "end": 3318.958,
+      "start_int": 3315,
+      "timestamp_label": "55:15",
+      "text": "contract that they're going to use GFP, they've got to learn"
+    },
+    {
+      "start": 3318.958,
+      "end": 3319.108,
+      "start_int": 3318,
+      "timestamp_label": "55:18",
+      "text": "it."
+    },
+    {
+      "start": 3319.268,
+      "end": 3322.821,
+      "start_int": 3319,
+      "timestamp_label": "55:19",
+      "text": "But the better answer is if you're with DHA, you reach out"
+    },
+    {
+      "start": 3322.821,
+      "end": 3324.628,
+      "start_int": 3322,
+      "timestamp_label": "55:22",
+      "text": "to your subject matter expert."
+    },
+    {
+      "start": 3324.628,
+      "end": 3325.708,
+      "start_int": 3324,
+      "timestamp_label": "55:24",
+      "text": "For GFP, that would be me."
+    },
+    {
+      "start": 3325.708,
+      "end": 3326.428,
+      "start_int": 3325,
+      "timestamp_label": "55:25",
+      "text": "If you're DHA."
+    },
+    {
+      "start": 3327.228,
+      "end": 3329.068,
+      "start_int": 3327,
+      "timestamp_label": "55:27",
+      "text": "If you're with another service within DoD."
+    },
+    {
+      "start": 3330.128,
+      "end": 3332.168,
+      "start_int": 3330,
+      "timestamp_label": "55:30",
+      "text": "Your game there will."
+    },
+    {
+      "start": 3332.168,
+      "end": 3336.076,
+      "start_int": 3332,
+      "timestamp_label": "55:32",
+      "text": "Or your property administrators, team property monitors and I"
+    },
+    {
+      "start": 3336.076,
+      "end": 3337.968,
+      "start_int": 3336,
+      "timestamp_label": "55:36",
+      "text": "think somebody else mentioned."
+    },
+    {
+      "start": 3337.968,
+      "end": 3341.593,
+      "start_int": 3337,
+      "timestamp_label": "55:37",
+      "text": "I think it was a shock mentioned your property administrators and"
+    },
+    {
+      "start": 3341.593,
+      "end": 3342.088,
+      "start_int": 3341,
+      "timestamp_label": "55:41",
+      "text": "monitors."
+    },
+    {
+      "start": 3342.248,
+      "end": 3345.779,
+      "start_int": 3342,
+      "timestamp_label": "55:42",
+      "text": "They can assist you in making sure that the other side of the"
+    },
+    {
+      "start": 3345.779,
+      "end": 3349.367,
+      "start_int": 3345,
+      "timestamp_label": "55:45",
+      "text": "table knows what they're doing to keep the system flowing, but"
+    },
+    {
+      "start": 3349.367,
+      "end": 3352.898,
+      "start_int": 3349,
+      "timestamp_label": "55:49",
+      "text": "generally speaking, if you have a SME on a GAM team, they can"
+    },
+    {
+      "start": 3352.898,
+      "end": 3354.208,
+      "start_int": 3352,
+      "timestamp_label": "55:52",
+      "text": "help you. Dpc is great."
+    },
+    {
+      "start": 3354.208,
+      "end": 3356.535,
+      "start_int": 3354,
+      "timestamp_label": "55:54",
+      "text": "I reach out to them from time to time, even though they put the"
+    },
+    {
+      "start": 3356.535,
+      "end": 3358.79,
+      "start_int": 3356,
+      "timestamp_label": "55:56",
+      "text": "training material out there. They may be willing to try to do"
+    },
+    {
+      "start": 3358.79,
+      "end": 3359.408,
+      "start_int": 3358,
+      "timestamp_label": "55:58",
+      "text": "a training class."
+    },
+    {
+      "start": 3359.648,
+      "end": 3361.048,
+      "start_int": 3359,
+      "timestamp_label": "55:59",
+      "text": "If you're just not getting through."
+    },
+    {
+      "start": 3361.568,
+      "end": 3363.657,
+      "start_int": 3361,
+      "timestamp_label": "56:01",
+      "text": "But again, the property administrators are are great"
+    },
+    {
+      "start": 3363.657,
+      "end": 3364.328,
+      "start_int": 3363,
+      "timestamp_label": "56:03",
+      "text": "resource as well."
+    },
+    {
+      "start": 3366.468,
+      "end": 3368.348,
+      "start_int": 3366,
+      "timestamp_label": "56:06",
+      "text": "So that's how I would approach that."
+    },
+    {
+      "start": 3368.468,
+      "end": 3369.348,
+      "start_int": 3368,
+      "timestamp_label": "56:08",
+      "text": "And again I get it."
+    },
+    {
+      "start": 3369.348,
+      "end": 3372.228,
+      "start_int": 3369,
+      "timestamp_label": "56:09",
+      "text": "Not everybody picks this stuff up the same, and it's new for a"
+    },
+    {
+      "start": 3372.228,
+      "end": 3372.868,
+      "start_int": 3372,
+      "timestamp_label": "56:12",
+      "text": "lot of people."
+    },
+    {
+      "start": 3375.778,
+      "end": 3377.218,
+      "start_int": 3375,
+      "timestamp_label": "56:15",
+      "text": "I think we're the."
+    },
+    {
+      "start": 3377.298,
+      "end": 3377.418,
+      "start_int": 3377,
+      "timestamp_label": "56:17",
+      "text": "SPM."
+    },
+    {
+      "start": 3378.808,
+      "end": 3379.608,
+      "start_int": 3378,
+      "timestamp_label": "56:18",
+      "text": "Up and markle."
+    },
+    {
+      "start": 3379.218,
+      "end": 3381.738,
+      "start_int": 3379,
+      "timestamp_label": "56:19",
+      "text": "So yeah, so in the SPM."
+    },
+    {
+      "start": 3384.988,
+      "end": 3389.317,
+      "start_int": 3384,
+      "timestamp_label": "56:24",
+      "text": "Based on the original period performance, it does not update"
+    },
+    {
+      "start": 3389.317,
+      "end": 3391.588,
+      "start_int": 3389,
+      "timestamp_label": "56:29",
+      "text": "when modifications are extended."
+    },
+    {
+      "start": 3393.208,
+      "end": 3398.37,
+      "start_int": 3393,
+      "timestamp_label": "56:33",
+      "text": "This results in an active, so if you go to SPM contracting"
+    },
+    {
+      "start": 3398.37,
+      "end": 3404.058,
+      "start_int": 3398,
+      "timestamp_label": "56:38",
+      "text": "officer should be able to extend the period of performance and a"
+    },
+    {
+      "start": 3404.058,
+      "end": 3404.408,
+      "start_int": 3404,
+      "timestamp_label": "56:44",
+      "text": "lot."
+    },
+    {
+      "start": 3407.748,
+      "end": 3411.86,
+      "start_int": 3407,
+      "timestamp_label": "56:47",
+      "text": "We say to for the core nomination to have the base plus"
+    },
+    {
+      "start": 3411.86,
+      "end": 3413.108,
+      "start_int": 3411,
+      "timestamp_label": "56:51",
+      "text": "the option years."
+    },
+    {
+      "start": 3414.648,
+      "end": 3416.168,
+      "start_int": 3414,
+      "timestamp_label": "56:54",
+      "text": "Just so that this does not happen."
+    },
+    {
+      "start": 3417.928,
+      "end": 3421.673,
+      "start_int": 3417,
+      "timestamp_label": "56:57",
+      "text": "So the contracting officer should be able to go into SPM"
+    },
+    {
+      "start": 3421.673,
+      "end": 3425.485,
+      "start_int": 3421,
+      "timestamp_label": "57:01",
+      "text": "and when they extend the period of performance, it should"
+    },
+    {
+      "start": 3425.485,
+      "end": 3427.128,
+      "start_int": 3425,
+      "timestamp_label": "57:05",
+      "text": "automatically reactivate."
+    },
+    {
+      "start": 3431.558,
+      "end": 3433.398,
+      "start_int": 3431,
+      "timestamp_label": "57:11",
+      "text": "Did you get Terry Porter's question?"
+    },
+    {
+      "start": 3433.398,
+      "end": 3436.558,
+      "start_int": 3433,
+      "timestamp_label": "57:13",
+      "text": "Does π have a CDRL tracker? Did did I miss that?"
+    },
+    {
+      "start": 3437.108,
+      "end": 3439.748,
+      "start_int": 3437,
+      "timestamp_label": "57:17",
+      "text": "I don't that I don't."
+    },
+    {
+      "start": 3439.748,
+      "end": 3440.788,
+      "start_int": 3439,
+      "timestamp_label": "57:19",
+      "text": "I'm not sure."
+    },
+    {
+      "start": 3441.068,
+      "end": 3443.828,
+      "start_int": 3441,
+      "timestamp_label": "57:21",
+      "text": "I don't think we do. Sherry, do you have any?"
+    },
+    {
+      "start": 3442.988,
+      "end": 3443.348,
+      "start_int": 3442,
+      "timestamp_label": "57:22",
+      "text": "Jerry."
+    },
+    {
+      "start": 3447.778,
+      "end": 3448.298,
+      "start_int": 3447,
+      "timestamp_label": "57:27",
+      "text": "Jerry."
+    },
+    {
+      "start": 3454.988,
+      "end": 3456.388,
+      "start_int": 3454,
+      "timestamp_label": "57:34",
+      "text": "Be having trouble with their comms."
+    },
+    {
+      "start": 3456.748,
+      "end": 3459.988,
+      "start_int": 3456,
+      "timestamp_label": "57:36",
+      "text": "We're not aware of ACBL. Oh, there she is."
+    },
+    {
+      "start": 3456.768,
+      "end": 3457.208,
+      "start_int": 3456,
+      "timestamp_label": "57:36",
+      "text": "Yeah."
+    },
+    {
+      "start": 3457.258,
+      "end": 3457.898,
+      "start_int": 3457,
+      "timestamp_label": "57:37",
+      "text": "I'm here."
+    },
+    {
+      "start": 3457.938,
+      "end": 3464.538,
+      "start_int": 3457,
+      "timestamp_label": "57:37",
+      "text": "No. So EDA, what was it, the CDL number?"
+    },
+    {
+      "start": 3466.028,
+      "end": 3467.628,
+      "start_int": 3466,
+      "timestamp_label": "57:46",
+      "text": "Does pie have a cidrol?"
+    },
+    {
+      "start": 3466.468,
+      "end": 3466.628,
+      "start_int": 3466,
+      "timestamp_label": "57:46",
+      "text": "Cdrl."
+    },
+    {
+      "start": 3467.828,
+      "end": 3469.348,
+      "start_int": 3467,
+      "timestamp_label": "57:47",
+      "text": "Yeah, a cedral tracker."
+    },
+    {
+      "start": 3473.178,
+      "end": 3473.538,
+      "start_int": 3473,
+      "timestamp_label": "57:53",
+      "text": "There we go."
+    },
+    {
+      "start": 3475.648,
+      "end": 3476.008,
+      "start_int": 3475,
+      "timestamp_label": "57:55",
+      "text": "Sweet."
+    },
+    {
+      "start": 3476.528,
+      "end": 3477.568,
+      "start_int": 3476,
+      "timestamp_label": "57:56",
+      "text": "It does have."
+    },
+    {
+      "start": 3479.868,
+      "end": 3481.588,
+      "start_int": 3479,
+      "timestamp_label": "57:59",
+      "text": "No, not a sigil tracker."
+    },
+    {
+      "start": 3484.268,
+      "end": 3485.708,
+      "start_int": 3484,
+      "timestamp_label": "58:04",
+      "text": "I'm trying to think."
+    },
+    {
+      "start": 3488.648,
+      "end": 3490.048,
+      "start_int": 3488,
+      "timestamp_label": "58:08",
+      "text": "If you put the."
+    },
+    {
+      "start": 3492.148,
+      "end": 3493.028,
+      "start_int": 3492,
+      "timestamp_label": "58:12",
+      "text": "I don't wanna go in."
+    },
+    {
+      "start": 3493.028,
+      "end": 3495.508,
+      "start_int": 3493,
+      "timestamp_label": "58:13",
+      "text": "There's a the Enterprise award file."
+    },
+    {
+      "start": 3495.628,
+      "end": 3499.312,
+      "start_int": 3495,
+      "timestamp_label": "58:15",
+      "text": "Sometimes people will put stuff in there, but it's so seldom we"
+    },
+    {
+      "start": 3499.312,
+      "end": 3502.708,
+      "start_int": 3499,
+      "timestamp_label": "58:19",
+      "text": "see stuff in there, so I don't really wanna talk about it."
+    },
+    {
+      "start": 3504.468,
+      "end": 3505.668,
+      "start_int": 3504,
+      "timestamp_label": "58:24",
+      "text": "So I will just say no."
+    },
+    {
+      "start": 3508.858,
+      "end": 3511.477,
+      "start_int": 3508,
+      "timestamp_label": "58:28",
+      "text": "There, there have been some questions about the availability"
+    },
+    {
+      "start": 3509.738,
+      "end": 3510.058,
+      "start_int": 3509,
+      "timestamp_label": "58:29",
+      "text": "Playlist."
+    },
+    {
+      "start": 3511.477,
+      "end": 3511.778,
+      "start_int": 3511,
+      "timestamp_label": "58:31",
+      "text": "slides."
+    },
+    {
+      "start": 3511.818,
+      "end": 3515.235,
+      "start_int": 3511,
+      "timestamp_label": "58:31",
+      "text": "You can get these slides if you're part of DHA. You can"
+    },
+    {
+      "start": 3515.235,
+      "end": 3518.897,
+      "start_int": 3515,
+      "timestamp_label": "58:35",
+      "text": "actually access the more. These are just kind of frequently"
+    },
+    {
+      "start": 3518.897,
+      "end": 3521.338,
+      "start_int": 3518,
+      "timestamp_label": "58:38",
+      "text": "asked questions. They're more detailed."
+    },
+    {
+      "start": 3520.378,
+      "end": 3525.298,
+      "start_int": 3520,
+      "timestamp_label": "58:40",
+      "text": "Yeah. Evelyn sent out the slides links for the slides."
+    },
+    {
+      "start": 3524.578,
+      "end": 3528.199,
+      "start_int": 3524,
+      "timestamp_label": "58:44",
+      "text": "Like what I'm getting to is, if you're part of DHA, the game"
+    },
+    {
+      "start": 3528.199,
+      "end": 3531.464,
+      "start_int": 3528,
+      "timestamp_label": "58:48",
+      "text": "team has more detailed presentations recorded that you"
+    },
+    {
+      "start": 3531.464,
+      "end": 3533.898,
+      "start_int": 3531,
+      "timestamp_label": "58:51",
+      "text": "can find through our group web page. So."
+    },
+    {
+      "start": 3535.628,
+      "end": 3536.348,
+      "start_int": 3535,
+      "timestamp_label": "58:55",
+      "text": "Just so you know."
+    },
+    {
+      "start": 3538.028,
+      "end": 3541.374,
+      "start_int": 3538,
+      "timestamp_label": "58:58",
+      "text": "Like we had three slides on GFP there, we have slide deck and"
+    },
+    {
+      "start": 3541.374,
+      "end": 3544.882,
+      "start_int": 3541,
+      "timestamp_label": "59:01",
+      "text": "the other groups also do, which are much more detailed trainings"
+    },
+    {
+      "start": 3544.882,
+      "end": 3548.228,
+      "start_int": 3544,
+      "timestamp_label": "59:04",
+      "text": "that you can look over and most of them are recorded as well."
+    },
+    {
+      "start": 3550.978,
+      "end": 3551.738,
+      "start_int": 3550,
+      "timestamp_label": "59:10",
+      "text": "Back to you, Katie Kate."
+    },
+    {
+      "start": 3555.708,
+      "end": 3555.788,
+      "start_int": 3555,
+      "timestamp_label": "59:15",
+      "text": "Oh."
+    },
+    {
+      "start": 3556.688,
+      "end": 3558.128,
+      "start_int": 3556,
+      "timestamp_label": "59:16",
+      "text": "I think we are right at the."
+    },
+    {
+      "start": 3559.788,
+      "end": 3560.108,
+      "start_int": 3559,
+      "timestamp_label": "59:19",
+      "text": "Playlist."
+    },
+    {
+      "start": 3563.208,
+      "end": 3566.328,
+      "start_int": 3563,
+      "timestamp_label": "59:23",
+      "text": "So I don't know if."
+    },
+    {
+      "start": 3570.118,
+      "end": 3571.158,
+      "start_int": 3570,
+      "timestamp_label": "59:30",
+      "text": "I guess back to you, Evelyn."
+    },
+    {
+      "start": 3571.558,
+      "end": 3572.478,
+      "start_int": 3571,
+      "timestamp_label": "59:31",
+      "text": "Everyone's still here."
+    },
+    {
+      "start": 3574.018,
+      "end": 3575.818,
+      "start_int": 3574,
+      "timestamp_label": "59:34",
+      "text": "Awesome. Thank you so much everyone."
+    },
+    {
+      "start": 3575.818,
+      "end": 3580.129,
+      "start_int": 3575,
+      "timestamp_label": "59:35",
+      "text": "I'm gonna take a hold of the screen sharing momentarily so I"
+    },
+    {
+      "start": 3580.129,
+      "end": 3584.794,
+      "start_int": 3580,
+      "timestamp_label": "59:40",
+      "text": "can go ahead and wrap us up, but if there are any last questions,"
+    },
+    {
+      "start": 3584.794,
+      "end": 3589.176,
+      "start_int": 3584,
+      "timestamp_label": "59:44",
+      "text": "feel free to utilize the chat and we will try to address them"
+    },
+    {
+      "start": 3589.176,
+      "end": 3593.204,
+      "start_int": 3589,
+      "timestamp_label": "59:49",
+      "text": "today, but that officially concludes today's core office"
+    },
+    {
+      "start": 3593.204,
+      "end": 3594.618,
+      "start_int": 3593,
+      "timestamp_label": "59:53",
+      "text": "hour session. Thank."
+    },
+    {
+      "start": 3594.618,
+      "end": 3597.658,
+      "start_int": 3594,
+      "timestamp_label": "59:54",
+      "text": "You so much to our guest speaker for the presentation."
+    },
+    {
+      "start": 3597.778,
+      "end": 3600.699,
+      "start_int": 3597,
+      "timestamp_label": "59:57",
+      "text": "Thank you all for attending today and Please remember to"
+    },
+    {
+      "start": 3600.699,
+      "end": 3601.058,
+      "start_int": 3600,
+      "timestamp_label": "1:00:00",
+      "text": "access."
+    },
+    {
+      "start": 3601.868,
+      "end": 3605.416,
+      "start_int": 3601,
+      "timestamp_label": "1:00:01",
+      "text": "The brief survey and certificate at the link that I have already"
+    },
+    {
+      "start": 3605.416,
+      "end": 3605.908,
+      "start_int": 3605,
+      "timestamp_label": "1:00:05",
+      "text": "provided."
+    },
+    {
+      "start": 3606.388,
+      "end": 3610.374,
+      "start_int": 3606,
+      "timestamp_label": "1:00:06",
+      "text": "And chat or by visiting dau.edu/events again, Please"
+    },
+    {
+      "start": 3610.374,
+      "end": 3613.983,
+      "start_int": 3610,
+      "timestamp_label": "1:00:10",
+      "text": "remember to follow your organizational guidance"
+    },
+    {
+      "start": 3613.983,
+      "end": 3618.797,
+      "start_int": 3613,
+      "timestamp_label": "1:00:13",
+      "text": "regarding requesting clps. And remember that clps for DU events"
+    },
+    {
+      "start": 3618.797,
+      "end": 3623.459,
+      "start_int": 3618,
+      "timestamp_label": "1:00:18",
+      "text": "will not post automatically to your CL transcript and must be"
+    },
+    {
+      "start": 3623.459,
+      "end": 3628.348,
+      "start_int": 3623,
+      "timestamp_label": "1:00:23",
+      "text": "requested separately. If you're unable to see or access a surve."
+    },
+    {
+      "start": 3628.988,
+      "end": 3630.868,
+      "start_int": 3628,
+      "timestamp_label": "1:00:28",
+      "text": "I recommend using a personal device."
+    },
+    {
+      "start": 3631.368,
+      "end": 3636.163,
+      "start_int": 3631,
+      "timestamp_label": "1:00:31",
+      "text": "And I encourage you all to join us next Tuesday to celebrate our"
+    },
+    {
+      "start": 3636.163,
+      "end": 3640.369,
+      "start_int": 3636,
+      "timestamp_label": "1:00:36",
+      "text": "4th year of having the core office hours which will take"
+    },
+    {
+      "start": 3640.369,
+      "end": 3644.648,
+      "start_int": 3640,
+      "timestamp_label": "1:00:40",
+      "text": "place on October 1st, next Tuesday at 11:45 Eastern Time."
+    },
+    {
+      "start": 3645.008,
+      "end": 3648.553,
+      "start_int": 3645,
+      "timestamp_label": "1:00:45",
+      "text": "I did see a question in the chat that says how do we get a"
+    },
+    {
+      "start": 3648.553,
+      "end": 3652.278,
+      "start_int": 3648,
+      "timestamp_label": "1:00:48",
+      "text": "certificate for attending that survey link. The first part of"
+    },
+    {
+      "start": 3652.278,
+      "end": 3655.642,
+      "start_int": 3652,
+      "timestamp_label": "1:00:52",
+      "text": "that link is to get some feedback just so we can figure"
+    },
+    {
+      "start": 3655.642,
+      "end": 3659.488,
+      "start_int": 3655,
+      "timestamp_label": "1:00:55",
+      "text": "out what we can improve upon and what you enjoyed out of today."
+    },
+    {
+      "start": 3659.528,
+      "end": 3663.426,
+      "start_int": 3659,
+      "timestamp_label": "1:00:59",
+      "text": "Session and then the second part of the survey is your name and"
+    },
+    {
+      "start": 3663.426,
+      "end": 3666.776,
+      "start_int": 3663,
+      "timestamp_label": "1:01:03",
+      "text": "e-mail that you want the certificate to be named after"
+    },
+    {
+      "start": 3666.776,
+      "end": 3667.568,
+      "start_int": 3666,
+      "timestamp_label": "1:01:06",
+      "text": "and share to."
+    },
+    {
+      "start": 3668.008,
+      "end": 3669.928,
+      "start_int": 3668,
+      "timestamp_label": "1:01:08",
+      "text": "So that officially concludes today's session."
+    },
+    {
+      "start": 3669.928,
+      "end": 3670.888,
+      "start_int": 3669,
+      "timestamp_label": "1:01:09",
+      "text": "Thank you all."
+    },
+    {
+      "start": 3671.688,
+      "end": 3673.008,
+      "start_int": 3671,
+      "timestamp_label": "1:01:11",
+      "text": "And that is it."
+    }
+  ]
+}

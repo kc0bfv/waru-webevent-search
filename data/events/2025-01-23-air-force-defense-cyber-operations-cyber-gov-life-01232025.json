@@ -1,0 +1,5094 @@
+{
+  "id": "2025-01-23-air-force-defense-cyber-operations-cyber-gov-life-01232025",
+  "title": "Air Force Defense Cyber Operations - Cyber Gov Life 01/23/2025",
+  "date": "2025-01-23",
+  "event_url": "https://www.waru.edu/events/cyber-gov-life-air-force-defense-enterprise",
+  "entry_id": "1_jg0tgnqg",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_jg0tgnqg/version/100011",
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "start_int": 0,
+      "timestamp_label": "0:00",
+      "text": "Hello, everyone. The time is now 12:00,"
+    },
+    {
+      "start": 3.88,
+      "end": 6.78,
+      "start_int": 3,
+      "timestamp_label": "0:03",
+      "text": "so we are going to go ahead and get started."
+    },
+    {
+      "start": 6.78,
+      "end": 8.56,
+      "start_int": 6,
+      "timestamp_label": "0:06",
+      "text": "Welcome to this month's"
+    },
+    {
+      "start": 8.56,
+      "end": 10.12,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "cyber Gov life webinar."
+    },
+    {
+      "start": 10.12,
+      "end": 12.2,
+      "start_int": 10,
+      "timestamp_label": "0:10",
+      "text": "And before we begin today's topic,"
+    },
+    {
+      "start": 12.2,
+      "end": 13.16,
+      "start_int": 12,
+      "timestamp_label": "0:12",
+      "text": "I would like to make"
+    },
+    {
+      "start": 13.16,
+      "end": 15.78,
+      "start_int": 13,
+      "timestamp_label": "0:13",
+      "text": "a few administrative announcements."
+    },
+    {
+      "start": 15.78,
+      "end": 18.2,
+      "start_int": 15,
+      "timestamp_label": "0:15",
+      "text": "Yet, cameras and microphones have been muted,"
+    },
+    {
+      "start": 18.2,
+      "end": 19.98,
+      "start_int": 18,
+      "timestamp_label": "0:18",
+      "text": "so please submit any questions you"
+    },
+    {
+      "start": 19.98,
+      "end": 22.14,
+      "start_int": 19,
+      "timestamp_label": "0:19",
+      "text": "might have via the chat function."
+    },
+    {
+      "start": 22.14,
+      "end": 23.7,
+      "start_int": 22,
+      "timestamp_label": "0:22",
+      "text": "If at any time you're"
+    },
+    {
+      "start": 23.7,
+      "end": 25.82,
+      "start_int": 23,
+      "timestamp_label": "0:23",
+      "text": "unable to see the slides being presented,"
+    },
+    {
+      "start": 25.82,
+      "end": 27.38,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "please try disconnecting from"
+    },
+    {
+      "start": 27.38,
+      "end": 29.24,
+      "start_int": 27,
+      "timestamp_label": "0:27",
+      "text": "your organizational VPN,"
+    },
+    {
+      "start": 29.24,
+      "end": 31.16,
+      "start_int": 29,
+      "timestamp_label": "0:29",
+      "text": "leaving the meeting and coming right back."
+    },
+    {
+      "start": 31.16,
+      "end": 32.78,
+      "start_int": 31,
+      "timestamp_label": "0:31",
+      "text": "Or if those don't work,"
+    },
+    {
+      "start": 32.78,
+      "end": 35.405,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "please switch over to a personal device."
+    },
+    {
+      "start": 35.405,
+      "end": 37.05,
+      "start_int": 35,
+      "timestamp_label": "0:35",
+      "text": "If you develop audio"
+    },
+    {
+      "start": 37.05,
+      "end": 38.45,
+      "start_int": 37,
+      "timestamp_label": "0:37",
+      "text": "issues during the webinar,"
+    },
+    {
+      "start": 38.45,
+      "end": 39.51,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "you can try leaving"
+    },
+    {
+      "start": 39.51,
+      "end": 41.11,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "the meeting and returning or"
+    },
+    {
+      "start": 41.11,
+      "end": 42.49,
+      "start_int": 41,
+      "timestamp_label": "0:41",
+      "text": "use the dial in option"
+    },
+    {
+      "start": 42.49,
+      "end": 44.29,
+      "start_int": 42,
+      "timestamp_label": "0:42",
+      "text": "which will be pinned in the chat."
+    },
+    {
+      "start": 44.29,
+      "end": 45.75,
+      "start_int": 44,
+      "timestamp_label": "0:44",
+      "text": "Following the webinar,"
+    },
+    {
+      "start": 45.75,
+      "end": 46.87,
+      "start_int": 45,
+      "timestamp_label": "0:45",
+      "text": "please use the link we will"
+    },
+    {
+      "start": 46.87,
+      "end": 49.53,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "provide to access a short survey."
+    },
+    {
+      "start": 49.53,
+      "end": 51.21,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "At the end of the survey, you can"
+    },
+    {
+      "start": 51.21,
+      "end": 53.39,
+      "start_int": 51,
+      "timestamp_label": "0:51",
+      "text": "request a certificate to be sent to you,"
+    },
+    {
+      "start": 53.39,
+      "end": 55.39,
+      "start_int": 53,
+      "timestamp_label": "0:53",
+      "text": "which you can use to request"
+    },
+    {
+      "start": 55.39,
+      "end": 57.63,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "continuous learning points."
+    },
+    {
+      "start": 57.63,
+      "end": 59.91,
+      "start_int": 57,
+      "timestamp_label": "0:57",
+      "text": "Please follow your organizational guidance"
+    },
+    {
+      "start": 59.91,
+      "end": 61.85,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "regarding requesting COPs."
+    },
+    {
+      "start": 61.85,
+      "end": 63.65,
+      "start_int": 61,
+      "timestamp_label": "1:01",
+      "text": "And remember, COPs for"
+    },
+    {
+      "start": 63.65,
+      "end": 65.55,
+      "start_int": 63,
+      "timestamp_label": "1:03",
+      "text": "DAU events will not post"
+    },
+    {
+      "start": 65.55,
+      "end": 67.75,
+      "start_int": 65,
+      "timestamp_label": "1:05",
+      "text": "automatically to your CL transcript"
+    },
+    {
+      "start": 67.75,
+      "end": 70.155,
+      "start_int": 67,
+      "timestamp_label": "1:07",
+      "text": "and must be requested separately."
+    },
+    {
+      "start": 70.155,
+      "end": 72.32,
+      "start_int": 70,
+      "timestamp_label": "1:10",
+      "text": "Once again, I want to welcome you to"
+    },
+    {
+      "start": 72.32,
+      "end": 74.26,
+      "start_int": 72,
+      "timestamp_label": "1:12",
+      "text": "today's cyber Gov Life webinar."
+    },
+    {
+      "start": 74.26,
+      "end": 77.46,
+      "start_int": 74,
+      "timestamp_label": "1:14",
+      "text": "Now over to your moderator Andrew Hall."
+    },
+    {
+      "start": 77.9,
+      "end": 81.72,
+      "start_int": 77,
+      "timestamp_label": "1:17",
+      "text": "Yes, Sarah. I'm pleased"
+    },
+    {
+      "start": 81.72,
+      "end": 84.92,
+      "start_int": 81,
+      "timestamp_label": "1:21",
+      "text": "to introduce Major Clark"
+    },
+    {
+      "start": 84.92,
+      "end": 86.78,
+      "start_int": 84,
+      "timestamp_label": "1:24",
+      "text": "from the 16th Air Force,"
+    },
+    {
+      "start": 86.78,
+      "end": 89.3,
+      "start_int": 86,
+      "timestamp_label": "1:26",
+      "text": "616th Operations Center to"
+    },
+    {
+      "start": 89.3,
+      "end": 91.42,
+      "start_int": 89,
+      "timestamp_label": "1:29",
+      "text": "be our speaker today."
+    },
+    {
+      "start": 91.42,
+      "end": 93.92,
+      "start_int": 91,
+      "timestamp_label": "1:31",
+      "text": "He has a great presentation for us,"
+    },
+    {
+      "start": 93.92,
+      "end": 95.88,
+      "start_int": 93,
+      "timestamp_label": "1:33",
+      "text": "and I will now turn the time"
+    },
+    {
+      "start": 95.88,
+      "end": 98.8,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "over to him. Radio major?"
+    },
+    {
+      "start": 98.8,
+      "end": 101.695,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "Hi, everybody. Can you hear me okay?"
+    },
+    {
+      "start": 101.695,
+      "end": 103.65,
+      "start_int": 101,
+      "timestamp_label": "1:41",
+      "text": "I can hear you."
+    },
+    {
+      "start": 103.65,
+      "end": 106.03,
+      "start_int": 103,
+      "timestamp_label": "1:43",
+      "text": "Outstanding. Hey, everybody."
+    },
+    {
+      "start": 106.03,
+      "end": 107.83,
+      "start_int": 106,
+      "timestamp_label": "1:46",
+      "text": "So I'm Major Evan S Clark"
+    },
+    {
+      "start": 107.83,
+      "end": 109.91,
+      "start_int": 107,
+      "timestamp_label": "1:47",
+      "text": "from the 616 Operations Center,"
+    },
+    {
+      "start": 109.91,
+      "end": 112.05,
+      "start_int": 109,
+      "timestamp_label": "1:49",
+      "text": "out of the 16th Air Force,"
+    },
+    {
+      "start": 112.05,
+      "end": 114.51,
+      "start_int": 112,
+      "timestamp_label": "1:52",
+      "text": "where we provide cyber"
+    },
+    {
+      "start": 114.51,
+      "end": 116.45,
+      "start_int": 114,
+      "timestamp_label": "1:54",
+      "text": "and intelligence support to"
+    },
+    {
+      "start": 116.45,
+      "end": 119.21,
+      "start_int": 116,
+      "timestamp_label": "1:56",
+      "text": "the US Air Force globally and all of"
+    },
+    {
+      "start": 119.21,
+      "end": 121.23,
+      "start_int": 119,
+      "timestamp_label": "1:59",
+      "text": "our associated industries"
+    },
+    {
+      "start": 121.23,
+      "end": 122.89,
+      "start_int": 121,
+      "timestamp_label": "2:01",
+      "text": "and everybody connected."
+    },
+    {
+      "start": 122.89,
+      "end": 124.69,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "Again, we are thrilled to be here"
+    },
+    {
+      "start": 124.69,
+      "end": 126.29,
+      "start_int": 124,
+      "timestamp_label": "2:04",
+      "text": "today and have the opportunity."
+    },
+    {
+      "start": 126.29,
+      "end": 127.55,
+      "start_int": 126,
+      "timestamp_label": "2:06",
+      "text": "So I just want to say a quick thank"
+    },
+    {
+      "start": 127.55,
+      "end": 129.71,
+      "start_int": 127,
+      "timestamp_label": "2:07",
+      "text": "you to reach out to this audience and kind"
+    },
+    {
+      "start": 129.71,
+      "end": 132.96,
+      "start_int": 129,
+      "timestamp_label": "2:09",
+      "text": "of give a defensive cyber one oh one as we"
+    },
+    {
+      "start": 132.96,
+      "end": 134.74,
+      "start_int": 132,
+      "timestamp_label": "2:12",
+      "text": "look at what enterprise"
+    },
+    {
+      "start": 134.74,
+      "end": 137.06,
+      "start_int": 134,
+      "timestamp_label": "2:14",
+      "text": "and resources are available behind you."
+    },
+    {
+      "start": 137.06,
+      "end": 138.82,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "And I know we're"
+    },
+    {
+      "start": 138.82,
+      "end": 140.64,
+      "start_int": 138,
+      "timestamp_label": "2:18",
+      "text": "talking to a joint audience today."
+    },
+    {
+      "start": 140.64,
+      "end": 142.42,
+      "start_int": 140,
+      "timestamp_label": "2:20",
+      "text": "We'll be focused on the Air Force"
+    },
+    {
+      "start": 142.42,
+      "end": 144.8,
+      "start_int": 142,
+      "timestamp_label": "2:22",
+      "text": "and our available resources."
+    },
+    {
+      "start": 144.8,
+      "end": 147.16,
+      "start_int": 144,
+      "timestamp_label": "2:24",
+      "text": "But you'll find that many of these will"
+    },
+    {
+      "start": 147.16,
+      "end": 149.5,
+      "start_int": 147,
+      "timestamp_label": "2:27",
+      "text": "translate across to the other services."
+    },
+    {
+      "start": 149.5,
+      "end": 151.3,
+      "start_int": 149,
+      "timestamp_label": "2:29",
+      "text": "Hopefully, one day, we'll be able to"
+    },
+    {
+      "start": 151.3,
+      "end": 152.5,
+      "start_int": 151,
+      "timestamp_label": "2:31",
+      "text": "run a joint panel"
+    },
+    {
+      "start": 152.5,
+      "end": 153.88,
+      "start_int": 152,
+      "timestamp_label": "2:32",
+      "text": "and fill in some of the gaps."
+    },
+    {
+      "start": 153.88,
+      "end": 155.58,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "But we'll jump into it,"
+    },
+    {
+      "start": 155.58,
+      "end": 156.58,
+      "start_int": 155,
+      "timestamp_label": "2:35",
+      "text": "and we'll have a little time"
+    },
+    {
+      "start": 156.58,
+      "end": 158.15,
+      "start_int": 156,
+      "timestamp_label": "2:36",
+      "text": "for question at the end."
+    },
+    {
+      "start": 158.15,
+      "end": 161.42,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "So the 16th Air Force Mission of vision,"
+    },
+    {
+      "start": 161.42,
+      "end": 162.8,
+      "start_int": 161,
+      "timestamp_label": "2:41",
+      "text": "we are responsible for"
+    },
+    {
+      "start": 162.8,
+      "end": 165.14,
+      "start_int": 162,
+      "timestamp_label": "2:42",
+      "text": "providing intelligence and"
+    },
+    {
+      "start": 165.14,
+      "end": 167.88,
+      "start_int": 165,
+      "timestamp_label": "2:45",
+      "text": "cyber support to everyone"
+    },
+    {
+      "start": 167.88,
+      "end": 169.48,
+      "start_int": 167,
+      "timestamp_label": "2:47",
+      "text": "connected to the US Airport."
+    },
+    {
+      "start": 169.48,
+      "end": 171.74,
+      "start_int": 169,
+      "timestamp_label": "2:49",
+      "text": "Most importantly, this means that we are"
+    },
+    {
+      "start": 171.74,
+      "end": 173.02,
+      "start_int": 171,
+      "timestamp_label": "2:51",
+      "text": "generating insights,"
+    },
+    {
+      "start": 173.02,
+      "end": 174.84,
+      "start_int": 173,
+      "timestamp_label": "2:53",
+      "text": "intelligence, competing now,"
+    },
+    {
+      "start": 174.84,
+      "end": 177.68,
+      "start_int": 174,
+      "timestamp_label": "2:54",
+      "text": "finding ways to leverage our capabilities to"
+    },
+    {
+      "start": 177.68,
+      "end": 179.64,
+      "start_int": 177,
+      "timestamp_label": "2:57",
+      "text": "ensure battlefield advantage and"
+    },
+    {
+      "start": 179.64,
+      "end": 181.32,
+      "start_int": 179,
+      "timestamp_label": "2:59",
+      "text": "preparing for crisis and conflict."
+    },
+    {
+      "start": 181.32,
+      "end": 182.72,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "And that involves everything"
+    },
+    {
+      "start": 182.72,
+      "end": 184.5,
+      "start_int": 182,
+      "timestamp_label": "3:02",
+      "text": "from forward positioning,"
+    },
+    {
+      "start": 184.5,
+      "end": 186.12,
+      "start_int": 184,
+      "timestamp_label": "3:04",
+      "text": "monitoring or education,"
+    },
+    {
+      "start": 186.12,
+      "end": 187.9,
+      "start_int": 186,
+      "timestamp_label": "3:06",
+      "text": "like what we're doing here today."
+    },
+    {
+      "start": 187.9,
+      "end": 190.66,
+      "start_int": 187,
+      "timestamp_label": "3:07",
+      "text": "So as we look at the ten different wings,"
+    },
+    {
+      "start": 190.66,
+      "end": 193.04,
+      "start_int": 190,
+      "timestamp_label": "3:10",
+      "text": "we have a broad variety of"
+    },
+    {
+      "start": 193.04,
+      "end": 194.16,
+      "start_int": 193,
+      "timestamp_label": "3:13",
+      "text": "capabilities and"
+    },
+    {
+      "start": 194.16,
+      "end": 195.74,
+      "start_int": 194,
+      "timestamp_label": "3:14",
+      "text": "customers that come into play."
+    },
+    {
+      "start": 195.74,
+      "end": 197.14,
+      "start_int": 195,
+      "timestamp_label": "3:15",
+      "text": "Again, I'm coming here from"
+    },
+    {
+      "start": 197.14,
+      "end": 199.02,
+      "start_int": 197,
+      "timestamp_label": "3:17",
+      "text": "the six 16th Operation Center,"
+    },
+    {
+      "start": 199.02,
+      "end": 200.28,
+      "start_int": 199,
+      "timestamp_label": "3:19",
+      "text": "where our job is to"
+    },
+    {
+      "start": 200.28,
+      "end": 202.28,
+      "start_int": 200,
+      "timestamp_label": "3:20",
+      "text": "converge and synchronize those."
+    },
+    {
+      "start": 202.28,
+      "end": 203.72,
+      "start_int": 202,
+      "timestamp_label": "3:22",
+      "text": "Specifically, I work in"
+    },
+    {
+      "start": 203.72,
+      "end": 205.44,
+      "start_int": 203,
+      "timestamp_label": "3:23",
+      "text": "the combat operations division,"
+    },
+    {
+      "start": 205.44,
+      "end": 207.4,
+      "start_int": 205,
+      "timestamp_label": "3:25",
+      "text": "where we are available 24 hours a"
+    },
+    {
+      "start": 207.4,
+      "end": 210.44,
+      "start_int": 207,
+      "timestamp_label": "3:27",
+      "text": "day monitoring the constant site picture."
+    },
+    {
+      "start": 210.44,
+      "end": 211.22,
+      "start_int": 210,
+      "timestamp_label": "3:30",
+      "text": "So you'll have"
+    },
+    {
+      "start": 211.22,
+      "end": 212.86,
+      "start_int": 211,
+      "timestamp_label": "3:31",
+      "text": "our POC information at the end."
+    },
+    {
+      "start": 212.86,
+      "end": 214.26,
+      "start_int": 212,
+      "timestamp_label": "3:32",
+      "text": "If you ever need anything, feel"
+    },
+    {
+      "start": 214.26,
+      "end": 215.68,
+      "start_int": 214,
+      "timestamp_label": "3:34",
+      "text": "free to reach out at any time."
+    },
+    {
+      "start": 215.68,
+      "end": 218.54,
+      "start_int": 215,
+      "timestamp_label": "3:35",
+      "text": "But our largest focus today will be on"
+    },
+    {
+      "start": 218.54,
+      "end": 220.22,
+      "start_int": 218,
+      "timestamp_label": "3:38",
+      "text": "the 67th cyber wing and"
+    },
+    {
+      "start": 220.22,
+      "end": 222.4,
+      "start_int": 220,
+      "timestamp_label": "3:40",
+      "text": "the 688 cyber wing who provide"
+    },
+    {
+      "start": 222.4,
+      "end": 226.34,
+      "start_int": 222,
+      "timestamp_label": "3:42",
+      "text": "maneuver and enterprise cybersecurity support"
+    },
+    {
+      "start": 226.34,
+      "end": 230.08,
+      "start_int": 226,
+      "timestamp_label": "3:46",
+      "text": "primarily focusing on our defensive aspects."
+    },
+    {
+      "start": 230.08,
+      "end": 231.58,
+      "start_int": 230,
+      "timestamp_label": "3:50",
+      "text": "So as we look at"
+    },
+    {
+      "start": 231.58,
+      "end": 233.24,
+      "start_int": 231,
+      "timestamp_label": "3:51",
+      "text": "the 16th Air Force Commander,"
+    },
+    {
+      "start": 233.24,
+      "end": 235.22,
+      "start_int": 233,
+      "timestamp_label": "3:53",
+      "text": "it's important to note that, again,"
+    },
+    {
+      "start": 235.22,
+      "end": 236.74,
+      "start_int": 235,
+      "timestamp_label": "3:55",
+      "text": "this enterprise is responsible"
+    },
+    {
+      "start": 236.74,
+      "end": 238.3,
+      "start_int": 236,
+      "timestamp_label": "3:56",
+      "text": "for a number of hats,"
+    },
+    {
+      "start": 238.3,
+      "end": 239.06,
+      "start_int": 238,
+      "timestamp_label": "3:58",
+      "text": "whether it's"
+    },
+    {
+      "start": 239.06,
+      "end": 240.5,
+      "start_int": 239,
+      "timestamp_label": "3:59",
+      "text": "defense intelligence component and"
+    },
+    {
+      "start": 240.5,
+      "end": 242.02,
+      "start_int": 240,
+      "timestamp_label": "4:00",
+      "text": "cryptologic component"
+    },
+    {
+      "start": 242.02,
+      "end": 243.86,
+      "start_int": 242,
+      "timestamp_label": "4:02",
+      "text": "to the commander of ACC,"
+    },
+    {
+      "start": 243.86,
+      "end": 245.46,
+      "start_int": 243,
+      "timestamp_label": "4:03",
+      "text": "providing cyber capabilities"
+    },
+    {
+      "start": 245.46,
+      "end": 247.24,
+      "start_int": 245,
+      "timestamp_label": "4:05",
+      "text": "and OTNE or through"
+    },
+    {
+      "start": 247.24,
+      "end": 249.3,
+      "start_int": 247,
+      "timestamp_label": "4:07",
+      "text": "Air Force Af cyber or"
+    },
+    {
+      "start": 249.3,
+      "end": 250.62,
+      "start_int": 249,
+      "timestamp_label": "4:09",
+      "text": "Joint Force headquarters"
+    },
+    {
+      "start": 250.62,
+      "end": 252.66,
+      "start_int": 250,
+      "timestamp_label": "4:10",
+      "text": "cyber through to CyberCom."
+    },
+    {
+      "start": 252.66,
+      "end": 254.06,
+      "start_int": 252,
+      "timestamp_label": "4:12",
+      "text": "This is where it would roll up"
+    },
+    {
+      "start": 254.06,
+      "end": 256.54,
+      "start_int": 254,
+      "timestamp_label": "4:14",
+      "text": "and begin to look standardized with a lot"
+    },
+    {
+      "start": 256.54,
+      "end": 258.22,
+      "start_int": 256,
+      "timestamp_label": "4:16",
+      "text": "of our joint partners for those of whom"
+    },
+    {
+      "start": 258.22,
+      "end": 259.64,
+      "start_int": 258,
+      "timestamp_label": "4:18",
+      "text": "don't interact with the Air Force"
+    },
+    {
+      "start": 259.64,
+      "end": 261.205,
+      "start_int": 259,
+      "timestamp_label": "4:19",
+      "text": "on a regular basis."
+    },
+    {
+      "start": 261.205,
+      "end": 264.49,
+      "start_int": 261,
+      "timestamp_label": "4:21",
+      "text": "So as we look at the IW Ops model"
+    },
+    {
+      "start": 264.49,
+      "end": 265.95,
+      "start_int": 264,
+      "timestamp_label": "4:24",
+      "text": "or information warfare,"
+    },
+    {
+      "start": 265.95,
+      "end": 267.77,
+      "start_int": 265,
+      "timestamp_label": "4:25",
+      "text": "we're really looking at how 16th"
+    },
+    {
+      "start": 267.77,
+      "end": 269.31,
+      "start_int": 267,
+      "timestamp_label": "4:27",
+      "text": "Air Force can provide"
+    },
+    {
+      "start": 269.31,
+      "end": 271.37,
+      "start_int": 269,
+      "timestamp_label": "4:29",
+      "text": "support to the five core functions"
+    },
+    {
+      "start": 271.37,
+      "end": 273.67,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "of the Air Force and by sensing,"
+    },
+    {
+      "start": 273.67,
+      "end": 275.13,
+      "start_int": 273,
+      "timestamp_label": "4:33",
+      "text": "analyzing, synchronizing,"
+    },
+    {
+      "start": 275.13,
+      "end": 277.31,
+      "start_int": 275,
+      "timestamp_label": "4:35",
+      "text": "and operationalizing or in short,"
+    },
+    {
+      "start": 277.31,
+      "end": 278.67,
+      "start_int": 277,
+      "timestamp_label": "4:37",
+      "text": "looking for opportunities"
+    },
+    {
+      "start": 278.67,
+      "end": 279.97,
+      "start_int": 278,
+      "timestamp_label": "4:38",
+      "text": "where we have a capability,"
+    },
+    {
+      "start": 279.97,
+      "end": 282.69,
+      "start_int": 279,
+      "timestamp_label": "4:39",
+      "text": "a target, and an audience that needs it."
+    },
+    {
+      "start": 282.69,
+      "end": 283.97,
+      "start_int": 282,
+      "timestamp_label": "4:42",
+      "text": "These are the kind"
+    },
+    {
+      "start": 283.97,
+      "end": 286.55,
+      "start_int": 283,
+      "timestamp_label": "4:43",
+      "text": "of different operations and partners"
+    },
+    {
+      "start": 286.55,
+      "end": 288.29,
+      "start_int": 286,
+      "timestamp_label": "4:46",
+      "text": "we're working with on a daily basis"
+    },
+    {
+      "start": 288.29,
+      "end": 290.365,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "or to clear it up a little bit."
+    },
+    {
+      "start": 290.365,
+      "end": 292.56,
+      "start_int": 290,
+      "timestamp_label": "4:50",
+      "text": "We simplify into the triangle here."
+    },
+    {
+      "start": 292.56,
+      "end": 294.66,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "We have wings providing capabilities."
+    },
+    {
+      "start": 294.66,
+      "end": 295.28,
+      "start_int": 294,
+      "timestamp_label": "4:54",
+      "text": "We have"
+    },
+    {
+      "start": 295.28,
+      "end": 299.18,
+      "start_int": 295,
+      "timestamp_label": "4:55",
+      "text": "different subsets of information warfare,"
+    },
+    {
+      "start": 299.18,
+      "end": 301.6,
+      "start_int": 299,
+      "timestamp_label": "4:59",
+      "text": "ISR, MSO, weather, cyber,"
+    },
+    {
+      "start": 301.6,
+      "end": 303.7,
+      "start_int": 301,
+      "timestamp_label": "5:01",
+      "text": "and we have areas in which they're used."
+    },
+    {
+      "start": 303.7,
+      "end": 305.7,
+      "start_int": 303,
+      "timestamp_label": "5:03",
+      "text": "Anytime we find that the"
+    },
+    {
+      "start": 305.7,
+      "end": 307.88,
+      "start_int": 305,
+      "timestamp_label": "5:05",
+      "text": "three can be bind together,"
+    },
+    {
+      "start": 307.88,
+      "end": 309.3,
+      "start_int": 307,
+      "timestamp_label": "5:07",
+      "text": "that is when we are"
+    },
+    {
+      "start": 309.3,
+      "end": 312.0,
+      "start_int": 309,
+      "timestamp_label": "5:09",
+      "text": "responsible for fielding those assets."
+    },
+    {
+      "start": 312.0,
+      "end": 314.5,
+      "start_int": 312,
+      "timestamp_label": "5:12",
+      "text": "But let's move into 688 cyber."
+    },
+    {
+      "start": 314.5,
+      "end": 317.82,
+      "start_int": 314,
+      "timestamp_label": "5:14",
+      "text": "So the 688 is responsible for providing"
+    },
+    {
+      "start": 317.82,
+      "end": 321.46,
+      "start_int": 317,
+      "timestamp_label": "5:17",
+      "text": "enterprise security for the entire AFN"
+    },
+    {
+      "start": 321.46,
+      "end": 322.9,
+      "start_int": 321,
+      "timestamp_label": "5:21",
+      "text": "or the Air Force information"
+    },
+    {
+      "start": 322.9,
+      "end": 324.5,
+      "start_int": 322,
+      "timestamp_label": "5:22",
+      "text": "network shown here in green."
+    },
+    {
+      "start": 324.5,
+      "end": 327.26,
+      "start_int": 324,
+      "timestamp_label": "5:24",
+      "text": "So you can see that the core services Af Net,"
+    },
+    {
+      "start": 327.26,
+      "end": 328.9,
+      "start_int": 327,
+      "timestamp_label": "5:27",
+      "text": "it's different security levels"
+    },
+    {
+      "start": 328.9,
+      "end": 330.9,
+      "start_int": 328,
+      "timestamp_label": "5:28",
+      "text": "or other enclaves,"
+    },
+    {
+      "start": 330.9,
+      "end": 333.38,
+      "start_int": 330,
+      "timestamp_label": "5:30",
+      "text": "those are the core services when you just log"
+    },
+    {
+      "start": 333.38,
+      "end": 334.36,
+      "start_int": 333,
+      "timestamp_label": "5:33",
+      "text": "onto your computer and you"
+    },
+    {
+      "start": 334.36,
+      "end": 335.68,
+      "start_int": 334,
+      "timestamp_label": "5:34",
+      "text": "want to get to work in the morning."
+    },
+    {
+      "start": 335.68,
+      "end": 336.78,
+      "start_int": 335,
+      "timestamp_label": "5:35",
+      "text": "But it also includes"
+    },
+    {
+      "start": 336.78,
+      "end": 338.14,
+      "start_int": 336,
+      "timestamp_label": "5:36",
+      "text": "defensive weapon systems,"
+    },
+    {
+      "start": 338.14,
+      "end": 339.94,
+      "start_int": 338,
+      "timestamp_label": "5:38",
+      "text": "C two systems, or importantly,"
+    },
+    {
+      "start": 339.94,
+      "end": 342.325,
+      "start_int": 339,
+      "timestamp_label": "5:39",
+      "text": "for this audience, acquisition and testing."
+    },
+    {
+      "start": 342.325,
+      "end": 344.25,
+      "start_int": 342,
+      "timestamp_label": "5:42",
+      "text": "So anything that is connected to"
+    },
+    {
+      "start": 344.25,
+      "end": 345.97,
+      "start_int": 344,
+      "timestamp_label": "5:44",
+      "text": "the AN is terrain"
+    },
+    {
+      "start": 345.97,
+      "end": 348.25,
+      "start_int": 345,
+      "timestamp_label": "5:45",
+      "text": "that we can provide defensive support to."
+    },
+    {
+      "start": 348.25,
+      "end": 349.85,
+      "start_int": 348,
+      "timestamp_label": "5:48",
+      "text": "Now, this can be enterprise,"
+    },
+    {
+      "start": 349.85,
+      "end": 351.55,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "which means we can remotely access,"
+    },
+    {
+      "start": 351.55,
+      "end": 353.15,
+      "start_int": 351,
+      "timestamp_label": "5:51",
+      "text": "or it could be maneuver,"
+    },
+    {
+      "start": 353.15,
+      "end": 354.75,
+      "start_int": 353,
+      "timestamp_label": "5:53",
+      "text": "which we'll get into a little later."
+    },
+    {
+      "start": 354.75,
+      "end": 356.73,
+      "start_int": 354,
+      "timestamp_label": "5:54",
+      "text": "The key here is that there are restrictions"
+    },
+    {
+      "start": 356.73,
+      "end": 358.61,
+      "start_int": 356,
+      "timestamp_label": "5:56",
+      "text": "and limitations on our AOR."
+    },
+    {
+      "start": 358.61,
+      "end": 360.43,
+      "start_int": 358,
+      "timestamp_label": "5:58",
+      "text": "The Dodin would then be defended"
+    },
+    {
+      "start": 360.43,
+      "end": 361.95,
+      "start_int": 360,
+      "timestamp_label": "6:00",
+      "text": "by Joint force Dodin and"
+    },
+    {
+      "start": 361.95,
+      "end": 363.11,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "each service would have their"
+    },
+    {
+      "start": 363.11,
+      "end": 365.63,
+      "start_int": 363,
+      "timestamp_label": "6:03",
+      "text": "own compliments to the AN."
+    },
+    {
+      "start": 365.63,
+      "end": 366.43,
+      "start_int": 365,
+      "timestamp_label": "6:05",
+      "text": "And then, of course,"
+    },
+    {
+      "start": 366.43,
+      "end": 368.01,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "connections to commercial Internet,"
+    },
+    {
+      "start": 368.01,
+      "end": 369.43,
+      "start_int": 368,
+      "timestamp_label": "6:08",
+      "text": "which are both friendly and"
+    },
+    {
+      "start": 369.43,
+      "end": 372.355,
+      "start_int": 369,
+      "timestamp_label": "6:09",
+      "text": "foe depending on who's on the other end."
+    },
+    {
+      "start": 372.355,
+      "end": 375.26,
+      "start_int": 372,
+      "timestamp_label": "6:12",
+      "text": "So when we look at the 688 cyber wing,"
+    },
+    {
+      "start": 375.26,
+      "end": 376.8,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "which is really combined with"
+    },
+    {
+      "start": 376.8,
+      "end": 379.12,
+      "start_int": 376,
+      "timestamp_label": "6:16",
+      "text": "the 616 oh C for command and control,"
+    },
+    {
+      "start": 379.12,
+      "end": 383.14,
+      "start_int": 379,
+      "timestamp_label": "6:19",
+      "text": "this is about playing 59, 59 is uptime."
+    },
+    {
+      "start": 383.14,
+      "end": 385.62,
+      "start_int": 383,
+      "timestamp_label": "6:23",
+      "text": "Sustaining, operating and maintaining"
+    },
+    {
+      "start": 385.62,
+      "end": 388.54,
+      "start_int": 385,
+      "timestamp_label": "6:25",
+      "text": "network access to everyone that needs it."
+    },
+    {
+      "start": 388.54,
+      "end": 391.88,
+      "start_int": 388,
+      "timestamp_label": "6:28",
+      "text": "We are here at all times to support should"
+    },
+    {
+      "start": 391.88,
+      "end": 395.5,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "any network outages or interruptions occur."
+    },
+    {
+      "start": 395.5,
+      "end": 396.98,
+      "start_int": 395,
+      "timestamp_label": "6:35",
+      "text": "We are also available"
+    },
+    {
+      "start": 396.98,
+      "end": 398.28,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "for that kind of support."
+    },
+    {
+      "start": 398.28,
+      "end": 401.28,
+      "start_int": 398,
+      "timestamp_label": "6:38",
+      "text": "But as we dig into the 688 cyber wing and"
+    },
+    {
+      "start": 401.28,
+      "end": 402.64,
+      "start_int": 401,
+      "timestamp_label": "6:41",
+      "text": "really maintaining"
+    },
+    {
+      "start": 402.64,
+      "end": 405.24,
+      "start_int": 402,
+      "timestamp_label": "6:42",
+      "text": "and operationalizing the AFN,"
+    },
+    {
+      "start": 405.24,
+      "end": 406.86,
+      "start_int": 405,
+      "timestamp_label": "6:45",
+      "text": "we have squadrons managing"
+    },
+    {
+      "start": 406.86,
+      "end": 410.26,
+      "start_int": 406,
+      "timestamp_label": "6:46",
+      "text": "a variety of different subsections,"
+    },
+    {
+      "start": 410.26,
+      "end": 412.5,
+      "start_int": 410,
+      "timestamp_label": "6:50",
+      "text": "vulnerability management, network management."
+    },
+    {
+      "start": 412.5,
+      "end": 413.98,
+      "start_int": 412,
+      "timestamp_label": "6:52",
+      "text": "I'll hold for a moment on"
+    },
+    {
+      "start": 413.98,
+      "end": 415.2,
+      "start_int": 413,
+      "timestamp_label": "6:53",
+      "text": "security operations,"
+    },
+    {
+      "start": 415.2,
+      "end": 416.1,
+      "start_int": 415,
+      "timestamp_label": "6:55",
+      "text": "which is done through"
+    },
+    {
+      "start": 416.1,
+      "end": 418.525,
+      "start_int": 416,
+      "timestamp_label": "6:56",
+      "text": "the 33rd cyber operations squadron."
+    },
+    {
+      "start": 418.525,
+      "end": 419.73,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "Who have the ability"
+    },
+    {
+      "start": 419.73,
+      "end": 421.93,
+      "start_int": 419,
+      "timestamp_label": "6:59",
+      "text": "to provide forensic support"
+    },
+    {
+      "start": 421.93,
+      "end": 424.11,
+      "start_int": 421,
+      "timestamp_label": "7:01",
+      "text": "to anything connected to AFNAT"
+    },
+    {
+      "start": 424.11,
+      "end": 426.27,
+      "start_int": 424,
+      "timestamp_label": "7:04",
+      "text": "and AN in some cases,"
+    },
+    {
+      "start": 426.27,
+      "end": 427.59,
+      "start_int": 426,
+      "timestamp_label": "7:06",
+      "text": "although many PMOs will"
+    },
+    {
+      "start": 427.59,
+      "end": 428.65,
+      "start_int": 427,
+      "timestamp_label": "7:07",
+      "text": "be outside their area."
+    },
+    {
+      "start": 428.65,
+      "end": 430.165,
+      "start_int": 428,
+      "timestamp_label": "7:08",
+      "text": "What does that look like?"
+    },
+    {
+      "start": 430.165,
+      "end": 431.5,
+      "start_int": 430,
+      "timestamp_label": "7:10",
+      "text": "When we're talking about"
+    },
+    {
+      "start": 431.5,
+      "end": 433.96,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "operationalizing usual experience and"
+    },
+    {
+      "start": 433.96,
+      "end": 435.58,
+      "start_int": 433,
+      "timestamp_label": "7:13",
+      "text": "what kind of support we're providing,"
+    },
+    {
+      "start": 435.58,
+      "end": 436.68,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "network monitoring,"
+    },
+    {
+      "start": 436.68,
+      "end": 438.68,
+      "start_int": 436,
+      "timestamp_label": "7:16",
+      "text": "service monitoring, endpoint monitoring."
+    },
+    {
+      "start": 438.68,
+      "end": 440.52,
+      "start_int": 438,
+      "timestamp_label": "7:18",
+      "text": "We can see, we can validate."
+    },
+    {
+      "start": 440.52,
+      "end": 442.32,
+      "start_int": 440,
+      "timestamp_label": "7:20",
+      "text": "That's what all of those pop up saying."
+    },
+    {
+      "start": 442.32,
+      "end": 443.78,
+      "start_int": 442,
+      "timestamp_label": "7:22",
+      "text": "Yes, I agree, and I understand"
+    },
+    {
+      "start": 443.78,
+      "end": 445.18,
+      "start_int": 443,
+      "timestamp_label": "7:23",
+      "text": "there's monitoring of the network."
+    },
+    {
+      "start": 445.18,
+      "end": 446.88,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "This is what's going on here."
+    },
+    {
+      "start": 446.88,
+      "end": 448.88,
+      "start_int": 446,
+      "timestamp_label": "7:26",
+      "text": "It's our ability to support and"
+    },
+    {
+      "start": 448.88,
+      "end": 450.38,
+      "start_int": 448,
+      "timestamp_label": "7:28",
+      "text": "maintain one of"
+    },
+    {
+      "start": 450.38,
+      "end": 453.18,
+      "start_int": 450,
+      "timestamp_label": "7:30",
+      "text": "the largest networks in the entire world."
+    },
+    {
+      "start": 453.18,
+      "end": 455.0,
+      "start_int": 453,
+      "timestamp_label": "7:33",
+      "text": "From a security standpoint,"
+    },
+    {
+      "start": 455.0,
+      "end": 455.84,
+      "start_int": 455,
+      "timestamp_label": "7:35",
+      "text": "as we look at this,"
+    },
+    {
+      "start": 455.84,
+      "end": 458.26,
+      "start_int": 455,
+      "timestamp_label": "7:35",
+      "text": "from the enterprise and the 688,"
+    },
+    {
+      "start": 458.26,
+      "end": 460.36,
+      "start_int": 458,
+      "timestamp_label": "7:38",
+      "text": "directory services boundary protection,"
+    },
+    {
+      "start": 460.36,
+      "end": 461.76,
+      "start_int": 460,
+      "timestamp_label": "7:40",
+      "text": "making sure those spam emails"
+    },
+    {
+      "start": 461.76,
+      "end": 462.4,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "don't make it all"
+    },
+    {
+      "start": 462.4,
+      "end": 464.66,
+      "start_int": 462,
+      "timestamp_label": "7:42",
+      "text": "the way, stopping fishing,"
+    },
+    {
+      "start": 464.66,
+      "end": 466.345,
+      "start_int": 464,
+      "timestamp_label": "7:44",
+      "text": "all of that is handled"
+    },
+    {
+      "start": 466.345,
+      "end": 468.65,
+      "start_int": 466,
+      "timestamp_label": "7:46",
+      "text": "through the af and SoC and is usually"
+    },
+    {
+      "start": 468.65,
+      "end": 471.11,
+      "start_int": 468,
+      "timestamp_label": "7:48",
+      "text": "one of the first reaction points to"
+    },
+    {
+      "start": 471.11,
+      "end": 472.31,
+      "start_int": 471,
+      "timestamp_label": "7:51",
+      "text": "contact if we have any"
+    },
+    {
+      "start": 472.31,
+      "end": 474.17,
+      "start_int": 472,
+      "timestamp_label": "7:52",
+      "text": "sort of suspicious behavior."
+    },
+    {
+      "start": 474.17,
+      "end": 476.05,
+      "start_int": 474,
+      "timestamp_label": "7:54",
+      "text": "Really, if you've got anything that"
+    },
+    {
+      "start": 476.05,
+      "end": 477.69,
+      "start_int": 476,
+      "timestamp_label": "7:56",
+      "text": "your team is ever saying,"
+    },
+    {
+      "start": 477.69,
+      "end": 480.11,
+      "start_int": 477,
+      "timestamp_label": "7:57",
+      "text": "hmm, it's odd, it doesn't feel right."
+    },
+    {
+      "start": 480.11,
+      "end": 481.47,
+      "start_int": 480,
+      "timestamp_label": "8:00",
+      "text": "It's a good time to begin."
+    },
+    {
+      "start": 481.47,
+      "end": 482.81,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "Raise the question."
+    },
+    {
+      "start": 482.81,
+      "end": 484.75,
+      "start_int": 482,
+      "timestamp_label": "8:02",
+      "text": "And there are ways to do that through"
+    },
+    {
+      "start": 484.75,
+      "end": 485.97,
+      "start_int": 484,
+      "timestamp_label": "8:04",
+      "text": "Cyber nine lines and"
+    },
+    {
+      "start": 485.97,
+      "end": 487.83,
+      "start_int": 485,
+      "timestamp_label": "8:05",
+      "text": "other ways to find"
+    },
+    {
+      "start": 487.83,
+      "end": 489.27,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "these enterprise assets that can"
+    },
+    {
+      "start": 489.27,
+      "end": 492.04,
+      "start_int": 489,
+      "timestamp_label": "8:09",
+      "text": "provide support to your organization."
+    },
+    {
+      "start": 492.04,
+      "end": 495.05,
+      "start_int": 492,
+      "timestamp_label": "8:12",
+      "text": "We flip over to the 67th cyber wing."
+    },
+    {
+      "start": 495.05,
+      "end": 495.97,
+      "start_int": 495,
+      "timestamp_label": "8:15",
+      "text": "Really, we're going to be"
+    },
+    {
+      "start": 495.97,
+      "end": 496.93,
+      "start_int": 495,
+      "timestamp_label": "8:15",
+      "text": "focused here on the top,"
+    },
+    {
+      "start": 496.93,
+      "end": 499.55,
+      "start_int": 496,
+      "timestamp_label": "8:16",
+      "text": "the five 67th cyber operations group"
+    },
+    {
+      "start": 499.55,
+      "end": 501.89,
+      "start_int": 499,
+      "timestamp_label": "8:19",
+      "text": "who provides cyber protection teams or"
+    },
+    {
+      "start": 501.89,
+      "end": 503.49,
+      "start_int": 501,
+      "timestamp_label": "8:21",
+      "text": "CPTs employing"
+    },
+    {
+      "start": 503.49,
+      "end": 506.35,
+      "start_int": 503,
+      "timestamp_label": "8:23",
+      "text": "the CPAH cyber vulnerability"
+    },
+    {
+      "start": 506.35,
+      "end": 508.13,
+      "start_int": 506,
+      "timestamp_label": "8:26",
+      "text": "and Assessment Hunter weapon system."
+    },
+    {
+      "start": 508.13,
+      "end": 510.07,
+      "start_int": 508,
+      "timestamp_label": "8:28",
+      "text": "It's a PMO weapon system that"
+    },
+    {
+      "start": 510.07,
+      "end": 512.29,
+      "start_int": 510,
+      "timestamp_label": "8:30",
+      "text": "allows them to come in and again,"
+    },
+    {
+      "start": 512.29,
+      "end": 514.21,
+      "start_int": 512,
+      "timestamp_label": "8:32",
+      "text": "forensically analyze any system,"
+    },
+    {
+      "start": 514.21,
+      "end": 515.35,
+      "start_int": 514,
+      "timestamp_label": "8:34",
+      "text": "and we'll get into them"
+    },
+    {
+      "start": 515.35,
+      "end": 517.33,
+      "start_int": 515,
+      "timestamp_label": "8:35",
+      "text": "in detail here in a moment."
+    },
+    {
+      "start": 517.33,
+      "end": 519.23,
+      "start_int": 517,
+      "timestamp_label": "8:37",
+      "text": "Most particularly looking at"
+    },
+    {
+      "start": 519.23,
+      "end": 519.93,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "the rest of this,"
+    },
+    {
+      "start": 519.93,
+      "end": 522.59,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "Hunt forward operations are provided"
+    },
+    {
+      "start": 522.59,
+      "end": 525.45,
+      "start_int": 522,
+      "timestamp_label": "8:42",
+      "text": "by the eight 67th COG and of course,"
+    },
+    {
+      "start": 525.45,
+      "end": 528.05,
+      "start_int": 525,
+      "timestamp_label": "8:45",
+      "text": "we have offensive maneuver elements"
+    },
+    {
+      "start": 528.05,
+      "end": 530.51,
+      "start_int": 528,
+      "timestamp_label": "8:48",
+      "text": "that can provide other effects."
+    },
+    {
+      "start": 530.51,
+      "end": 533.085,
+      "start_int": 530,
+      "timestamp_label": "8:50",
+      "text": "But we'll leave them for today."
+    },
+    {
+      "start": 533.085,
+      "end": 535.5,
+      "start_int": 533,
+      "timestamp_label": "8:53",
+      "text": "So as we look at the different terrain type,"
+    },
+    {
+      "start": 535.5,
+      "end": 537.46,
+      "start_int": 535,
+      "timestamp_label": "8:55",
+      "text": "it's important to know what"
+    },
+    {
+      "start": 537.46,
+      "end": 538.98,
+      "start_int": 537,
+      "timestamp_label": "8:57",
+      "text": "color we're living in at the moment."
+    },
+    {
+      "start": 538.98,
+      "end": 541.3,
+      "start_int": 538,
+      "timestamp_label": "8:58",
+      "text": "Blue space is anything defensively"
+    },
+    {
+      "start": 541.3,
+      "end": 542.72,
+      "start_int": 541,
+      "timestamp_label": "9:01",
+      "text": "owned by the Air Force"
+    },
+    {
+      "start": 542.72,
+      "end": 544.16,
+      "start_int": 542,
+      "timestamp_label": "9:02",
+      "text": "or the Department of Defense."
+    },
+    {
+      "start": 544.16,
+      "end": 545.56,
+      "start_int": 544,
+      "timestamp_label": "9:04",
+      "text": "This is ours. We can provide"
+    },
+    {
+      "start": 545.56,
+      "end": 547.26,
+      "start_int": 545,
+      "timestamp_label": "9:05",
+      "text": "immediate forensic support."
+    },
+    {
+      "start": 547.26,
+      "end": 549.06,
+      "start_int": 547,
+      "timestamp_label": "9:07",
+      "text": "Gray space is anything in the middle,"
+    },
+    {
+      "start": 549.06,
+      "end": 550.78,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "anything not owned by an actor"
+    },
+    {
+      "start": 550.78,
+      "end": 553.24,
+      "start_int": 550,
+      "timestamp_label": "9:10",
+      "text": "good or bad and can require"
+    },
+    {
+      "start": 553.24,
+      "end": 555.38,
+      "start_int": 553,
+      "timestamp_label": "9:13",
+      "text": "creative technical solutions or"
+    },
+    {
+      "start": 555.38,
+      "end": 557.04,
+      "start_int": 555,
+      "timestamp_label": "9:15",
+      "text": "different assets in order"
+    },
+    {
+      "start": 557.04,
+      "end": 558.78,
+      "start_int": 557,
+      "timestamp_label": "9:17",
+      "text": "to take care of them."
+    },
+    {
+      "start": 558.78,
+      "end": 560.74,
+      "start_int": 558,
+      "timestamp_label": "9:18",
+      "text": "Sometimes long haul transmit,"
+    },
+    {
+      "start": 560.74,
+      "end": 562.54,
+      "start_int": 560,
+      "timestamp_label": "9:20",
+      "text": "that kind of thing, some"
+    },
+    {
+      "start": 562.54,
+      "end": 564.04,
+      "start_int": 562,
+      "timestamp_label": "9:22",
+      "text": "of them can be gray space."
+    },
+    {
+      "start": 564.04,
+      "end": 566.82,
+      "start_int": 564,
+      "timestamp_label": "9:24",
+      "text": "Red space, of course, offensive"
+    },
+    {
+      "start": 566.82,
+      "end": 568.9,
+      "start_int": 566,
+      "timestamp_label": "9:26",
+      "text": "or enemy terrain,"
+    },
+    {
+      "start": 568.9,
+      "end": 570.44,
+      "start_int": 568,
+      "timestamp_label": "9:28",
+      "text": "but not so useful when"
+    },
+    {
+      "start": 570.44,
+      "end": 570.98,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "we're working on"
+    },
+    {
+      "start": 570.98,
+      "end": 572.755,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "our own research and development."
+    },
+    {
+      "start": 572.755,
+      "end": 575.01,
+      "start_int": 572,
+      "timestamp_label": "9:32",
+      "text": "So as we look at engaging the enemy,"
+    },
+    {
+      "start": 575.01,
+      "end": 576.57,
+      "start_int": 575,
+      "timestamp_label": "9:35",
+      "text": "most people look at the battlefield"
+    },
+    {
+      "start": 576.57,
+      "end": 578.01,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "exactly as you see here."
+    },
+    {
+      "start": 578.01,
+      "end": 579.69,
+      "start_int": 578,
+      "timestamp_label": "9:38",
+      "text": "We're going to field our jets"
+    },
+    {
+      "start": 579.69,
+      "end": 581.39,
+      "start_int": 579,
+      "timestamp_label": "9:39",
+      "text": "and our tanks and our boats,"
+    },
+    {
+      "start": 581.39,
+      "end": 583.27,
+      "start_int": 581,
+      "timestamp_label": "9:41",
+      "text": "and we're going to war."
+    },
+    {
+      "start": 583.27,
+      "end": 585.59,
+      "start_int": 583,
+      "timestamp_label": "9:43",
+      "text": "But what we forget about is the supply chain"
+    },
+    {
+      "start": 585.59,
+      "end": 587.69,
+      "start_int": 585,
+      "timestamp_label": "9:45",
+      "text": "that got every single one of those assets"
+    },
+    {
+      "start": 587.69,
+      "end": 589.29,
+      "start_int": 587,
+      "timestamp_label": "9:47",
+      "text": "into play and the fact that there is"
+    },
+    {
+      "start": 589.29,
+      "end": 591.01,
+      "start_int": 589,
+      "timestamp_label": "9:49",
+      "text": "a cyber chain behind"
+    },
+    {
+      "start": 591.01,
+      "end": 592.59,
+      "start_int": 591,
+      "timestamp_label": "9:51",
+      "text": "each of those assets"
+    },
+    {
+      "start": 592.59,
+      "end": 594.785,
+      "start_int": 592,
+      "timestamp_label": "9:52",
+      "text": "all the way down into logistics."
+    },
+    {
+      "start": 594.785,
+      "end": 597.32,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "Shipping, command and control,"
+    },
+    {
+      "start": 597.32,
+      "end": 599.12,
+      "start_int": 597,
+      "timestamp_label": "9:57",
+      "text": "or research and development."
+    },
+    {
+      "start": 599.12,
+      "end": 600.86,
+      "start_int": 599,
+      "timestamp_label": "9:59",
+      "text": "So it's important to realize that"
+    },
+    {
+      "start": 600.86,
+      "end": 602.48,
+      "start_int": 600,
+      "timestamp_label": "10:00",
+      "text": "the front line of the battlefield"
+    },
+    {
+      "start": 602.48,
+      "end": 603.74,
+      "start_int": 602,
+      "timestamp_label": "10:02",
+      "text": "from a cyber perspective,"
+    },
+    {
+      "start": 603.74,
+      "end": 605.1,
+      "start_int": 603,
+      "timestamp_label": "10:03",
+      "text": "can expand to people who"
+    },
+    {
+      "start": 605.1,
+      "end": 607.16,
+      "start_int": 605,
+      "timestamp_label": "10:05",
+      "text": "think they are nowhere near it."
+    },
+    {
+      "start": 607.16,
+      "end": 608.5,
+      "start_int": 607,
+      "timestamp_label": "10:07",
+      "text": "So cyber is something"
+    },
+    {
+      "start": 608.5,
+      "end": 610.1,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "we definitely need everyone,"
+    },
+    {
+      "start": 610.1,
+      "end": 612.06,
+      "start_int": 610,
+      "timestamp_label": "10:10",
+      "text": "both cyber and non cyber"
+    },
+    {
+      "start": 612.06,
+      "end": 615.33,
+      "start_int": 612,
+      "timestamp_label": "10:12",
+      "text": "focused to keep in the back of their mind."
+    },
+    {
+      "start": 615.33,
+      "end": 617.28,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "Alright, so let's talk"
+    },
+    {
+      "start": 617.28,
+      "end": 619.84,
+      "start_int": 617,
+      "timestamp_label": "10:17",
+      "text": "about cyber protection teams."
+    },
+    {
+      "start": 619.84,
+      "end": 621.62,
+      "start_int": 619,
+      "timestamp_label": "10:19",
+      "text": "You head home tonight"
+    },
+    {
+      "start": 621.62,
+      "end": 623.06,
+      "start_int": 621,
+      "timestamp_label": "10:21",
+      "text": "and you start cooking dinner,"
+    },
+    {
+      "start": 623.06,
+      "end": 624.58,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "and things get a little out of"
+    },
+    {
+      "start": 624.58,
+      "end": 626.3,
+      "start_int": 624,
+      "timestamp_label": "10:24",
+      "text": "hand and a fire starts in the kitchen."
+    },
+    {
+      "start": 626.3,
+      "end": 627.84,
+      "start_int": 626,
+      "timestamp_label": "10:26",
+      "text": "You throw a glass of water on it"
+    },
+    {
+      "start": 627.84,
+      "end": 628.68,
+      "start_int": 627,
+      "timestamp_label": "10:27",
+      "text": "because it was handy,"
+    },
+    {
+      "start": 628.68,
+      "end": 629.78,
+      "start_int": 628,
+      "timestamp_label": "10:28",
+      "text": "and it was a grease fire."
+    },
+    {
+      "start": 629.78,
+      "end": 631.32,
+      "start_int": 629,
+      "timestamp_label": "10:29",
+      "text": "Now the whole kitchen's on fire."
+    },
+    {
+      "start": 631.32,
+      "end": 632.84,
+      "start_int": 631,
+      "timestamp_label": "10:31",
+      "text": "I think we all can kind of picture"
+    },
+    {
+      "start": 632.84,
+      "end": 634.0,
+      "start_int": 632,
+      "timestamp_label": "10:32",
+      "text": "what's going to happen next."
+    },
+    {
+      "start": 634.0,
+      "end": 636.26,
+      "start_int": 634,
+      "timestamp_label": "10:34",
+      "text": "You've got the fire alarm going off."
+    },
+    {
+      "start": 636.26,
+      "end": 637.36,
+      "start_int": 636,
+      "timestamp_label": "10:36",
+      "text": "Everybody knows they need"
+    },
+    {
+      "start": 637.36,
+      "end": 638.36,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "to get out of the house."
+    },
+    {
+      "start": 638.36,
+      "end": 639.94,
+      "start_int": 638,
+      "timestamp_label": "10:38",
+      "text": "You're dialing 911,"
+    },
+    {
+      "start": 639.94,
+      "end": 641.72,
+      "start_int": 639,
+      "timestamp_label": "10:39",
+      "text": "and you're calling in the fire department."
+    },
+    {
+      "start": 641.72,
+      "end": 643.34,
+      "start_int": 641,
+      "timestamp_label": "10:41",
+      "text": "And in your mind, you've already got"
+    },
+    {
+      "start": 643.34,
+      "end": 645.3,
+      "start_int": 643,
+      "timestamp_label": "10:43",
+      "text": "a picture of what's going to occur next."
+    },
+    {
+      "start": 645.3,
+      "end": 646.0,
+      "start_int": 645,
+      "timestamp_label": "10:45",
+      "text": "There's going to be"
+    },
+    {
+      "start": 646.0,
+      "end": 648.16,
+      "start_int": 646,
+      "timestamp_label": "10:46",
+      "text": "some large red trucks, flashing lights,"
+    },
+    {
+      "start": 648.16,
+      "end": 649.96,
+      "start_int": 648,
+      "timestamp_label": "10:48",
+      "text": "sirens, bunch people running around,"
+    },
+    {
+      "start": 649.96,
+      "end": 651.83,
+      "start_int": 649,
+      "timestamp_label": "10:49",
+      "text": "hoses, water, and a dalmatian."
+    },
+    {
+      "start": 651.83,
+      "end": 653.4,
+      "start_int": 651,
+      "timestamp_label": "10:51",
+      "text": "But if I said the same thing about"
+    },
+    {
+      "start": 653.4,
+      "end": 655.06,
+      "start_int": 653,
+      "timestamp_label": "10:53",
+      "text": "a cyber protection team,"
+    },
+    {
+      "start": 655.06,
+      "end": 656.6,
+      "start_int": 655,
+      "timestamp_label": "10:55",
+      "text": "most people wouldn't quite"
+    },
+    {
+      "start": 656.6,
+      "end": 658.18,
+      "start_int": 656,
+      "timestamp_label": "10:56",
+      "text": "have a visual in their mind,"
+    },
+    {
+      "start": 658.18,
+      "end": 659.22,
+      "start_int": 658,
+      "timestamp_label": "10:58",
+      "text": "and that's really what we'd"
+    },
+    {
+      "start": 659.22,
+      "end": 660.56,
+      "start_int": 659,
+      "timestamp_label": "10:59",
+      "text": "like to provide you today."
+    },
+    {
+      "start": 660.56,
+      "end": 662.5,
+      "start_int": 660,
+      "timestamp_label": "11:00",
+      "text": "So the cyber protection team"
+    },
+    {
+      "start": 662.5,
+      "end": 664.0,
+      "start_int": 662,
+      "timestamp_label": "11:02",
+      "text": "operate as a maneuver force."
+    },
+    {
+      "start": 664.0,
+      "end": 665.38,
+      "start_int": 664,
+      "timestamp_label": "11:04",
+      "text": "They have the ability to physically"
+    },
+    {
+      "start": 665.38,
+      "end": 666.86,
+      "start_int": 665,
+      "timestamp_label": "11:05",
+      "text": "come to the location if it's not"
+    },
+    {
+      "start": 666.86,
+      "end": 669.02,
+      "start_int": 666,
+      "timestamp_label": "11:06",
+      "text": "connected to Af net"
+    },
+    {
+      "start": 669.02,
+      "end": 671.2,
+      "start_int": 669,
+      "timestamp_label": "11:09",
+      "text": "and our enterprise wasn't able to see it."
+    },
+    {
+      "start": 671.2,
+      "end": 672.94,
+      "start_int": 671,
+      "timestamp_label": "11:11",
+      "text": "We can dynamically target"
+    },
+    {
+      "start": 672.94,
+      "end": 674.46,
+      "start_int": 672,
+      "timestamp_label": "11:12",
+      "text": "malicious cyber activities"
+    },
+    {
+      "start": 674.46,
+      "end": 675.96,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "in blue cyberspace,"
+    },
+    {
+      "start": 675.96,
+      "end": 677.46,
+      "start_int": 675,
+      "timestamp_label": "11:15",
+      "text": "conducting threat focused,"
+    },
+    {
+      "start": 677.46,
+      "end": 679.4,
+      "start_int": 677,
+      "timestamp_label": "11:17",
+      "text": "intel driven defensive cyberspace"
+    },
+    {
+      "start": 679.4,
+      "end": 681.5,
+      "start_int": 679,
+      "timestamp_label": "11:19",
+      "text": "ops on a specific terrain"
+    },
+    {
+      "start": 681.5,
+      "end": 683.225,
+      "start_int": 681,
+      "timestamp_label": "11:21",
+      "text": "for a specific amount of time."
+    },
+    {
+      "start": 683.225,
+      "end": 685.03,
+      "start_int": 683,
+      "timestamp_label": "11:23",
+      "text": "Uh, so basically, these"
+    },
+    {
+      "start": 685.03,
+      "end": 687.05,
+      "start_int": 685,
+      "timestamp_label": "11:25",
+      "text": "are your incident response assets."
+    },
+    {
+      "start": 687.05,
+      "end": 689.13,
+      "start_int": 687,
+      "timestamp_label": "11:27",
+      "text": "Now, turning back to the slide here,"
+    },
+    {
+      "start": 689.13,
+      "end": 690.49,
+      "start_int": 689,
+      "timestamp_label": "11:29",
+      "text": "the cyberspace Vulnerability"
+    },
+    {
+      "start": 690.49,
+      "end": 691.89,
+      "start_int": 690,
+      "timestamp_label": "11:30",
+      "text": "Assessment Hunter weapons system"
+    },
+    {
+      "start": 691.89,
+      "end": 693.25,
+      "start_int": 691,
+      "timestamp_label": "11:31",
+      "text": "is the system employed"
+    },
+    {
+      "start": 693.25,
+      "end": 694.65,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "by cyber protection teams."
+    },
+    {
+      "start": 694.65,
+      "end": 698.23,
+      "start_int": 694,
+      "timestamp_label": "11:34",
+      "text": "It's PMO managed and it is standardized."
+    },
+    {
+      "start": 698.23,
+      "end": 699.27,
+      "start_int": 698,
+      "timestamp_label": "11:38",
+      "text": "There may be"
+    },
+    {
+      "start": 699.27,
+      "end": 700.99,
+      "start_int": 699,
+      "timestamp_label": "11:39",
+      "text": "a few differences across the services,"
+    },
+    {
+      "start": 700.99,
+      "end": 702.13,
+      "start_int": 700,
+      "timestamp_label": "11:40",
+      "text": "but you're still going to get"
+    },
+    {
+      "start": 702.13,
+      "end": 703.745,
+      "start_int": 702,
+      "timestamp_label": "11:42",
+      "text": "a cyber protection team."
+    },
+    {
+      "start": 703.745,
+      "end": 706.02,
+      "start_int": 703,
+      "timestamp_label": "11:43",
+      "text": "When they show up, you're going to have"
+    },
+    {
+      "start": 706.02,
+      "end": 707.76,
+      "start_int": 706,
+      "timestamp_label": "11:46",
+      "text": "a dozen or more members who are"
+    },
+    {
+      "start": 707.76,
+      "end": 709.86,
+      "start_int": 707,
+      "timestamp_label": "11:47",
+      "text": "going to be bringing laptops,"
+    },
+    {
+      "start": 709.86,
+      "end": 711.0,
+      "start_int": 709,
+      "timestamp_label": "11:49",
+      "text": "which are specialized"
+    },
+    {
+      "start": 711.0,
+      "end": 712.7,
+      "start_int": 711,
+      "timestamp_label": "11:51",
+      "text": "software and servers with"
+    },
+    {
+      "start": 712.7,
+      "end": 714.46,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "the ability to tap in"
+    },
+    {
+      "start": 714.46,
+      "end": 717.12,
+      "start_int": 714,
+      "timestamp_label": "11:54",
+      "text": "and collect information from the network."
+    },
+    {
+      "start": 717.12,
+      "end": 720.46,
+      "start_int": 717,
+      "timestamp_label": "11:57",
+      "text": "And really what we're looking at here is"
+    },
+    {
+      "start": 720.46,
+      "end": 723.86,
+      "start_int": 720,
+      "timestamp_label": "12:00",
+      "text": "the visual of how that team,"
+    },
+    {
+      "start": 723.86,
+      "end": 728.1,
+      "start_int": 723,
+      "timestamp_label": "12:03",
+      "text": "that cyber fire department is going to come."
+    },
+    {
+      "start": 728.1,
+      "end": 731.78,
+      "start_int": 728,
+      "timestamp_label": "12:08",
+      "text": "Whether we're talking about a assess mission,"
+    },
+    {
+      "start": 731.78,
+      "end": 733.06,
+      "start_int": 731,
+      "timestamp_label": "12:11",
+      "text": "just to see how things are going,"
+    },
+    {
+      "start": 733.06,
+      "end": 734.7,
+      "start_int": 733,
+      "timestamp_label": "12:13",
+      "text": "a hunt mission to specifically"
+    },
+    {
+      "start": 734.7,
+      "end": 736.36,
+      "start_int": 734,
+      "timestamp_label": "12:14",
+      "text": "find an adversary,"
+    },
+    {
+      "start": 736.36,
+      "end": 737.68,
+      "start_int": 736,
+      "timestamp_label": "12:16",
+      "text": "Harden mission to assist with"
+    },
+    {
+      "start": 737.68,
+      "end": 739.4,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "hardening your network or a clear."
+    },
+    {
+      "start": 739.4,
+      "end": 740.7,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "We know that there's"
+    },
+    {
+      "start": 740.7,
+      "end": 742.56,
+      "start_int": 740,
+      "timestamp_label": "12:20",
+      "text": "hostile activities on your network,"
+    },
+    {
+      "start": 742.56,
+      "end": 744.05,
+      "start_int": 742,
+      "timestamp_label": "12:22",
+      "text": "and it needs to be removed."
+    },
+    {
+      "start": 744.05,
+      "end": 745.6,
+      "start_int": 744,
+      "timestamp_label": "12:24",
+      "text": "And so let's talk"
+    },
+    {
+      "start": 745.6,
+      "end": 747.53,
+      "start_int": 745,
+      "timestamp_label": "12:25",
+      "text": "about how we can prepare for that."
+    },
+    {
+      "start": 747.53,
+      "end": 748.94,
+      "start_int": 747,
+      "timestamp_label": "12:27",
+      "text": "Because as we're talking"
+    },
+    {
+      "start": 748.94,
+      "end": 750.02,
+      "start_int": 748,
+      "timestamp_label": "12:28",
+      "text": "about project management,"
+    },
+    {
+      "start": 750.02,
+      "end": 751.66,
+      "start_int": 750,
+      "timestamp_label": "12:30",
+      "text": "we're talking about everything"
+    },
+    {
+      "start": 751.66,
+      "end": 753.16,
+      "start_int": 751,
+      "timestamp_label": "12:31",
+      "text": "involved in management"
+    },
+    {
+      "start": 753.16,
+      "end": 754.78,
+      "start_int": 753,
+      "timestamp_label": "12:33",
+      "text": "beyond the cyber capability."
+    },
+    {
+      "start": 754.78,
+      "end": 756.88,
+      "start_int": 754,
+      "timestamp_label": "12:34",
+      "text": "This is one thing on your radar."
+    },
+    {
+      "start": 756.88,
+      "end": 758.02,
+      "start_int": 756,
+      "timestamp_label": "12:36",
+      "text": "We thoroughly understand it."
+    },
+    {
+      "start": 758.02,
+      "end": 760.3,
+      "start_int": 758,
+      "timestamp_label": "12:38",
+      "text": "But some simple things will go a long way."
+    },
+    {
+      "start": 760.3,
+      "end": 762.78,
+      "start_int": 760,
+      "timestamp_label": "12:40",
+      "text": "Know your mission. What is"
+    },
+    {
+      "start": 762.78,
+      "end": 764.92,
+      "start_int": 762,
+      "timestamp_label": "12:42",
+      "text": "it that your project is supporting?"
+    },
+    {
+      "start": 764.92,
+      "end": 766.26,
+      "start_int": 764,
+      "timestamp_label": "12:44",
+      "text": "What's your classification level?"
+    },
+    {
+      "start": 766.26,
+      "end": 767.46,
+      "start_int": 766,
+      "timestamp_label": "12:46",
+      "text": "Are there special requirements"
+    },
+    {
+      "start": 767.46,
+      "end": 768.32,
+      "start_int": 767,
+      "timestamp_label": "12:47",
+      "text": "to get into the building?"
+    },
+    {
+      "start": 768.32,
+      "end": 769.9,
+      "start_int": 768,
+      "timestamp_label": "12:48",
+      "text": "Do you have a SMADS ID?"
+    },
+    {
+      "start": 769.9,
+      "end": 771.94,
+      "start_int": 769,
+      "timestamp_label": "12:49",
+      "text": "Do you have network maps available?"
+    },
+    {
+      "start": 771.94,
+      "end": 772.94,
+      "start_int": 771,
+      "timestamp_label": "12:51",
+      "text": "These are questions you can"
+    },
+    {
+      "start": 772.94,
+      "end": 774.72,
+      "start_int": 772,
+      "timestamp_label": "12:52",
+      "text": "turn to your IT staff."
+    },
+    {
+      "start": 774.72,
+      "end": 777.0,
+      "start_int": 774,
+      "timestamp_label": "12:54",
+      "text": "But these are just the basics that"
+    },
+    {
+      "start": 777.0,
+      "end": 779.24,
+      "start_int": 777,
+      "timestamp_label": "12:57",
+      "text": "you would want to have on hand to provide,"
+    },
+    {
+      "start": 779.24,
+      "end": 781.1,
+      "start_int": 779,
+      "timestamp_label": "12:59",
+      "text": "much like you'd need to be able to provide"
+    },
+    {
+      "start": 781.1,
+      "end": 782.84,
+      "start_int": 781,
+      "timestamp_label": "13:01",
+      "text": "your address and if you have"
+    },
+    {
+      "start": 782.84,
+      "end": 783.82,
+      "start_int": 782,
+      "timestamp_label": "13:02",
+      "text": "a dog in the house when"
+    },
+    {
+      "start": 783.82,
+      "end": 785.605,
+      "start_int": 783,
+      "timestamp_label": "13:03",
+      "text": "the fire department shows up."
+    },
+    {
+      "start": 785.605,
+      "end": 786.95,
+      "start_int": 785,
+      "timestamp_label": "13:05",
+      "text": "Next up would be"
+    },
+    {
+      "start": 786.95,
+      "end": 789.23,
+      "start_int": 786,
+      "timestamp_label": "13:06",
+      "text": "knowing your mission relevant terrain."
+    },
+    {
+      "start": 789.23,
+      "end": 791.01,
+      "start_int": 789,
+      "timestamp_label": "13:09",
+      "text": "That's more specific, and I'm"
+    },
+    {
+      "start": 791.01,
+      "end": 792.37,
+      "start_int": 791,
+      "timestamp_label": "13:11",
+      "text": "sure the teams would love to have"
+    },
+    {
+      "start": 792.37,
+      "end": 793.67,
+      "start_int": 792,
+      "timestamp_label": "13:12",
+      "text": "the opportunity to talk with you"
+    },
+    {
+      "start": 793.67,
+      "end": 796.195,
+      "start_int": 793,
+      "timestamp_label": "13:13",
+      "text": "about functional analysis."
+    },
+    {
+      "start": 796.195,
+      "end": 797.86,
+      "start_int": 796,
+      "timestamp_label": "13:16",
+      "text": "This is really about walking through"
+    },
+    {
+      "start": 797.86,
+      "end": 799.12,
+      "start_int": 797,
+      "timestamp_label": "13:17",
+      "text": "a mission decomposition."
+    },
+    {
+      "start": 799.12,
+      "end": 800.36,
+      "start_int": 799,
+      "timestamp_label": "13:19",
+      "text": "If we broadly spoke"
+    },
+    {
+      "start": 800.36,
+      "end": 802.22,
+      "start_int": 800,
+      "timestamp_label": "13:20",
+      "text": "about employing a fighter jet,"
+    },
+    {
+      "start": 802.22,
+      "end": 803.64,
+      "start_int": 802,
+      "timestamp_label": "13:22",
+      "text": "to get a jet off the ground,"
+    },
+    {
+      "start": 803.64,
+      "end": 805.82,
+      "start_int": 803,
+      "timestamp_label": "13:23",
+      "text": "I need a jet. I need some maintenance."
+    },
+    {
+      "start": 805.82,
+      "end": 807.76,
+      "start_int": 805,
+      "timestamp_label": "13:25",
+      "text": "I need fuel, I need weapons,"
+    },
+    {
+      "start": 807.76,
+      "end": 808.64,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "I need a pilot,"
+    },
+    {
+      "start": 808.64,
+      "end": 810.4,
+      "start_int": 808,
+      "timestamp_label": "13:28",
+      "text": "I need command and control and a mission."
+    },
+    {
+      "start": 810.4,
+      "end": 812.38,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "That's each piece, but each of"
+    },
+    {
+      "start": 812.38,
+      "end": 813.88,
+      "start_int": 812,
+      "timestamp_label": "13:32",
+      "text": "those has a cyber"
+    },
+    {
+      "start": 813.88,
+      "end": 815.56,
+      "start_int": 813,
+      "timestamp_label": "13:33",
+      "text": "infrastructure that supports it."
+    },
+    {
+      "start": 815.56,
+      "end": 817.52,
+      "start_int": 815,
+      "timestamp_label": "13:35",
+      "text": "And so the more you"
+    },
+    {
+      "start": 817.52,
+      "end": 819.74,
+      "start_int": 817,
+      "timestamp_label": "13:37",
+      "text": "know about how your mission breaks down,"
+    },
+    {
+      "start": 819.74,
+      "end": 821.24,
+      "start_int": 819,
+      "timestamp_label": "13:39",
+      "text": "the easier it will be"
+    },
+    {
+      "start": 821.24,
+      "end": 822.86,
+      "start_int": 821,
+      "timestamp_label": "13:41",
+      "text": "for the cyber team to determine"
+    },
+    {
+      "start": 822.86,
+      "end": 824.4,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "the most critical terrain and"
+    },
+    {
+      "start": 824.4,
+      "end": 826.02,
+      "start_int": 824,
+      "timestamp_label": "13:44",
+      "text": "the most critical infrastructure you"
+    },
+    {
+      "start": 826.02,
+      "end": 826.82,
+      "start_int": 826,
+      "timestamp_label": "13:46",
+      "text": "have on the back end"
+    },
+    {
+      "start": 826.82,
+      "end": 828.1,
+      "start_int": 826,
+      "timestamp_label": "13:46",
+      "text": "that needs to be defended."
+    },
+    {
+      "start": 828.1,
+      "end": 829.94,
+      "start_int": 828,
+      "timestamp_label": "13:48",
+      "text": "But all of that only matters"
+    },
+    {
+      "start": 829.94,
+      "end": 831.55,
+      "start_int": 829,
+      "timestamp_label": "13:49",
+      "text": "if you have your POC."
+    },
+    {
+      "start": 831.55,
+      "end": 834.46,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "Who owns the mission? Is that a colonel,"
+    },
+    {
+      "start": 834.46,
+      "end": 836.4,
+      "start_int": 834,
+      "timestamp_label": "13:54",
+      "text": "a general? Who owns it?"
+    },
+    {
+      "start": 836.4,
+      "end": 839.16,
+      "start_int": 836,
+      "timestamp_label": "13:56",
+      "text": "Usually it's going to be combatant command."
+    },
+    {
+      "start": 839.16,
+      "end": 840.42,
+      "start_int": 839,
+      "timestamp_label": "13:59",
+      "text": "We're going to be looking"
+    },
+    {
+      "start": 840.42,
+      "end": 841.42,
+      "start_int": 840,
+      "timestamp_label": "14:00",
+      "text": "for somebody at that level."
+    },
+    {
+      "start": 841.42,
+      "end": 843.08,
+      "start_int": 841,
+      "timestamp_label": "14:01",
+      "text": "An information system owner,"
+    },
+    {
+      "start": 843.08,
+      "end": 845.68,
+      "start_int": 843,
+      "timestamp_label": "14:03",
+      "text": "who's your network lead."
+    },
+    {
+      "start": 845.68,
+      "end": 849.46,
+      "start_int": 845,
+      "timestamp_label": "14:05",
+      "text": "So who is the master CISAd? Is it you?"
+    },
+    {
+      "start": 849.46,
+      "end": 850.96,
+      "start_int": 849,
+      "timestamp_label": "14:09",
+      "text": "Is it somebody else? We're going to need"
+    },
+    {
+      "start": 850.96,
+      "end": 853.68,
+      "start_int": 850,
+      "timestamp_label": "14:10",
+      "text": "that person. Authorizing official."
+    },
+    {
+      "start": 853.68,
+      "end": 854.8,
+      "start_int": 853,
+      "timestamp_label": "14:13",
+      "text": "This is probably either going to be"
+    },
+    {
+      "start": 854.8,
+      "end": 856.42,
+      "start_int": 854,
+      "timestamp_label": "14:14",
+      "text": "a commander or"
+    },
+    {
+      "start": 856.42,
+      "end": 858.0,
+      "start_int": 856,
+      "timestamp_label": "14:16",
+      "text": "commander with that system"
+    },
+    {
+      "start": 858.0,
+      "end": 859.7,
+      "start_int": 858,
+      "timestamp_label": "14:18",
+      "text": "owner for the authority to connect."
+    },
+    {
+      "start": 859.7,
+      "end": 861.22,
+      "start_int": 859,
+      "timestamp_label": "14:19",
+      "text": "And this can become more complicated"
+    },
+    {
+      "start": 861.22,
+      "end": 863.46,
+      "start_int": 861,
+      "timestamp_label": "14:21",
+      "text": "if there's contract support involved,"
+    },
+    {
+      "start": 863.46,
+      "end": 865.3,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "just because we need to make sure that"
+    },
+    {
+      "start": 865.3,
+      "end": 867.35,
+      "start_int": 865,
+      "timestamp_label": "14:25",
+      "text": "nothing's going to be broken as we come in."
+    },
+    {
+      "start": 867.35,
+      "end": 868.88,
+      "start_int": 867,
+      "timestamp_label": "14:27",
+      "text": "And then, are there"
+    },
+    {
+      "start": 868.88,
+      "end": 871.86,
+      "start_int": 868,
+      "timestamp_label": "14:28",
+      "text": "any local cybersecurity providers?"
+    },
+    {
+      "start": 871.86,
+      "end": 873.84,
+      "start_int": 871,
+      "timestamp_label": "14:31",
+      "text": "Do you have defensive assets who are local"
+    },
+    {
+      "start": 873.84,
+      "end": 875.94,
+      "start_int": 873,
+      "timestamp_label": "14:33",
+      "text": "or anyone who can begin, you know,"
+    },
+    {
+      "start": 875.94,
+      "end": 878.74,
+      "start_int": 875,
+      "timestamp_label": "14:35",
+      "text": "that first level triage before we jump up"
+    },
+    {
+      "start": 878.74,
+      "end": 880.16,
+      "start_int": 878,
+      "timestamp_label": "14:38",
+      "text": "to bring the enterprise"
+    },
+    {
+      "start": 880.16,
+      "end": 882.225,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "or maneuver elements into play?"
+    },
+    {
+      "start": 882.225,
+      "end": 885.83,
+      "start_int": 882,
+      "timestamp_label": "14:42",
+      "text": "And so as you're thinking of all of that,"
+    },
+    {
+      "start": 885.83,
+      "end": 888.03,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "there are two different ways that you"
+    },
+    {
+      "start": 888.03,
+      "end": 890.05,
+      "start_int": 888,
+      "timestamp_label": "14:48",
+      "text": "can have a team brought to your location."
+    },
+    {
+      "start": 890.05,
+      "end": 891.37,
+      "start_int": 890,
+      "timestamp_label": "14:50",
+      "text": "Plan deliberate hunt."
+    },
+    {
+      "start": 891.37,
+      "end": 892.83,
+      "start_int": 891,
+      "timestamp_label": "14:51",
+      "text": "You can either be nominated by"
+    },
+    {
+      "start": 892.83,
+      "end": 894.49,
+      "start_int": 892,
+      "timestamp_label": "14:52",
+      "text": "a combatant command staff who says,"
+    },
+    {
+      "start": 894.49,
+      "end": 896.79,
+      "start_int": 894,
+      "timestamp_label": "14:54",
+      "text": "Wow, you are super important."
+    },
+    {
+      "start": 896.79,
+      "end": 898.29,
+      "start_int": 896,
+      "timestamp_label": "14:56",
+      "text": "I need to have you secured,"
+    },
+    {
+      "start": 898.29,
+      "end": 899.77,
+      "start_int": 898,
+      "timestamp_label": "14:58",
+      "text": "or you can nominate yourself."
+    },
+    {
+      "start": 899.77,
+      "end": 901.49,
+      "start_int": 899,
+      "timestamp_label": "14:59",
+      "text": "Put your team and"
+    },
+    {
+      "start": 901.49,
+      "end": 902.69,
+      "start_int": 901,
+      "timestamp_label": "15:01",
+      "text": "your program up to"
+    },
+    {
+      "start": 902.69,
+      "end": 904.35,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "have a team come out and take a look,"
+    },
+    {
+      "start": 904.35,
+      "end": 905.87,
+      "start_int": 904,
+      "timestamp_label": "15:04",
+      "text": "much like having a fire department"
+    },
+    {
+      "start": 905.87,
+      "end": 906.77,
+      "start_int": 905,
+      "timestamp_label": "15:05",
+      "text": "come through and say, well,"
+    },
+    {
+      "start": 906.77,
+      "end": 908.49,
+      "start_int": 906,
+      "timestamp_label": "15:06",
+      "text": "you should cut back the bushes"
+    },
+    {
+      "start": 908.49,
+      "end": 909.61,
+      "start_int": 908,
+      "timestamp_label": "15:08",
+      "text": "and probably make sure"
+    },
+    {
+      "start": 909.61,
+      "end": 911.01,
+      "start_int": 909,
+      "timestamp_label": "15:09",
+      "text": "the fire alarms are working."
+    },
+    {
+      "start": 911.01,
+      "end": 912.63,
+      "start_int": 911,
+      "timestamp_label": "15:11",
+      "text": "We can come through and make sure that"
+    },
+    {
+      "start": 912.63,
+      "end": 914.57,
+      "start_int": 912,
+      "timestamp_label": "15:12",
+      "text": "your network is properly hardened."
+    },
+    {
+      "start": 914.57,
+      "end": 915.69,
+      "start_int": 914,
+      "timestamp_label": "15:14",
+      "text": "That's one of the four primary"
+    },
+    {
+      "start": 915.69,
+      "end": 917.36,
+      "start_int": 915,
+      "timestamp_label": "15:15",
+      "text": "functions of a cyber protection team."
+    },
+    {
+      "start": 917.36,
+      "end": 919.37,
+      "start_int": 917,
+      "timestamp_label": "15:17",
+      "text": "Or it'll be incident response."
+    },
+    {
+      "start": 919.37,
+      "end": 920.57,
+      "start_int": 919,
+      "timestamp_label": "15:19",
+      "text": "The house is on fire."
+    },
+    {
+      "start": 920.57,
+      "end": 922.29,
+      "start_int": 920,
+      "timestamp_label": "15:20",
+      "text": "Submit that cyber nine line,"
+    },
+    {
+      "start": 922.29,
+      "end": 923.71,
+      "start_int": 922,
+      "timestamp_label": "15:22",
+      "text": "and we're on the way."
+    },
+    {
+      "start": 923.71,
+      "end": 925.29,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "And so there's a lot of"
+    },
+    {
+      "start": 925.29,
+      "end": 926.55,
+      "start_int": 925,
+      "timestamp_label": "15:25",
+      "text": "different ways that can go."
+    },
+    {
+      "start": 926.55,
+      "end": 928.15,
+      "start_int": 926,
+      "timestamp_label": "15:26",
+      "text": "Here's the other thing to know is"
+    },
+    {
+      "start": 928.15,
+      "end": 930.71,
+      "start_int": 928,
+      "timestamp_label": "15:28",
+      "text": "that there's no animosity."
+    },
+    {
+      "start": 930.71,
+      "end": 932.41,
+      "start_int": 930,
+      "timestamp_label": "15:30",
+      "text": "There's nothing stopping a team"
+    },
+    {
+      "start": 932.41,
+      "end": 933.99,
+      "start_int": 932,
+      "timestamp_label": "15:32",
+      "text": "from going to just support."
+    },
+    {
+      "start": 933.99,
+      "end": 934.59,
+      "start_int": 933,
+      "timestamp_label": "15:33",
+      "text": "So if you're"
+    },
+    {
+      "start": 934.59,
+      "end": 936.07,
+      "start_int": 934,
+      "timestamp_label": "15:34",
+      "text": "local cyber defenders are just saying,"
+    },
+    {
+      "start": 936.07,
+      "end": 937.67,
+      "start_int": 936,
+      "timestamp_label": "15:36",
+      "text": "We've got it, we believe you."
+    },
+    {
+      "start": 937.67,
+      "end": 938.89,
+      "start_int": 937,
+      "timestamp_label": "15:37",
+      "text": "You've probably got people who know"
+    },
+    {
+      "start": 938.89,
+      "end": 940.61,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "the network better than anyone else."
+    },
+    {
+      "start": 940.61,
+      "end": 942.23,
+      "start_int": 940,
+      "timestamp_label": "15:40",
+      "text": "They are all here to support"
+    },
+    {
+      "start": 942.23,
+      "end": 943.67,
+      "start_int": 942,
+      "timestamp_label": "15:42",
+      "text": "you and your mission"
+    },
+    {
+      "start": 943.67,
+      "end": 945.37,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "and keep you operational"
+    },
+    {
+      "start": 945.37,
+      "end": 947.69,
+      "start_int": 945,
+      "timestamp_label": "15:45",
+      "text": "through some very bad days."
+    },
+    {
+      "start": 947.69,
+      "end": 952.14,
+      "start_int": 947,
+      "timestamp_label": "15:47",
+      "text": "But I'll go ahead and leave some POCs here."
+    },
+    {
+      "start": 952.14,
+      "end": 954.28,
+      "start_int": 952,
+      "timestamp_label": "15:52",
+      "text": "First, we have the 16th Air Force A"
+    },
+    {
+      "start": 954.28,
+      "end": 956.3,
+      "start_int": 954,
+      "timestamp_label": "15:54",
+      "text": "35 Orders Management shop,"
+    },
+    {
+      "start": 956.3,
+      "end": 957.9,
+      "start_int": 956,
+      "timestamp_label": "15:56",
+      "text": "specifically, looking at"
+    },
+    {
+      "start": 957.9,
+      "end": 959.6,
+      "start_int": 957,
+      "timestamp_label": "15:57",
+      "text": "the requests for support office."
+    },
+    {
+      "start": 959.6,
+      "end": 961.5,
+      "start_int": 959,
+      "timestamp_label": "15:59",
+      "text": "They can answer any questions you have."
+    },
+    {
+      "start": 961.5,
+      "end": 963.34,
+      "start_int": 961,
+      "timestamp_label": "16:01",
+      "text": "Or more importantly, you can reach out to"
+    },
+    {
+      "start": 963.34,
+      "end": 965.08,
+      "start_int": 963,
+      "timestamp_label": "16:03",
+      "text": "the 616 Operations Center."
+    },
+    {
+      "start": 965.08,
+      "end": 965.42,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "We have"
+    },
+    {
+      "start": 965.42,
+      "end": 967.42,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "a senior duty officer who is available"
+    },
+    {
+      "start": 967.42,
+      "end": 969.72,
+      "start_int": 967,
+      "timestamp_label": "16:07",
+      "text": "247 at any of"
+    },
+    {
+      "start": 969.72,
+      "end": 971.58,
+      "start_int": 969,
+      "timestamp_label": "16:09",
+      "text": "the following three email addresses,"
+    },
+    {
+      "start": 971.58,
+      "end": 973.08,
+      "start_int": 971,
+      "timestamp_label": "16:11",
+      "text": "and we'd be happy to"
+    },
+    {
+      "start": 973.08,
+      "end": 974.9,
+      "start_int": 973,
+      "timestamp_label": "16:13",
+      "text": "connect you with any resources."
+    },
+    {
+      "start": 974.9,
+      "end": 977.04,
+      "start_int": 974,
+      "timestamp_label": "16:14",
+      "text": "And even if you're"
+    },
+    {
+      "start": 977.04,
+      "end": 978.76,
+      "start_int": 977,
+      "timestamp_label": "16:17",
+      "text": "not connected to an Air Force system,"
+    },
+    {
+      "start": 978.76,
+      "end": 980.06,
+      "start_int": 978,
+      "timestamp_label": "16:18",
+      "text": "if you're just looking for"
+    },
+    {
+      "start": 980.06,
+      "end": 981.52,
+      "start_int": 980,
+      "timestamp_label": "16:20",
+      "text": "help, reach out to us."
+    },
+    {
+      "start": 981.52,
+      "end": 982.72,
+      "start_int": 981,
+      "timestamp_label": "16:21",
+      "text": "We can help connect you back to"
+    },
+    {
+      "start": 982.72,
+      "end": 984.5,
+      "start_int": 982,
+      "timestamp_label": "16:22",
+      "text": "CyberCom and get"
+    },
+    {
+      "start": 984.5,
+      "end": 986.1,
+      "start_int": 984,
+      "timestamp_label": "16:24",
+      "text": "you back to your joint"
+    },
+    {
+      "start": 986.1,
+      "end": 987.955,
+      "start_int": 986,
+      "timestamp_label": "16:26",
+      "text": "entity that should be assisting."
+    },
+    {
+      "start": 987.955,
+      "end": 990.41,
+      "start_int": 987,
+      "timestamp_label": "16:27",
+      "text": "So I'll go ahead and open the floor."
+    },
+    {
+      "start": 990.41,
+      "end": 992.03,
+      "start_int": 990,
+      "timestamp_label": "16:30",
+      "text": "Unfortunately, I can't see the comments"
+    },
+    {
+      "start": 992.03,
+      "end": 993.55,
+      "start_int": 992,
+      "timestamp_label": "16:32",
+      "text": "up with the slides up."
+    },
+    {
+      "start": 993.55,
+      "end": 995.33,
+      "start_int": 993,
+      "timestamp_label": "16:33",
+      "text": "But if there's any questions, I'd"
+    },
+    {
+      "start": 995.33,
+      "end": 997.75,
+      "start_int": 995,
+      "timestamp_label": "16:35",
+      "text": "be happy to answer those now."
+    },
+    {
+      "start": 1012.59,
+      "end": 1013.99,
+      "start_int": 1012,
+      "timestamp_label": "16:52",
+      "text": "Currently,"
+    },
+    {
+      "start": 1013.99,
+      "end": 1016.71,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "there are no questions in the chat."
+    },
+    {
+      "start": 1024.08,
+      "end": 1027.6,
+      "start_int": 1024,
+      "timestamp_label": "17:04",
+      "text": "A major. Do you work with"
+    },
+    {
+      "start": 1027.6,
+      "end": 1030.04,
+      "start_int": 1027,
+      "timestamp_label": "17:07",
+      "text": "the contract support"
+    },
+    {
+      "start": 1030.04,
+      "end": 1032.28,
+      "start_int": 1030,
+      "timestamp_label": "17:10",
+      "text": "for the Air Force as well?"
+    },
+    {
+      "start": 1033.2,
+      "end": 1035.18,
+      "start_int": 1033,
+      "timestamp_label": "17:13",
+      "text": "So there's a variety of"
+    },
+    {
+      "start": 1035.18,
+      "end": 1036.88,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "offices that assist with that."
+    },
+    {
+      "start": 1036.88,
+      "end": 1038.62,
+      "start_int": 1036,
+      "timestamp_label": "17:16",
+      "text": "I think the primary that"
+    },
+    {
+      "start": 1038.62,
+      "end": 1040.1,
+      "start_int": 1038,
+      "timestamp_label": "17:18",
+      "text": "I would recommend speaking with"
+    },
+    {
+      "start": 1040.1,
+      "end": 1042.14,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "would be the Crow's office or"
+    },
+    {
+      "start": 1042.14,
+      "end": 1045.4,
+      "start_int": 1042,
+      "timestamp_label": "17:22",
+      "text": "the cyber resiliency of weapons systems,"
+    },
+    {
+      "start": 1045.4,
+      "end": 1048.82,
+      "start_int": 1045,
+      "timestamp_label": "17:25",
+      "text": "which really involve creating and"
+    },
+    {
+      "start": 1048.82,
+      "end": 1050.62,
+      "start_int": 1048,
+      "timestamp_label": "17:28",
+      "text": "standardizing the SIGs and"
+    },
+    {
+      "start": 1050.62,
+      "end": 1053.16,
+      "start_int": 1050,
+      "timestamp_label": "17:30",
+      "text": "requirements for networks that are created."
+    },
+    {
+      "start": 1053.16,
+      "end": 1055.86,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "So really, we're more operationally focused,"
+    },
+    {
+      "start": 1055.86,
+      "end": 1058.78,
+      "start_int": 1055,
+      "timestamp_label": "17:35",
+      "text": "but what we found is, once again,"
+    },
+    {
+      "start": 1058.78,
+      "end": 1059.92,
+      "start_int": 1058,
+      "timestamp_label": "17:38",
+      "text": "as you work your way"
+    },
+    {
+      "start": 1059.92,
+      "end": 1061.52,
+      "start_int": 1059,
+      "timestamp_label": "17:39",
+      "text": "back off the battlefield,"
+    },
+    {
+      "start": 1061.52,
+      "end": 1066.64,
+      "start_int": 1061,
+      "timestamp_label": "17:41",
+      "text": "that we have adversary focus on soft targets."
+    },
+    {
+      "start": 1066.64,
+      "end": 1068.12,
+      "start_int": 1066,
+      "timestamp_label": "17:46",
+      "text": "And so that was part of the reason why"
+    },
+    {
+      "start": 1068.12,
+      "end": 1069.36,
+      "start_int": 1068,
+      "timestamp_label": "17:48",
+      "text": "today we wanted to have"
+    },
+    {
+      "start": 1069.36,
+      "end": 1070.76,
+      "start_int": 1069,
+      "timestamp_label": "17:49",
+      "text": "this conversation and say that"
+    },
+    {
+      "start": 1070.76,
+      "end": 1072.86,
+      "start_int": 1070,
+      "timestamp_label": "17:50",
+      "text": "these assets are available to you,"
+    },
+    {
+      "start": 1072.86,
+      "end": 1074.68,
+      "start_int": 1072,
+      "timestamp_label": "17:52",
+      "text": "and we have the ability to support"
+    },
+    {
+      "start": 1074.68,
+      "end": 1076.48,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "your mission, and more importantly,"
+    },
+    {
+      "start": 1076.48,
+      "end": 1077.48,
+      "start_int": 1076,
+      "timestamp_label": "17:56",
+      "text": "just make sure everybody's"
+    },
+    {
+      "start": 1077.48,
+      "end": 1078.52,
+      "start_int": 1077,
+      "timestamp_label": "17:57",
+      "text": "kind of got that visual"
+    },
+    {
+      "start": 1078.52,
+      "end": 1082.28,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "of what the cyber fire department looks like."
+    },
+    {
+      "start": 1085.68,
+      "end": 1089.4,
+      "start_int": 1085,
+      "timestamp_label": "18:05",
+      "text": "All right, thank you. Yeah, the slides"
+    },
+    {
+      "start": 1089.4,
+      "end": 1090.66,
+      "start_int": 1089,
+      "timestamp_label": "18:09",
+      "text": "will be available to"
+    },
+    {
+      "start": 1090.66,
+      "end": 1095.54,
+      "start_int": 1090,
+      "timestamp_label": "18:10",
+      "text": "download after this presentation."
+    },
+    {
+      "start": 1095.54,
+      "end": 1097.28,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "Once this is all done,"
+    },
+    {
+      "start": 1097.28,
+      "end": 1099.92,
+      "start_int": 1097,
+      "timestamp_label": "18:17",
+      "text": "there'll be a link to the slides."
+    },
+    {
+      "start": 1102.96,
+      "end": 1106.4,
+      "start_int": 1102,
+      "timestamp_label": "18:22",
+      "text": "Yep. Yeah, we can get that taken care."
+    },
+    {
+      "start": 1132.65,
+      "end": 1134.71,
+      "start_int": 1132,
+      "timestamp_label": "18:52",
+      "text": "I'll go ahead and go back to"
+    },
+    {
+      "start": 1134.71,
+      "end": 1135.89,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "our POC information"
+    },
+    {
+      "start": 1135.89,
+      "end": 1138.13,
+      "start_int": 1135,
+      "timestamp_label": "18:55",
+      "text": "just in case anybody needs it."
+    },
+    {
+      "start": 1197.47,
+      "end": 1199.85,
+      "start_int": 1197,
+      "timestamp_label": "19:57",
+      "text": "So Major,"
+    },
+    {
+      "start": 1199.85,
+      "end": 1201.73,
+      "start_int": 1199,
+      "timestamp_label": "19:59",
+      "text": "are you able to go a little bit more"
+    },
+    {
+      "start": 1201.73,
+      "end": 1208.47,
+      "start_int": 1201,
+      "timestamp_label": "20:01",
+      "text": "in the life of one of your operation members?"
+    },
+    {
+      "start": 1209.03,
+      "end": 1212.43,
+      "start_int": 1209,
+      "timestamp_label": "20:09",
+      "text": "Sure. We can talk a little more into that."
+    },
+    {
+      "start": 1212.91,
+      "end": 1215.33,
+      "start_int": 1212,
+      "timestamp_label": "20:12",
+      "text": "So yeah,"
+    },
+    {
+      "start": 1215.33,
+      "end": 1217.23,
+      "start_int": 1215,
+      "timestamp_label": "20:15",
+      "text": "when we're talking about enterprise security,"
+    },
+    {
+      "start": 1217.23,
+      "end": 1217.65,
+      "start_int": 1217,
+      "timestamp_label": "20:17",
+      "text": "of course,"
+    },
+    {
+      "start": 1217.65,
+      "end": 1220.87,
+      "start_int": 1217,
+      "timestamp_label": "20:17",
+      "text": "they're constantly monitoring the network."
+    },
+    {
+      "start": 1220.87,
+      "end": 1222.89,
+      "start_int": 1220,
+      "timestamp_label": "20:20",
+      "text": "And so we would have the 33rd"
+    },
+    {
+      "start": 1222.89,
+      "end": 1225.27,
+      "start_int": 1222,
+      "timestamp_label": "20:22",
+      "text": "and 616 Operations Center,"
+    },
+    {
+      "start": 1225.27,
+      "end": 1226.69,
+      "start_int": 1225,
+      "timestamp_label": "20:25",
+      "text": "providing command and control"
+    },
+    {
+      "start": 1226.69,
+      "end": 1231.57,
+      "start_int": 1226,
+      "timestamp_label": "20:26",
+      "text": "for management of the Af Net AFN,"
+    },
+    {
+      "start": 1231.57,
+      "end": 1234.71,
+      "start_int": 1231,
+      "timestamp_label": "20:31",
+      "text": "and any inflowing and outflowing traffic."
+    },
+    {
+      "start": 1234.71,
+      "end": 1236.67,
+      "start_int": 1234,
+      "timestamp_label": "20:34",
+      "text": "When it comes to maneuver elements,"
+    },
+    {
+      "start": 1236.67,
+      "end": 1238.63,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "I think the training is to"
+    },
+    {
+      "start": 1238.63,
+      "end": 1240.81,
+      "start_int": 1238,
+      "timestamp_label": "20:38",
+      "text": "be commended that it's"
+    },
+    {
+      "start": 1240.81,
+      "end": 1244.03,
+      "start_int": 1240,
+      "timestamp_label": "20:40",
+      "text": "a multi month endeavor as they go through"
+    },
+    {
+      "start": 1244.03,
+      "end": 1246.35,
+      "start_int": 1244,
+      "timestamp_label": "20:44",
+      "text": "advanced training in digital forensics"
+    },
+    {
+      "start": 1246.35,
+      "end": 1249.15,
+      "start_int": 1246,
+      "timestamp_label": "20:46",
+      "text": "and Sand certification, and"
+    },
+    {
+      "start": 1249.15,
+      "end": 1252.67,
+      "start_int": 1249,
+      "timestamp_label": "20:49",
+      "text": "Yeah, staying at the unclassified level,"
+    },
+    {
+      "start": 1252.67,
+      "end": 1254.07,
+      "start_int": 1252,
+      "timestamp_label": "20:52",
+      "text": "I would say that these teams are highly"
+    },
+    {
+      "start": 1254.07,
+      "end": 1256.19,
+      "start_int": 1254,
+      "timestamp_label": "20:54",
+      "text": "qualified and ready to support."
+    },
+    {
+      "start": 1256.19,
+      "end": 1258.47,
+      "start_int": 1256,
+      "timestamp_label": "20:56",
+      "text": "That's often been question we've had before,"
+    },
+    {
+      "start": 1258.47,
+      "end": 1260.43,
+      "start_int": 1258,
+      "timestamp_label": "20:58",
+      "text": "how they're fielded and"
+    },
+    {
+      "start": 1260.43,
+      "end": 1262.31,
+      "start_int": 1260,
+      "timestamp_label": "21:00",
+      "text": "how they would connect into the network."
+    },
+    {
+      "start": 1262.31,
+      "end": 1264.51,
+      "start_int": 1262,
+      "timestamp_label": "21:02",
+      "text": "It's important to know these teams"
+    },
+    {
+      "start": 1264.51,
+      "end": 1265.67,
+      "start_int": 1264,
+      "timestamp_label": "21:04",
+      "text": "are, you know,"
+    },
+    {
+      "start": 1265.67,
+      "end": 1267.51,
+      "start_int": 1265,
+      "timestamp_label": "21:05",
+      "text": "specifically trained to be able to adapt to"
+    },
+    {
+      "start": 1267.51,
+      "end": 1269.27,
+      "start_int": 1267,
+      "timestamp_label": "21:07",
+      "text": "any environment and truly"
+    },
+    {
+      "start": 1269.27,
+      "end": 1271.885,
+      "start_int": 1269,
+      "timestamp_label": "21:09",
+      "text": "provide a white glove service."
+    },
+    {
+      "start": 1271.885,
+      "end": 1274.4,
+      "start_int": 1271,
+      "timestamp_label": "21:11",
+      "text": "Again, recognizing that there is"
+    },
+    {
+      "start": 1274.4,
+      "end": 1276.08,
+      "start_int": 1274,
+      "timestamp_label": "21:14",
+      "text": "a mission beyond cyber"
+    },
+    {
+      "start": 1276.08,
+      "end": 1277.46,
+      "start_int": 1276,
+      "timestamp_label": "21:16",
+      "text": "that they are supporting,"
+    },
+    {
+      "start": 1277.46,
+      "end": 1280.52,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "ensuring maximum uptime and minimum damage."
+    },
+    {
+      "start": 1280.52,
+      "end": 1283.24,
+      "start_int": 1280,
+      "timestamp_label": "21:20",
+      "text": "Of course, we recommend anyone that"
+    },
+    {
+      "start": 1283.24,
+      "end": 1284.84,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "can to submit"
+    },
+    {
+      "start": 1284.84,
+      "end": 1286.7,
+      "start_int": 1284,
+      "timestamp_label": "21:24",
+      "text": "to their appropriate authorities,"
+    },
+    {
+      "start": 1286.7,
+      "end": 1288.66,
+      "start_int": 1286,
+      "timestamp_label": "21:26",
+      "text": "whether that be through their Comms units"
+    },
+    {
+      "start": 1288.66,
+      "end": 1290.24,
+      "start_int": 1288,
+      "timestamp_label": "21:28",
+      "text": "locally or their chain of"
+    },
+    {
+      "start": 1290.24,
+      "end": 1291.02,
+      "start_int": 1290,
+      "timestamp_label": "21:30",
+      "text": "command to submit"
+    },
+    {
+      "start": 1291.02,
+      "end": 1292.74,
+      "start_int": 1291,
+      "timestamp_label": "21:31",
+      "text": "their units for hardening actions."
+    },
+    {
+      "start": 1292.74,
+      "end": 1294.88,
+      "start_int": 1292,
+      "timestamp_label": "21:32",
+      "text": "You will pretty much always find that"
+    },
+    {
+      "start": 1294.88,
+      "end": 1296.2,
+      "start_int": 1294,
+      "timestamp_label": "21:34",
+      "text": "there's value to be gained"
+    },
+    {
+      "start": 1296.2,
+      "end": 1297.68,
+      "start_int": 1296,
+      "timestamp_label": "21:36",
+      "text": "out of these conversations."
+    },
+    {
+      "start": 1297.68,
+      "end": 1300.0,
+      "start_int": 1297,
+      "timestamp_label": "21:37",
+      "text": "And again, we'd be happy to"
+    },
+    {
+      "start": 1300.0,
+      "end": 1302.4,
+      "start_int": 1300,
+      "timestamp_label": "21:40",
+      "text": "provide those services on demand."
+    },
+    {
+      "start": 1302.4,
+      "end": 1303.3,
+      "start_int": 1302,
+      "timestamp_label": "21:42",
+      "text": "I'd be happy to"
+    },
+    {
+      "start": 1303.3,
+      "end": 1305.34,
+      "start_int": 1303,
+      "timestamp_label": "21:43",
+      "text": "take any other questions here."
+    },
+    {
+      "start": 1322.81,
+      "end": 1325.11,
+      "start_int": 1322,
+      "timestamp_label": "22:02",
+      "text": "So as you go through and"
+    },
+    {
+      "start": 1325.11,
+      "end": 1328.13,
+      "start_int": 1325,
+      "timestamp_label": "22:05",
+      "text": "help groups harden their networks,"
+    },
+    {
+      "start": 1328.13,
+      "end": 1330.41,
+      "start_int": 1328,
+      "timestamp_label": "22:08",
+      "text": "do you also provide them access to"
+    },
+    {
+      "start": 1330.41,
+      "end": 1334.69,
+      "start_int": 1330,
+      "timestamp_label": "22:10",
+      "text": "tools and software as well?"
+    },
+    {
+      "start": 1334.77,
+      "end": 1337.51,
+      "start_int": 1334,
+      "timestamp_label": "22:14",
+      "text": "Is there a path for that?"
+    },
+    {
+      "start": 1337.51,
+      "end": 1340.49,
+      "start_int": 1337,
+      "timestamp_label": "22:17",
+      "text": "Yeah. Unfortunately, we are"
+    },
+    {
+      "start": 1340.49,
+      "end": 1342.81,
+      "start_int": 1340,
+      "timestamp_label": "22:20",
+      "text": "not the path to additional tools."
+    },
+    {
+      "start": 1342.81,
+      "end": 1344.87,
+      "start_int": 1342,
+      "timestamp_label": "22:22",
+      "text": "There are additional resources."
+    },
+    {
+      "start": 1344.87,
+      "end": 1345.97,
+      "start_int": 1344,
+      "timestamp_label": "22:24",
+      "text": "I believe the Crows"
+    },
+    {
+      "start": 1345.97,
+      "end": 1347.65,
+      "start_int": 1345,
+      "timestamp_label": "22:25",
+      "text": "could provide links to those,"
+    },
+    {
+      "start": 1347.65,
+      "end": 1348.51,
+      "start_int": 1347,
+      "timestamp_label": "22:27",
+      "text": "and I'll make sure"
+    },
+    {
+      "start": 1348.51,
+      "end": 1349.77,
+      "start_int": 1348,
+      "timestamp_label": "22:28",
+      "text": "their contact information is"
+    },
+    {
+      "start": 1349.77,
+      "end": 1352.65,
+      "start_int": 1349,
+      "timestamp_label": "22:29",
+      "text": "provided in our after action here."
+    },
+    {
+      "start": 1352.65,
+      "end": 1353.79,
+      "start_int": 1352,
+      "timestamp_label": "22:32",
+      "text": "Really, what you're going to"
+    },
+    {
+      "start": 1353.79,
+      "end": 1354.85,
+      "start_int": 1353,
+      "timestamp_label": "22:33",
+      "text": "find is we can provide"
+    },
+    {
+      "start": 1354.85,
+      "end": 1356.67,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "immediate support and"
+    },
+    {
+      "start": 1356.67,
+      "end": 1358.51,
+      "start_int": 1356,
+      "timestamp_label": "22:36",
+      "text": "overwatch and integration."
+    },
+    {
+      "start": 1358.51,
+      "end": 1361.07,
+      "start_int": 1358,
+      "timestamp_label": "22:38",
+      "text": "But otherwise, systems configuration"
+    },
+    {
+      "start": 1361.07,
+      "end": 1362.89,
+      "start_int": 1361,
+      "timestamp_label": "22:41",
+      "text": "is usually on the member themselves."
+    },
+    {
+      "start": 1362.89,
+      "end": 1364.47,
+      "start_int": 1362,
+      "timestamp_label": "22:42",
+      "text": "So what you'll receive are"
+    },
+    {
+      "start": 1364.47,
+      "end": 1365.77,
+      "start_int": 1364,
+      "timestamp_label": "22:44",
+      "text": "hardening recommendations"
+    },
+    {
+      "start": 1365.77,
+      "end": 1369.07,
+      "start_int": 1365,
+      "timestamp_label": "22:45",
+      "text": "or side by side instruction."
+    },
+    {
+      "start": 1369.07,
+      "end": 1370.71,
+      "start_int": 1369,
+      "timestamp_label": "22:49",
+      "text": "That's usually what we find because we do"
+    },
+    {
+      "start": 1370.71,
+      "end": 1372.71,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "bring a level of expertise."
+    },
+    {
+      "start": 1372.71,
+      "end": 1373.37,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "But again,"
+    },
+    {
+      "start": 1373.37,
+      "end": 1375.89,
+      "start_int": 1373,
+      "timestamp_label": "22:53",
+      "text": "given the usual ownership structure"
+    },
+    {
+      "start": 1375.89,
+      "end": 1377.93,
+      "start_int": 1375,
+      "timestamp_label": "22:55",
+      "text": "of PMO systems,"
+    },
+    {
+      "start": 1377.93,
+      "end": 1380.13,
+      "start_int": 1377,
+      "timestamp_label": "22:57",
+      "text": "we have to provide recommendations,"
+    },
+    {
+      "start": 1380.13,
+      "end": 1383.03,
+      "start_int": 1380,
+      "timestamp_label": "23:00",
+      "text": "especially if they are urgently needed."
+    },
+    {
+      "start": 1383.03,
+      "end": 1386.01,
+      "start_int": 1383,
+      "timestamp_label": "23:03",
+      "text": "But it would require special authorization,"
+    },
+    {
+      "start": 1386.01,
+      "end": 1386.69,
+      "start_int": 1386,
+      "timestamp_label": "23:06",
+      "text": "and that's part of"
+    },
+    {
+      "start": 1386.69,
+      "end": 1388.91,
+      "start_int": 1386,
+      "timestamp_label": "23:06",
+      "text": "the authorities to connect and"
+    },
+    {
+      "start": 1388.91,
+      "end": 1390.79,
+      "start_int": 1388,
+      "timestamp_label": "23:08",
+      "text": "agreement that come when"
+    },
+    {
+      "start": 1390.79,
+      "end": 1392.91,
+      "start_int": 1390,
+      "timestamp_label": "23:10",
+      "text": "a cyber protection team comes to visit,"
+    },
+    {
+      "start": 1392.91,
+      "end": 1394.79,
+      "start_int": 1392,
+      "timestamp_label": "23:12",
+      "text": "everything needs to be"
+    },
+    {
+      "start": 1394.79,
+      "end": 1396.79,
+      "start_int": 1394,
+      "timestamp_label": "23:14",
+      "text": "understood and pre negotiated,"
+    },
+    {
+      "start": 1396.79,
+      "end": 1398.17,
+      "start_int": 1396,
+      "timestamp_label": "23:16",
+      "text": "so everyone has an understanding"
+    },
+    {
+      "start": 1398.17,
+      "end": 1401.49,
+      "start_int": 1398,
+      "timestamp_label": "23:18",
+      "text": "of what traffic will or will not be touched,"
+    },
+    {
+      "start": 1401.49,
+      "end": 1403.77,
+      "start_int": 1401,
+      "timestamp_label": "23:21",
+      "text": "what'll make sure that a box"
+    },
+    {
+      "start": 1403.77,
+      "end": 1405.15,
+      "start_int": 1403,
+      "timestamp_label": "23:23",
+      "text": "doesn't get knocked off line."
+    },
+    {
+      "start": 1405.15,
+      "end": 1407.19,
+      "start_int": 1405,
+      "timestamp_label": "23:25",
+      "text": "Is there a particular area that we want to be"
+    },
+    {
+      "start": 1407.19,
+      "end": 1410.11,
+      "start_int": 1407,
+      "timestamp_label": "23:27",
+      "text": "no strike or no interaction?"
+    },
+    {
+      "start": 1410.11,
+      "end": 1411.77,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "There's a number of"
+    },
+    {
+      "start": 1411.77,
+      "end": 1412.95,
+      "start_int": 1411,
+      "timestamp_label": "23:31",
+      "text": "things that are negotiated,"
+    },
+    {
+      "start": 1412.95,
+      "end": 1415.01,
+      "start_int": 1412,
+      "timestamp_label": "23:32",
+      "text": "and so really a PMO owner,"
+    },
+    {
+      "start": 1415.01,
+      "end": 1416.69,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "it's just knowing that there's"
+    },
+    {
+      "start": 1416.69,
+      "end": 1418.33,
+      "start_int": 1416,
+      "timestamp_label": "23:36",
+      "text": "going to be negotiation and"
+    },
+    {
+      "start": 1418.33,
+      "end": 1420.81,
+      "start_int": 1418,
+      "timestamp_label": "23:38",
+      "text": "understanding and any response and that"
+    },
+    {
+      "start": 1420.81,
+      "end": 1421.97,
+      "start_int": 1420,
+      "timestamp_label": "23:40",
+      "text": "you will have control of"
+    },
+    {
+      "start": 1421.97,
+      "end": 1424.45,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "the entire process going forward."
+    },
+    {
+      "start": 1444.73,
+      "end": 1446.85,
+      "start_int": 1444,
+      "timestamp_label": "24:04",
+      "text": "A,"
+    },
+    {
+      "start": 1463.4,
+      "end": 1464.92,
+      "start_int": 1463,
+      "timestamp_label": "24:23",
+      "text": "Will,"
+    },
+    {
+      "start": 1464.92,
+      "end": 1467.4,
+      "start_int": 1464,
+      "timestamp_label": "24:24",
+      "text": "I believe since we've reached"
+    },
+    {
+      "start": 1467.4,
+      "end": 1467.8,
+      "start_int": 1467,
+      "timestamp_label": "24:27",
+      "text": "the end of"
+    },
+    {
+      "start": 1467.8,
+      "end": 1471.02,
+      "start_int": 1467,
+      "timestamp_label": "24:27",
+      "text": "the unclassified information available,"
+    },
+    {
+      "start": 1471.02,
+      "end": 1472.62,
+      "start_int": 1471,
+      "timestamp_label": "24:31",
+      "text": "I'd turn over some of"
+    },
+    {
+      "start": 1472.62,
+      "end": 1473.9,
+      "start_int": 1472,
+      "timestamp_label": "24:32",
+      "text": "the time back to the team here."
+    },
+    {
+      "start": 1473.9,
+      "end": 1474.74,
+      "start_int": 1473,
+      "timestamp_label": "24:33",
+      "text": "Unless you have"
+    },
+    {
+      "start": 1474.74,
+      "end": 1476.18,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "any other comments or questions,"
+    },
+    {
+      "start": 1476.18,
+      "end": 1477.72,
+      "start_int": 1476,
+      "timestamp_label": "24:36",
+      "text": "I'll be happy to stay on"
+    },
+    {
+      "start": 1477.72,
+      "end": 1479.52,
+      "start_int": 1477,
+      "timestamp_label": "24:37",
+      "text": "the line and answer"
+    },
+    {
+      "start": 1479.52,
+      "end": 1481.08,
+      "start_int": 1479,
+      "timestamp_label": "24:39",
+      "text": "any further questions that anybody may have."
+    },
+    {
+      "start": 1481.08,
+      "end": 1482.08,
+      "start_int": 1481,
+      "timestamp_label": "24:41",
+      "text": "But again, just wanted to"
+    },
+    {
+      "start": 1482.08,
+      "end": 1484.08,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "say thank you for everybody's time,"
+    },
+    {
+      "start": 1484.08,
+      "end": 1485.6,
+      "start_int": 1484,
+      "timestamp_label": "24:44",
+      "text": "and we hope to see"
+    },
+    {
+      "start": 1485.6,
+      "end": 1487.92,
+      "start_int": 1485,
+      "timestamp_label": "24:45",
+      "text": "you sometime in the future."
+    },
+    {
+      "start": 1490.76,
+      "end": 1493.58,
+      "start_int": 1490,
+      "timestamp_label": "24:50",
+      "text": "Okay. Yeah, it doesn't look like there's"
+    },
+    {
+      "start": 1493.58,
+      "end": 1495.9,
+      "start_int": 1493,
+      "timestamp_label": "24:53",
+      "text": "any more questions from anyone else."
+    },
+    {
+      "start": 1495.9,
+      "end": 1497.7,
+      "start_int": 1495,
+      "timestamp_label": "24:55",
+      "text": "Thank you, Major."
+    },
+    {
+      "start": 1497.7,
+      "end": 1500.06,
+      "start_int": 1497,
+      "timestamp_label": "24:57",
+      "text": "This was very useful information."
+    },
+    {
+      "start": 1500.06,
+      "end": 1501.86,
+      "start_int": 1500,
+      "timestamp_label": "25:00",
+      "text": "Appreciate you coming out"
+    },
+    {
+      "start": 1501.86,
+      "end": 1504.92,
+      "start_int": 1501,
+      "timestamp_label": "25:01",
+      "text": "and sharing this information with us."
+    },
+    {
+      "start": 1504.92,
+      "end": 1509.68,
+      "start_int": 1504,
+      "timestamp_label": "25:04",
+      "text": "And I'll turn the time back over to Sarah."
+    },
+    {
+      "start": 1510.68,
+      "end": 1513.9,
+      "start_int": 1510,
+      "timestamp_label": "25:10",
+      "text": "Okay, thank you so much, Major Clark,"
+    },
+    {
+      "start": 1513.9,
+      "end": 1516.24,
+      "start_int": 1513,
+      "timestamp_label": "25:13",
+      "text": "for the informative presentation"
+    },
+    {
+      "start": 1516.24,
+      "end": 1517.64,
+      "start_int": 1516,
+      "timestamp_label": "25:16",
+      "text": "that you gave today."
+    },
+    {
+      "start": 1517.64,
+      "end": 1520.22,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "That is it for today's session."
+    },
+    {
+      "start": 1520.22,
+      "end": 1522.04,
+      "start_int": 1520,
+      "timestamp_label": "25:20",
+      "text": "I will go ahead and put"
+    },
+    {
+      "start": 1522.04,
+      "end": 1525.34,
+      "start_int": 1522,
+      "timestamp_label": "25:22",
+      "text": "the survey information in the chat,"
+    },
+    {
+      "start": 1525.34,
+      "end": 1526.76,
+      "start_int": 1525,
+      "timestamp_label": "25:25",
+      "text": "and I will stay online for"
+    },
+    {
+      "start": 1526.76,
+      "end": 1528.62,
+      "start_int": 1526,
+      "timestamp_label": "25:26",
+      "text": "about 5 minutes for those who want"
+    },
+    {
+      "start": 1528.62,
+      "end": 1533.2,
+      "start_int": 1528,
+      "timestamp_label": "25:28",
+      "text": "to go ahead and copy the link."
+    },
+    {
+      "start": 1533.2,
+      "end": 1534.16,
+      "start_int": 1533,
+      "timestamp_label": "25:33",
+      "text": "That's there."
+    },
+    {
+      "start": 1534.16,
+      "end": 1536.0,
+      "start_int": 1534,
+      "timestamp_label": "25:34",
+      "text": "If the link doesn't work for you,"
+    },
+    {
+      "start": 1536.0,
+      "end": 1539.48,
+      "start_int": 1536,
+      "timestamp_label": "25:36",
+      "text": "I recommend using a personal device."
+    },
+    {
+      "start": 1539.53,
+      "end": 1544.03,
+      "start_int": 1539,
+      "timestamp_label": "25:39",
+      "text": "And that should make it work."
+    },
+    {
+      "start": 1544.03,
+      "end": 1546.43,
+      "start_int": 1544,
+      "timestamp_label": "25:44",
+      "text": "Also, please remember that"
+    },
+    {
+      "start": 1546.43,
+      "end": 1548.87,
+      "start_int": 1546,
+      "timestamp_label": "25:46",
+      "text": "if you request a completion certificate,"
+    },
+    {
+      "start": 1548.87,
+      "end": 1550.15,
+      "start_int": 1548,
+      "timestamp_label": "25:48",
+      "text": "please know that you still need"
+    },
+    {
+      "start": 1550.15,
+      "end": 1551.69,
+      "start_int": 1550,
+      "timestamp_label": "25:50",
+      "text": "to report your training hours and"
+    },
+    {
+      "start": 1551.69,
+      "end": 1555.11,
+      "start_int": 1551,
+      "timestamp_label": "25:51",
+      "text": "COPs manually to your respected agencies."
+    },
+    {
+      "start": 1555.11,
+      "end": 1557.41,
+      "start_int": 1555,
+      "timestamp_label": "25:55",
+      "text": "So again, I would like to thank"
+    },
+    {
+      "start": 1557.41,
+      "end": 1559.01,
+      "start_int": 1557,
+      "timestamp_label": "25:57",
+      "text": "Major Clark for the information"
+    },
+    {
+      "start": 1559.01,
+      "end": 1560.37,
+      "start_int": 1559,
+      "timestamp_label": "25:59",
+      "text": "that he provided today,"
+    },
+    {
+      "start": 1560.37,
+      "end": 1562.07,
+      "start_int": 1560,
+      "timestamp_label": "26:00",
+      "text": "and thank you all for joining"
+    },
+    {
+      "start": 1562.07,
+      "end": 1563.79,
+      "start_int": 1562,
+      "timestamp_label": "26:02",
+      "text": "the cyber Gov Life webinar."
+    },
+    {
+      "start": 1563.79,
+      "end": 1566.33,
+      "start_int": 1563,
+      "timestamp_label": "26:03",
+      "text": "We'll be back next month."
+    },
+    {
+      "start": 1566.33,
+      "end": 1568.35,
+      "start_int": 1566,
+      "timestamp_label": "26:06",
+      "text": "All of our webinars will be"
+    },
+    {
+      "start": 1568.35,
+      "end": 1570.825,
+      "start_int": 1568,
+      "timestamp_label": "26:08",
+      "text": "on the fourth Thursday of the month."
+    },
+    {
+      "start": 1570.825,
+      "end": 1573.04,
+      "start_int": 1570,
+      "timestamp_label": "26:10",
+      "text": "So our next one will be"
+    },
+    {
+      "start": 1573.04,
+      "end": 1576.14,
+      "start_int": 1573,
+      "timestamp_label": "26:13",
+      "text": "February 27"
+    },
+    {
+      "start": 1576.14,
+      "end": 1579.66,
+      "start_int": 1576,
+      "timestamp_label": "26:16",
+      "text": "at 12 noon Eastern Time. Thank you, everyone."
+    },
+    {
+      "start": 1579.66,
+      "end": 1580.96,
+      "start_int": 1579,
+      "timestamp_label": "26:19",
+      "text": "And again, I'll stay on for"
+    },
+    {
+      "start": 1580.96,
+      "end": 1582.44,
+      "start_int": 1580,
+      "timestamp_label": "26:20",
+      "text": "a few more minutes in case"
+    },
+    {
+      "start": 1582.44,
+      "end": 1584.08,
+      "start_int": 1582,
+      "timestamp_label": "26:22",
+      "text": "anyone has questions or"
+    },
+    {
+      "start": 1584.08,
+      "end": 1586.0,
+      "start_int": 1584,
+      "timestamp_label": "26:24",
+      "text": "if they would like to"
+    },
+    {
+      "start": 1586.0,
+      "end": 1589.68,
+      "start_int": 1586,
+      "timestamp_label": "26:26",
+      "text": "copy the survey link that's in chat."
+    }
+  ]
+}

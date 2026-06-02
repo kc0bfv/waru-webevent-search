@@ -1,0 +1,4926 @@
+{
+  "id": "2022-03-23-cyber-resilient-weapon-systems-body-of-knowledge-portal-32322",
+  "title": "Cyber Resilient Weapon Systems Body of Knowledge Portal 3.23.22",
+  "date": "2022-03-23",
+  "event_url": "https://www.waru.edu/events/cyber-resilient-weapon-systems-body-knowledge-crws-bok-portal",
+  "entry_id": "1_ucn1mzqs",
+  "partner_id": "2203981",
+  "uiconf_id": "39997971",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_ucn1mzqs/version/100001",
+  "cues": [
+    {
+      "start": 0.84,
+      "end": 4.29,
+      "start_int": 0,
+      "timestamp_label": "0:00",
+      "text": "&gt;&gt; I'd like to thank everyone for joining today's DAU web event."
+    },
+    {
+      "start": 4.29,
+      "end": 8.8,
+      "start_int": 4,
+      "timestamp_label": "0:04",
+      "text": "Today, we have the Cyber Resilient Weapon Systems Body of Knowledge Portal."
+    },
+    {
+      "start": 8.8,
+      "end": 10.08,
+      "start_int": 8,
+      "timestamp_label": "0:08",
+      "text": "My name is Emmett Simmons."
+    },
+    {
+      "start": 10.08,
+      "end": 11.93,
+      "start_int": 10,
+      "timestamp_label": "0:10",
+      "text": "I'm the producer for today's event."
+    },
+    {
+      "start": 11.93,
+      "end": 14.27,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "We also have Aaron Jacobson on as our host."
+    },
+    {
+      "start": 14.27,
+      "end": 16.68,
+      "start_int": 14,
+      "timestamp_label": "0:14",
+      "text": "The agenda for today is posted."
+    },
+    {
+      "start": 16.68,
+      "end": 19.14,
+      "start_int": 16,
+      "timestamp_label": "0:16",
+      "text": "Your microphones will be muted throughout the session."
+    },
+    {
+      "start": 19.14,
+      "end": 20.7,
+      "start_int": 19,
+      "timestamp_label": "0:19",
+      "text": "The session is being recorded."
+    },
+    {
+      "start": 20.7,
+      "end": 23.9,
+      "start_int": 20,
+      "timestamp_label": "0:20",
+      "text": "It will be posted to dau.edu/events."
+    },
+    {
+      "start": 23.9,
+      "end": 26.92,
+      "start_int": 23,
+      "timestamp_label": "0:23",
+      "text": "Please submit all your questions via the chat."
+    },
+    {
+      "start": 26.92,
+      "end": 29.39,
+      "start_int": 26,
+      "timestamp_label": "0:26",
+      "text": "We'll respond to your questions towards the end of the event."
+    },
+    {
+      "start": 29.39,
+      "end": 34.43,
+      "start_int": 29,
+      "timestamp_label": "0:29",
+      "text": "There is a survey at the end where we will post a link to the survey in the chat."
+    },
+    {
+      "start": 34.43,
+      "end": 36.38,
+      "start_int": 34,
+      "timestamp_label": "0:34",
+      "text": "It takes a couple minutes to fill it out."
+    },
+    {
+      "start": 36.38,
+      "end": 38.13,
+      "start_int": 36,
+      "timestamp_label": "0:36",
+      "text": "We appreciate you for it."
+    },
+    {
+      "start": 38.13,
+      "end": 43.79,
+      "start_int": 38,
+      "timestamp_label": "0:38",
+      "text": "If you're here for CLPs, this session does qualify for one CLP with supervisor approval."
+    },
+    {
+      "start": 43.79,
+      "end": 44.85,
+      "start_int": 43,
+      "timestamp_label": "0:43",
+      "text": "It is not automatic."
+    },
+    {
+      "start": 44.85,
+      "end": 46.62,
+      "start_int": 44,
+      "timestamp_label": "0:44",
+      "text": "You will have to apply for it."
+    },
+    {
+      "start": 46.62,
+      "end": 49.93,
+      "start_int": 46,
+      "timestamp_label": "0:46",
+      "text": "At the end of the survey, there's a section to put your e mail address in,"
+    },
+    {
+      "start": 49.93,
+      "end": 53.47,
+      "start_int": 49,
+      "timestamp_label": "0:49",
+      "text": "and it will e mail you a CLP certificate to submit if you need it."
+    },
+    {
+      "start": 53.47,
+      "end": 56.44,
+      "start_int": 53,
+      "timestamp_label": "0:53",
+      "text": "And now I'm going to turn it over to Aaron to introduce our speakers."
+    },
+    {
+      "start": 56.44,
+      "end": 58.08,
+      "start_int": 56,
+      "timestamp_label": "0:56",
+      "text": "&gt;&gt; All right."
+    },
+    {
+      "start": 58.08,
+      "end": 59.44,
+      "start_int": 58,
+      "timestamp_label": "0:58",
+      "text": "Thank you, Emmett."
+    },
+    {
+      "start": 59.44,
+      "end": 60.96,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "Good morning, everybody."
+    },
+    {
+      "start": 60.96,
+      "end": 66.65,
+      "start_int": 60,
+      "timestamp_label": "1:00",
+      "text": "Aaron Jacobson here, professor of cybersecurity at DAU, learning asset manager for SCRE,"
+    },
+    {
+      "start": 66.65,
+      "end": 69.26,
+      "start_int": 66,
+      "timestamp_label": "1:06",
+      "text": "which is secure cyber resilient engineering."
+    },
+    {
+      "start": 69.26,
+      "end": 74.45,
+      "start_int": 69,
+      "timestamp_label": "1:09",
+      "text": "Today, we're going to visit cyber resilient weapon system body of knowledge portal."
+    },
+    {
+      "start": 74.45,
+      "end": 79.32,
+      "start_int": 74,
+      "timestamp_label": "1:14",
+      "text": "The body of knowledge provides a comprehensive repository of publicly available guidance"
+    },
+    {
+      "start": 79.32,
+      "end": 84.97,
+      "start_int": 79,
+      "timestamp_label": "1:19",
+      "text": "and knowledge to assist a workforce in the engineering of cyber resilient weapon systems."
+    },
+    {
+      "start": 84.97,
+      "end": 89.97,
+      "start_int": 84,
+      "timestamp_label": "1:24",
+      "text": "Users can include engineering, engineer and science technology manager with research,"
+    },
+    {
+      "start": 89.97,
+      "end": 95.51,
+      "start_int": 89,
+      "timestamp_label": "1:29",
+      "text": "researchers from across DoD, federal government industry and academia, can now access"
+    },
+    {
+      "start": 95.51,
+      "end": 99.69,
+      "start_int": 95,
+      "timestamp_label": "1:35",
+      "text": "and share crucial engineering information needed to develop, maintain,"
+    },
+    {
+      "start": 99.69,
+      "end": 102.63,
+      "start_int": 99,
+      "timestamp_label": "1:39",
+      "text": "and monitor secure cyber resilient weapon system programs."
+    },
+    {
+      "start": 102.63,
+      "end": 107.38,
+      "start_int": 102,
+      "timestamp_label": "1:42",
+      "text": "First, I'm going to introduce Ms. Angela Lungu."
+    },
+    {
+      "start": 107.38,
+      "end": 112.71,
+      "start_int": 107,
+      "timestamp_label": "1:47",
+      "text": "She provides support to the resilient system policy guidance and standards for OUSD research"
+    },
+    {
+      "start": 112.71,
+      "end": 118.11,
+      "start_int": 112,
+      "timestamp_label": "1:52",
+      "text": "and engineering in the Office of Strategic Technology Protection and Exploitation."
+    },
+    {
+      "start": 118.11,
+      "end": 122.25,
+      "start_int": 118,
+      "timestamp_label": "1:58",
+      "text": "She is the project lead for the Cyber Resilient Weapon Systems Body of Knowledge,"
+    },
+    {
+      "start": 122.25,
+      "end": 125.6,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "which she has been leading since April of 2020."
+    },
+    {
+      "start": 125.6,
+      "end": 131.04,
+      "start_int": 125,
+      "timestamp_label": "2:05",
+      "text": "From 2009 up until her current project, she worked for OUSD R&amp;E"
+    },
+    {
+      "start": 131.04,
+      "end": 133.46,
+      "start_int": 131,
+      "timestamp_label": "2:11",
+      "text": "as a member of the software analysis team."
+    },
+    {
+      "start": 133.46,
+      "end": 137.62,
+      "start_int": 133,
+      "timestamp_label": "2:13",
+      "text": "Her previous experience includes program protection lead at Missile Defense Agency"
+    },
+    {
+      "start": 137.62,
+      "end": 140.96,
+      "start_int": 137,
+      "timestamp_label": "2:17",
+      "text": "and computational social science projects at DARPA."
+    },
+    {
+      "start": 140.96,
+      "end": 144.46,
+      "start_int": 140,
+      "timestamp_label": "2:20",
+      "text": "She is a retired military engineering officer and a graduate"
+    },
+    {
+      "start": 144.46,
+      "end": 148.16,
+      "start_int": 144,
+      "timestamp_label": "2:24",
+      "text": "of the U.S. Military Academy at West Point."
+    },
+    {
+      "start": 148.16,
+      "end": 149.78,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "So, so, welcome, Ms. Angela."
+    },
+    {
+      "start": 149.78,
+      "end": 151.94,
+      "start_int": 149,
+      "timestamp_label": "2:29",
+      "text": "Next, please."
+    },
+    {
+      "start": 156.26,
+      "end": 159.61,
+      "start_int": 156,
+      "timestamp_label": "2:36",
+      "text": "Next is Ms. Madison Rudy."
+    },
+    {
+      "start": 159.61,
+      "end": 163.04,
+      "start_int": 159,
+      "timestamp_label": "2:39",
+      "text": "She also provides support for resilient system policy, guidance,"
+    },
+    {
+      "start": 163.04,
+      "end": 167.08,
+      "start_int": 163,
+      "timestamp_label": "2:43",
+      "text": "and standards in the OUSD Research and Engineering Office"
+    },
+    {
+      "start": 167.08,
+      "end": 170.8,
+      "start_int": 167,
+      "timestamp_label": "2:47",
+      "text": "of Strategic Technology and Protection and Exploitation."
+    },
+    {
+      "start": 170.8,
+      "end": 175.8,
+      "start_int": 170,
+      "timestamp_label": "2:50",
+      "text": "She's a lead analyst for the cyber resilient weapon systems body of knowledge."
+    },
+    {
+      "start": 175.8,
+      "end": 180.71,
+      "start_int": 175,
+      "timestamp_label": "2:55",
+      "text": "She provides additional support to the JFAC, Joint Federated Assurance Center."
+    },
+    {
+      "start": 180.71,
+      "end": 186.49,
+      "start_int": 180,
+      "timestamp_label": "3:00",
+      "text": "Her research area focuses on threat and risk assessments, database development,"
+    },
+    {
+      "start": 186.49,
+      "end": 188.74,
+      "start_int": 186,
+      "timestamp_label": "3:06",
+      "text": "data analysis for software assurance."
+    },
+    {
+      "start": 188.74,
+      "end": 193.59,
+      "start_int": 188,
+      "timestamp_label": "3:08",
+      "text": "She's a graduate of Penn State University with a BS in security risk analysis,"
+    },
+    {
+      "start": 193.59,
+      "end": 196.26,
+      "start_int": 193,
+      "timestamp_label": "3:13",
+      "text": "focusing on information and cybersecurity."
+    },
+    {
+      "start": 196.26,
+      "end": 197.92,
+      "start_int": 196,
+      "timestamp_label": "3:16",
+      "text": "Go, Penn State."
+    },
+    {
+      "start": 197.92,
+      "end": 203.77,
+      "start_int": 197,
+      "timestamp_label": "3:17",
+      "text": "And lastly, next slide, we have Mr. Burhan Adam."
+    },
+    {
+      "start": 203.77,
+      "end": 209.82,
+      "start_int": 203,
+      "timestamp_label": "3:23",
+      "text": "He is the Director for Resilient System Policy, Guidance and Standards in the OUSD Office"
+    },
+    {
+      "start": 209.82,
+      "end": 213.48,
+      "start_int": 209,
+      "timestamp_label": "3:29",
+      "text": "of Strategic Technology Protection and Exploitation."
+    },
+    {
+      "start": 213.48,
+      "end": 217.04,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "He leads a secure cyber resilient engineering standards area"
+    },
+    {
+      "start": 217.04,
+      "end": 220.09,
+      "start_int": 217,
+      "timestamp_label": "3:37",
+      "text": "under the defense standardization program."
+    },
+    {
+      "start": 220.09,
+      "end": 225.17,
+      "start_int": 220,
+      "timestamp_label": "3:40",
+      "text": "He is responsible for overseeing technology protection, technical information,"
+    },
+    {
+      "start": 225.17,
+      "end": 229.17,
+      "start_int": 225,
+      "timestamp_label": "3:45",
+      "text": "program protection, supply chain, cyber resilient weapon systems,"
+    },
+    {
+      "start": 229.17,
+      "end": 234.71,
+      "start_int": 229,
+      "timestamp_label": "3:49",
+      "text": "and system security engineering policy, guidance, acquisition regulations, standards,"
+    },
+    {
+      "start": 234.71,
+      "end": 239.04,
+      "start_int": 234,
+      "timestamp_label": "3:54",
+      "text": "education training, as well as engineering methods, tools, and techniques."
+    },
+    {
+      "start": 239.04,
+      "end": 246.48,
+      "start_int": 239,
+      "timestamp_label": "3:59",
+      "text": "And now we'll hand it over to Mr. Burhan Adam to give his presentation."
+    },
+    {
+      "start": 246.48,
+      "end": 257.22,
+      "start_int": 246,
+      "timestamp_label": "4:06",
+      "text": "&gt;&gt; Can you thank you, thank you Dr. Jacobs, thanks very much for those kind introductions."
+    },
+    {
+      "start": 257.22,
+      "end": 263.86,
+      "start_int": 257,
+      "timestamp_label": "4:17",
+      "text": "As Dr. Jacobson said, within my area of responsibilities, among other things,"
+    },
+    {
+      "start": 263.86,
+      "end": 272.23,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "includes cyber resilient weapon systems engineering past products of collecting"
+    },
+    {
+      "start": 272.23,
+      "end": 276.74,
+      "start_int": 272,
+      "timestamp_label": "4:32",
+      "text": "and capturing and establishing best practices and developing support"
+    },
+    {
+      "start": 276.74,
+      "end": 280.13,
+      "start_int": 276,
+      "timestamp_label": "4:36",
+      "text": "and guidebooks associated with that of standards."
+    },
+    {
+      "start": 280.13,
+      "end": 284.28,
+      "start_int": 280,
+      "timestamp_label": "4:40",
+      "text": "And so to share those things that we developed with the community,"
+    },
+    {
+      "start": 284.28,
+      "end": 287.87,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "with this [inaudible] community with the cyber center technology community,"
+    },
+    {
+      "start": 287.87,
+      "end": 292.08,
+      "start_int": 287,
+      "timestamp_label": "4:47",
+      "text": "and all the technical supporting teams, both of the industry side"
+    },
+    {
+      "start": 292.08,
+      "end": 294.67,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "and [inaudible] are stakeholders."
+    },
+    {
+      "start": 294.67,
+      "end": 304.59,
+      "start_int": 294,
+      "timestamp_label": "4:54",
+      "text": "We needed to establish a means and way to have her technical repository, online repository,"
+    },
+    {
+      "start": 304.59,
+      "end": 308.96,
+      "start_int": 304,
+      "timestamp_label": "5:04",
+      "text": "I should say, to make that available, so that people can share information,"
+    },
+    {
+      "start": 308.96,
+      "end": 312.66,
+      "start_int": 308,
+      "timestamp_label": "5:08",
+      "text": "can communicate as needed, and able"
+    },
+    {
+      "start": 312.66,
+      "end": 318.04,
+      "start_int": 312,
+      "timestamp_label": "5:12",
+      "text": "to also facilitate some sort of a collaboration in that way."
+    },
+    {
+      "start": 318.04,
+      "end": 325.91,
+      "start_int": 318,
+      "timestamp_label": "5:18",
+      "text": "So, this idea of the CRWS body of knowledge was sprung, and it's now in full operational"
+    },
+    {
+      "start": 325.91,
+      "end": 329.83,
+      "start_int": 325,
+      "timestamp_label": "5:25",
+      "text": "and as a team we have here today will walk you through that."
+    },
+    {
+      "start": 329.83,
+      "end": 336.43,
+      "start_int": 329,
+      "timestamp_label": "5:29",
+      "text": "And I am very pleased that we have this opportunity to talk to you today."
+    },
+    {
+      "start": 336.43,
+      "end": 338.03,
+      "start_int": 336,
+      "timestamp_label": "5:36",
+      "text": "And so thank you for your attendance."
+    },
+    {
+      "start": 338.03,
+      "end": 340.31,
+      "start_int": 338,
+      "timestamp_label": "5:38",
+      "text": "And I think you will learn a few things from here."
+    },
+    {
+      "start": 340.31,
+      "end": 346.17,
+      "start_int": 340,
+      "timestamp_label": "5:40",
+      "text": "And we expect people to leverage that among yourselves as well."
+    },
+    {
+      "start": 346.17,
+      "end": 351.68,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "So, you know, please, please contact us if you need any help, and we'll walk you through that."
+    },
+    {
+      "start": 351.68,
+      "end": 355.95,
+      "start_int": 351,
+      "timestamp_label": "5:51",
+      "text": "And through this brief, we'll give you enough information I think to get you started"
+    },
+    {
+      "start": 355.95,
+      "end": 357.41,
+      "start_int": 355,
+      "timestamp_label": "5:55",
+      "text": "and get you in the right direction."
+    },
+    {
+      "start": 357.41,
+      "end": 361.03,
+      "start_int": 357,
+      "timestamp_label": "5:57",
+      "text": "Some of you may have a previous interest in it."
+    },
+    {
+      "start": 361.03,
+      "end": 363.91,
+      "start_int": 361,
+      "timestamp_label": "6:01",
+      "text": "Some of you might have some more interest in it."
+    },
+    {
+      "start": 363.91,
+      "end": 366.3,
+      "start_int": 363,
+      "timestamp_label": "6:03",
+      "text": "And might have even equities in it."
+    },
+    {
+      "start": 366.3,
+      "end": 369.16,
+      "start_int": 366,
+      "timestamp_label": "6:06",
+      "text": "But we're here to help you out."
+    },
+    {
+      "start": 369.16,
+      "end": 375.71,
+      "start_int": 369,
+      "timestamp_label": "6:09",
+      "text": "So, with that said, CRWS BoK is really an online repository capability to collect, like I said,"
+    },
+    {
+      "start": 375.71,
+      "end": 380.06,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "a warehouse, all technical information in the space,"
+    },
+    {
+      "start": 380.06,
+      "end": 386.8,
+      "start_int": 380,
+      "timestamp_label": "6:20",
+      "text": "in the area of cyber resilient worker systems engineering, from all sorts of people"
+    },
+    {
+      "start": 386.8,
+      "end": 392.59,
+      "start_int": 386,
+      "timestamp_label": "6:26",
+      "text": "in the industry, from our labs, within the DoD, even necessarily from,"
+    },
+    {
+      "start": 392.59,
+      "end": 394.47,
+      "start_int": 392,
+      "timestamp_label": "6:32",
+      "text": "you know, from a [inaudible] as well."
+    },
+    {
+      "start": 394.47,
+      "end": 399.71,
+      "start_int": 394,
+      "timestamp_label": "6:34",
+      "text": "And also, you know, if we find something comes across, you know, from the other side"
+    },
+    {
+      "start": 399.71,
+      "end": 404.94,
+      "start_int": 399,
+      "timestamp_label": "6:39",
+      "text": "of the fellow government, we are interested in as well, because this is a problem"
+    },
+    {
+      "start": 404.94,
+      "end": 413.06,
+      "start_int": 404,
+      "timestamp_label": "6:44",
+      "text": "that affects a lot of people across, across the full spectrum or industry in government."
+    },
+    {
+      "start": 413.06,
+      "end": 418.41,
+      "start_int": 413,
+      "timestamp_label": "6:53",
+      "text": "So, we established this [inaudible] to allow, again, government industry and academia"
+    },
+    {
+      "start": 418.41,
+      "end": 421.39,
+      "start_int": 418,
+      "timestamp_label": "6:58",
+      "text": "to share technical information in this space."
+    },
+    {
+      "start": 421.39,
+      "end": 427.63,
+      "start_int": 421,
+      "timestamp_label": "7:01",
+      "text": "And it's a resource that will support our ability to decide and develop"
+    },
+    {
+      "start": 427.63,
+      "end": 431.42,
+      "start_int": 427,
+      "timestamp_label": "7:07",
+      "text": "and implement policy and strategy to design, build,"
+    },
+    {
+      "start": 431.42,
+      "end": 434.63,
+      "start_int": 431,
+      "timestamp_label": "7:11",
+      "text": "and deploy cyber resilient weapon systems."
+    },
+    {
+      "start": 434.63,
+      "end": 443.16,
+      "start_int": 434,
+      "timestamp_label": "7:14",
+      "text": "So, we thank you again for this opportunity to introduce you to this online repository."
+    },
+    {
+      "start": 443.16,
+      "end": 448.1,
+      "start_int": 443,
+      "timestamp_label": "7:23",
+      "text": "We'll give you insights into the capability and functionality"
+    },
+    {
+      "start": 448.1,
+      "end": 450.18,
+      "start_int": 448,
+      "timestamp_label": "7:28",
+      "text": "and walk you through its [inaudible] points."
+    },
+    {
+      "start": 450.18,
+      "end": 456.15,
+      "start_int": 450,
+      "timestamp_label": "7:30",
+      "text": "So, I'm just kicking off the brief, to be honest, and setting up this stage for Angela"
+    },
+    {
+      "start": 456.15,
+      "end": 458.87,
+      "start_int": 456,
+      "timestamp_label": "7:36",
+      "text": "and Madison to walk you through it."
+    },
+    {
+      "start": 458.87,
+      "end": 462.73,
+      "start_int": 458,
+      "timestamp_label": "7:38",
+      "text": "They will tag team in providing you the information today."
+    },
+    {
+      "start": 462.73,
+      "end": 469.18,
+      "start_int": 462,
+      "timestamp_label": "7:42",
+      "text": "And Angela and Madison will be, you know, the introductions quickly,"
+    },
+    {
+      "start": 469.18,
+      "end": 473.67,
+      "start_int": 469,
+      "timestamp_label": "7:49",
+      "text": "so I don't need to add anything in introducing them, unless they wanted to say something more"
+    },
+    {
+      "start": 473.67,
+      "end": 477.48,
+      "start_int": 473,
+      "timestamp_label": "7:53",
+      "text": "about what they do, but I think you have enough information there,"
+    },
+    {
+      "start": 477.48,
+      "end": 479.17,
+      "start_int": 477,
+      "timestamp_label": "7:57",
+      "text": "how they have been doing this for the past 10 years."
+    },
+    {
+      "start": 479.17,
+      "end": 484.71,
+      "start_int": 479,
+      "timestamp_label": "7:59",
+      "text": "And they have been really capable hands helping us out in putting this together."
+    },
+    {
+      "start": 484.71,
+      "end": 487.23,
+      "start_int": 484,
+      "timestamp_label": "8:04",
+      "text": "So, with that, that's the agenda."
+    },
+    {
+      "start": 487.23,
+      "end": 488.08,
+      "start_int": 487,
+      "timestamp_label": "8:07",
+      "text": "A quick diagram."
+    },
+    {
+      "start": 488.08,
+      "end": 492.46,
+      "start_int": 488,
+      "timestamp_label": "8:08",
+      "text": "I will touch on the vision of this capability quickly."
+    },
+    {
+      "start": 492.46,
+      "end": 498.86,
+      "start_int": 492,
+      "timestamp_label": "8:12",
+      "text": "And then from there, Madison will take over to walk you through the CONOPS of the capability"
+    },
+    {
+      "start": 498.86,
+      "end": 503.61,
+      "start_int": 498,
+      "timestamp_label": "8:18",
+      "text": "and how it operates, what are some responsibilities, and how we manage the creation"
+    },
+    {
+      "start": 503.61,
+      "end": 509.0,
+      "start_int": 503,
+      "timestamp_label": "8:23",
+      "text": "and the ability to maintain it and move and update us as necessary."
+    },
+    {
+      "start": 509.0,
+      "end": 515.18,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "Angela then will take over from there, walk you through the structure and how the organization"
+    },
+    {
+      "start": 515.18,
+      "end": 519.52,
+      "start_int": 515,
+      "timestamp_label": "8:35",
+      "text": "and the functionalities of the portal."
+    },
+    {
+      "start": 519.52,
+      "end": 522.08,
+      "start_int": 519,
+      "timestamp_label": "8:39",
+      "text": "And she will also share with you what we're doing"
+    },
+    {
+      "start": 522.08,
+      "end": 525.95,
+      "start_int": 522,
+      "timestamp_label": "8:42",
+      "text": "to move forward in terms of outreach like today."
+    },
+    {
+      "start": 525.95,
+      "end": 532.35,
+      "start_int": 525,
+      "timestamp_label": "8:45",
+      "text": "And then hopefully we'll get some feedback from you as, you know, as potential users."
+    },
+    {
+      "start": 532.35,
+      "end": 538.78,
+      "start_int": 532,
+      "timestamp_label": "8:52",
+      "text": "And we'll then after that we're happy to take any questions after we go through that."
+    },
+    {
+      "start": 538.78,
+      "end": 540.3,
+      "start_int": 538,
+      "timestamp_label": "8:58",
+      "text": "So, next [inaudible] please."
+    },
+    {
+      "start": 546.09,
+      "end": 549.43,
+      "start_int": 546,
+      "timestamp_label": "9:06",
+      "text": "There's a lot of words on this chart."
+    },
+    {
+      "start": 549.43,
+      "end": 552.82,
+      "start_int": 549,
+      "timestamp_label": "9:09",
+      "text": "And really mission statement normally is shorter than that."
+    },
+    {
+      "start": 552.82,
+      "end": 556.45,
+      "start_int": 552,
+      "timestamp_label": "9:12",
+      "text": "But anyways, you have here in a nutshell what the vision is."
+    },
+    {
+      "start": 556.45,
+      "end": 558.14,
+      "start_int": 556,
+      "timestamp_label": "9:16",
+      "text": "And I'm not, you know, going to read the words."
+    },
+    {
+      "start": 558.14,
+      "end": 559.38,
+      "start_int": 558,
+      "timestamp_label": "9:18",
+      "text": "But you get this."
+    },
+    {
+      "start": 559.38,
+      "end": 564.79,
+      "start_int": 559,
+      "timestamp_label": "9:19",
+      "text": "In a nutshell, it's a digital, a digital repository of the CRWS body of knowledge"
+    },
+    {
+      "start": 564.79,
+      "end": 570.27,
+      "start_int": 564,
+      "timestamp_label": "9:24",
+      "text": "and information that the community is developing, that we are collecting, curating,"
+    },
+    {
+      "start": 570.27,
+      "end": 574.43,
+      "start_int": 570,
+      "timestamp_label": "9:30",
+      "text": "and storing and sharing among engineering and science and technology community,"
+    },
+    {
+      "start": 574.43,
+      "end": 577.95,
+      "start_int": 574,
+      "timestamp_label": "9:34",
+      "text": "including industry partners in academia."
+    },
+    {
+      "start": 577.95,
+      "end": 582.18,
+      "start_int": 577,
+      "timestamp_label": "9:37",
+      "text": "Really the goal of the CRWS BoK is, is to reenact the repository."
+    },
+    {
+      "start": 582.18,
+      "end": 585.58,
+      "start_int": 582,
+      "timestamp_label": "9:42",
+      "text": "And I'm repeating myself, but really I can't emphasize enough."
+    },
+    {
+      "start": 585.58,
+      "end": 589.72,
+      "start_int": 585,
+      "timestamp_label": "9:45",
+      "text": "For learning about the secure cyber resilient engineering."
+    },
+    {
+      "start": 589.72,
+      "end": 594.24,
+      "start_int": 589,
+      "timestamp_label": "9:49",
+      "text": "I mean, that is, you may ask why, what's that, what does it mean,"
+    },
+    {
+      "start": 594.24,
+      "end": 601.61,
+      "start_int": 594,
+      "timestamp_label": "9:54",
+      "text": "it's a whole lot of new concepts, ideas that we necessarily not new, but we haven't thought"
+    },
+    {
+      "start": 601.61,
+      "end": 607.63,
+      "start_int": 601,
+      "timestamp_label": "10:01",
+      "text": "about it, and we've got to make sure that our systems that we develop are operated"
+    },
+    {
+      "start": 607.63,
+      "end": 611.29,
+      "start_int": 607,
+      "timestamp_label": "10:07",
+      "text": "on a resilient as intended from any cyber."
+    },
+    {
+      "start": 611.29,
+      "end": 615.36,
+      "start_int": 611,
+      "timestamp_label": "10:11",
+      "text": "And that is a huge area of research as we speak."
+    },
+    {
+      "start": 615.36,
+      "end": 621.82,
+      "start_int": 615,
+      "timestamp_label": "10:15",
+      "text": "And it's a problem that affects across the board in the industry as well as us."
+    },
+    {
+      "start": 621.82,
+      "end": 623.18,
+      "start_int": 621,
+      "timestamp_label": "10:21",
+      "text": "And we're working through that."
+    },
+    {
+      "start": 623.18,
+      "end": 624.89,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "And we collected that information."
+    },
+    {
+      "start": 624.89,
+      "end": 629.48,
+      "start_int": 624,
+      "timestamp_label": "10:24",
+      "text": "Dr. Jacobs, who is here, is in the middle of that from a training perspective."
+    },
+    {
+      "start": 629.48,
+      "end": 631.04,
+      "start_int": 629,
+      "timestamp_label": "10:29",
+      "text": "So, we are in the midst of that."
+    },
+    {
+      "start": 631.04,
+      "end": 637.74,
+      "start_int": 631,
+      "timestamp_label": "10:31",
+      "text": "So, this capability will help us out in terms of collecting that information"
+    },
+    {
+      "start": 637.74,
+      "end": 641.95,
+      "start_int": 637,
+      "timestamp_label": "10:37",
+      "text": "that the best practices, the things that are currently being discovered that works."
+    },
+    {
+      "start": 641.95,
+      "end": 646.94,
+      "start_int": 641,
+      "timestamp_label": "10:41",
+      "text": "The methodologies, the tools, the information that supported that."
+    },
+    {
+      "start": 646.94,
+      "end": 654.74,
+      "start_int": 646,
+      "timestamp_label": "10:46",
+      "text": "So, we are, you know, at the end of the day, we want to design and include a cyber resiliency"
+    },
+    {
+      "start": 654.74,
+      "end": 657.25,
+      "start_int": 654,
+      "timestamp_label": "10:54",
+      "text": "into the design and operations of the weapons systems."
+    },
+    {
+      "start": 657.25,
+      "end": 662.55,
+      "start_int": 657,
+      "timestamp_label": "10:57",
+      "text": "And to do that, we have to collect, you know, what works, what doesn't work,"
+    },
+    {
+      "start": 662.55,
+      "end": 666.91,
+      "start_int": 662,
+      "timestamp_label": "11:02",
+      "text": "what part is it that we can establish the right policies, the right standards."
+    },
+    {
+      "start": 666.91,
+      "end": 670.93,
+      "start_int": 666,
+      "timestamp_label": "11:06",
+      "text": "And getting that and doing the homework is important."
+    },
+    {
+      "start": 670.93,
+      "end": 674.41,
+      "start_int": 670,
+      "timestamp_label": "11:10",
+      "text": "And collecting the technical information, it's important."
+    },
+    {
+      "start": 674.41,
+      "end": 677.29,
+      "start_int": 674,
+      "timestamp_label": "11:14",
+      "text": "Working with industry, academia is important."
+    },
+    {
+      "start": 677.29,
+      "end": 680.93,
+      "start_int": 677,
+      "timestamp_label": "11:17",
+      "text": "And this is so that we can train our people and help them out in terms"
+    },
+    {
+      "start": 680.93,
+      "end": 683.26,
+      "start_int": 680,
+      "timestamp_label": "11:20",
+      "text": "of putting together the things that they need to do [inaudible]."
+    },
+    {
+      "start": 683.26,
+      "end": 689.02,
+      "start_int": 683,
+      "timestamp_label": "11:23",
+      "text": "So, again, it's a resource for our community and the stakeholders."
+    },
+    {
+      "start": 689.02,
+      "end": 693.77,
+      "start_int": 689,
+      "timestamp_label": "11:29",
+      "text": "And I will take any questions you may have before we started."
+    },
+    {
+      "start": 693.77,
+      "end": 701.26,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "If not, we'll just move onto the brief with starting off with Madison."
+    },
+    {
+      "start": 704.48,
+      "end": 708.52,
+      "start_int": 704,
+      "timestamp_label": "11:44",
+      "text": "&gt;&gt; All right, thank you, Burhan."
+    },
+    {
+      "start": 708.52,
+      "end": 712.37,
+      "start_int": 708,
+      "timestamp_label": "11:48",
+      "text": "So, just to get us started, I'm going to go over a couple of the key features"
+    },
+    {
+      "start": 712.37,
+      "end": 718.37,
+      "start_int": 712,
+      "timestamp_label": "11:52",
+      "text": "that CRWS BoK is built upon that helps distinguish it from other bodies of knowledge"
+    },
+    {
+      "start": 718.37,
+      "end": 721.17,
+      "start_int": 718,
+      "timestamp_label": "11:58",
+      "text": "that we find to be extremely useful to the community."
+    },
+    {
+      "start": 721.17,
+      "end": 725.31,
+      "start_int": 721,
+      "timestamp_label": "12:01",
+      "text": "First off is that the CRWS BoK is built off of highly,"
+    },
+    {
+      "start": 725.31,
+      "end": 729.46,
+      "start_int": 725,
+      "timestamp_label": "12:05",
+      "text": "high quality curated, publicly available resources."
+    },
+    {
+      "start": 729.46,
+      "end": 734.52,
+      "start_int": 729,
+      "timestamp_label": "12:09",
+      "text": "And I'll get into this a bit later, just to further define what exactly our criteria is"
+    },
+    {
+      "start": 734.52,
+      "end": 737.01,
+      "start_int": 734,
+      "timestamp_label": "12:14",
+      "text": "for what resources go into the CRWS BoK."
+    },
+    {
+      "start": 737.01,
+      "end": 739.47,
+      "start_int": 737,
+      "timestamp_label": "12:17",
+      "text": "But these are all available in a single web portal."
+    },
+    {
+      "start": 739.47,
+      "end": 744.5,
+      "start_int": 739,
+      "timestamp_label": "12:19",
+      "text": "Instead of having the community going out and searching for valuable resources,"
+    },
+    {
+      "start": 744.5,
+      "end": 746.53,
+      "start_int": 744,
+      "timestamp_label": "12:24",
+      "text": "they're all available in one location."
+    },
+    {
+      "start": 746.53,
+      "end": 749.69,
+      "start_int": 746,
+      "timestamp_label": "12:26",
+      "text": "I'll get into this as well later."
+    },
+    {
+      "start": 749.69,
+      "end": 755.19,
+      "start_int": 749,
+      "timestamp_label": "12:29",
+      "text": "But the CRWS BoK is also regularly updated with authoritative,"
+    },
+    {
+      "start": 755.19,
+      "end": 759.48,
+      "start_int": 755,
+      "timestamp_label": "12:35",
+      "text": "highly specialized engineering knowledge resources."
+    },
+    {
+      "start": 759.48,
+      "end": 766.21,
+      "start_int": 759,
+      "timestamp_label": "12:39",
+      "text": "Again, these are based off of certain criteria that the CRWS BoK team has established."
+    },
+    {
+      "start": 766.21,
+      "end": 772.56,
+      "start_int": 766,
+      "timestamp_label": "12:46",
+      "text": "And we go through this process quarterly to make sure that resources are being added,"
+    },
+    {
+      "start": 772.56,
+      "end": 778.02,
+      "start_int": 772,
+      "timestamp_label": "12:52",
+      "text": "as well as ensuring that the resources we do have are up to speed"
+    },
+    {
+      "start": 778.02,
+      "end": 780.45,
+      "start_int": 778,
+      "timestamp_label": "12:58",
+      "text": "with the current community standards."
+    },
+    {
+      "start": 780.45,
+      "end": 784.93,
+      "start_int": 780,
+      "timestamp_label": "13:00",
+      "text": "The CRWS BoK portal is also a powerful [inaudible] environment."
+    },
+    {
+      "start": 784.93,
+      "end": 787.38,
+      "start_int": 784,
+      "timestamp_label": "13:04",
+      "text": "Angela will get into the features later."
+    },
+    {
+      "start": 787.38,
+      "end": 798.56,
+      "start_int": 787,
+      "timestamp_label": "13:07",
+      "text": "But it's very user friendly, and allows for a lot of, a lot of community research"
+    },
+    {
+      "start": 798.56,
+      "end": 803.38,
+      "start_int": 798,
+      "timestamp_label": "13:18",
+      "text": "to be available, as well as annotations along with others."
+    },
+    {
+      "start": 803.38,
+      "end": 807.67,
+      "start_int": 803,
+      "timestamp_label": "13:23",
+      "text": "And it's also a, like I mentioned, user friendly interface with opportunities"
+    },
+    {
+      "start": 807.67,
+      "end": 810.7,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "for direct feedback from registered users."
+    },
+    {
+      "start": 810.7,
+      "end": 811.67,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "Next slide."
+    },
+    {
+      "start": 811.67,
+      "end": 822.63,
+      "start_int": 811,
+      "timestamp_label": "13:31",
+      "text": "So, the CRWS BoK stakeholders currently are OUSD R&amp;E, the Under Secretary"
+    },
+    {
+      "start": 822.63,
+      "end": 824.82,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "of Defense for Research &amp; Engineering."
+    },
+    {
+      "start": 824.82,
+      "end": 830.42,
+      "start_int": 824,
+      "timestamp_label": "13:44",
+      "text": "STP&amp;E, resilient systems, as well as SAIC."
+    },
+    {
+      "start": 830.42,
+      "end": 834.61,
+      "start_int": 830,
+      "timestamp_label": "13:50",
+      "text": "And as mentioned prior, our intended user base are those"
+    },
+    {
+      "start": 834.61,
+      "end": 839.91,
+      "start_int": 834,
+      "timestamp_label": "13:54",
+      "text": "in the secure cyber resilient engineering systems and adjacent communities."
+    },
+    {
+      "start": 839.91,
+      "end": 845.94,
+      "start_int": 839,
+      "timestamp_label": "13:59",
+      "text": "So, this might include engineers, program managers, S&amp;T managers, basically any system"
+    },
+    {
+      "start": 845.94,
+      "end": 852.11,
+      "start_int": 845,
+      "timestamp_label": "14:05",
+      "text": "that has a cyber component probably needs to be resilient, and we expect those community members"
+    },
+    {
+      "start": 852.11,
+      "end": 855.84,
+      "start_int": 852,
+      "timestamp_label": "14:12",
+      "text": "to find something of use on the CRWS BoK."
+    },
+    {
+      "start": 855.84,
+      "end": 859.55,
+      "start_int": 855,
+      "timestamp_label": "14:15",
+      "text": "So, who's in charge of adding or removing content?"
+    },
+    {
+      "start": 859.55,
+      "end": 863.4,
+      "start_int": 859,
+      "timestamp_label": "14:19",
+      "text": "And this goes back to what I mentioned earlier about the curation process."
+    },
+    {
+      "start": 863.4,
+      "end": 870.22,
+      "start_int": 863,
+      "timestamp_label": "14:23",
+      "text": "So, we have a group of, we have a review board consisting of content management stakeholders"
+    },
+    {
+      "start": 870.22,
+      "end": 880.5,
+      "start_int": 870,
+      "timestamp_label": "14:30",
+      "text": "that are representative members from government industry and academia, such as STP&amp;E, CITAG,"
+    },
+    {
+      "start": 880.5,
+      "end": 888.22,
+      "start_int": 880,
+      "timestamp_label": "14:40",
+      "text": "NDIA, and SERC, that get help from the curation team to process"
+    },
+    {
+      "start": 888.22,
+      "end": 892.89,
+      "start_int": 888,
+      "timestamp_label": "14:48",
+      "text": "through nominated resources for inclusion in the CRWS BoK."
+    },
+    {
+      "start": 892.89,
+      "end": 894.58,
+      "start_int": 892,
+      "timestamp_label": "14:52",
+      "text": "Next slide."
+    },
+    {
+      "start": 896.61,
+      "end": 901.65,
+      "start_int": 896,
+      "timestamp_label": "14:56",
+      "text": "So, the general lifecycle for how resources get added to the CRWS BoK is"
+    },
+    {
+      "start": 901.65,
+      "end": 910.29,
+      "start_int": 901,
+      "timestamp_label": "15:01",
+      "text": "that any registered user can nominate a resource for inclusion within the CRWS BoK."
+    },
+    {
+      "start": 910.29,
+      "end": 915.17,
+      "start_int": 910,
+      "timestamp_label": "15:10",
+      "text": "And these candidate resources will be packaged by the curation team"
+    },
+    {
+      "start": 915.17,
+      "end": 918.42,
+      "start_int": 915,
+      "timestamp_label": "15:15",
+      "text": "for then the review board's consideration."
+    },
+    {
+      "start": 918.42,
+      "end": 924.38,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "So, all nominated resources will be put up for curation,"
+    },
+    {
+      "start": 924.38,
+      "end": 928.33,
+      "start_int": 924,
+      "timestamp_label": "15:24",
+      "text": "for review board's review, but not all will be included."
+    },
+    {
+      "start": 928.33,
+      "end": 933.12,
+      "start_int": 928,
+      "timestamp_label": "15:28",
+      "text": "And there is a holding area that resources are placed"
+    },
+    {
+      "start": 933.12,
+      "end": 938.39,
+      "start_int": 933,
+      "timestamp_label": "15:33",
+      "text": "into so they won't immediately be available in CRWS BoK until they are reviewed."
+    },
+    {
+      "start": 938.39,
+      "end": 943.48,
+      "start_int": 938,
+      "timestamp_label": "15:38",
+      "text": "The review board will adjudicate quarterly on whether resources meet all"
+    },
+    {
+      "start": 943.48,
+      "end": 947.27,
+      "start_int": 943,
+      "timestamp_label": "15:43",
+      "text": "of the acceptance criteria for inclusion in the repository."
+    },
+    {
+      "start": 947.27,
+      "end": 952.53,
+      "start_int": 947,
+      "timestamp_label": "15:47",
+      "text": "And the curation team will then consolidate the findings, prepare the approved resources,"
+    },
+    {
+      "start": 952.53,
+      "end": 954.9,
+      "start_int": 952,
+      "timestamp_label": "15:52",
+      "text": "and move them to a CRWS BoK repository."
+    },
+    {
+      "start": 954.9,
+      "end": 959.77,
+      "start_int": 954,
+      "timestamp_label": "15:54",
+      "text": "And by prepare the approved resources, this means tagging them appropriately"
+    },
+    {
+      "start": 959.77,
+      "end": 966.95,
+      "start_int": 959,
+      "timestamp_label": "15:59",
+      "text": "with proper metadata tags, and then finally relocating them"
+    },
+    {
+      "start": 966.95,
+      "end": 968.9,
+      "start_int": 966,
+      "timestamp_label": "16:06",
+      "text": "to the CRWS BoK from the holding area."
+    },
+    {
+      "start": 968.9,
+      "end": 970.29,
+      "start_int": 968,
+      "timestamp_label": "16:08",
+      "text": "Next slide."
+    },
+    {
+      "start": 970.29,
+      "end": 976.67,
+      "start_int": 970,
+      "timestamp_label": "16:10",
+      "text": "The acceptance criteria has been predetermined."
+    },
+    {
+      "start": 976.67,
+      "end": 983.17,
+      "start_int": 976,
+      "timestamp_label": "16:16",
+      "text": "As I mentioned, none of the resources within CRWS BoK are classified,"
+    },
+    {
+      "start": 983.17,
+      "end": 986.06,
+      "start_int": 983,
+      "timestamp_label": "16:23",
+      "text": "so it's all publicly releasable material,"
+    },
+    {
+      "start": 986.06,
+      "end": 991.43,
+      "start_int": 986,
+      "timestamp_label": "16:26",
+      "text": "all approved for unrestricted public release, so nothing is sensitive."
+    },
+    {
+      "start": 991.43,
+      "end": 995.57,
+      "start_int": 991,
+      "timestamp_label": "16:31",
+      "text": "Any restricted public material, so anything you had to [inaudible]"
+    },
+    {
+      "start": 995.57,
+      "end": 1004.43,
+      "start_int": 995,
+      "timestamp_label": "16:35",
+      "text": "or with other associated exclusivity to a certain, certain sources, will have a title"
+    },
+    {
+      "start": 1004.43,
+      "end": 1009.1,
+      "start_int": 1004,
+      "timestamp_label": "16:44",
+      "text": "and a link within CRWS BoK, but the resource itself will not be available."
+    },
+    {
+      "start": 1009.1,
+      "end": 1015.04,
+      "start_int": 1009,
+      "timestamp_label": "16:49",
+      "text": "Any foreign or sovereign owned material is not accepted for inclusion within the CRWS BoK."
+    },
+    {
+      "start": 1015.04,
+      "end": 1022.02,
+      "start_int": 1015,
+      "timestamp_label": "16:55",
+      "text": "Documents in draft, just because of the constantly changing nature, can be nominated,"
+    },
+    {
+      "start": 1022.02,
+      "end": 1027.8,
+      "start_int": 1022,
+      "timestamp_label": "17:02",
+      "text": "but currently we only accept finalized drafts, or finalized versions of resources"
+    },
+    {
+      "start": 1027.8,
+      "end": 1031.54,
+      "start_int": 1027,
+      "timestamp_label": "17:07",
+      "text": "to actually be uploaded to the CRWS BoK."
+    },
+    {
+      "start": 1031.54,
+      "end": 1036.58,
+      "start_int": 1031,
+      "timestamp_label": "17:11",
+      "text": "So, while we can review them when they're in draft, we don't want to add them to the CRWS BoK"
+    },
+    {
+      "start": 1036.58,
+      "end": 1040.45,
+      "start_int": 1036,
+      "timestamp_label": "17:16",
+      "text": "until they are viewed as authoritative and a finalized version."
+    },
+    {
+      "start": 1040.45,
+      "end": 1046.34,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "And finally we have a list of topics of interest that we have consolidated"
+    },
+    {
+      "start": 1046.34,
+      "end": 1049.26,
+      "start_int": 1046,
+      "timestamp_label": "17:26",
+      "text": "that will be consulted for resource relevancy."
+    },
+    {
+      "start": 1049.26,
+      "end": 1053.57,
+      "start_int": 1049,
+      "timestamp_label": "17:29",
+      "text": "And this is available in the backup slides for any of those interested."
+    },
+    {
+      "start": 1053.57,
+      "end": 1055.34,
+      "start_int": 1053,
+      "timestamp_label": "17:33",
+      "text": "Next slide."
+    },
+    {
+      "start": 1060.83,
+      "end": 1063.25,
+      "start_int": 1060,
+      "timestamp_label": "17:40",
+      "text": "In order to maintain quality on the CRWS BoK,"
+    },
+    {
+      "start": 1063.25,
+      "end": 1069.53,
+      "start_int": 1063,
+      "timestamp_label": "17:43",
+      "text": "because the field of cyber resilience is constantly changing, we want registered users"
+    },
+    {
+      "start": 1069.53,
+      "end": 1075.08,
+      "start_int": 1069,
+      "timestamp_label": "17:49",
+      "text": "to be able to nominate new resources for consideration to be added to the CRWS BoK."
+    },
+    {
+      "start": 1075.08,
+      "end": 1078.77,
+      "start_int": 1075,
+      "timestamp_label": "17:55",
+      "text": "As I mentioned, there's also an ongoing verification"
+    },
+    {
+      "start": 1078.77,
+      "end": 1081.81,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "of resources for most current versions."
+    },
+    {
+      "start": 1081.81,
+      "end": 1087.86,
+      "start_int": 1081,
+      "timestamp_label": "18:01",
+      "text": "So, any type of updated version will be checked and added to the CRWS BoK."
+    },
+    {
+      "start": 1087.86,
+      "end": 1092.58,
+      "start_int": 1087,
+      "timestamp_label": "18:07",
+      "text": "So, if you come to the website, if you come to the portal,"
+    },
+    {
+      "start": 1092.58,
+      "end": 1095.93,
+      "start_int": 1092,
+      "timestamp_label": "18:12",
+      "text": "you can guarantee that you are getting the most up to date version"
+    },
+    {
+      "start": 1095.93,
+      "end": 1101.88,
+      "start_int": 1095,
+      "timestamp_label": "18:15",
+      "text": "of the resource available through, available to the public."
+    },
+    {
+      "start": 1101.88,
+      "end": 1109.95,
+      "start_int": 1101,
+      "timestamp_label": "18:21",
+      "text": "Registered users also have notification when new resources are published."
+    },
+    {
+      "start": 1109.95,
+      "end": 1111.91,
+      "start_int": 1109,
+      "timestamp_label": "18:29",
+      "text": "And Angela will get into this a bit later."
+    },
+    {
+      "start": 1111.91,
+      "end": 1121.3,
+      "start_int": 1111,
+      "timestamp_label": "18:31",
+      "text": "We also send out notification when resources are retired or rescinded or removed from CRWS BoK."
+    },
+    {
+      "start": 1121.3,
+      "end": 1126.71,
+      "start_int": 1121,
+      "timestamp_label": "18:41",
+      "text": "And we leverage algorithms and metrics to determine resource review schedules."
+    },
+    {
+      "start": 1126.71,
+      "end": 1133.35,
+      "start_int": 1126,
+      "timestamp_label": "18:46",
+      "text": "So, this might be if a resource has been available for a certain amount of years,"
+    },
+    {
+      "start": 1133.35,
+      "end": 1142.17,
+      "start_int": 1133,
+      "timestamp_label": "18:53",
+      "text": "or if it's not frequently being accessed by users, if it has a poor user review rating,"
+    },
+    {
+      "start": 1142.17,
+      "end": 1145.52,
+      "start_int": 1142,
+      "timestamp_label": "19:02",
+      "text": "we might put it up for consideration for removal."
+    },
+    {
+      "start": 1145.52,
+      "end": 1150.97,
+      "start_int": 1145,
+      "timestamp_label": "19:05",
+      "text": "And with that, I will hand it over to Angela to get into the features of the CRWS BoK."
+    },
+    {
+      "start": 1157.22,
+      "end": 1160.59,
+      "start_int": 1157,
+      "timestamp_label": "19:17",
+      "text": "&gt;&gt; Okay, so thank you, Madison for that."
+    },
+    {
+      "start": 1160.59,
+      "end": 1162.46,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "Sorry for the little hiccup there."
+    },
+    {
+      "start": 1162.46,
+      "end": 1167.85,
+      "start_int": 1162,
+      "timestamp_label": "19:22",
+      "text": "So, I'm going to go ahead and cover the current features of CRWS BoK."
+    },
+    {
+      "start": 1167.85,
+      "end": 1173.07,
+      "start_int": 1167,
+      "timestamp_label": "19:27",
+      "text": "And most recently, we released Version 1.3 of CRWS BoK at the beginning of February."
+    },
+    {
+      "start": 1173.07,
+      "end": 1178.26,
+      "start_int": 1173,
+      "timestamp_label": "19:33",
+      "text": "And that introduced several new capabilities and improvements to CRWS BoK overall."
+    },
+    {
+      "start": 1178.26,
+      "end": 1181.39,
+      "start_int": 1178,
+      "timestamp_label": "19:38",
+      "text": "And I am going to include that in today's discussion."
+    },
+    {
+      "start": 1181.39,
+      "end": 1185.39,
+      "start_int": 1181,
+      "timestamp_label": "19:41",
+      "text": "So, as I mentioned, this slide is going to focus on just the current features,"
+    },
+    {
+      "start": 1185.39,
+      "end": 1188.96,
+      "start_int": 1185,
+      "timestamp_label": "19:45",
+      "text": "including those newest releases in 1.3."
+    },
+    {
+      "start": 1188.96,
+      "end": 1196.74,
+      "start_int": 1188,
+      "timestamp_label": "19:48",
+      "text": "And I've broken it up into three categories here, those dealing with when you open"
+    },
+    {
+      "start": 1196.74,
+      "end": 1198.7,
+      "start_int": 1196,
+      "timestamp_label": "19:56",
+      "text": "up the resources that you're looking at."
+    },
+    {
+      "start": 1198.7,
+      "end": 1201.65,
+      "start_int": 1198,
+      "timestamp_label": "19:58",
+      "text": "And just for clarification, when I say resources,"
+    },
+    {
+      "start": 1201.65,
+      "end": 1204.91,
+      "start_int": 1201,
+      "timestamp_label": "20:01",
+      "text": "that refers to the actual documents that are in the repository."
+    },
+    {
+      "start": 1204.91,
+      "end": 1207.78,
+      "start_int": 1204,
+      "timestamp_label": "20:04",
+      "text": "And I'll use that term resources throughout."
+    },
+    {
+      "start": 1207.78,
+      "end": 1211.78,
+      "start_int": 1207,
+      "timestamp_label": "20:07",
+      "text": "So, when you open up a resource, some of the features that we have,"
+    },
+    {
+      "start": 1211.78,
+      "end": 1217.92,
+      "start_int": 1211,
+      "timestamp_label": "20:11",
+      "text": "you can view it in we have what we call PDF viewer, so that you can view"
+    },
+    {
+      "start": 1217.92,
+      "end": 1221.84,
+      "start_int": 1217,
+      "timestamp_label": "20:17",
+      "text": "and annotate the resource in the PDF version."
+    },
+    {
+      "start": 1221.84,
+      "end": 1228.11,
+      "start_int": 1221,
+      "timestamp_label": "20:21",
+      "text": "You can print, you can make it as a favorite, you can share that resource amongst others"
+    },
+    {
+      "start": 1228.11,
+      "end": 1236.41,
+      "start_int": 1228,
+      "timestamp_label": "20:28",
+      "text": "within the community via e mail, SMS, text, a variety of ways you can share that as a link."
+    },
+    {
+      "start": 1236.41,
+      "end": 1240.5,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "And that will get you directly into CRWS BoK to open up the resource."
+    },
+    {
+      "start": 1240.5,
+      "end": 1247.4,
+      "start_int": 1240,
+      "timestamp_label": "20:40",
+      "text": "You can actually view the resource details and have reference links to the Office"
+    },
+    {
+      "start": 1247.4,
+      "end": 1251.22,
+      "start_int": 1247,
+      "timestamp_label": "20:47",
+      "text": "of Primary Responsibility, or OPR."
+    },
+    {
+      "start": 1251.22,
+      "end": 1253.97,
+      "start_int": 1251,
+      "timestamp_label": "20:51",
+      "text": "And the source, the original course document."
+    },
+    {
+      "start": 1253.97,
+      "end": 1258.64,
+      "start_int": 1253,
+      "timestamp_label": "20:53",
+      "text": "And, again, as Madison had mentioned, these are all publicly available documents, so you can,"
+    },
+    {
+      "start": 1258.64,
+      "end": 1264.68,
+      "start_int": 1258,
+      "timestamp_label": "20:58",
+      "text": "we'll always have the source link listed alongside the actual resource file,"
+    },
+    {
+      "start": 1264.68,
+      "end": 1267.89,
+      "start_int": 1264,
+      "timestamp_label": "21:04",
+      "text": "which is within the CRWS BoK repository."
+    },
+    {
+      "start": 1267.89,
+      "end": 1275.51,
+      "start_int": 1267,
+      "timestamp_label": "21:07",
+      "text": "And then we also have qualitative and quantitative ratings within CRWS BoK"
+    },
+    {
+      "start": 1275.51,
+      "end": 1278.58,
+      "start_int": 1275,
+      "timestamp_label": "21:15",
+      "text": "for each of the documents or resources."
+    },
+    {
+      "start": 1278.58,
+      "end": 1283.98,
+      "start_int": 1278,
+      "timestamp_label": "21:18",
+      "text": "And then we have relationship mapping, and we have reference table views,"
+    },
+    {
+      "start": 1283.98,
+      "end": 1285.57,
+      "start_int": 1283,
+      "timestamp_label": "21:23",
+      "text": "which I'll get into all of these in detail."
+    },
+    {
+      "start": 1285.57,
+      "end": 1287.41,
+      "start_int": 1285,
+      "timestamp_label": "21:25",
+      "text": "I'm just going to give you a summary here."
+    },
+    {
+      "start": 1287.41,
+      "end": 1294.27,
+      "start_int": 1287,
+      "timestamp_label": "21:27",
+      "text": "And in the general features, we have, as Madison had alluded to, we have notifications."
+    },
+    {
+      "start": 1294.27,
+      "end": 1297.97,
+      "start_int": 1294,
+      "timestamp_label": "21:34",
+      "text": "So, users, and, again, these are registered users, we have guest users,"
+    },
+    {
+      "start": 1297.97,
+      "end": 1302.56,
+      "start_int": 1297,
+      "timestamp_label": "21:37",
+      "text": "and then we have registered users, and registered users can sign up for notifications"
+    },
+    {
+      "start": 1302.56,
+      "end": 1306.01,
+      "start_int": 1302,
+      "timestamp_label": "21:42",
+      "text": "for whenever there's a new version that's uploaded into CRWS BoK."
+    },
+    {
+      "start": 1306.01,
+      "end": 1312.68,
+      "start_int": 1306,
+      "timestamp_label": "21:46",
+      "text": "Or, for example, when there's a saved search, whenever there's a new resource that is uploaded"
+    },
+    {
+      "start": 1312.68,
+      "end": 1317.1,
+      "start_int": 1312,
+      "timestamp_label": "21:52",
+      "text": "that meets the criteria of a user's saved search."
+    },
+    {
+      "start": 1317.1,
+      "end": 1323.9,
+      "start_int": 1317,
+      "timestamp_label": "21:57",
+      "text": "And so all those notifications are, are enabled, and you can set the frequencies of those."
+    },
+    {
+      "start": 1323.9,
+      "end": 1326.8,
+      "start_int": 1323,
+      "timestamp_label": "22:03",
+      "text": "We have optional card views or list views."
+    },
+    {
+      "start": 1326.8,
+      "end": 1330.69,
+      "start_int": 1326,
+      "timestamp_label": "22:06",
+      "text": "And you'll understand a little bit more of that as I go into that in the next slides."
+    },
+    {
+      "start": 1330.69,
+      "end": 1339.02,
+      "start_int": 1330,
+      "timestamp_label": "22:10",
+      "text": "We have help boxes scattered throughout the site to help users understand or get more information"
+    },
+    {
+      "start": 1339.02,
+      "end": 1342.39,
+      "start_int": 1339,
+      "timestamp_label": "22:19",
+      "text": "on various features within CRWS BoK."
+    },
+    {
+      "start": 1342.39,
+      "end": 1346.57,
+      "start_int": 1342,
+      "timestamp_label": "22:22",
+      "text": "We have accessibility features, and we have Section 508"
+    },
+    {
+      "start": 1346.57,
+      "end": 1350.45,
+      "start_int": 1346,
+      "timestamp_label": "22:26",
+      "text": "on accessibility reviews done regularly on the site to ensure"
+    },
+    {
+      "start": 1350.45,
+      "end": 1354.48,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "that it's fully accessible to all users."
+    },
+    {
+      "start": 1354.48,
+      "end": 1362.76,
+      "start_int": 1354,
+      "timestamp_label": "22:34",
+      "text": "We have site maps to better enable navigation, e mail support so that you can always get back"
+    },
+    {
+      "start": 1362.76,
+      "end": 1366.07,
+      "start_int": 1362,
+      "timestamp_label": "22:42",
+      "text": "to the curation or support team if there's any problem."
+    },
+    {
+      "start": 1366.07,
+      "end": 1370.14,
+      "start_int": 1366,
+      "timestamp_label": "22:46",
+      "text": "And the ever popular dark mode that was requested through,"
+    },
+    {
+      "start": 1370.14,
+      "end": 1372.35,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "we do a lot of frequent usability tests,"
+    },
+    {
+      "start": 1372.35,
+      "end": 1377.13,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "and dark mode is a highly requested feature that we did include."
+    },
+    {
+      "start": 1377.13,
+      "end": 1383.95,
+      "start_int": 1377,
+      "timestamp_label": "22:57",
+      "text": "So, we do a lot of regular usability testing, and we take those, that feedback very seriously"
+    },
+    {
+      "start": 1383.95,
+      "end": 1390.41,
+      "start_int": 1383,
+      "timestamp_label": "23:03",
+      "text": "and incorporate those in a lot of the, the upgrades and new versions that we release."
+    },
+    {
+      "start": 1390.41,
+      "end": 1395.51,
+      "start_int": 1390,
+      "timestamp_label": "23:10",
+      "text": "And in the search features, you'll see that we have both guided search for those"
+    },
+    {
+      "start": 1395.51,
+      "end": 1403.0,
+      "start_int": 1395,
+      "timestamp_label": "23:15",
+      "text": "that may not be familiar with a lot of the resilient terminology, or the field in general."
+    },
+    {
+      "start": 1403.0,
+      "end": 1407.16,
+      "start_int": 1403,
+      "timestamp_label": "23:23",
+      "text": "And then it helps them get a feel for where they need to go."
+    },
+    {
+      "start": 1407.16,
+      "end": 1410.37,
+      "start_int": 1407,
+      "timestamp_label": "23:27",
+      "text": "Then you have a very direct keyword search that you can search"
+    },
+    {
+      "start": 1410.37,
+      "end": 1413.02,
+      "start_int": 1410,
+      "timestamp_label": "23:30",
+      "text": "and get right to where you need to go quickly."
+    },
+    {
+      "start": 1413.02,
+      "end": 1419.08,
+      "start_int": 1413,
+      "timestamp_label": "23:33",
+      "text": "You have a variety of filters, such as keyword filters, and additional filters that help narrow"
+    },
+    {
+      "start": 1419.08,
+      "end": 1421.99,
+      "start_int": 1419,
+      "timestamp_label": "23:39",
+      "text": "in those searches once you get that."
+    },
+    {
+      "start": 1421.99,
+      "end": 1424.28,
+      "start_int": 1421,
+      "timestamp_label": "23:41",
+      "text": "You can, as I mentioned, save those searches"
+    },
+    {
+      "start": 1424.28,
+      "end": 1431.9,
+      "start_int": 1424,
+      "timestamp_label": "23:44",
+      "text": "and have those update notifications sent to you as the user."
+    },
+    {
+      "start": 1431.9,
+      "end": 1435.2,
+      "start_int": 1431,
+      "timestamp_label": "23:51",
+      "text": "Again, these are for the registered users."
+    },
+    {
+      "start": 1435.2,
+      "end": 1438.21,
+      "start_int": 1435,
+      "timestamp_label": "23:55",
+      "text": "And you can actually do secondary searches within a document."
+    },
+    {
+      "start": 1438.21,
+      "end": 1441.86,
+      "start_int": 1438,
+      "timestamp_label": "23:58",
+      "text": "Again, this is tied back to the PDF viewer."
+    },
+    {
+      "start": 1441.86,
+      "end": 1444.73,
+      "start_int": 1441,
+      "timestamp_label": "24:01",
+      "text": "And you can have very defined filters."
+    },
+    {
+      "start": 1444.73,
+      "end": 1448.84,
+      "start_int": 1444,
+      "timestamp_label": "24:04",
+      "text": "So, there's a lot of capability that we have embedded and we are constantly looking"
+    },
+    {
+      "start": 1448.84,
+      "end": 1452.98,
+      "start_int": 1448,
+      "timestamp_label": "24:08",
+      "text": "to improve those, again, based on a lot of the user feedback."
+    },
+    {
+      "start": 1452.98,
+      "end": 1459.22,
+      "start_int": 1452,
+      "timestamp_label": "24:12",
+      "text": "So, some of our plan features, and, again, this is tied based to our usability testing,"
+    },
+    {
+      "start": 1459.22,
+      "end": 1461.75,
+      "start_int": 1459,
+      "timestamp_label": "24:19",
+      "text": "AI assisted relationship mapping."
+    },
+    {
+      "start": 1461.75,
+      "end": 1463.39,
+      "start_int": 1461,
+      "timestamp_label": "24:21",
+      "text": "We're constantly improving that feature."
+    },
+    {
+      "start": 1463.39,
+      "end": 1468.5,
+      "start_int": 1463,
+      "timestamp_label": "24:23",
+      "text": "And that has been very popular view that we have, and I'll cover that,"
+    },
+    {
+      "start": 1468.5,
+      "end": 1474.04,
+      "start_int": 1468,
+      "timestamp_label": "24:28",
+      "text": "and continued enhancements to that relationships and reference both of those views."
+    },
+    {
+      "start": 1474.04,
+      "end": 1481.37,
+      "start_int": 1474,
+      "timestamp_label": "24:34",
+      "text": "Regular user interface improvements to make it easier and more satisfying experience for users"
+    },
+    {
+      "start": 1481.37,
+      "end": 1484.02,
+      "start_int": 1481,
+      "timestamp_label": "24:41",
+      "text": "when they get to the CRWS BoK site."
+    },
+    {
+      "start": 1484.02,
+      "end": 1492.88,
+      "start_int": 1484,
+      "timestamp_label": "24:44",
+      "text": "And the ability to save annotations that a user may make to the popular documents."
+    },
+    {
+      "start": 1492.88,
+      "end": 1498.7,
+      "start_int": 1492,
+      "timestamp_label": "24:52",
+      "text": "The user has the ability to save those annotations so that when the user signs back"
+    },
+    {
+      "start": 1498.7,
+      "end": 1500.89,
+      "start_int": 1498,
+      "timestamp_label": "24:58",
+      "text": "onto CRWS BoK, they can access those again."
+    },
+    {
+      "start": 1500.89,
+      "end": 1504.33,
+      "start_int": 1500,
+      "timestamp_label": "25:00",
+      "text": "And, again, this does not affect the integrity of the original documents."
+    },
+    {
+      "start": 1504.33,
+      "end": 1506.84,
+      "start_int": 1504,
+      "timestamp_label": "25:04",
+      "text": "This is only for the user's copy."
+    },
+    {
+      "start": 1506.84,
+      "end": 1509.14,
+      "start_int": 1506,
+      "timestamp_label": "25:06",
+      "text": "And then we have dynamic community metrics."
+    },
+    {
+      "start": 1509.14,
+      "end": 1513.43,
+      "start_int": 1509,
+      "timestamp_label": "25:09",
+      "text": "So, we're working, we're in the process of that right now, of getting those embedded"
+    },
+    {
+      "start": 1513.43,
+      "end": 1517.59,
+      "start_int": 1513,
+      "timestamp_label": "25:13",
+      "text": "so that you can dynamically see all users when they log in will be able"
+    },
+    {
+      "start": 1517.59,
+      "end": 1524.02,
+      "start_int": 1517,
+      "timestamp_label": "25:17",
+      "text": "to dynamically see what are the top 10 search terms, what are the top 10 resources"
+    },
+    {
+      "start": 1524.02,
+      "end": 1528.84,
+      "start_int": 1524,
+      "timestamp_label": "25:24",
+      "text": "that are viewed by other users within the community, and provide,"
+    },
+    {
+      "start": 1528.84,
+      "end": 1532.81,
+      "start_int": 1528,
+      "timestamp_label": "25:28",
+      "text": "be able to provide customized, serve up customized recommendations based"
+    },
+    {
+      "start": 1532.81,
+      "end": 1536.69,
+      "start_int": 1532,
+      "timestamp_label": "25:32",
+      "text": "on if you're searching for this, you may be interested in that."
+    },
+    {
+      "start": 1536.69,
+      "end": 1540.99,
+      "start_int": 1536,
+      "timestamp_label": "25:36",
+      "text": "So, similar to Amazon or some other sites."
+    },
+    {
+      "start": 1540.99,
+      "end": 1542.76,
+      "start_int": 1540,
+      "timestamp_label": "25:40",
+      "text": "And then design patterns templates."
+    },
+    {
+      "start": 1542.76,
+      "end": 1545.73,
+      "start_int": 1542,
+      "timestamp_label": "25:42",
+      "text": "We're working on that ability as well."
+    },
+    {
+      "start": 1545.73,
+      "end": 1547.22,
+      "start_int": 1545,
+      "timestamp_label": "25:45",
+      "text": "So, these are some of the planned features."
+    },
+    {
+      "start": 1547.22,
+      "end": 1553.43,
+      "start_int": 1547,
+      "timestamp_label": "25:47",
+      "text": "And there's a lot more, but these are some of the ones we're working on right now."
+    },
+    {
+      "start": 1553.43,
+      "end": 1557.57,
+      "start_int": 1553,
+      "timestamp_label": "25:53",
+      "text": "So, I'll start with the landing page, which is what most users,"
+    },
+    {
+      "start": 1557.57,
+      "end": 1563.49,
+      "start_int": 1557,
+      "timestamp_label": "25:57",
+      "text": "what you'll see when you first sign in to CRWS BoK, go back here, so when you first sign"
+    },
+    {
+      "start": 1563.49,
+      "end": 1572.76,
+      "start_int": 1563,
+      "timestamp_label": "26:03",
+      "text": "in to CRWS BoK, and you can sign in as a guest user, or, which is you can be a registered user,"
+    },
+    {
+      "start": 1572.76,
+      "end": 1575.54,
+      "start_int": 1572,
+      "timestamp_label": "26:12",
+      "text": "but it is not necessary to be a registered user."
+    },
+    {
+      "start": 1575.54,
+      "end": 1581.0,
+      "start_int": 1575,
+      "timestamp_label": "26:15",
+      "text": "The difference is is that when you are a registered user, you have access to some"
+    },
+    {
+      "start": 1581.0,
+      "end": 1587.5,
+      "start_int": 1581,
+      "timestamp_label": "26:21",
+      "text": "of those notifications, some of those saved searches, and some of those other features"
+    },
+    {
+      "start": 1587.5,
+      "end": 1591.88,
+      "start_int": 1587,
+      "timestamp_label": "26:27",
+      "text": "that we've discussed that require you to be a registered user."
+    },
+    {
+      "start": 1591.88,
+      "end": 1593.54,
+      "start_int": 1591,
+      "timestamp_label": "26:31",
+      "text": "But there is not a requirement."
+    },
+    {
+      "start": 1593.54,
+      "end": 1600.76,
+      "start_int": 1593,
+      "timestamp_label": "26:33",
+      "text": "You can still be a guest user and search and find and view these resources."
+    },
+    {
+      "start": 1600.76,
+      "end": 1602.64,
+      "start_int": 1600,
+      "timestamp_label": "26:40",
+      "text": "So, there's two ways to search, as we mentioned."
+    },
+    {
+      "start": 1602.64,
+      "end": 1608.8,
+      "start_int": 1602,
+      "timestamp_label": "26:42",
+      "text": "You can, one is the guided search, which is what you see here on these three main blocks."
+    },
+    {
+      "start": 1608.8,
+      "end": 1613.88,
+      "start_int": 1608,
+      "timestamp_label": "26:48",
+      "text": "And those are designed around the baseline framework of knowledge areas,"
+    },
+    {
+      "start": 1613.88,
+      "end": 1617.42,
+      "start_int": 1613,
+      "timestamp_label": "26:53",
+      "text": "which basically represent the taxonomy of relevant cyber resilient"
+    },
+    {
+      "start": 1617.42,
+      "end": 1622.68,
+      "start_int": 1617,
+      "timestamp_label": "26:57",
+      "text": "and systems engineering concepts from the ISO IEEE 1529."
+    },
+    {
+      "start": 1622.68,
+      "end": 1624.64,
+      "start_int": 1622,
+      "timestamp_label": "27:02",
+      "text": "Most engineers are familiar with that."
+    },
+    {
+      "start": 1624.64,
+      "end": 1628.75,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "And so you see in the first two boxes, those represented through the area"
+    },
+    {
+      "start": 1628.75,
+      "end": 1631.08,
+      "start_int": 1628,
+      "timestamp_label": "27:08",
+      "text": "to protect, and the technical process."
+    },
+    {
+      "start": 1631.08,
+      "end": 1636.41,
+      "start_int": 1631,
+      "timestamp_label": "27:11",
+      "text": "And the users select from those menu items there in those two boxes."
+    },
+    {
+      "start": 1636.41,
+      "end": 1640.75,
+      "start_int": 1636,
+      "timestamp_label": "27:16",
+      "text": "And once you make your selection, you'll see the results in the third box there."
+    },
+    {
+      "start": 1640.75,
+      "end": 1644.3,
+      "start_int": 1640,
+      "timestamp_label": "27:20",
+      "text": "So, in this case, there was mission and system function."
+    },
+    {
+      "start": 1644.3,
+      "end": 1646.19,
+      "start_int": 1644,
+      "timestamp_label": "27:24",
+      "text": "And then stakeholder requirements."
+    },
+    {
+      "start": 1646.19,
+      "end": 1649.41,
+      "start_int": 1646,
+      "timestamp_label": "27:26",
+      "text": "Those two were selected."
+    },
+    {
+      "start": 1649.41,
+      "end": 1657.85,
+      "start_int": 1649,
+      "timestamp_label": "27:29",
+      "text": "If you don't have a need to do that, you can just type in the keyword directly at the top,"
+    },
+    {
+      "start": 1657.85,
+      "end": 1665.87,
+      "start_int": 1657,
+      "timestamp_label": "27:37",
+      "text": "in that top white box there, text box at the top of the window, and you can get directly to the,"
+    },
+    {
+      "start": 1665.87,
+      "end": 1668.09,
+      "start_int": 1665,
+      "timestamp_label": "27:45",
+      "text": "whatever resource you're looking for."
+    },
+    {
+      "start": 1668.09,
+      "end": 1675.18,
+      "start_int": 1668,
+      "timestamp_label": "27:48",
+      "text": "Before we move on, I want to highlight, for those, there are other user areas,"
+    },
+    {
+      "start": 1675.18,
+      "end": 1680.45,
+      "start_int": 1675,
+      "timestamp_label": "27:55",
+      "text": "other features, you can get to the profile settings in the far upper right you'll see,"
+    },
+    {
+      "start": 1680.45,
+      "end": 1686.16,
+      "start_int": 1680,
+      "timestamp_label": "28:00",
+      "text": "for example, you'll see my sign in, [inaudible], with a little profile icon."
+    },
+    {
+      "start": 1686.16,
+      "end": 1689.88,
+      "start_int": 1686,
+      "timestamp_label": "28:06",
+      "text": "When you click on that, the drop down menu will show you a lot"
+    },
+    {
+      "start": 1689.88,
+      "end": 1691.23,
+      "start_int": 1689,
+      "timestamp_label": "28:09",
+      "text": "of other settings that you can get to."
+    },
+    {
+      "start": 1691.23,
+      "end": 1696.93,
+      "start_int": 1691,
+      "timestamp_label": "28:11",
+      "text": "And that's where you will find the favorites, the saved searches,"
+    },
+    {
+      "start": 1696.93,
+      "end": 1700.16,
+      "start_int": 1696,
+      "timestamp_label": "28:16",
+      "text": "and changing your password, for example."
+    },
+    {
+      "start": 1700.16,
+      "end": 1707.11,
+      "start_int": 1700,
+      "timestamp_label": "28:20",
+      "text": "Moving from right to left, you'll see this little half Sun shaded."
+    },
+    {
+      "start": 1707.11,
+      "end": 1710.52,
+      "start_int": 1707,
+      "timestamp_label": "28:27",
+      "text": "That's the dark mode, light mode that"
+    },
+    {
+      "start": 1713.52,
+      "end": 1715.74,
+      "start_int": 1713,
+      "timestamp_label": "28:33",
+      "text": "The alarm bell icon."
+    },
+    {
+      "start": 1715.74,
+      "end": 1719.23,
+      "start_int": 1715,
+      "timestamp_label": "28:35",
+      "text": "And that's, again, for setting your notifications or new notifications."
+    },
+    {
+      "start": 1719.23,
+      "end": 1725.15,
+      "start_int": 1719,
+      "timestamp_label": "28:39",
+      "text": "That little plus icon, plus symbol there, is for your, changing your notifications."
+    },
+    {
+      "start": 1725.15,
+      "end": 1729.37,
+      "start_int": 1725,
+      "timestamp_label": "28:45",
+      "text": "Or I'm sorry, for adding, nominating a resource."
+    },
+    {
+      "start": 1729.37,
+      "end": 1734.21,
+      "start_int": 1729,
+      "timestamp_label": "28:49",
+      "text": "And this is where we get a lot of the community involvement to nominate a resource."
+    },
+    {
+      "start": 1734.21,
+      "end": 1739.26,
+      "start_int": 1734,
+      "timestamp_label": "28:54",
+      "text": "And this is where it goes through, as Madison described earlier, that nomination process."
+    },
+    {
+      "start": 1739.26,
+      "end": 1744.48,
+      "start_int": 1739,
+      "timestamp_label": "28:59",
+      "text": "And then again the typical, the home icon represented by the house."
+    },
+    {
+      "start": 1744.48,
+      "end": 1751.86,
+      "start_int": 1744,
+      "timestamp_label": "29:04",
+      "text": "Then you'll also see the news, which provides regularly updated rotates any news items."
+    },
+    {
+      "start": 1751.86,
+      "end": 1758.23,
+      "start_int": 1751,
+      "timestamp_label": "29:11",
+      "text": "And then key tips on the bottom box there on the right, different ways to search, for example,"
+    },
+    {
+      "start": 1758.23,
+      "end": 1762.39,
+      "start_int": 1758,
+      "timestamp_label": "29:18",
+      "text": "or different highlighted tips that we'll regularly cipher through."
+    },
+    {
+      "start": 1762.39,
+      "end": 1771.58,
+      "start_int": 1762,
+      "timestamp_label": "29:22",
+      "text": "And then at the very bottom, you're going to see a, let's see if I'm not hiding this here,"
+    },
+    {
+      "start": 1771.58,
+      "end": 1778.28,
+      "start_int": 1771,
+      "timestamp_label": "29:31",
+      "text": "it's cut off a little bit, but on the very bottom of the screen, on the footer,"
+    },
+    {
+      "start": 1778.28,
+      "end": 1781.03,
+      "start_int": 1778,
+      "timestamp_label": "29:38",
+      "text": "you will always have the site information and help links."
+    },
+    {
+      "start": 1781.03,
+      "end": 1784.85,
+      "start_int": 1781,
+      "timestamp_label": "29:41",
+      "text": "And that's always available for the user when they're going throughout the site."
+    },
+    {
+      "start": 1784.85,
+      "end": 1786.57,
+      "start_int": 1784,
+      "timestamp_label": "29:44",
+      "text": "They'll be able to see that."
+    },
+    {
+      "start": 1786.57,
+      "end": 1790.61,
+      "start_int": 1786,
+      "timestamp_label": "29:46",
+      "text": "And they can find help boxes whenever you hover over any"
+    },
+    {
+      "start": 1790.61,
+      "end": 1795.29,
+      "start_int": 1790,
+      "timestamp_label": "29:50",
+      "text": "of these boxes, you'll see a lot of that."
+    },
+    {
+      "start": 1795.29,
+      "end": 1802.29,
+      "start_int": 1795,
+      "timestamp_label": "29:55",
+      "text": "And you'll see in the upper right hand of the main window a help, help words there."
+    },
+    {
+      "start": 1802.29,
+      "end": 1810.14,
+      "start_int": 1802,
+      "timestamp_label": "30:02",
+      "text": "And that will also give you an ability to e mail the curation team or support team."
+    },
+    {
+      "start": 1810.14,
+      "end": 1815.54,
+      "start_int": 1810,
+      "timestamp_label": "30:10",
+      "text": "When you first sign on to CRWS BoK, and you can always turn this off and then go to it"
+    },
+    {
+      "start": 1815.54,
+      "end": 1820.61,
+      "start_int": 1815,
+      "timestamp_label": "30:15",
+      "text": "through that profile when you go in that drop down menu, there's a, you can always get back"
+    },
+    {
+      "start": 1820.61,
+      "end": 1826.73,
+      "start_int": 1820,
+      "timestamp_label": "30:20",
+      "text": "to the guided tutorial, but it will greet you the first time with this guided tutorial,"
+    },
+    {
+      "start": 1826.73,
+      "end": 1830.26,
+      "start_int": 1826,
+      "timestamp_label": "30:26",
+      "text": "which will take you through all the features, and it will, here's just the first one,"
+    },
+    {
+      "start": 1830.26,
+      "end": 1835.42,
+      "start_int": 1830,
+      "timestamp_label": "30:30",
+      "text": "and it will take you through all the key areas, just to let, and kind of walk you through some"
+    },
+    {
+      "start": 1835.42,
+      "end": 1840.92,
+      "start_int": 1835,
+      "timestamp_label": "30:35",
+      "text": "of these features for the very first time."
+    },
+    {
+      "start": 1840.92,
+      "end": 1844.64,
+      "start_int": 1840,
+      "timestamp_label": "30:40",
+      "text": "What I'm showing you here is what we call the card view."
+    },
+    {
+      "start": 1844.64,
+      "end": 1849.1,
+      "start_int": 1844,
+      "timestamp_label": "30:44",
+      "text": "And the card view is the default view that you'll see."
+    },
+    {
+      "start": 1849.1,
+      "end": 1852.53,
+      "start_int": 1849,
+      "timestamp_label": "30:49",
+      "text": "And I have circled in the far, in the upper right corner,"
+    },
+    {
+      "start": 1852.53,
+      "end": 1854.98,
+      "start_int": 1852,
+      "timestamp_label": "30:52",
+      "text": "you'll see list view circled in red."
+    },
+    {
+      "start": 1854.98,
+      "end": 1861.33,
+      "start_int": 1854,
+      "timestamp_label": "30:54",
+      "text": "And you have the option to change it if you would like to see more results shown in a more,"
+    },
+    {
+      "start": 1861.33,
+      "end": 1864.42,
+      "start_int": 1861,
+      "timestamp_label": "31:01",
+      "text": "in a list view, you have the option to do that."
+    },
+    {
+      "start": 1864.42,
+      "end": 1866.59,
+      "start_int": 1864,
+      "timestamp_label": "31:04",
+      "text": "Right now, you're seeing the card view."
+    },
+    {
+      "start": 1866.59,
+      "end": 1869.94,
+      "start_int": 1866,
+      "timestamp_label": "31:06",
+      "text": "And what you're seeing is the results, the search results."
+    },
+    {
+      "start": 1869.94,
+      "end": 1876.78,
+      "start_int": 1869,
+      "timestamp_label": "31:09",
+      "text": "When you clicked either the guided search, or you entered in your direct keyword search"
+    },
+    {
+      "start": 1876.78,
+      "end": 1880.56,
+      "start_int": 1876,
+      "timestamp_label": "31:16",
+      "text": "in that text box at the top, you will then be presented"
+    },
+    {
+      "start": 1880.56,
+      "end": 1887.18,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "with all your individual search results and your resources represented on each"
+    },
+    {
+      "start": 1887.18,
+      "end": 1889.53,
+      "start_int": 1887,
+      "timestamp_label": "31:27",
+      "text": "of those cards that you see there."
+    },
+    {
+      "start": 1889.53,
+      "end": 1896.54,
+      "start_int": 1889,
+      "timestamp_label": "31:29",
+      "text": "Each of those cards will have some summary information."
+    },
+    {
+      "start": 1896.54,
+      "end": 1902.43,
+      "start_int": 1896,
+      "timestamp_label": "31:36",
+      "text": "So, you'll see just the most essential snapshot details."
+    },
+    {
+      "start": 1902.43,
+      "end": 1909.58,
+      "start_int": 1902,
+      "timestamp_label": "31:42",
+      "text": "The first that you'll see has the title, the domain, preview image."
+    },
+    {
+      "start": 1909.58,
+      "end": 1914.27,
+      "start_int": 1909,
+      "timestamp_label": "31:49",
+      "text": "You'll see the version information, user rating, and usability rating."
+    },
+    {
+      "start": 1914.27,
+      "end": 1919.04,
+      "start_int": 1914,
+      "timestamp_label": "31:54",
+      "text": "So, the user rating, which is at the, each of those words,"
+    },
+    {
+      "start": 1919.04,
+      "end": 1923.5,
+      "start_int": 1919,
+      "timestamp_label": "31:59",
+      "text": "it's in the upper right hand corner, we call it the Lisa Simpson icon,"
+    },
+    {
+      "start": 1923.5,
+      "end": 1927.83,
+      "start_int": 1923,
+      "timestamp_label": "32:03",
+      "text": "it reminds me of Lisa Simpson's hair, these are all silver."
+    },
+    {
+      "start": 1927.83,
+      "end": 1931.15,
+      "start_int": 1927,
+      "timestamp_label": "32:07",
+      "text": "They can either be silver, gold, or bronze."
+    },
+    {
+      "start": 1931.15,
+      "end": 1934.13,
+      "start_int": 1931,
+      "timestamp_label": "32:11",
+      "text": "And there's an algorithm."
+    },
+    {
+      "start": 1934.13,
+      "end": 1937.02,
+      "start_int": 1934,
+      "timestamp_label": "32:14",
+      "text": "If you hover over it, it will give you that information"
+    },
+    {
+      "start": 1937.02,
+      "end": 1940.63,
+      "start_int": 1937,
+      "timestamp_label": "32:17",
+      "text": "and tell you what it actually represents."
+    },
+    {
+      "start": 1940.63,
+      "end": 1946.82,
+      "start_int": 1940,
+      "timestamp_label": "32:20",
+      "text": "But the usability rating is a quantitative decision support feature."
+    },
+    {
+      "start": 1946.82,
+      "end": 1953.51,
+      "start_int": 1946,
+      "timestamp_label": "32:26",
+      "text": "And it basically helps the user assess the value of each of those resources."
+    },
+    {
+      "start": 1953.51,
+      "end": 1960.95,
+      "start_int": 1953,
+      "timestamp_label": "32:33",
+      "text": "What we have for the initial algorithm has several factors that go into that rating,"
+    },
+    {
+      "start": 1960.95,
+      "end": 1965.42,
+      "start_int": 1960,
+      "timestamp_label": "32:40",
+      "text": "such as domain type, the age of the document, and whether or not it's gone"
+    },
+    {
+      "start": 1965.42,
+      "end": 1967.62,
+      "start_int": 1965,
+      "timestamp_label": "32:45",
+      "text": "through a formal peer review, for example."
+    },
+    {
+      "start": 1967.62,
+      "end": 1972.26,
+      "start_int": 1967,
+      "timestamp_label": "32:47",
+      "text": "And how long it is, the age, for example."
+    },
+    {
+      "start": 1972.26,
+      "end": 1977.15,
+      "start_int": 1972,
+      "timestamp_label": "32:52",
+      "text": "And that basically allows, these are all features that help the user quickly sort"
+    },
+    {
+      "start": 1977.15,
+      "end": 1982.91,
+      "start_int": 1977,
+      "timestamp_label": "32:57",
+      "text": "through visually the value of each of those resources."
+    },
+    {
+      "start": 1982.91,
+      "end": 1989.96,
+      "start_int": 1982,
+      "timestamp_label": "33:02",
+      "text": "In the upper left, you'll see the various icons, and they're color coded to match."
+    },
+    {
+      "start": 1989.96,
+      "end": 1999.94,
+      "start_int": 1989,
+      "timestamp_label": "33:09",
+      "text": "We have authoritative government documents, which are laws or DoD issuances."
+    },
+    {
+      "start": 1999.94,
+      "end": 2002.19,
+      "start_int": 1999,
+      "timestamp_label": "33:19",
+      "text": "Then you have other government issuances,"
+    },
+    {
+      "start": 2002.19,
+      "end": 2006.3,
+      "start_int": 2002,
+      "timestamp_label": "33:22",
+      "text": "which could be government white papers, or guide books, for example."
+    },
+    {
+      "start": 2006.3,
+      "end": 2011.86,
+      "start_int": 2006,
+      "timestamp_label": "33:26",
+      "text": "And then the third category is academic or industry documents or resources."
+    },
+    {
+      "start": 2011.86,
+      "end": 2013.62,
+      "start_int": 2011,
+      "timestamp_label": "33:31",
+      "text": "And so those are all color accordingly."
+    },
+    {
+      "start": 2013.62,
+      "end": 2014.06,
+      "start_int": 2013,
+      "timestamp_label": "33:33",
+      "text": "And you'll see those."
+    },
+    {
+      "start": 2014.06,
+      "end": 2020.59,
+      "start_int": 2014,
+      "timestamp_label": "33:34",
+      "text": "The green, for example, is an academic or industry document."
+    },
+    {
+      "start": 2020.59,
+      "end": 2028.16,
+      "start_int": 2020,
+      "timestamp_label": "33:40",
+      "text": "The purple, in the second item there, resource, you can see is a DoD issuance."
+    },
+    {
+      "start": 2028.16,
+      "end": 2031.58,
+      "start_int": 2028,
+      "timestamp_label": "33:48",
+      "text": "That's a government, authoritative government."
+    },
+    {
+      "start": 2031.58,
+      "end": 2037.04,
+      "start_int": 2031,
+      "timestamp_label": "33:51",
+      "text": "And then you'll see the beige color brown beige, which is in other government."
+    },
+    {
+      "start": 2037.04,
+      "end": 2040.18,
+      "start_int": 2037,
+      "timestamp_label": "33:57",
+      "text": "So, those are the domains that we call."
+    },
+    {
+      "start": 2040.18,
+      "end": 2044.23,
+      "start_int": 2040,
+      "timestamp_label": "34:00",
+      "text": "And then you'll see the other functional essential items."
+    },
+    {
+      "start": 2044.23,
+      "end": 2046.05,
+      "start_int": 2044,
+      "timestamp_label": "34:04",
+      "text": "You'll see a star rating at the bottom."
+    },
+    {
+      "start": 2046.05,
+      "end": 2054.21,
+      "start_int": 2046,
+      "timestamp_label": "34:06",
+      "text": "Those are user, the community users have the opportunity to evaluate the usefulness"
+    },
+    {
+      "start": 2054.21,
+      "end": 2058.74,
+      "start_int": 2054,
+      "timestamp_label": "34:14",
+      "text": "of those resources to the ability to perform their tasks"
+    },
+    {
+      "start": 2058.74,
+      "end": 2061.33,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "and how useful they found that document."
+    },
+    {
+      "start": 2061.33,
+      "end": 2068.36,
+      "start_int": 2061,
+      "timestamp_label": "34:21",
+      "text": "There's the ability, as you see with the heart icon, for the user to favorite,"
+    },
+    {
+      "start": 2068.36,
+      "end": 2073.47,
+      "start_int": 2068,
+      "timestamp_label": "34:28",
+      "text": "I'm using that as a verb, you can make the resource a favorite document,"
+    },
+    {
+      "start": 2073.47,
+      "end": 2083.52,
+      "start_int": 2073,
+      "timestamp_label": "34:33",
+      "text": "you can select it to be notified of a, notification of any time it's updated."
+    },
+    {
+      "start": 2083.52,
+      "end": 2088.4,
+      "start_int": 2083,
+      "timestamp_label": "34:43",
+      "text": "You can download it, either print it or save it to your local directory."
+    },
+    {
+      "start": 2088.4,
+      "end": 2093.77,
+      "start_int": 2088,
+      "timestamp_label": "34:48",
+      "text": "And then you have a variety of that you can actually share the link."
+    },
+    {
+      "start": 2093.77,
+      "end": 2097.15,
+      "start_int": 2093,
+      "timestamp_label": "34:53",
+      "text": "And then you can actually look at the relationships tab."
+    },
+    {
+      "start": 2097.15,
+      "end": 2101.95,
+      "start_int": 2097,
+      "timestamp_label": "34:57",
+      "text": "And then you can also look at the quick abstract of the document."
+    },
+    {
+      "start": 2101.95,
+      "end": 2107.93,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "So, on the left side, you have also the ability to filter."
+    },
+    {
+      "start": 2107.93,
+      "end": 2112.71,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "And that's where you can refine your search and provide additional keyword filters."
+    },
+    {
+      "start": 2112.71,
+      "end": 2119.07,
+      "start_int": 2112,
+      "timestamp_label": "35:12",
+      "text": "Or apply any of those additional filters that you see below that on the left side."
+    },
+    {
+      "start": 2119.07,
+      "end": 2126.45,
+      "start_int": 2119,
+      "timestamp_label": "35:19",
+      "text": "And then in the middle of the screen, you'll see in dark purple save, or search terms."
+    },
+    {
+      "start": 2126.45,
+      "end": 2128.41,
+      "start_int": 2126,
+      "timestamp_label": "35:26",
+      "text": "Those are all the search terms."
+    },
+    {
+      "start": 2128.41,
+      "end": 2134.3,
+      "start_int": 2128,
+      "timestamp_label": "35:28",
+      "text": "And you can quickly, very quickly delete those if you want to refine that particular search."
+    },
+    {
+      "start": 2134.3,
+      "end": 2136.88,
+      "start_int": 2134,
+      "timestamp_label": "35:34",
+      "text": "And just click on the X and it removes that search term."
+    },
+    {
+      "start": 2136.88,
+      "end": 2141.35,
+      "start_int": 2136,
+      "timestamp_label": "35:36",
+      "text": "And it will dynamically, instantly update your search results."
+    },
+    {
+      "start": 2141.35,
+      "end": 2144.52,
+      "start_int": 2141,
+      "timestamp_label": "35:41",
+      "text": "Right above that deep purple, you'll see save search."
+    },
+    {
+      "start": 2144.52,
+      "end": 2148.96,
+      "start_int": 2144,
+      "timestamp_label": "35:44",
+      "text": "And that's where you can also save that search that you've now refined."
+    },
+    {
+      "start": 2148.96,
+      "end": 2153.12,
+      "start_int": 2148,
+      "timestamp_label": "35:48",
+      "text": "And you can save that, and then elect to be notified or not notified,"
+    },
+    {
+      "start": 2153.12,
+      "end": 2157.19,
+      "start_int": 2153,
+      "timestamp_label": "35:53",
+      "text": "but you'll always have that save search for later use."
+    },
+    {
+      "start": 2157.19,
+      "end": 2161.64,
+      "start_int": 2157,
+      "timestamp_label": "35:57",
+      "text": "So, again, just quickly, this shows you how to save that search."
+    },
+    {
+      "start": 2161.64,
+      "end": 2164.44,
+      "start_int": 2161,
+      "timestamp_label": "36:01",
+      "text": "Again, go to that save search."
+    },
+    {
+      "start": 2164.44,
+      "end": 2167.87,
+      "start_int": 2164,
+      "timestamp_label": "36:04",
+      "text": "This shows you what that save search dialogue box will look like."
+    },
+    {
+      "start": 2167.87,
+      "end": 2170.55,
+      "start_int": 2167,
+      "timestamp_label": "36:07",
+      "text": "You can name it, provide a little description."
+    },
+    {
+      "start": 2170.55,
+      "end": 2175.53,
+      "start_int": 2170,
+      "timestamp_label": "36:10",
+      "text": "And then elect, if you want daily or weekly notifications to be sent to you."
+    },
+    {
+      "start": 2175.53,
+      "end": 2177.77,
+      "start_int": 2175,
+      "timestamp_label": "36:15",
+      "text": "And, again, this is for registered users."
+    },
+    {
+      "start": 2177.77,
+      "end": 2183.79,
+      "start_int": 2177,
+      "timestamp_label": "36:17",
+      "text": "And then you have what I'm showing you here is the list view that I mentioned earlier."
+    },
+    {
+      "start": 2183.79,
+      "end": 2187.08,
+      "start_int": 2183,
+      "timestamp_label": "36:23",
+      "text": "And it has similar information."
+    },
+    {
+      "start": 2194.41,
+      "end": 2195.8,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "Does that work there?"
+    },
+    {
+      "start": 2195.8,
+      "end": 2200.64,
+      "start_int": 2195,
+      "timestamp_label": "36:35",
+      "text": "So, this allows the ability to save the resource as a favorite."
+    },
+    {
+      "start": 2200.64,
+      "end": 2211.7,
+      "start_int": 2200,
+      "timestamp_label": "36:40",
+      "text": "And, again, this image, using the and here is the more detailed using the list view."
+    },
+    {
+      "start": 2211.7,
+      "end": 2213.19,
+      "start_int": 2211,
+      "timestamp_label": "36:51",
+      "text": "And selecting my favorite."
+    },
+    {
+      "start": 2213.19,
+      "end": 2219.87,
+      "start_int": 2213,
+      "timestamp_label": "36:53",
+      "text": "And very similarly, you can access that through the profile icon."
+    },
+    {
+      "start": 2219.87,
+      "end": 2225.89,
+      "start_int": 2219,
+      "timestamp_label": "36:59",
+      "text": "And then as I mentioned at the very beginning from that main page at the top,"
+    },
+    {
+      "start": 2225.89,
+      "end": 2232.51,
+      "start_int": 2225,
+      "timestamp_label": "37:05",
+      "text": "those icons with the plus, the plus icon, that is how a user, and, again,"
+    },
+    {
+      "start": 2232.51,
+      "end": 2237.9,
+      "start_int": 2232,
+      "timestamp_label": "37:12",
+      "text": "this is only for registered users, they would be able to nominate a resource."
+    },
+    {
+      "start": 2237.9,
+      "end": 2243.31,
+      "start_int": 2237,
+      "timestamp_label": "37:17",
+      "text": "And that's once they click on the nominate button icon,"
+    },
+    {
+      "start": 2243.31,
+      "end": 2245.82,
+      "start_int": 2243,
+      "timestamp_label": "37:23",
+      "text": "they would be presented with a form to complete."
+    },
+    {
+      "start": 2245.82,
+      "end": 2249.01,
+      "start_int": 2245,
+      "timestamp_label": "37:25",
+      "text": "And you can see the information there."
+    },
+    {
+      "start": 2249.01,
+      "end": 2251.02,
+      "start_int": 2249,
+      "timestamp_label": "37:29",
+      "text": "There's some that they don't need to fill out all of it."
+    },
+    {
+      "start": 2251.02,
+      "end": 2255.58,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "But that goes into, as Madison described, a holding repository."
+    },
+    {
+      "start": 2255.58,
+      "end": 2259.37,
+      "start_int": 2255,
+      "timestamp_label": "37:35",
+      "text": "And then the curation team reviews that,"
+    },
+    {
+      "start": 2259.37,
+      "end": 2262.42,
+      "start_int": 2259,
+      "timestamp_label": "37:39",
+      "text": "packages it for the review board on a quarterly basis."
+    },
+    {
+      "start": 2262.42,
+      "end": 2269.3,
+      "start_int": 2262,
+      "timestamp_label": "37:42",
+      "text": "Once it's voted on, if it is approved, per the acceptance criteria, it then gets moved"
+    },
+    {
+      "start": 2269.3,
+      "end": 2273.05,
+      "start_int": 2269,
+      "timestamp_label": "37:49",
+      "text": "over once it's vetted, validated, and metatagged,"
+    },
+    {
+      "start": 2273.05,
+      "end": 2279.42,
+      "start_int": 2273,
+      "timestamp_label": "37:53",
+      "text": "it gets moved over into the open CRWS BoK repository."
+    },
+    {
+      "start": 2279.42,
+      "end": 2285.35,
+      "start_int": 2279,
+      "timestamp_label": "37:59",
+      "text": "But this is how the process is initiated from the user's perspective, perspective to nominate."
+    },
+    {
+      "start": 2285.35,
+      "end": 2288.56,
+      "start_int": 2285,
+      "timestamp_label": "38:05",
+      "text": "And we try to do that to get the user involvement,"
+    },
+    {
+      "start": 2288.56,
+      "end": 2296.31,
+      "start_int": 2288,
+      "timestamp_label": "38:08",
+      "text": "to make sure that that repository is relevant to the, to the community at large."
+    },
+    {
+      "start": 2296.31,
+      "end": 2300.67,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "And, again, this is going back to the PDF viewer."
+    },
+    {
+      "start": 2300.67,
+      "end": 2305.24,
+      "start_int": 2300,
+      "timestamp_label": "38:20",
+      "text": "So, when you double click on each of those cards, either from the card view"
+    },
+    {
+      "start": 2305.24,
+      "end": 2308.89,
+      "start_int": 2305,
+      "timestamp_label": "38:25",
+      "text": "or the list view, those just show you the list view"
+    },
+    {
+      "start": 2308.89,
+      "end": 2312.5,
+      "start_int": 2308,
+      "timestamp_label": "38:28",
+      "text": "and the card view showed you the essential information."
+    },
+    {
+      "start": 2312.5,
+      "end": 2316.23,
+      "start_int": 2312,
+      "timestamp_label": "38:32",
+      "text": "When you double click on each of those particular resource,"
+    },
+    {
+      "start": 2316.23,
+      "end": 2319.83,
+      "start_int": 2316,
+      "timestamp_label": "38:36",
+      "text": "it will open up what we call the details view."
+    },
+    {
+      "start": 2319.83,
+      "end": 2324.77,
+      "start_int": 2319,
+      "timestamp_label": "38:39",
+      "text": "And from the details view, you then have four tabs."
+    },
+    {
+      "start": 2324.77,
+      "end": 2330.38,
+      "start_int": 2324,
+      "timestamp_label": "38:44",
+      "text": "You see in there viewer details relationships and references."
+    },
+    {
+      "start": 2330.38,
+      "end": 2333.5,
+      "start_int": 2330,
+      "timestamp_label": "38:50",
+      "text": "And the first of those is the viewer tab."
+    },
+    {
+      "start": 2333.5,
+      "end": 2341.66,
+      "start_int": 2333,
+      "timestamp_label": "38:53",
+      "text": "And the viewer tab allows the viewer to do a whole host of things to that, that resource."
+    },
+    {
+      "start": 2341.66,
+      "end": 2346.04,
+      "start_int": 2341,
+      "timestamp_label": "39:01",
+      "text": "And, again, this does not affect the original document in the repository."
+    },
+    {
+      "start": 2346.04,
+      "end": 2352.34,
+      "start_int": 2346,
+      "timestamp_label": "39:06",
+      "text": "It is only the user's, the registered user's local copy."
+    },
+    {
+      "start": 2352.34,
+      "end": 2360.46,
+      "start_int": 2352,
+      "timestamp_label": "39:12",
+      "text": "And you can print it, you can save it, share it, you can annotate, highlight, underline."
+    },
+    {
+      "start": 2360.46,
+      "end": 2363.82,
+      "start_int": 2360,
+      "timestamp_label": "39:20",
+      "text": "You can also do, as in this case, you can do a secondary search."
+    },
+    {
+      "start": 2363.82,
+      "end": 2368.26,
+      "start_int": 2363,
+      "timestamp_label": "39:23",
+      "text": "So, in this case, there was a document pulled up,"
+    },
+    {
+      "start": 2368.26,
+      "end": 2371.61,
+      "start_int": 2368,
+      "timestamp_label": "39:28",
+      "text": "the cybersecurity test and evaluation guidebook."
+    },
+    {
+      "start": 2371.61,
+      "end": 2375.54,
+      "start_int": 2371,
+      "timestamp_label": "39:31",
+      "text": "And then a secondary search was done for PPP."
+    },
+    {
+      "start": 2375.54,
+      "end": 2379.69,
+      "start_int": 2375,
+      "timestamp_label": "39:35",
+      "text": "And then you can see in there the various instances of PPP"
+    },
+    {
+      "start": 2379.69,
+      "end": 2383.31,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "within that document, that resource are highlighted."
+    },
+    {
+      "start": 2383.31,
+      "end": 2388.24,
+      "start_int": 2383,
+      "timestamp_label": "39:43",
+      "text": "And if there is any question as to how or what types of annotations can be done,"
+    },
+    {
+      "start": 2388.24,
+      "end": 2393.98,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "you can always, again, using those help icons, or help dialogue boxes, open it up,"
+    },
+    {
+      "start": 2393.98,
+      "end": 2400.04,
+      "start_int": 2393,
+      "timestamp_label": "39:53",
+      "text": "which I show here all the various editing, typical editing capabilities"
+    },
+    {
+      "start": 2400.04,
+      "end": 2403.16,
+      "start_int": 2400,
+      "timestamp_label": "40:00",
+      "text": "that are available from that, from that PDF viewer."
+    },
+    {
+      "start": 2403.16,
+      "end": 2410.78,
+      "start_int": 2403,
+      "timestamp_label": "40:03",
+      "text": "And then again, the next tab over is what we call the details tab."
+    },
+    {
+      "start": 2410.78,
+      "end": 2414.82,
+      "start_int": 2410,
+      "timestamp_label": "40:10",
+      "text": "And that details tab gives you some more, as the name implies,"
+    },
+    {
+      "start": 2414.82,
+      "end": 2418.09,
+      "start_int": 2414,
+      "timestamp_label": "40:14",
+      "text": "details pertaining to that particular resource."
+    },
+    {
+      "start": 2418.09,
+      "end": 2423.84,
+      "start_int": 2418,
+      "timestamp_label": "40:18",
+      "text": "And you can see here, as I mentioned, the domain, the topic words that would apply to it,"
+    },
+    {
+      "start": 2423.84,
+      "end": 2428.31,
+      "start_int": 2423,
+      "timestamp_label": "40:23",
+      "text": "the copyright information, just everything else that you need about it, including,"
+    },
+    {
+      "start": 2428.31,
+      "end": 2433.59,
+      "start_int": 2428,
+      "timestamp_label": "40:28",
+      "text": "which is very helpful for the source URL and the OPR URL."
+    },
+    {
+      "start": 2433.59,
+      "end": 2438.98,
+      "start_int": 2433,
+      "timestamp_label": "40:33",
+      "text": "So, as Madison mentioned at the beginning, the onset of the presentation,"
+    },
+    {
+      "start": 2438.98,
+      "end": 2444.82,
+      "start_int": 2438,
+      "timestamp_label": "40:38",
+      "text": "there are only publicly available, unclassified resources"
+    },
+    {
+      "start": 2444.82,
+      "end": 2448.49,
+      "start_int": 2444,
+      "timestamp_label": "40:44",
+      "text": "that are contained within the CRWS BoK repository."
+    },
+    {
+      "start": 2448.49,
+      "end": 2454.88,
+      "start_int": 2448,
+      "timestamp_label": "40:48",
+      "text": "Some of those may be unclassified and open publicly released,"
+    },
+    {
+      "start": 2454.88,
+      "end": 2458.08,
+      "start_int": 2454,
+      "timestamp_label": "40:54",
+      "text": "but there may be, for example, a paywall."
+    },
+    {
+      "start": 2458.08,
+      "end": 2462.4,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "You have to subscribe, for example, IEEE documents."
+    },
+    {
+      "start": 2462.4,
+      "end": 2468.57,
+      "start_int": 2462,
+      "timestamp_label": "41:02",
+      "text": "Or there may be another additional requirement for a CAC requirement,"
+    },
+    {
+      "start": 2468.57,
+      "end": 2471.16,
+      "start_int": 2468,
+      "timestamp_label": "41:08",
+      "text": "even though the document itself is unclassified."
+    },
+    {
+      "start": 2471.16,
+      "end": 2476.97,
+      "start_int": 2471,
+      "timestamp_label": "41:11",
+      "text": "So, the title and the abstract will be included, but the actual file,"
+    },
+    {
+      "start": 2476.97,
+      "end": 2481.8,
+      "start_int": 2476,
+      "timestamp_label": "41:16",
+      "text": "the document itself will not be contained within the CRWS BoK repository."
+    },
+    {
+      "start": 2481.8,
+      "end": 2488.97,
+      "start_int": 2481,
+      "timestamp_label": "41:21",
+      "text": "However, a link to the OPR or the resource containing"
+    },
+    {
+      "start": 2488.97,
+      "end": 2495.85,
+      "start_int": 2488,
+      "timestamp_label": "41:28",
+      "text": "or gatekeeping location will be contained here so that the user has that information"
+    },
+    {
+      "start": 2495.85,
+      "end": 2503.07,
+      "start_int": 2495,
+      "timestamp_label": "41:35",
+      "text": "and can then go to the OPR to request access to actually view that resource."
+    },
+    {
+      "start": 2503.07,
+      "end": 2506.9,
+      "start_int": 2503,
+      "timestamp_label": "41:43",
+      "text": "And, again, that's only for unclassified documents."
+    },
+    {
+      "start": 2506.9,
+      "end": 2511.62,
+      "start_int": 2506,
+      "timestamp_label": "41:46",
+      "text": "And so the next tab over is the relationships tab."
+    },
+    {
+      "start": 2511.62,
+      "end": 2520.46,
+      "start_int": 2511,
+      "timestamp_label": "41:51",
+      "text": "And the relationships tab is a really popular feature that shows all the documents contained"
+    },
+    {
+      "start": 2520.46,
+      "end": 2524.06,
+      "start_int": 2520,
+      "timestamp_label": "42:00",
+      "text": "within the CRWS BoK repository that are related."
+    },
+    {
+      "start": 2524.06,
+      "end": 2530.74,
+      "start_int": 2524,
+      "timestamp_label": "42:04",
+      "text": "And this is very similar to Facebook graphs, relational social graphs,"
+    },
+    {
+      "start": 2530.74,
+      "end": 2537.75,
+      "start_int": 2530,
+      "timestamp_label": "42:10",
+      "text": "that show various social relationships based on the legend that you see at the left there,"
+    },
+    {
+      "start": 2537.75,
+      "end": 2543.06,
+      "start_int": 2537,
+      "timestamp_label": "42:17",
+      "text": "to that particular document or resource that you're looking at."
+    },
+    {
+      "start": 2543.06,
+      "end": 2545.8,
+      "start_int": 2543,
+      "timestamp_label": "42:23",
+      "text": "And you can deselect the legend to make it easier to view,"
+    },
+    {
+      "start": 2545.8,
+      "end": 2549.48,
+      "start_int": 2545,
+      "timestamp_label": "42:25",
+      "text": "because some of these can be quite, quite crowded and difficult to view."
+    },
+    {
+      "start": 2549.48,
+      "end": 2555.68,
+      "start_int": 2549,
+      "timestamp_label": "42:29",
+      "text": "And you can deselect those and quickly get at looking at related documents."
+    },
+    {
+      "start": 2555.68,
+      "end": 2559.83,
+      "start_int": 2555,
+      "timestamp_label": "42:35",
+      "text": "Either same OPR, same topic, you know, variety of ways to look at it."
+    },
+    {
+      "start": 2559.83,
+      "end": 2561.26,
+      "start_int": 2559,
+      "timestamp_label": "42:39",
+      "text": "And so that's been very popular."
+    },
+    {
+      "start": 2561.26,
+      "end": 2563.27,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "Gotten a lot of positive feedback on that."
+    },
+    {
+      "start": 2563.27,
+      "end": 2566.04,
+      "start_int": 2563,
+      "timestamp_label": "42:43",
+      "text": "And that's being refined as we speak."
+    },
+    {
+      "start": 2566.04,
+      "end": 2572.62,
+      "start_int": 2566,
+      "timestamp_label": "42:46",
+      "text": "And then the last tab on that is the resource view, which is similar to a parent child table."
+    },
+    {
+      "start": 2572.62,
+      "end": 2577.64,
+      "start_int": 2572,
+      "timestamp_label": "42:52",
+      "text": "It gives you the documents that reference that document."
+    },
+    {
+      "start": 2577.64,
+      "end": 2580.69,
+      "start_int": 2577,
+      "timestamp_label": "42:57",
+      "text": "And the documents that it is referenced to."
+    },
+    {
+      "start": 2580.69,
+      "end": 2584.82,
+      "start_int": 2580,
+      "timestamp_label": "43:00",
+      "text": "As well as almost like a bibliography, the references that are listed within that document."
+    },
+    {
+      "start": 2584.82,
+      "end": 2589.97,
+      "start_int": 2584,
+      "timestamp_label": "43:04",
+      "text": "And those, again, the differences, these may not be contained within the CRWS BoK."
+    },
+    {
+      "start": 2589.97,
+      "end": 2595.03,
+      "start_int": 2589,
+      "timestamp_label": "43:09",
+      "text": "So, it gives the user additional references and resources to look at."
+    },
+    {
+      "start": 2595.03,
+      "end": 2599.85,
+      "start_int": 2595,
+      "timestamp_label": "43:15",
+      "text": "And this is also being improved right now."
+    },
+    {
+      "start": 2599.85,
+      "end": 2606.59,
+      "start_int": 2599,
+      "timestamp_label": "43:19",
+      "text": "We're still working on that to get to much, much better use."
+    },
+    {
+      "start": 2606.59,
+      "end": 2612.12,
+      "start_int": 2606,
+      "timestamp_label": "43:26",
+      "text": "So, this is another feature within, as I mentioned, the review board,"
+    },
+    {
+      "start": 2612.12,
+      "end": 2616.92,
+      "start_int": 2612,
+      "timestamp_label": "43:32",
+      "text": "is able to do when a resource is nominated by the user,"
+    },
+    {
+      "start": 2616.92,
+      "end": 2620.62,
+      "start_int": 2616,
+      "timestamp_label": "43:36",
+      "text": "it goes into the CRWS BoK, the holding repository."
+    },
+    {
+      "start": 2620.62,
+      "end": 2623.53,
+      "start_int": 2620,
+      "timestamp_label": "43:40",
+      "text": "And, again, their permissions are role based"
+    },
+    {
+      "start": 2623.53,
+      "end": 2630.38,
+      "start_int": 2623,
+      "timestamp_label": "43:43",
+      "text": "so that a review board member whose role permissions have been identified"
+    },
+    {
+      "start": 2630.38,
+      "end": 2636.43,
+      "start_int": 2630,
+      "timestamp_label": "43:50",
+      "text": "as such would log in and be able to view the nominations that are ready"
+    },
+    {
+      "start": 2636.43,
+      "end": 2640.39,
+      "start_int": 2636,
+      "timestamp_label": "43:56",
+      "text": "for review once they've been presented and packaged by the curation team."
+    },
+    {
+      "start": 2640.39,
+      "end": 2641.97,
+      "start_int": 2640,
+      "timestamp_label": "44:00",
+      "text": "And this is what they would see."
+    },
+    {
+      "start": 2641.97,
+      "end": 2645.95,
+      "start_int": 2641,
+      "timestamp_label": "44:01",
+      "text": "And they are basically able to vote on them all from within the CRWS BoK."
+    },
+    {
+      "start": 2645.95,
+      "end": 2647.97,
+      "start_int": 2645,
+      "timestamp_label": "44:05",
+      "text": "Not separately so we maintain the integrity"
+    },
+    {
+      "start": 2647.97,
+      "end": 2651.59,
+      "start_int": 2647,
+      "timestamp_label": "44:07",
+      "text": "of everything that's been done within, within the repository."
+    },
+    {
+      "start": 2651.59,
+      "end": 2653.22,
+      "start_int": 2651,
+      "timestamp_label": "44:11",
+      "text": "And then they're able to vote on that."
+    },
+    {
+      "start": 2653.22,
+      "end": 2657.98,
+      "start_int": 2653,
+      "timestamp_label": "44:13",
+      "text": "And we do the same thing with usability testing so that users are able to still log"
+    },
+    {
+      "start": 2657.98,
+      "end": 2664.63,
+      "start_int": 2657,
+      "timestamp_label": "44:17",
+      "text": "in once they're identified as participant, they are identified as such so their role changes"
+    },
+    {
+      "start": 2664.63,
+      "end": 2672.57,
+      "start_int": 2664,
+      "timestamp_label": "44:24",
+      "text": "and they have access when they log on to a user survey usability testing and survey link"
+    },
+    {
+      "start": 2672.57,
+      "end": 2677.43,
+      "start_int": 2672,
+      "timestamp_label": "44:32",
+      "text": "when they log on so they can do the usability testing from within CRWS BoK."
+    },
+    {
+      "start": 2677.43,
+      "end": 2682.59,
+      "start_int": 2677,
+      "timestamp_label": "44:37",
+      "text": "And we get the results, the curation team, within CRWS BoK."
+    },
+    {
+      "start": 2682.59,
+      "end": 2686.48,
+      "start_int": 2682,
+      "timestamp_label": "44:42",
+      "text": "So, the goal is to do everything within the CRWS BoK portal."
+    },
+    {
+      "start": 2686.48,
+      "end": 2691.2,
+      "start_int": 2686,
+      "timestamp_label": "44:46",
+      "text": "And, again, mentioning the 508 accessibility testing."
+    },
+    {
+      "start": 2691.2,
+      "end": 2695.9,
+      "start_int": 2691,
+      "timestamp_label": "44:51",
+      "text": "And we take that very seriously and do that for all of our releases to make sure"
+    },
+    {
+      "start": 2695.9,
+      "end": 2699.63,
+      "start_int": 2695,
+      "timestamp_label": "44:55",
+      "text": "that it is fully accessible for all users."
+    },
+    {
+      "start": 2699.63,
+      "end": 2706.27,
+      "start_int": 2699,
+      "timestamp_label": "44:59",
+      "text": "And I just wanted to briefly touch on some of the outreach efforts."
+    },
+    {
+      "start": 2706.27,
+      "end": 2713.1,
+      "start_int": 2706,
+      "timestamp_label": "45:06",
+      "text": "We have that, I would take that very seriously, because getting the input and feedback"
+    },
+    {
+      "start": 2713.1,
+      "end": 2720.57,
+      "start_int": 2713,
+      "timestamp_label": "45:13",
+      "text": "from the community and the users is absolutely vital to making sure that the features"
+    },
+    {
+      "start": 2720.57,
+      "end": 2724.21,
+      "start_int": 2720,
+      "timestamp_label": "45:20",
+      "text": "and the capabilities are relevant to what the users need."
+    },
+    {
+      "start": 2724.21,
+      "end": 2729.96,
+      "start_int": 2724,
+      "timestamp_label": "45:24",
+      "text": "And so we take all those requests, all those feedbacks and comments, and each subsequent,"
+    },
+    {
+      "start": 2729.96,
+      "end": 2736.19,
+      "start_int": 2729,
+      "timestamp_label": "45:29",
+      "text": "you know, all the iterations and releases have a lot of those, all those feedback"
+    },
+    {
+      "start": 2736.19,
+      "end": 2739.46,
+      "start_int": 2736,
+      "timestamp_label": "45:36",
+      "text": "and those suggestions incorporated."
+    },
+    {
+      "start": 2739.46,
+      "end": 2746.6,
+      "start_int": 2739,
+      "timestamp_label": "45:39",
+      "text": "So, you can see all of the various means that we have of advertising and getting that word"
+    },
+    {
+      "start": 2746.6,
+      "end": 2751.16,
+      "start_int": 2746,
+      "timestamp_label": "45:46",
+      "text": "out to get as many users using it."
+    },
+    {
+      "start": 2751.16,
+      "end": 2758.51,
+      "start_int": 2751,
+      "timestamp_label": "45:51",
+      "text": "And here what we're trying to do also is identify those sites used by the potential users"
+    },
+    {
+      "start": 2758.51,
+      "end": 2765.84,
+      "start_int": 2758,
+      "timestamp_label": "45:58",
+      "text": "that we're hoping targeted user groups so that we can identify the sites that they use to get"
+    },
+    {
+      "start": 2765.84,
+      "end": 2770.85,
+      "start_int": 2765,
+      "timestamp_label": "46:05",
+      "text": "that word out and leverage the social media coverage as well."
+    },
+    {
+      "start": 2770.85,
+      "end": 2774.38,
+      "start_int": 2770,
+      "timestamp_label": "46:10",
+      "text": "And these are just some examples of that."
+    },
+    {
+      "start": 2774.38,
+      "end": 2781.14,
+      "start_int": 2774,
+      "timestamp_label": "46:14",
+      "text": "Where it's already used in DAU use tool hub."
+    },
+    {
+      "start": 2781.14,
+      "end": 2782.52,
+      "start_int": 2781,
+      "timestamp_label": "46:21",
+      "text": "We have it listed there as well."
+    },
+    {
+      "start": 2782.52,
+      "end": 2789.1,
+      "start_int": 2782,
+      "timestamp_label": "46:22",
+      "text": "And trying to incorporate direct links so that users are then very easily able to click"
+    },
+    {
+      "start": 2789.1,
+      "end": 2793.06,
+      "start_int": 2789,
+      "timestamp_label": "46:29",
+      "text": "on the link and get to CRWS BoK as well."
+    },
+    {
+      "start": 2793.06,
+      "end": 2797.84,
+      "start_int": 2793,
+      "timestamp_label": "46:33",
+      "text": "Webinars such as this, we did a previous one with CSIAC."
+    },
+    {
+      "start": 2797.84,
+      "end": 2801.25,
+      "start_int": 2797,
+      "timestamp_label": "46:37",
+      "text": "We're getting ready to do another presentation"
+    },
+    {
+      "start": 2801.25,
+      "end": 2809.82,
+      "start_int": 2801,
+      "timestamp_label": "46:41",
+      "text": "to the military operation research society cyber cop next month."
+    },
+    {
+      "start": 2809.82,
+      "end": 2816.92,
+      "start_int": 2809,
+      "timestamp_label": "46:49",
+      "text": "So, these are all opportunities to get the word to users such as yourself to make them aware"
+    },
+    {
+      "start": 2816.92,
+      "end": 2820.44,
+      "start_int": 2816,
+      "timestamp_label": "46:56",
+      "text": "so that we can, again, make this more relevant."
+    },
+    {
+      "start": 2820.44,
+      "end": 2821.74,
+      "start_int": 2820,
+      "timestamp_label": "47:00",
+      "text": "This is another example."
+    },
+    {
+      "start": 2821.74,
+      "end": 2824.89,
+      "start_int": 2821,
+      "timestamp_label": "47:01",
+      "text": "Last December, another presentation."
+    },
+    {
+      "start": 2824.89,
+      "end": 2830.92,
+      "start_int": 2824,
+      "timestamp_label": "47:04",
+      "text": "So, with that, I really thank you for your attention and patience during some"
+    },
+    {
+      "start": 2830.92,
+      "end": 2834.62,
+      "start_int": 2830,
+      "timestamp_label": "47:10",
+      "text": "of the technical disruptions here."
+    },
+    {
+      "start": 2834.62,
+      "end": 2840.99,
+      "start_int": 2834,
+      "timestamp_label": "47:14",
+      "text": "Definitely encourage everyone to, as Burhan mentioned, log in, register, play around,"
+    },
+    {
+      "start": 2840.99,
+      "end": 2845.24,
+      "start_int": 2840,
+      "timestamp_label": "47:20",
+      "text": "and please we really, really welcome and look forward to your feedback and suggestions,"
+    },
+    {
+      "start": 2845.24,
+      "end": 2850.41,
+      "start_int": 2845,
+      "timestamp_label": "47:25",
+      "text": "because that's the way that we can improve this and make it more useful to everyone."
+    },
+    {
+      "start": 2850.41,
+      "end": 2855.09,
+      "start_int": 2850,
+      "timestamp_label": "47:30",
+      "text": "So, with that, Burhan I'll turn it back over to you."
+    },
+    {
+      "start": 2855.09,
+      "end": 2857.47,
+      "start_int": 2855,
+      "timestamp_label": "47:35",
+      "text": "&gt;&gt; Thanks, Angela."
+    },
+    {
+      "start": 2857.47,
+      "end": 2860.02,
+      "start_int": 2857,
+      "timestamp_label": "47:37",
+      "text": "Thanks, Madison as well."
+    },
+    {
+      "start": 2860.02,
+      "end": 2863.88,
+      "start_int": 2860,
+      "timestamp_label": "47:40",
+      "text": "So, over to you, Emmett."
+    },
+    {
+      "start": 2863.88,
+      "end": 2871.57,
+      "start_int": 2863,
+      "timestamp_label": "47:43",
+      "text": "I don't know how Dr. Jacobson, we're happy to take, we've got about seven minutes left."
+    },
+    {
+      "start": 2871.57,
+      "end": 2874.89,
+      "start_int": 2871,
+      "timestamp_label": "47:51",
+      "text": "Happy to take any questions from anyone."
+    },
+    {
+      "start": 2874.89,
+      "end": 2877.07,
+      "start_int": 2874,
+      "timestamp_label": "47:54",
+      "text": "Please go ahead."
+    },
+    {
+      "start": 2878.94,
+      "end": 2881.65,
+      "start_int": 2878,
+      "timestamp_label": "47:58",
+      "text": "&gt;&gt; First question we have is from Don Smith."
+    },
+    {
+      "start": 2881.65,
+      "end": 2887.48,
+      "start_int": 2881,
+      "timestamp_label": "48:01",
+      "text": "Can people from domains other than dot mail or dot gov access the repository?"
+    },
+    {
+      "start": 2887.48,
+      "end": 2889.77,
+      "start_int": 2887,
+      "timestamp_label": "48:07",
+      "text": "&gt;&gt; Oh, absolutely."
+    },
+    {
+      "start": 2889.77,
+      "end": 2898.47,
+      "start_int": 2889,
+      "timestamp_label": "48:09",
+      "text": "That was our number one directive from Ms. Reed and Burhan was"
+    },
+    {
+      "start": 2898.47,
+      "end": 2902.35,
+      "start_int": 2898,
+      "timestamp_label": "48:18",
+      "text": "to make this accessible to all domains."
+    },
+    {
+      "start": 2902.35,
+      "end": 2905.81,
+      "start_int": 2902,
+      "timestamp_label": "48:22",
+      "text": "So, it is, it is fully accessible."
+    },
+    {
+      "start": 2905.81,
+      "end": 2909.19,
+      "start_int": 2905,
+      "timestamp_label": "48:25",
+      "text": "&gt;&gt; Someone asked, how do you log on?"
+    },
+    {
+      "start": 2910.35,
+      "end": 2914.2,
+      "start_int": 2910,
+      "timestamp_label": "48:30",
+      "text": "&gt;&gt; You would, it's actually a two part process."
+    },
+    {
+      "start": 2914.2,
+      "end": 2917.56,
+      "start_int": 2914,
+      "timestamp_label": "48:34",
+      "text": "You go to either www.crws bok.org."
+    },
+    {
+      "start": 2917.56,
+      "end": 2923.67,
+      "start_int": 2917,
+      "timestamp_label": "48:37",
+      "text": "Once you're there, you would just enter your, select a username, and then password."
+    },
+    {
+      "start": 2923.67,
+      "end": 2929.6,
+      "start_int": 2923,
+      "timestamp_label": "48:43",
+      "text": "You will actually be, we've just instituted a two part process"
+    },
+    {
+      "start": 2929.6,
+      "end": 2933.18,
+      "start_int": 2929,
+      "timestamp_label": "48:49",
+      "text": "where you're going to be sent a code."
+    },
+    {
+      "start": 2933.18,
+      "end": 2942.24,
+      "start_int": 2933,
+      "timestamp_label": "48:53",
+      "text": "We did this to make sure that the e mail, when you, you can log on with,"
+    },
+    {
+      "start": 2942.24,
+      "end": 2955.49,
+      "start_int": 2942,
+      "timestamp_label": "49:02",
+      "text": "you can just go to www.crws bok.org, and you don't need to register."
+    },
+    {
+      "start": 2955.49,
+      "end": 2959.09,
+      "start_int": 2955,
+      "timestamp_label": "49:15",
+      "text": "You can, you can start searching without registering."
+    },
+    {
+      "start": 2959.09,
+      "end": 2963.55,
+      "start_int": 2959,
+      "timestamp_label": "49:19",
+      "text": "If you would like to take advantage of the additional capabilities that I mentioned"
+    },
+    {
+      "start": 2963.55,
+      "end": 2970.15,
+      "start_int": 2963,
+      "timestamp_label": "49:23",
+      "text": "such as getting notifications or using the PDF annotations, for example,"
+    },
+    {
+      "start": 2970.15,
+      "end": 2978.04,
+      "start_int": 2970,
+      "timestamp_label": "49:30",
+      "text": "and you want to register for an account, you would then enter in your username and e mail."
+    },
+    {
+      "start": 2978.04,
+      "end": 2982.6,
+      "start_int": 2978,
+      "timestamp_label": "49:38",
+      "text": "Obviously you need the e mail so that you can receive those notifications."
+    },
+    {
+      "start": 2982.6,
+      "end": 2990.76,
+      "start_int": 2982,
+      "timestamp_label": "49:42",
+      "text": "When you enter in your e mail, you will then be sent a code to that e mail."
+    },
+    {
+      "start": 2990.76,
+      "end": 2993.43,
+      "start_int": 2990,
+      "timestamp_label": "49:50",
+      "text": "And that's to verify that that e mail is valid."
+    },
+    {
+      "start": 2993.43,
+      "end": 2997.47,
+      "start_int": 2993,
+      "timestamp_label": "49:53",
+      "text": "Once you get that, it's momentarily, once you get that code,"
+    },
+    {
+      "start": 2997.47,
+      "end": 3003.54,
+      "start_int": 2997,
+      "timestamp_label": "49:57",
+      "text": "you then enter the code back into the registration window."
+    },
+    {
+      "start": 3003.54,
+      "end": 3006.17,
+      "start_int": 3003,
+      "timestamp_label": "50:03",
+      "text": "It will be waiting for that code to be entered."
+    },
+    {
+      "start": 3006.17,
+      "end": 3009.07,
+      "start_int": 3006,
+      "timestamp_label": "50:06",
+      "text": "And then you click on that, and then you're registered."
+    },
+    {
+      "start": 3009.07,
+      "end": 3011.55,
+      "start_int": 3009,
+      "timestamp_label": "50:09",
+      "text": "And that's all that's needed."
+    },
+    {
+      "start": 3019.12,
+      "end": 3021.74,
+      "start_int": 3019,
+      "timestamp_label": "50:19",
+      "text": "&gt;&gt; Next question from Matthew is how often are the references"
+    },
+    {
+      "start": 3021.74,
+      "end": 3025.01,
+      "start_int": 3021,
+      "timestamp_label": "50:21",
+      "text": "on the site updated for newer content?"
+    },
+    {
+      "start": 3025.01,
+      "end": 3027.03,
+      "start_int": 3025,
+      "timestamp_label": "50:25",
+      "text": "&gt;&gt; Minimum is monthly."
+    },
+    {
+      "start": 3027.03,
+      "end": 3035.16,
+      "start_int": 3027,
+      "timestamp_label": "50:27",
+      "text": "And we actually, the curation team, if we see something that when you get notified,"
+    },
+    {
+      "start": 3035.16,
+      "end": 3043.69,
+      "start_int": 3035,
+      "timestamp_label": "50:35",
+      "text": "comes out even sooner, then we, and obviously because we support Burhan, you know,"
+    },
+    {
+      "start": 3043.69,
+      "end": 3047.59,
+      "start_int": 3043,
+      "timestamp_label": "50:43",
+      "text": "in the office, we have access to when something gets signed and approved."
+    },
+    {
+      "start": 3047.59,
+      "end": 3050.89,
+      "start_int": 3047,
+      "timestamp_label": "50:47",
+      "text": "And if we know it's approved immediately, we go straight on there,"
+    },
+    {
+      "start": 3050.89,
+      "end": 3054.89,
+      "start_int": 3050,
+      "timestamp_label": "50:50",
+      "text": "and that gets, that gets replaced and updated."
+    },
+    {
+      "start": 3054.89,
+      "end": 3064.13,
+      "start_int": 3054,
+      "timestamp_label": "50:54",
+      "text": "So, it is at a minimum each month all of the references are updated and validated."
+    },
+    {
+      "start": 3064.13,
+      "end": 3068.27,
+      "start_int": 3064,
+      "timestamp_label": "51:04",
+      "text": "And that is to make sure that there are no new versions"
+    },
+    {
+      "start": 3068.27,
+      "end": 3072.02,
+      "start_int": 3068,
+      "timestamp_label": "51:08",
+      "text": "or anything that's obsolete or superseded."
+    },
+    {
+      "start": 3072.02,
+      "end": 3076.59,
+      "start_int": 3072,
+      "timestamp_label": "51:12",
+      "text": "So, everything is updated, at least minimum monthly."
+    },
+    {
+      "start": 3076.59,
+      "end": 3080.72,
+      "start_int": 3076,
+      "timestamp_label": "51:16",
+      "text": "And actually, as I said, you know, continuously by event."
+    },
+    {
+      "start": 3084.27,
+      "end": 3090.37,
+      "start_int": 3084,
+      "timestamp_label": "51:24",
+      "text": "&gt;&gt; Angela, you've got a couple questions from Don Smith regarding classification."
+    },
+    {
+      "start": 3090.37,
+      "end": 3095.55,
+      "start_int": 3090,
+      "timestamp_label": "51:30",
+      "text": "He says although it's unclassified, is there any thoughts on anything being CY?"
+    },
+    {
+      "start": 3095.55,
+      "end": 3097.44,
+      "start_int": 3095,
+      "timestamp_label": "51:35",
+      "text": "Is everything distribution A?"
+    },
+    {
+      "start": 3097.44,
+      "end": 3101.95,
+      "start_int": 3097,
+      "timestamp_label": "51:37",
+      "text": "How do we limit it so that others are not [inaudible]?"
+    },
+    {
+      "start": 3101.95,
+      "end": 3103.83,
+      "start_int": 3101,
+      "timestamp_label": "51:41",
+      "text": "&gt;&gt; Correct."
+    },
+    {
+      "start": 3103.83,
+      "end": 3104.57,
+      "start_int": 3103,
+      "timestamp_label": "51:43",
+      "text": "&gt;&gt; Perfect."
+    },
+    {
+      "start": 3104.57,
+      "end": 3112.3,
+      "start_int": 3104,
+      "timestamp_label": "51:44",
+      "text": "Next question from Maryanne is how does the system help procurement?"
+    },
+    {
+      "start": 3112.3,
+      "end": 3119.26,
+      "start_int": 3112,
+      "timestamp_label": "51:52",
+      "text": "&gt;&gt; How does it help I'm sorry, say that again, procurement?"
+    },
+    {
+      "start": 3119.26,
+      "end": 3122.06,
+      "start_int": 3119,
+      "timestamp_label": "51:59",
+      "text": "&gt;&gt; Yes, ma'am."
+    },
+    {
+      "start": 3122.06,
+      "end": 3123.32,
+      "start_int": 3122,
+      "timestamp_label": "52:02",
+      "text": "&gt;&gt; I'm answering all of them, Burhan."
+    },
+    {
+      "start": 3123.32,
+      "end": 3123.62,
+      "start_int": 3123,
+      "timestamp_label": "52:03",
+      "text": "I'm sorry."
+    },
+    {
+      "start": 3123.62,
+      "end": 3126.45,
+      "start_int": 3123,
+      "timestamp_label": "52:03",
+      "text": "Did you want to answer more strategic or"
+    },
+    {
+      "start": 3126.45,
+      "end": 3133.18,
+      "start_int": 3126,
+      "timestamp_label": "52:06",
+      "text": "&gt;&gt; Yeah, I would say doesn't really, this is, as I indicated earlier,"
+    },
+    {
+      "start": 3133.18,
+      "end": 3138.59,
+      "start_int": 3133,
+      "timestamp_label": "52:13",
+      "text": "really is to help the engineering and the technical community aspect of this."
+    },
+    {
+      "start": 3138.59,
+      "end": 3148.63,
+      "start_int": 3138,
+      "timestamp_label": "52:18",
+      "text": "It may end some of the, you know, things that you come up within statement of work or anything"
+    },
+    {
+      "start": 3148.63,
+      "end": 3152.19,
+      "start_int": 3148,
+      "timestamp_label": "52:28",
+      "text": "that you need to put in your technical requirements might, you know, you might have to,"
+    },
+    {
+      "start": 3152.19,
+      "end": 3160.16,
+      "start_int": 3152,
+      "timestamp_label": "52:32",
+      "text": "this is a research resource where, you know, if you need information, it's, you know,"
+    },
+    {
+      "start": 3160.16,
+      "end": 3165.29,
+      "start_int": 3160,
+      "timestamp_label": "52:40",
+      "text": "this is where you might turn into to get some information to help you develop the [inaudible]"
+    },
+    {
+      "start": 3165.29,
+      "end": 3167.85,
+      "start_int": 3165,
+      "timestamp_label": "52:45",
+      "text": "that you need for your course proposal."
+    },
+    {
+      "start": 3167.85,
+      "end": 3176.05,
+      "start_int": 3167,
+      "timestamp_label": "52:47",
+      "text": "So, I kind of say it directly supports that, your acquisition process, but it will support,"
+    },
+    {
+      "start": 3176.05,
+      "end": 3181.78,
+      "start_int": 3176,
+      "timestamp_label": "52:56",
+      "text": "it will help and equip the technical staff with information they need in terms"
+    },
+    {
+      "start": 3181.78,
+      "end": 3185.83,
+      "start_int": 3181,
+      "timestamp_label": "53:01",
+      "text": "of define the requirements for resiliency, in terms of define the methodologies,"
+    },
+    {
+      "start": 3185.83,
+      "end": 3191.4,
+      "start_int": 3185,
+      "timestamp_label": "53:05",
+      "text": "in terms of engage in their counterparts with industry, with the contractor side,"
+    },
+    {
+      "start": 3191.4,
+      "end": 3194.54,
+      "start_int": 3191,
+      "timestamp_label": "53:11",
+      "text": "and working with that and developing capabilities needed,"
+    },
+    {
+      "start": 3194.54,
+      "end": 3197.4,
+      "start_int": 3194,
+      "timestamp_label": "53:14",
+      "text": "and then testing and evaluating that process."
+    },
+    {
+      "start": 3197.4,
+      "end": 3203.35,
+      "start_int": 3197,
+      "timestamp_label": "53:17",
+      "text": "So, it might not be something that you directly, from a contracting perspective,"
+    },
+    {
+      "start": 3203.35,
+      "end": 3209.08,
+      "start_int": 3203,
+      "timestamp_label": "53:23",
+      "text": "that you can tap into it, but it will support it, the technical team within this,"
+    },
+    {
+      "start": 3209.08,
+      "end": 3212.81,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "within the program office shops also, so to speak."
+    },
+    {
+      "start": 3212.81,
+      "end": 3215.53,
+      "start_int": 3212,
+      "timestamp_label": "53:32",
+      "text": "I hope that answers that question."
+    },
+    {
+      "start": 3215.53,
+      "end": 3217.49,
+      "start_int": 3215,
+      "timestamp_label": "53:35",
+      "text": "&gt;&gt; I'd like to thank you guys for your time."
+    },
+    {
+      "start": 3217.49,
+      "end": 3219.62,
+      "start_int": 3217,
+      "timestamp_label": "53:37",
+      "text": "Thank you, Aaron, for hosting."
+    },
+    {
+      "start": 3219.62,
+      "end": 3222.14,
+      "start_int": 3219,
+      "timestamp_label": "53:39",
+      "text": "And do you guys have any last words for the audience?"
+    },
+    {
+      "start": 3222.14,
+      "end": 3224.13,
+      "start_int": 3222,
+      "timestamp_label": "53:42",
+      "text": "&gt;&gt; Thanks very much."
+    },
+    {
+      "start": 3224.13,
+      "end": 3225.02,
+      "start_int": 3224,
+      "timestamp_label": "53:44",
+      "text": "&gt;&gt; Thank you."
+    },
+    {
+      "start": 3225.02,
+      "end": 3231.73,
+      "start_int": 3225,
+      "timestamp_label": "53:45",
+      "text": "&gt;&gt; Yeah, I just want to say, Emmett, thank you for supporting this activity."
+    },
+    {
+      "start": 3231.73,
+      "end": 3237.29,
+      "start_int": 3231,
+      "timestamp_label": "53:51",
+      "text": "I want to thank Mr. Burhan, Ms. Madison, Ms. Angela, this is a great portal tool"
+    },
+    {
+      "start": 3237.29,
+      "end": 3244.29,
+      "start_int": 3237,
+      "timestamp_label": "53:57",
+      "text": "that was presented, guidance and training in the cyber resiliency world is forthcoming."
+    },
+    {
+      "start": 3244.29,
+      "end": 3249.25,
+      "start_int": 3244,
+      "timestamp_label": "54:04",
+      "text": "But this is definitely a great tool to get you the latest and greatest information."
+    },
+    {
+      "start": 3249.25,
+      "end": 3251.47,
+      "start_int": 3249,
+      "timestamp_label": "54:09",
+      "text": "So, thank you all for presenting today."
+    },
+    {
+      "start": 3251.47,
+      "end": 3252.49,
+      "start_int": 3251,
+      "timestamp_label": "54:11",
+      "text": "&gt;&gt; Thank you."
+    },
+    {
+      "start": 3252.49,
+      "end": 3252.89,
+      "start_int": 3252,
+      "timestamp_label": "54:12",
+      "text": "&gt;&gt; Thank you."
+    }
+  ]
+}
