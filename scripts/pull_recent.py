@@ -149,10 +149,13 @@ def throttled_request(*args: str, **kwargs: dict) -> requests.Response:
     Make a call to requests.get with args and kwargs, but
     sleep such that calls can only be made once per second.
     """
+    global THROTTLE_PREV_TIME
+
     sleep_time = THROTTLE_PERIOD - (time.time() - THROTTLE_PREV_TIME)
     if sleep_time > 0:
         time.sleep(sleep_time)
 
+    THROTTLE_PREV_TIME = time.time()
     return requests.get(*args, **kwargs)
 
 
