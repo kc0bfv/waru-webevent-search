@@ -4,8 +4,17 @@ on:
   #schedule:
     # Daily at 6:27 AM UTC (2 AM ET) Monday and Thursday
     #- cron: "27 6 * * 1,4"
+  push:
+    branches:
+      - main
   workflow_dispatch:
     inputs:
+      default_pull:
+        description: "Pull default quantity of event history (3 pages)"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
       full_history:
         description: "Fetch full event history (scans 200 listing pages)"
         required: false
@@ -52,8 +61,10 @@ jobs:
             python scripts/pull_recent.py --url "${{ github.event.inputs.specific_url }}"
           elif [ "${{ github.event.inputs.full_history }}" = "true" ]; then
             python scripts/pull_recent.py --all
-          else
+          elif [ "${{ github.event.inputs.default_pull }}" = "true" ]; then
             python scripts/pull_recent.py
+          else
+            echo "Skipping pull..."
           fi
 
       # ── 4. Build Hugo content ────────────────────────────────────────────
@@ -62,7 +73,11 @@ jobs:
 
       # ── 5. Commit data back to main ──────────────────────────────────────
       # [skip ci] prevents this commit from triggering another workflow run.
-      - name: Commit updated data and content
+- name: Upload a Single File
+  uses: actions/upload-artifact@v4
+  with:
+    name: my-file-artifact
+    path: path/to/your/file.txt      - name: Commit updated data and content
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
