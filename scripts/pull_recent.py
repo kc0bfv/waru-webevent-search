@@ -470,11 +470,11 @@ def main() -> None:
         description="Discover and ingest WARU web event transcripts."
     )
     parser.add_argument(
-        "--days",
+        "--pages",
         type=int,
-        default=14,
+        default=3,
         metavar="N",
-        help="(Informational) days back to consider; controls listing pages scanned.",
+        help="Number of listing pages to scan.",
     )
     parser.add_argument(
         "--all",
@@ -496,7 +496,7 @@ def main() -> None:
     elif args.all:
         urls = discover_event_urls(max_pages=200)
     else:
-        urls = discover_event_urls(max_pages=3)
+        urls = discover_event_urls(max_pages=args.pages)
 
     print(f"Found {len(urls)} candidate event URL(s).", file=sys.stderr)
 

@@ -25,7 +25,7 @@ if [ -z "${SKIP_PULL:-}" ]; then
     python scripts/pull_recent.py --url "$EVENT_URL"
   else
     echo "→ Pulling recent events (3 listing pages)..."
-    python scripts/pull_recent.py
+    python scripts/pull_recent.py --pages 3
   fi
 else
   echo "→ Skipping pull (SKIP_PULL set)."
