@@ -1,0 +1,6074 @@
+{
+  "id": "2026-06-08-cybersecurity-beyond-compliance-cross-functional-training-cft-roundtable-682026",
+  "title": "Cybersecurity Beyond Compliance - Cross-Functional Training (CFT) Roundtable - 6/8/2026",
+  "date": "2026-06-08",
+  "event_url": "https://www.waru.edu/events/cross-functional-training-cft-roundtable-2",
+  "entry_id": "1_i1vm3vgg",
+  "partner_id": "2203981",
+  "uiconf_id": "54104082",
+  "thumbnail_url": "https://cfvod.kaltura.com/p/2203981/sp/220398100/thumbnail/entry_id/1_i1vm3vgg/version/100031",
+  "cues": [
+    {
+      "start": 3.058,
+      "end": 6.864,
+      "start_int": 3,
+      "timestamp_label": "0:03",
+      "text": "Welcome everyone to War Fighting Acquisition University and our"
+    },
+    {
+      "start": 6.864,
+      "end": 11.443,
+      "start_int": 6,
+      "timestamp_label": "0:06",
+      "text": "cross-functional training roundtable event, Cybersecurity Beyond Compliance."
+    },
+    {
+      "start": 11.443,
+      "end": 14.952,
+      "start_int": 11,
+      "timestamp_label": "0:11",
+      "text": "Before we begin, I would like to make a few administrative"
+    },
+    {
+      "start": 14.952,
+      "end": 18.044,
+      "start_int": 14,
+      "timestamp_label": "0:14",
+      "text": "announcements. If you are unable to see the content"
+    },
+    {
+      "start": 18.044,
+      "end": 22.028,
+      "start_int": 18,
+      "timestamp_label": "0:18",
+      "text": "shared on the screen right now, please try disconnecting from your"
+    },
+    {
+      "start": 22.028,
+      "end": 23.098,
+      "start_int": 22,
+      "timestamp_label": "0:22",
+      "text": "organization's VPN"
+    },
+    {
+      "start": 23.258,
+      "end": 24.218,
+      "start_int": 23,
+      "timestamp_label": "0:23",
+      "text": "if possible."
+    },
+    {
+      "start": 25.178,
+      "end": 27.658,
+      "start_int": 25,
+      "timestamp_label": "0:25",
+      "text": "Otherwise, you can use a personal device today."
+    },
+    {
+      "start": 28.858,
+      "end": 32.721,
+      "start_int": 28,
+      "timestamp_label": "0:28",
+      "text": "Following the event, please use the link we will provide in"
+    },
+    {
+      "start": 32.721,
+      "end": 36.391,
+      "start_int": 32,
+      "timestamp_label": "0:32",
+      "text": "chat to access a short survey. At the end of the survey,"
+    },
+    {
+      "start": 36.391,
+      "end": 39.545,
+      "start_int": 36,
+      "timestamp_label": "0:36",
+      "text": "you can request a certificate to be sent to you,"
+    },
+    {
+      "start": 39.545,
+      "end": 43.215,
+      "start_int": 39,
+      "timestamp_label": "0:39",
+      "text": "which you can use to request continuous learning points."
+    },
+    {
+      "start": 43.215,
+      "end": 47.721,
+      "start_int": 43,
+      "timestamp_label": "0:43",
+      "text": "Please follow your organizational guidance regarding requesting CLPs."
+    },
+    {
+      "start": 47.721,
+      "end": 50.618,
+      "start_int": 47,
+      "timestamp_label": "0:47",
+      "text": "And remember, CLPs for War U events will not"
+    },
+    {
+      "start": 50.698,
+      "end": 55.94,
+      "start_int": 50,
+      "timestamp_label": "0:50",
+      "text": "posts automatically to your continuous learning transcript and must be requested"
+    },
+    {
+      "start": 55.94,
+      "end": 59.953,
+      "start_int": 55,
+      "timestamp_label": "0:55",
+      "text": "separately. Once again, we want to welcome you to War U's CFT"
+    },
+    {
+      "start": 59.953,
+      "end": 63.577,
+      "start_int": 59,
+      "timestamp_label": "0:59",
+      "text": "Roundtable event, and I'm going to go ahead and pass it"
+    },
+    {
+      "start": 63.577,
+      "end": 66.618,
+      "start_int": 63,
+      "timestamp_label": "1:03",
+      "text": "over to our facilitator today, which is Ellie."
+    },
+    {
+      "start": 68.058,
+      "end": 70.603,
+      "start_int": 68,
+      "timestamp_label": "1:08",
+      "text": "All right, good afternoon. Thank you, Alyssa."
+    },
+    {
+      "start": 70.603,
+      "end": 73.258,
+      "start_int": 70,
+      "timestamp_label": "1:10",
+      "text": "Let me go ahead and attempt to share my screen."
+    },
+    {
+      "start": 79.698,
+      "end": 82.611,
+      "start_int": 79,
+      "timestamp_label": "1:19",
+      "text": "All right, so if you can see the window that I'm"
+    },
+    {
+      "start": 82.611,
+      "end": 87.187,
+      "start_int": 82,
+      "timestamp_label": "1:22",
+      "text": "sharing, someone please give me hearts, thumbs up, something to let me know."
+    },
+    {
+      "start": 87.187,
+      "end": 90.099,
+      "start_int": 87,
+      "timestamp_label": "1:27",
+      "text": "Appreciate that. And just a quick admin comment."
+    },
+    {
+      "start": 90.099,
+      "end": 92.774,
+      "start_int": 90,
+      "timestamp_label": "1:30",
+      "text": "I was told that everybody can come off mute."
+    },
+    {
+      "start": 92.774,
+      "end": 96.399,
+      "start_int": 92,
+      "timestamp_label": "1:32",
+      "text": "I designed this session to be interactive for the next hour."
+    },
+    {
+      "start": 96.399,
+      "end": 98.538,
+      "start_int": 96,
+      "timestamp_label": "1:36",
+      "text": "I thought that was really important."
+    },
+    {
+      "start": 98.818,
+      "end": 102.596,
+      "start_int": 98,
+      "timestamp_label": "1:38",
+      "text": "So I wanted to do that. So make sure that you do that via the"
+    },
+    {
+      "start": 102.596,
+      "end": 107.532,
+      "start_int": 102,
+      "timestamp_label": "1:42",
+      "text": "chat, come off mute, raise your hand. There's so many different ways to do that."
+    },
+    {
+      "start": 107.532,
+      "end": 110.518,
+      "start_int": 107,
+      "timestamp_label": "1:47",
+      "text": "So first and foremost, my name is Ellena Millar."
+    },
+    {
+      "start": 110.518,
+      "end": 114.905,
+      "start_int": 110,
+      "timestamp_label": "1:50",
+      "text": "I'm one of the cybersecurity professors here at Warfighting Acquisition"
+    },
+    {
+      "start": 114.905,
+      "end": 117.83,
+      "start_int": 114,
+      "timestamp_label": "1:54",
+      "text": "University. I am physically located in Norfolk,"
+    },
+    {
+      "start": 117.83,
+      "end": 118.378,
+      "start_int": 117,
+      "timestamp_label": "1:57",
+      "text": "Virginia."
+    },
+    {
+      "start": 118.698,
+      "end": 122.926,
+      "start_int": 118,
+      "timestamp_label": "1:58",
+      "text": "And I want to 1st thank Dr. Baker for inviting me to present today."
+    },
+    {
+      "start": 122.926,
+      "end": 126.283,
+      "start_int": 122,
+      "timestamp_label": "2:02",
+      "text": "I'm honored to do so. And I want to thank all of you."
+    },
+    {
+      "start": 126.283,
+      "end": 130.572,
+      "start_int": 126,
+      "timestamp_label": "2:06",
+      "text": "2 o'clock Eastern Time on Monday. I imagine probably is not the most"
+    },
+    {
+      "start": 130.572,
+      "end": 135.173,
+      "start_int": 130,
+      "timestamp_label": "2:10",
+      "text": "opportune time. I know you're busy. So I really appreciate you taking the"
+    },
+    {
+      "start": 135.173,
+      "end": 138.778,
+      "start_int": 135,
+      "timestamp_label": "2:15",
+      "text": "time to learn with us. So just quick rules of engagement."
+    },
+    {
+      "start": 138.938,
+      "end": 143.072,
+      "start_int": 138,
+      "timestamp_label": "2:18",
+      "text": "many. As I mentioned earlier, participation would be fantastic."
+    },
+    {
+      "start": 143.072,
+      "end": 148.109,
+      "start_int": 143,
+      "timestamp_label": "2:23",
+      "text": "I would love to hear your voice if that works. If not, we'll do that in chat."
+    },
+    {
+      "start": 148.109,
+      "end": 153.276,
+      "start_int": 148,
+      "timestamp_label": "2:28",
+      "text": "If you have any questions or comments, please raise your hand so we can do that"
+    },
+    {
+      "start": 153.276,
+      "end": 158.249,
+      "start_int": 153,
+      "timestamp_label": "2:33",
+      "text": "in an orderly fashion as possible. And I'm actually doing the entire session"
+    },
+    {
+      "start": 158.249,
+      "end": 158.378,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "on"
+    },
+    {
+      "start": 158.498,
+      "end": 163.605,
+      "start_int": 158,
+      "timestamp_label": "2:38",
+      "text": "mentee and some of you who have come to our courses and workshops or webinars"
+    },
+    {
+      "start": 163.605,
+      "end": 169.104,
+      "start_int": 163,
+      "timestamp_label": "2:43",
+      "text": "like this probably have experience using it, but I'll explain again how that works."
+    },
+    {
+      "start": 169.104,
+      "end": 174.08,
+      "start_int": 169,
+      "timestamp_label": "2:49",
+      "text": "Secondly, please, this is a public forum, so do not share anything that you"
+    },
+    {
+      "start": 174.08,
+      "end": 177.418,
+      "start_int": 174,
+      "timestamp_label": "2:54",
+      "text": "shouldn't be shared, you should be sharing, right?"
+    },
+    {
+      "start": 177.738,
+      "end": 181.877,
+      "start_int": 177,
+      "timestamp_label": "2:57",
+      "text": "skip the classification level appropriately. And lastly,"
+    },
+    {
+      "start": 181.877,
+      "end": 185.797,
+      "start_int": 181,
+      "timestamp_label": "3:01",
+      "text": "I just want to do a double foot stomp on this series."
+    },
+    {
+      "start": 185.797,
+      "end": 191.097,
+      "start_int": 185,
+      "timestamp_label": "3:05",
+      "text": "I also found out about this a couple of months ago, thanks to Dr. Baker,"
+    },
+    {
+      "start": 191.097,
+      "end": 196.034,
+      "start_int": 191,
+      "timestamp_label": "3:11",
+      "text": "and I think it's a fantastic idea. I am an expert at cybersecurity,"
+    },
+    {
+      "start": 196.034,
+      "end": 198.938,
+      "start_int": 196,
+      "timestamp_label": "3:16",
+      "text": "and I can tell you with my career field,"
+    },
+    {
+      "start": 199.178,
+      "end": 203.036,
+      "start_int": 199,
+      "timestamp_label": "3:19",
+      "text": "cybersecurity is not done in a siloed format, right?"
+    },
+    {
+      "start": 203.036,
+      "end": 208.786,
+      "start_int": 203,
+      "timestamp_label": "3:23",
+      "text": "Everything that we do touches contract to engineering to testing to, you know,"
+    },
+    {
+      "start": 208.786,
+      "end": 213.516,
+      "start_int": 208,
+      "timestamp_label": "3:28",
+      "text": "continuous sustainment. So I think that probably is the case for"
+    },
+    {
+      "start": 213.516,
+      "end": 217.519,
+      "start_int": 213,
+      "timestamp_label": "3:33",
+      "text": "a lot of you, whatever roles and responsibilities that"
+    },
+    {
+      "start": 217.519,
+      "end": 222.032,
+      "start_int": 217,
+      "timestamp_label": "3:37",
+      "text": "you do within your work. And I think this has become a really"
+    },
+    {
+      "start": 222.032,
+      "end": 223.778,
+      "start_int": 222,
+      "timestamp_label": "3:42",
+      "text": "important focus area. So"
+    },
+    {
+      "start": 223.858,
+      "end": 227.578,
+      "start_int": 223,
+      "timestamp_label": "3:43",
+      "text": "So I am happy to contribute to this web series."
+    },
+    {
+      "start": 229.338,
+      "end": 233.799,
+      "start_int": 229,
+      "timestamp_label": "3:49",
+      "text": "All right, so what is Menti? For those of you who are not familiar"
+    },
+    {
+      "start": 233.799,
+      "end": 237.46,
+      "start_int": 233,
+      "timestamp_label": "3:53",
+      "text": "with Menti, it's an app that has been vetted by War U."
+    },
+    {
+      "start": 237.46,
+      "end": 240.989,
+      "start_int": 237,
+      "timestamp_label": "3:57",
+      "text": "I know some of you are thinking, oh, it's a new app,"
+    },
+    {
+      "start": 240.989,
+      "end": 244.717,
+      "start_int": 240,
+      "timestamp_label": "4:00",
+      "text": "we're using internet browser, is it really safe? It is."
+    },
+    {
+      "start": 244.717,
+      "end": 248.378,
+      "start_int": 244,
+      "timestamp_label": "4:04",
+      "text": "It just gives us another way for us to engage. You can"
+    },
+    {
+      "start": 249.178,
+      "end": 254.026,
+      "start_int": 249,
+      "timestamp_label": "4:09",
+      "text": "vote, you can choose options, there is a way to submit your answers."
+    },
+    {
+      "start": 254.026,
+      "end": 259.366,
+      "start_int": 254,
+      "timestamp_label": "4:14",
+      "text": "So it's a super fun way for us to talk through difficult or some, you know,"
+    },
+    {
+      "start": 259.366,
+      "end": 263.441,
+      "start_int": 259,
+      "timestamp_label": "4:19",
+      "text": "very dry topics. So we're going to take full advantage of"
+    },
+    {
+      "start": 263.441,
+      "end": 268.218,
+      "start_int": 263,
+      "timestamp_label": "4:23",
+      "text": "it. And you can do that via 2 methods. You can use your smartphone."
+    },
+    {
+      "start": 268.298,
+      "end": 271.983,
+      "start_int": 268,
+      "timestamp_label": "4:28",
+      "text": "if it's accessible to you. I know some of you may be within your"
+    },
+    {
+      "start": 271.983,
+      "end": 274.59,
+      "start_int": 271,
+      "timestamp_label": "4:31",
+      "text": "workplace where you cannot have fun with you,"
+    },
+    {
+      "start": 274.59,
+      "end": 277.595,
+      "start_int": 274,
+      "timestamp_label": "4:34",
+      "text": "but that's totally fine because you can go to menti."
+    },
+    {
+      "start": 277.595,
+      "end": 279.578,
+      "start_int": 277,
+      "timestamp_label": "4:37",
+      "text": "com and I'll also put this in chat."
+    },
+    {
+      "start": 280.778,
+      "end": 284.105,
+      "start_int": 280,
+      "timestamp_label": "4:40",
+      "text": "I've been typing that in. So open any browser,"
+    },
+    {
+      "start": 284.105,
+      "end": 288.068,
+      "start_int": 284,
+      "timestamp_label": "4:44",
+      "text": "whether it's Microsoft Edge or Chrome, go to menti.com,"
+    },
+    {
+      "start": 288.068,
+      "end": 292.385,
+      "start_int": 288,
+      "timestamp_label": "4:48",
+      "text": "and it should ask you a code, which is the eight-digit code."
+    },
+    {
+      "start": 292.385,
+      "end": 295.64,
+      "start_int": 292,
+      "timestamp_label": "4:52",
+      "text": "You see that on the right side of the screen."
+    },
+    {
+      "start": 295.64,
+      "end": 300.098,
+      "start_int": 295,
+      "timestamp_label": "4:55",
+      "text": "I'm also talking and typing that code into the chat. It's 932."
+    },
+    {
+      "start": 300.178,
+      "end": 303.578,
+      "start_int": 300,
+      "timestamp_label": "5:00",
+      "text": "Two 04621."
+    },
+    {
+      "start": 304.778,
+      "end": 309.738,
+      "start_int": 304,
+      "timestamp_label": "5:04",
+      "text": "So I'll give you a minute to do that. And let's see. While everybody's doing,"
+    },
+    {
+      "start": 309.738,
+      "end": 314.826,
+      "start_int": 309,
+      "timestamp_label": "5:09",
+      "text": "I'm keeping an eye on the number here on the bottom right-hand corner so I know"
+    },
+    {
+      "start": 314.826,
+      "end": 317.751,
+      "start_int": 314,
+      "timestamp_label": "5:14",
+      "text": "how many people are jumping on. Please do so."
+    },
+    {
+      "start": 317.751,
+      "end": 322.011,
+      "start_int": 317,
+      "timestamp_label": "5:17",
+      "text": "This will give you opportunity to participate. Just a quick intro."
+    },
+    {
+      "start": 322.011,
+      "end": 327.098,
+      "start_int": 322,
+      "timestamp_label": "5:22",
+      "text": "I have been within Department of War for majority of my adult career. It's been"
+    },
+    {
+      "start": 327.418,
+      "end": 330.745,
+      "start_int": 327,
+      "timestamp_label": "5:27",
+      "text": "About 27 years, I've done everything IT cyber."
+    },
+    {
+      "start": 330.745,
+      "end": 335.698,
+      "start_int": 330,
+      "timestamp_label": "5:30",
+      "text": "When I look back on my career, it's kind of fascinating because I had"
+    },
+    {
+      "start": 335.698,
+      "end": 340.157,
+      "start_int": 335,
+      "timestamp_label": "5:35",
+      "text": "great mentors who I think led me the way. So when I look back,"
+    },
+    {
+      "start": 340.157,
+      "end": 345.818,
+      "start_int": 340,
+      "timestamp_label": "5:40",
+      "text": "I've done everything from hands-on to policy, working for authorizing official,"
+    },
+    {
+      "start": 346.018,
+      "end": 349.462,
+      "start_int": 346,
+      "timestamp_label": "5:46",
+      "text": "doing things like, you know, what used to be the cap,"
+    },
+    {
+      "start": 349.462,
+      "end": 352.778,
+      "start_int": 349,
+      "timestamp_label": "5:49",
+      "text": "now risk management framework at the highest level."
+    },
+    {
+      "start": 352.778,
+      "end": 356.221,
+      "start_int": 352,
+      "timestamp_label": "5:52",
+      "text": "And then I was introduced to this world of operation,"
+    },
+    {
+      "start": 356.221,
+      "end": 359.091,
+      "start_int": 356,
+      "timestamp_label": "5:56",
+      "text": "where I think for about three to four years,"
+    },
+    {
+      "start": 359.091,
+      "end": 364.256,
+      "start_int": 359,
+      "timestamp_label": "5:59",
+      "text": "I worked under Fleet Cybercom in charge of things like Navy Red Team, Blue Team,"
+    },
+    {
+      "start": 364.256,
+      "end": 368.337,
+      "start_int": 364,
+      "timestamp_label": "6:04",
+      "text": "and Web Risk Assessment. And what was fascinating about that is"
+    },
+    {
+      "start": 368.337,
+      "end": 370.058,
+      "start_int": 368,
+      "timestamp_label": "6:08",
+      "text": "right after I got on board,"
+    },
+    {
+      "start": 370.938,
+      "end": 375.286,
+      "start_int": 370,
+      "timestamp_label": "6:10",
+      "text": "Iranians attacked Navy, and this is public information,"
+    },
+    {
+      "start": 375.286,
+      "end": 381.575,
+      "start_int": 375,
+      "timestamp_label": "6:15",
+      "text": "so I can talk about it to some degree. And I really saw firsthand what it's like"
+    },
+    {
+      "start": 381.575,
+      "end": 387.786,
+      "start_int": 381,
+      "timestamp_label": "6:21",
+      "text": "to try to kick adversary at the nation state out of our war fighting, you know,"
+    },
+    {
+      "start": 387.786,
+      "end": 391.668,
+      "start_int": 387,
+      "timestamp_label": "6:27",
+      "text": "network. And then I again was led by my mentor to"
+    },
+    {
+      "start": 391.668,
+      "end": 391.978,
+      "start_int": 391,
+      "timestamp_label": "6:31",
+      "text": "look"
+    },
+    {
+      "start": 392.058,
+      "end": 396.862,
+      "start_int": 392,
+      "timestamp_label": "6:32",
+      "text": "elsewhere, right? I've done policy, I've done operations, and he told me,"
+    },
+    {
+      "start": 396.862,
+      "end": 401.405,
+      "start_int": 396,
+      "timestamp_label": "6:36",
+      "text": "Ellie, you need to go do some acquisition. And as a technical person,"
+    },
+    {
+      "start": 401.405,
+      "end": 406.663,
+      "start_int": 401,
+      "timestamp_label": "6:41",
+      "text": "that word acquisition have never been under my radar. I didn't know what it was."
+    },
+    {
+      "start": 406.663,
+      "end": 411.531,
+      "start_int": 406,
+      "timestamp_label": "6:46",
+      "text": "So it was a huge learning curve. But for about 6 1/2 years prior to coming"
+    },
+    {
+      "start": 411.531,
+      "end": 413.218,
+      "start_int": 411,
+      "timestamp_label": "6:51",
+      "text": "to RU, I was the director."
+    },
+    {
+      "start": 413.578,
+      "end": 419.354,
+      "start_int": 413,
+      "timestamp_label": "6:53",
+      "text": "of Cyber Operational Test and Evaluation. So I again had organic red team"
+    },
+    {
+      "start": 419.354,
+      "end": 423.569,
+      "start_int": 419,
+      "timestamp_label": "6:59",
+      "text": "capability. My team tested everything from missile to"
+    },
+    {
+      "start": 423.569,
+      "end": 429.5,
+      "start_int": 423,
+      "timestamp_label": "7:03",
+      "text": "destroyer. We helped out Coast Guards. We've done joint programs like F-35."
+    },
+    {
+      "start": 429.5,
+      "end": 432.778,
+      "start_int": 429,
+      "timestamp_label": "7:09",
+      "text": "And it was another fascinating experience."
+    },
+    {
+      "start": 433.098,
+      "end": 435.704,
+      "start_int": 433,
+      "timestamp_label": "7:13",
+      "text": "But at the end of it all, when I look back,"
+    },
+    {
+      "start": 435.704,
+      "end": 438.429,
+      "start_int": 435,
+      "timestamp_label": "7:15",
+      "text": "I think the common theme is that, number one,"
+    },
+    {
+      "start": 438.429,
+      "end": 443.226,
+      "start_int": 438,
+      "timestamp_label": "7:18",
+      "text": "we're not doing cyber like we should be, you know, within the Department of War."
+    },
+    {
+      "start": 443.226,
+      "end": 445.891,
+      "start_int": 443,
+      "timestamp_label": "7:23",
+      "text": "And the second point, which is why I'm here,"
+    },
+    {
+      "start": 445.891,
+      "end": 450.155,
+      "start_int": 445,
+      "timestamp_label": "7:25",
+      "text": "is that it has to be a cross-functional effort for it to be successful."
+    },
+    {
+      "start": 450.155,
+      "end": 452.938,
+      "start_int": 450,
+      "timestamp_label": "7:30",
+      "text": "And I think that really is the case, no matter"
+    },
+    {
+      "start": 453.218,
+      "end": 458.069,
+      "start_int": 453,
+      "timestamp_label": "7:33",
+      "text": "what we do within Department of War. So that is a little bit about me."
+    },
+    {
+      "start": 458.069,
+      "end": 461.964,
+      "start_int": 458,
+      "timestamp_label": "7:38",
+      "text": "So let me see. I'm trying to keep my eyes on the chat as"
+    },
+    {
+      "start": 461.964,
+      "end": 465.858,
+      "start_int": 461,
+      "timestamp_label": "7:41",
+      "text": "well. All right. So I think I got a lot of folks joining"
+    },
+    {
+      "start": 465.858,
+      "end": 469.274,
+      "start_int": 465,
+      "timestamp_label": "7:45",
+      "text": "me on Menti. I don't want to move away from this."
+    },
+    {
+      "start": 469.274,
+      "end": 473.578,
+      "start_int": 469,
+      "timestamp_label": "7:49",
+      "text": "And thank you to Evelyn and Alyssa for helping everybody join."
+    },
+    {
+      "start": 476.378,
+      "end": 476.938,
+      "start_int": 476,
+      "timestamp_label": "7:56",
+      "text": "Yep."
+    },
+    {
+      "start": 478.298,
+      "end": 481.686,
+      "start_int": 478,
+      "timestamp_label": "7:58",
+      "text": "Can you see the slide? Because there is a question about not"
+    },
+    {
+      "start": 481.686,
+      "end": 485.462,
+      "start_int": 481,
+      "timestamp_label": "8:01",
+      "text": "being able to see the slide. So you might have to jump out and jump"
+    },
+    {
+      "start": 485.462,
+      "end": 488.683,
+      "start_int": 485,
+      "timestamp_label": "8:05",
+      "text": "back in if you have any issues looking at my slide. Yeah,"
+    },
+    {
+      "start": 488.683,
+      "end": 491.516,
+      "start_int": 488,
+      "timestamp_label": "8:08",
+      "text": "in case it's just you and not me. But let me know."
+    },
+    {
+      "start": 491.516,
+      "end": 495.403,
+      "start_int": 491,
+      "timestamp_label": "8:11",
+      "text": "All of a sudden it goes off and it could be me. Who knows? All right,"
+    },
+    {
+      "start": 495.403,
+      "end": 499.623,
+      "start_int": 495,
+      "timestamp_label": "8:15",
+      "text": "just so I know that you know how to use Mentis and you can get comfortable,"
+    },
+    {
+      "start": 499.623,
+      "end": 501.178,
+      "start_int": 499,
+      "timestamp_label": "8:19",
+      "text": "I did a quick poll here just"
+    },
+    {
+      "start": 501.258,
+      "end": 505.897,
+      "start_int": 501,
+      "timestamp_label": "8:21",
+      "text": "So I can get to know who's in the audience as well. So using the Menti app,"
+    },
+    {
+      "start": 505.897,
+      "end": 509.316,
+      "start_int": 505,
+      "timestamp_label": "8:25",
+      "text": "whether you're using the smartphone or the web browser,"
+    },
+    {
+      "start": 509.316,
+      "end": 512.123,
+      "start_int": 509,
+      "timestamp_label": "8:29",
+      "text": "please let me know what role category, right?"
+    },
+    {
+      "start": 512.123,
+      "end": 515.786,
+      "start_int": 512,
+      "timestamp_label": "8:32",
+      "text": "Because I couldn't put all of the possible roles out there."
+    },
+    {
+      "start": 515.786,
+      "end": 520.058,
+      "start_int": 515,
+      "timestamp_label": "8:35",
+      "text": "I put it into some high level category and I'm sure I'm missing some."
+    },
+    {
+      "start": 520.538,
+      "end": 523.423,
+      "start_int": 520,
+      "timestamp_label": "8:40",
+      "text": "But as close as possible, please let me know,"
+    },
+    {
+      "start": 523.423,
+      "end": 525.178,
+      "start_int": 523,
+      "timestamp_label": "8:43",
+      "text": "what do you do at your work?"
+    },
+    {
+      "start": 532.818,
+      "end": 536.841,
+      "start_int": 532,
+      "timestamp_label": "8:52",
+      "text": "All right, I got 16, 18 out of 35. I'm looking for a little more."
+    },
+    {
+      "start": 536.841,
+      "end": 541.23,
+      "start_int": 536,
+      "timestamp_label": "8:56",
+      "text": "This will give me a great insight as to how the conversation has to go."
+    },
+    {
+      "start": 541.23,
+      "end": 544.399,
+      "start_int": 541,
+      "timestamp_label": "9:01",
+      "text": "So let me see. So we have a lot of folks in program"
+    },
+    {
+      "start": 544.399,
+      "end": 548.605,
+      "start_int": 544,
+      "timestamp_label": "9:04",
+      "text": "management and leadership. That's amazing. Thank you for being here."
+    },
+    {
+      "start": 548.605,
+      "end": 553.298,
+      "start_int": 548,
+      "timestamp_label": "9:08",
+      "text": "And we have folks in the operation. That could be a lot of different things."
+    },
+    {
+      "start": 553.378,
+      "end": 557.405,
+      "start_int": 553,
+      "timestamp_label": "9:13",
+      "text": "things, I think. That just gives me that we have a lot of"
+    },
+    {
+      "start": 557.405,
+      "end": 561.709,
+      "start_int": 557,
+      "timestamp_label": "9:17",
+      "text": "user representative, if I may have assumed that. Contracting,"
+    },
+    {
+      "start": 561.709,
+      "end": 567.123,
+      "start_int": 561,
+      "timestamp_label": "9:21",
+      "text": "great. Cybersecurity, that's amazing. I actually saw one of my alumni joining"
+    },
+    {
+      "start": 567.123,
+      "end": 572.26,
+      "start_int": 567,
+      "timestamp_label": "9:27",
+      "text": "us, and I'm glad to see that person. I actually advertised this session a"
+    },
+    {
+      "start": 572.26,
+      "end": 576.495,
+      "start_int": 572,
+      "timestamp_label": "9:32",
+      "text": "little bit to say, hey, if I can get some cybersecurity SMEs"
+    },
+    {
+      "start": 576.495,
+      "end": 577.258,
+      "start_int": 576,
+      "timestamp_label": "9:36",
+      "text": "joining me,"
+    },
+    {
+      "start": 577.458,
+      "end": 580.573,
+      "start_int": 577,
+      "timestamp_label": "9:37",
+      "text": "then we can have a really good conversation, so I'm glad to see them."
+    },
+    {
+      "start": 580.573,
+      "end": 581.818,
+      "start_int": 580,
+      "timestamp_label": "9:40",
+      "text": "All right, let's keep going."
+    },
+    {
+      "start": 583.418,
+      "end": 588.037,
+      "start_int": 583,
+      "timestamp_label": "9:43",
+      "text": "I love to start out with a quote, and I am pretty sure I'm not pronouncing"
+    },
+    {
+      "start": 588.037,
+      "end": 591.485,
+      "start_int": 588,
+      "timestamp_label": "9:48",
+      "text": "the name correctly, but I'm going to take a stab at it."
+    },
+    {
+      "start": 591.485,
+      "end": 595.118,
+      "start_int": 591,
+      "timestamp_label": "9:51",
+      "text": "So there's an ancient Greek poet named Archilochus, right?"
+    },
+    {
+      "start": 595.118,
+      "end": 598.443,
+      "start_int": 595,
+      "timestamp_label": "9:55",
+      "text": "So I don't know if it's actually pronounced that way,"
+    },
+    {
+      "start": 598.443,
+      "end": 602.938,
+      "start_int": 598,
+      "timestamp_label": "9:58",
+      "text": "but I'm going to run with it. He said, we don't rise to the level of our"
+    },
+    {
+      "start": 602.938,
+      "end": 603.738,
+      "start_int": 602,
+      "timestamp_label": "10:02",
+      "text": "expectations."
+    },
+    {
+      "start": 603.778,
+      "end": 608.79,
+      "start_int": 603,
+      "timestamp_label": "10:03",
+      "text": "we fall to the level of our preparation. And in today's Department of War"
+    },
+    {
+      "start": 608.79,
+      "end": 613.328,
+      "start_int": 608,
+      "timestamp_label": "10:08",
+      "text": "environment and climate, cybersecurity is part of the preparation."
+    },
+    {
+      "start": 613.328,
+      "end": 618.407,
+      "start_int": 613,
+      "timestamp_label": "10:13",
+      "text": "Cybersecurity isn't just a technical issue anymore, it's mission critical."
+    },
+    {
+      "start": 618.407,
+      "end": 623.418,
+      "start_int": 618,
+      "timestamp_label": "10:18",
+      "text": "The systems and warfighting capabilities we feel today have to operate in"
+    },
+    {
+      "start": 623.498,
+      "end": 626.693,
+      "start_int": 623,
+      "timestamp_label": "10:23",
+      "text": "contested environment, and if they're not secure,"
+    },
+    {
+      "start": 626.693,
+      "end": 630.846,
+      "start_int": 626,
+      "timestamp_label": "10:26",
+      "text": "they're not survivable. And it's a cross-functional team effort."
+    },
+    {
+      "start": 630.846,
+      "end": 634.041,
+      "start_int": 630,
+      "timestamp_label": "10:30",
+      "text": "Whatever role you are in, the decisions you make,"
+    },
+    {
+      "start": 634.041,
+      "end": 638.961,
+      "start_int": 634,
+      "timestamp_label": "10:34",
+      "text": "early and throughout the lifecycle, directly shape whether those systems can"
+    },
+    {
+      "start": 638.961,
+      "end": 643.178,
+      "start_int": 638,
+      "timestamp_label": "10:38",
+      "text": "withstand real-world threats and continue to support the mission."
+    },
+    {
+      "start": 643.338,
+      "end": 646.963,
+      "start_int": 643,
+      "timestamp_label": "10:43",
+      "text": "the warfighters. That's really what today's discussion is"
+    },
+    {
+      "start": 646.963,
+      "end": 647.338,
+      "start_int": 646,
+      "timestamp_label": "10:46",
+      "text": "about."
+    },
+    {
+      "start": 652.298,
+      "end": 654.99,
+      "start_int": 652,
+      "timestamp_label": "10:52",
+      "text": "Wow, that was so dark and I couldn't see the"
+    },
+    {
+      "start": 654.99,
+      "end": 659.237,
+      "start_int": 654,
+      "timestamp_label": "10:54",
+      "text": "error. So right out the gate, I have a couple of questions for you and"
+    },
+    {
+      "start": 659.237,
+      "end": 663.544,
+      "start_int": 659,
+      "timestamp_label": "10:59",
+      "text": "we're going to talk about them. So the first question is, in your mind,"
+    },
+    {
+      "start": 663.544,
+      "end": 666.714,
+      "start_int": 663,
+      "timestamp_label": "11:03",
+      "text": "within the role that you hold within your workplace,"
+    },
+    {
+      "start": 666.714,
+      "end": 671.738,
+      "start_int": 666,
+      "timestamp_label": "11:06",
+      "text": "who owns cybersecurity on an acquisition program? And I'm going to hide the answer."
+    },
+    {
+      "start": 672.218,
+      "end": 676.348,
+      "start_int": 672,
+      "timestamp_label": "11:12",
+      "text": "Intentionally, who owns cybersecurity on an acquisition"
+    },
+    {
+      "start": 676.348,
+      "end": 676.938,
+      "start_int": 676,
+      "timestamp_label": "11:16",
+      "text": "program?"
+    },
+    {
+      "start": 684.778,
+      "end": 689.116,
+      "start_int": 684,
+      "timestamp_label": "11:24",
+      "text": "It might be a terrible assumption, but I'm assuming when I say cybersecurity,"
+    },
+    {
+      "start": 689.116,
+      "end": 693.12,
+      "start_int": 689,
+      "timestamp_label": "11:29",
+      "text": "most of you, if not all of you, have some sort of general sense of what"
+    },
+    {
+      "start": 693.12,
+      "end": 696.568,
+      "start_int": 693,
+      "timestamp_label": "11:33",
+      "text": "that means within your organization and who does what, right?"
+    },
+    {
+      "start": 696.568,
+      "end": 699.459,
+      "start_int": 696,
+      "timestamp_label": "11:36",
+      "text": "So I'm really intrigued to see what everybody says."
+    },
+    {
+      "start": 699.459,
+      "end": 703.018,
+      "start_int": 699,
+      "timestamp_label": "11:39",
+      "text": "And I believe a lot of these, if there are options to do multi,"
+    },
+    {
+      "start": 703.738,
+      "end": 706.562,
+      "start_int": 703,
+      "timestamp_label": "11:43",
+      "text": "select options, go ahead and take advantage of it."
+    },
+    {
+      "start": 706.562,
+      "end": 710.05,
+      "start_int": 706,
+      "timestamp_label": "11:46",
+      "text": "If you're thinking, well, I think it's the cybersecurity team,"
+    },
+    {
+      "start": 710.05,
+      "end": 713.482,
+      "start_int": 710,
+      "timestamp_label": "11:50",
+      "text": "but also so on and so forth. So you can choose more than one,"
+    },
+    {
+      "start": 713.482,
+      "end": 717.302,
+      "start_int": 713,
+      "timestamp_label": "11:53",
+      "text": "I believe, on this option. So let me get a couple more and then I'll"
+    },
+    {
+      "start": 717.302,
+      "end": 718.298,
+      "start_int": 717,
+      "timestamp_label": "11:57",
+      "text": "reveal the answer."
+    },
+    {
+      "start": 726.618,
+      "end": 732.094,
+      "start_int": 726,
+      "timestamp_label": "12:06",
+      "text": "All right, are we going to stop it? I got 38 folks on Menti and only 23"
+    },
+    {
+      "start": 732.094,
+      "end": 736.657,
+      "start_int": 732,
+      "timestamp_label": "12:12",
+      "text": "people answered. Let's see what they had to say. Wow, okay,"
+    },
+    {
+      "start": 736.657,
+      "end": 741.904,
+      "start_int": 736,
+      "timestamp_label": "12:16",
+      "text": "so we have a lot on cybersecurity team to be expected. A lot of you,"
+    },
+    {
+      "start": 741.904,
+      "end": 745.098,
+      "start_int": 741,
+      "timestamp_label": "12:21",
+      "text": "about 26% of you answered program manager."
+    },
+    {
+      "start": 745.338,
+      "end": 748.945,
+      "start_int": 745,
+      "timestamp_label": "12:25",
+      "text": "couple for developers. That's really interesting."
+    },
+    {
+      "start": 748.945,
+      "end": 754.21,
+      "start_int": 748,
+      "timestamp_label": "12:28",
+      "text": "No votes for testers or contracting officers. And a lot of you said 65%,"
+    },
+    {
+      "start": 754.21,
+      "end": 759.691,
+      "start_int": 754,
+      "timestamp_label": "12:34",
+      "text": "which is probably why we don't see maybe number assigned to just testers or"
+    },
+    {
+      "start": 759.691,
+      "end": 764.018,
+      "start_int": 759,
+      "timestamp_label": "12:39",
+      "text": "contracting officers. So this tells me that you're thinking"
+    },
+    {
+      "start": 764.538,
+      "end": 769.374,
+      "start_int": 764,
+      "timestamp_label": "12:44",
+      "text": "Everyone owns cybersecurity, right? Majority of you answered that way."
+    },
+    {
+      "start": 769.374,
+      "end": 774.55,
+      "start_int": 769,
+      "timestamp_label": "12:49",
+      "text": "So from cyber expert, looking back, I mean, I see so many issues out there,"
+    },
+    {
+      "start": 774.55,
+      "end": 778.5,
+      "start_int": 774,
+      "timestamp_label": "12:54",
+      "text": "right? During my intro, I said the common theme was like,"
+    },
+    {
+      "start": 778.5,
+      "end": 782.858,
+      "start_int": 778,
+      "timestamp_label": "12:58",
+      "text": "we're not doing cyber quite right within the Department of War."
+    },
+    {
+      "start": 783.658,
+      "end": 788.726,
+      "start_int": 783,
+      "timestamp_label": "13:03",
+      "text": "Why do you think cybersecurity problems still show up late in programs if"
+    },
+    {
+      "start": 788.726,
+      "end": 791.738,
+      "start_int": 788,
+      "timestamp_label": "13:08",
+      "text": "everybody is responsible for cybersecurity?"
+    },
+    {
+      "start": 793.258,
+      "end": 797.699,
+      "start_int": 793,
+      "timestamp_label": "13:13",
+      "text": "Why do cyber problems still show up late in the programs? Anyone, raise your hand,"
+    },
+    {
+      "start": 797.699,
+      "end": 800.32,
+      "start_int": 797,
+      "timestamp_label": "13:17",
+      "text": "put it in chat. I would love to hear your voice."
+    },
+    {
+      "start": 800.32,
+      "end": 801.818,
+      "start_int": 800,
+      "timestamp_label": "13:20",
+      "text": "That's the preferred method."
+    },
+    {
+      "start": 807.338,
+      "end": 810.885,
+      "start_int": 807,
+      "timestamp_label": "13:27",
+      "text": "Why do cyber problems show up late in the programs?"
+    },
+    {
+      "start": 810.885,
+      "end": 815.658,
+      "start_int": 810,
+      "timestamp_label": "13:30",
+      "text": "So help me pronounce your name correctly. Is it Kay Kai? Help me out."
+    },
+    {
+      "start": 816.858,
+      "end": 822.159,
+      "start_int": 816,
+      "timestamp_label": "13:36",
+      "text": "Hi, it's just Kaye. So it is, hello. So I would say it's because persons don't"
+    },
+    {
+      "start": 818.458,
+      "end": 818.938,
+      "start_int": 818,
+      "timestamp_label": "13:38",
+      "text": "Hey."
+    },
+    {
+      "start": 822.159,
+      "end": 827.393,
+      "start_int": 822,
+      "timestamp_label": "13:42",
+      "text": "consider it because they think it is what you experience later in the program"
+    },
+    {
+      "start": 827.393,
+      "end": 831.418,
+      "start_int": 827,
+      "timestamp_label": "13:47",
+      "text": "rather than it happening throughout the program. Thank you."
+    },
+    {
+      "start": 831.058,
+      "end": 835.177,
+      "start_int": 831,
+      "timestamp_label": "13:51",
+      "text": "Okay, yeah, I love that. I don't know if that's your observation"
+    },
+    {
+      "start": 835.177,
+      "end": 838.345,
+      "start_int": 835,
+      "timestamp_label": "13:55",
+      "text": "or thought, but I can see why you think that way."
+    },
+    {
+      "start": 838.345,
+      "end": 843.478,
+      "start_int": 838,
+      "timestamp_label": "13:58",
+      "text": "I want to hear a couple more before I kind of put my two cents on it. Let's see,"
+    },
+    {
+      "start": 843.478,
+      "end": 844.618,
+      "start_int": 843,
+      "timestamp_label": "14:03",
+      "text": "William, go ahead."
+    },
+    {
+      "start": 847.978,
+      "end": 851.843,
+      "start_int": 847,
+      "timestamp_label": "14:07",
+      "text": "Hi, well, I work cybersecurity and compliance."
+    },
+    {
+      "start": 851.658,
+      "end": 852.498,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "Okay."
+    },
+    {
+      "start": 851.843,
+      "end": 857.352,
+      "start_int": 851,
+      "timestamp_label": "14:11",
+      "text": "And from what I've noticed and experienced, I'll tell a unit, hey,"
+    },
+    {
+      "start": 857.352,
+      "end": 861.627,
+      "start_int": 857,
+      "timestamp_label": "14:17",
+      "text": "we need, or a section, I need STIGS for this. Well,"
+    },
+    {
+      "start": 861.627,
+      "end": 867.218,
+      "start_int": 861,
+      "timestamp_label": "14:21",
+      "text": "that's not ours, that's not our concern. Well, yeah, you issued it."
+    },
+    {
+      "start": 867.498,
+      "end": 870.702,
+      "start_int": 867,
+      "timestamp_label": "14:27",
+      "text": "Well, no, it's not our concern because we don't do"
+    },
+    {
+      "start": 870.702,
+      "end": 873.591,
+      "start_int": 870,
+      "timestamp_label": "14:30",
+      "text": "that. Nobody wants to take the responsibility"
+    },
+    {
+      "start": 873.591,
+      "end": 877.235,
+      "start_int": 873,
+      "timestamp_label": "14:33",
+      "text": "of owning their own work. They want to push it all off on"
+    },
+    {
+      "start": 877.235,
+      "end": 881.381,
+      "start_int": 877,
+      "timestamp_label": "14:37",
+      "text": "cybersecurity to do it, where we're not there to hold their hand."
+    },
+    {
+      "start": 881.381,
+      "end": 884.458,
+      "start_int": 881,
+      "timestamp_label": "14:41",
+      "text": "We're there to make sure they're doing it right."
+    },
+    {
+      "start": 885.898,
+      "end": 889.066,
+      "start_int": 885,
+      "timestamp_label": "14:45",
+      "text": "Yeah, so you're literally highlighting a case"
+    },
+    {
+      "start": 889.066,
+      "end": 894.78,
+      "start_int": 889,
+      "timestamp_label": "14:49",
+      "text": "of how we're working in a siloed type of environment instead of cross-functionally"
+    },
+    {
+      "start": 894.78,
+      "end": 899.668,
+      "start_int": 894,
+      "timestamp_label": "14:54",
+      "text": "coordinating and collaborating. And you are a cybersecurity person and"
+    },
+    {
+      "start": 899.668,
+      "end": 902.904,
+      "start_int": 899,
+      "timestamp_label": "14:59",
+      "text": "you're observing this. Yeah, I can definitely."
+    },
+    {
+      "start": 902.904,
+      "end": 905.658,
+      "start_int": 902,
+      "timestamp_label": "15:02",
+      "text": "And Kaye is also giving you a thumbs up."
+    },
+    {
+      "start": 906.218,
+      "end": 910.815,
+      "start_int": 906,
+      "timestamp_label": "15:06",
+      "text": "that I can see happening out there. Let's see, Jamie, I see your hand up next."
+    },
+    {
+      "start": 910.815,
+      "end": 911.338,
+      "start_int": 910,
+      "timestamp_label": "15:10",
+      "text": "Go ahead."
+    },
+    {
+      "start": 912.378,
+      "end": 918.024,
+      "start_int": 912,
+      "timestamp_label": "15:12",
+      "text": "So I would say something along the line, what the gentleman just said."
+    },
+    {
+      "start": 918.024,
+      "end": 923.828,
+      "start_int": 918,
+      "timestamp_label": "15:18",
+      "text": "I think we don't understand our responsibility and role when it comes to"
+    },
+    {
+      "start": 923.828,
+      "end": 929.792,
+      "start_int": 923,
+      "timestamp_label": "15:23",
+      "text": "cybersecurity. To the, you know, we don't understand our responsibility to"
+    },
+    {
+      "start": 929.792,
+      "end": 932.018,
+      "start_int": 929,
+      "timestamp_label": "15:29",
+      "text": "the extent that we should be"
+    },
+    {
+      "start": 931.338,
+      "end": 931.738,
+      "start_int": 931,
+      "timestamp_label": "15:31",
+      "text": "Yeah."
+    },
+    {
+      "start": 932.538,
+      "end": 933.738,
+      "start_int": 932,
+      "timestamp_label": "15:32",
+      "text": "Responsible for."
+    },
+    {
+      "start": 934.458,
+      "end": 936.891,
+      "start_int": 934,
+      "timestamp_label": "15:34",
+      "text": "Yeah, maybe sometimes you don't even know that"
+    },
+    {
+      "start": 936.891,
+      "end": 937.978,
+      "start_int": 936,
+      "timestamp_label": "15:36",
+      "text": "you are part of this."
+    },
+    {
+      "start": 939.258,
+      "end": 942.226,
+      "start_int": 939,
+      "timestamp_label": "15:39",
+      "text": "community, right? This ecosystem that you're,"
+    },
+    {
+      "start": 942.226,
+      "end": 946.935,
+      "start_int": 942,
+      "timestamp_label": "15:42",
+      "text": "I like to use the word kill chain because it relates to cyber. But yeah,"
+    },
+    {
+      "start": 946.935,
+      "end": 949.838,
+      "start_int": 946,
+      "timestamp_label": "15:46",
+      "text": "we'll elaborate on that a little more later."
+    },
+    {
+      "start": 949.838,
+      "end": 954.031,
+      "start_int": 949,
+      "timestamp_label": "15:49",
+      "text": "And I saw some input in chat about contract. I think absolutely,"
+    },
+    {
+      "start": 954.031,
+      "end": 959.192,
+      "start_int": 954,
+      "timestamp_label": "15:54",
+      "text": "because if we don't determine what the requirements are and build that language"
+    },
+    {
+      "start": 959.192,
+      "end": 961.578,
+      "start_int": 959,
+      "timestamp_label": "15:59",
+      "text": "into the contracts, right, how do we,"
+    },
+    {
+      "start": 962.138,
+      "end": 965.387,
+      "start_int": 962,
+      "timestamp_label": "16:02",
+      "text": "hold our contract partners, our vendors accountable?"
+    },
+    {
+      "start": 965.387,
+      "end": 970.413,
+      "start_int": 965,
+      "timestamp_label": "16:05",
+      "text": "How do we test to those things that we didn't clearly write within our contracts?"
+    },
+    {
+      "start": 970.413,
+      "end": 974.336,
+      "start_int": 970,
+      "timestamp_label": "16:10",
+      "text": "So that could be the reason why we find issues towards the end."
+    },
+    {
+      "start": 974.336,
+      "end": 977.769,
+      "start_int": 974,
+      "timestamp_label": "16:14",
+      "text": "I think Alex said something about poor planning, right?"
+    },
+    {
+      "start": 977.769,
+      "end": 980.834,
+      "start_int": 977,
+      "timestamp_label": "16:17",
+      "text": "So for cybersecurity efforts, I know some of you,"
+    },
+    {
+      "start": 980.834,
+      "end": 983.898,
+      "start_int": 980,
+      "timestamp_label": "16:20",
+      "text": "especially program managers, know this very well."
+    },
+    {
+      "start": 984.218,
+      "end": 987.144,
+      "start_int": 984,
+      "timestamp_label": "16:24",
+      "text": "It's not free. Everything we do costs money."
+    },
+    {
+      "start": 987.144,
+      "end": 990.265,
+      "start_int": 987,
+      "timestamp_label": "16:27",
+      "text": "Not only money, it costs time on your schedule."
+    },
+    {
+      "start": 990.265,
+      "end": 995.076,
+      "start_int": 990,
+      "timestamp_label": "16:30",
+      "text": "So if we don't properly plan that as early as possible in the acquisition"
+    },
+    {
+      "start": 995.076,
+      "end": 998.587,
+      "start_int": 995,
+      "timestamp_label": "16:35",
+      "text": "lifecycle, it's not something you can just, you know,"
+    },
+    {
+      "start": 998.587,
+      "end": 1003.203,
+      "start_int": 998,
+      "timestamp_label": "16:38",
+      "text": "have at the back end, right? It's hard to build and hard to find money"
+    },
+    {
+      "start": 1003.203,
+      "end": 1003.658,
+      "start_int": 1003,
+      "timestamp_label": "16:43",
+      "text": "for. So"
+    },
+    {
+      "start": 1003.938,
+      "end": 1009.937,
+      "start_int": 1003,
+      "timestamp_label": "16:43",
+      "text": "Things can definitely go wrong for sure. I love what Randall said, inconvenience."
+    },
+    {
+      "start": 1009.937,
+      "end": 1013.888,
+      "start_int": 1009,
+      "timestamp_label": "16:49",
+      "text": "That seems kind of, I don't know, maybe not the best,"
+    },
+    {
+      "start": 1013.888,
+      "end": 1018.496,
+      "start_int": 1013,
+      "timestamp_label": "16:53",
+      "text": "nice way of putting it, but I love that that's straightforward"
+    },
+    {
+      "start": 1018.496,
+      "end": 1023.178,
+      "start_int": 1018,
+      "timestamp_label": "16:58",
+      "text": "because that is the reality, especially for the program office."
+    },
+    {
+      "start": 1023.898,
+      "end": 1028.14,
+      "start_int": 1023,
+      "timestamp_label": "17:03",
+      "text": "not because they don't think cybersecurity is important for the most"
+    },
+    {
+      "start": 1025.178,
+      "end": 1025.498,
+      "start_int": 1025,
+      "timestamp_label": "17:05",
+      "text": "Oh."
+    },
+    {
+      "start": 1028.14,
+      "end": 1031.029,
+      "start_int": 1028,
+      "timestamp_label": "17:08",
+      "text": "part, but it is inconvenient because they have"
+    },
+    {
+      "start": 1031.029,
+      "end": 1035.763,
+      "start_int": 1031,
+      "timestamp_label": "17:11",
+      "text": "other high priority tasking, right? They have to build and they have to have"
+    },
+    {
+      "start": 1035.763,
+      "end": 1040.127,
+      "start_int": 1035,
+      "timestamp_label": "17:15",
+      "text": "the other requirements met, like normal functional testing evaluation."
+    },
+    {
+      "start": 1040.127,
+      "end": 1043.938,
+      "start_int": 1040,
+      "timestamp_label": "17:20",
+      "text": "They have to, you know, get all the right building decisions."
+    },
+    {
+      "start": 1044.098,
+      "end": 1047.435,
+      "start_int": 1044,
+      "timestamp_label": "17:24",
+      "text": "you know, keep pushing it down the acquisition life"
+    },
+    {
+      "start": 1047.435,
+      "end": 1052.631,
+      "start_int": 1047,
+      "timestamp_label": "17:27",
+      "text": "cycle. Who has time for cybersecurity? It's always looked at as this last minute"
+    },
+    {
+      "start": 1052.631,
+      "end": 1056.481,
+      "start_int": 1052,
+      "timestamp_label": "17:32",
+      "text": "orphan, you know, the thing that we think about at the end."
+    },
+    {
+      "start": 1056.481,
+      "end": 1060.523,
+      "start_int": 1056,
+      "timestamp_label": "17:36",
+      "text": "And when we do that, we definitely are going to find issues at"
+    },
+    {
+      "start": 1060.523,
+      "end": 1063.538,
+      "start_int": 1060,
+      "timestamp_label": "17:40",
+      "text": "the end and can't really do anything about it."
+    },
+    {
+      "start": 1063.978,
+      "end": 1066.122,
+      "start_int": 1063,
+      "timestamp_label": "17:43",
+      "text": "Randall, did you want to elaborate on that?"
+    },
+    {
+      "start": 1066.122,
+      "end": 1069.338,
+      "start_int": 1066,
+      "timestamp_label": "17:46",
+      "text": "I saw your hand up. Please, if you want to add to that, go ahead."
+    },
+    {
+      "start": 1067.818,
+      "end": 1068.138,
+      "start_int": 1067,
+      "timestamp_label": "17:47",
+      "text": "E."
+    },
+    {
+      "start": 1069.738,
+      "end": 1074.972,
+      "start_int": 1069,
+      "timestamp_label": "17:49",
+      "text": "Yeah, I was just going to say, I think that's more related not to"
+    },
+    {
+      "start": 1074.972,
+      "end": 1078.54,
+      "start_int": 1074,
+      "timestamp_label": "17:54",
+      "text": "necessarily, you know, the program security,"
+    },
+    {
+      "start": 1078.54,
+      "end": 1083.536,
+      "start_int": 1078,
+      "timestamp_label": "17:58",
+      "text": "but maybe the personnel type cybersecurity, such as, you know,"
+    },
+    {
+      "start": 1083.536,
+      "end": 1087.738,
+      "start_int": 1083,
+      "timestamp_label": "18:03",
+      "text": "bringing phones potentially into workplaces and then"
+    },
+    {
+      "start": 1088.378,
+      "end": 1092.817,
+      "start_int": 1088,
+      "timestamp_label": "18:08",
+      "text": "unbelievably, plugging them into laptops to, you know,"
+    },
+    {
+      "start": 1092.817,
+      "end": 1097.74,
+      "start_int": 1092,
+      "timestamp_label": "18:12",
+      "text": "charge them. You know, I've seen that recently where I work,"
+    },
+    {
+      "start": 1097.74,
+      "end": 1103.39,
+      "start_int": 1097,
+      "timestamp_label": "18:17",
+      "text": "to my surprise, or, you know, clicking on links that aren't digitally"
+    },
+    {
+      "start": 1103.39,
+      "end": 1106.698,
+      "start_int": 1103,
+      "timestamp_label": "18:23",
+      "text": "signed and, you know, that type of stuff."
+    },
+    {
+      "start": 1107.338,
+      "end": 1112.218,
+      "start_int": 1107,
+      "timestamp_label": "18:27",
+      "text": "So it's really a matter of the personnel security."
+    },
+    {
+      "start": 1112.618,
+      "end": 1115.789,
+      "start_int": 1112,
+      "timestamp_label": "18:32",
+      "text": "Yeah, you're highlighting yet another issue why"
+    },
+    {
+      "start": 1115.789,
+      "end": 1119.818,
+      "start_int": 1115,
+      "timestamp_label": "18:35",
+      "text": "cybersecurity is so hard. Every course and workshop I teach,"
+    },
+    {
+      "start": 1119.818,
+      "end": 1124.706,
+      "start_int": 1119,
+      "timestamp_label": "18:39",
+      "text": "I think it always comes up where human is like the end all be all, right?"
+    },
+    {
+      "start": 1124.706,
+      "end": 1129.33,
+      "start_int": 1124,
+      "timestamp_label": "18:44",
+      "text": "We are the root of all things and it's so hard to do something about."
+    },
+    {
+      "start": 1129.33,
+      "end": 1134.813,
+      "start_int": 1129,
+      "timestamp_label": "18:49",
+      "text": "This is why things like insider threat is so hard to overcome. We can do training,"
+    },
+    {
+      "start": 1134.813,
+      "end": 1137.058,
+      "start_int": 1134,
+      "timestamp_label": "18:54",
+      "text": "we kind of do within Department of"
+    },
+    {
+      "start": 1137.178,
+      "end": 1140.778,
+      "start_int": 1137,
+      "timestamp_label": "18:57",
+      "text": "War, we do annual training, but are they effective?"
+    },
+    {
+      "start": 1143.178,
+      "end": 1147.862,
+      "start_int": 1143,
+      "timestamp_label": "19:03",
+      "text": "I submit to you not, right? That our CBT led a training about what to"
+    },
+    {
+      "start": 1147.862,
+      "end": 1152.345,
+      "start_int": 1147,
+      "timestamp_label": "19:07",
+      "text": "click, what not to click, not plugging in our own personal device,"
+    },
+    {
+      "start": 1152.345,
+      "end": 1156.426,
+      "start_int": 1152,
+      "timestamp_label": "19:12",
+      "text": "or in the past, you know, we used to have training about not"
+    },
+    {
+      "start": 1156.426,
+      "end": 1160.374,
+      "start_int": 1156,
+      "timestamp_label": "19:16",
+      "text": "plugging in our USB devices into our networks and whatnot."
+    },
+    {
+      "start": 1160.374,
+      "end": 1165.258,
+      "start_int": 1160,
+      "timestamp_label": "19:20",
+      "text": "We provide ample information, I feel like, maybe not effective training,"
+    },
+    {
+      "start": 1165.538,
+      "end": 1169.664,
+      "start_int": 1165,
+      "timestamp_label": "19:25",
+      "text": "But because we're human beings, we are naturally curious."
+    },
+    {
+      "start": 1169.664,
+      "end": 1173.86,
+      "start_int": 1169,
+      "timestamp_label": "19:29",
+      "text": "We want to click on things. We think we know better. Yeah,"
+    },
+    {
+      "start": 1173.86,
+      "end": 1178.128,
+      "start_int": 1173,
+      "timestamp_label": "19:33",
+      "text": "disaster does happen. When I was working with the Navy Blue"
+    },
+    {
+      "start": 1178.128,
+      "end": 1183.818,
+      "start_int": 1178,
+      "timestamp_label": "19:38",
+      "text": "team, they had to go on board the ship. And their job was to do the scanning to"
+    },
+    {
+      "start": 1183.818,
+      "end": 1184.458,
+      "start_int": 1183,
+      "timestamp_label": "19:43",
+      "text": "look for."
+    },
+    {
+      "start": 1184.658,
+      "end": 1189.556,
+      "start_int": 1184,
+      "timestamp_label": "19:44",
+      "text": "what sailors plugged in their phones or USB into the network, every single time,"
+    },
+    {
+      "start": 1189.556,
+      "end": 1193.848,
+      "start_int": 1189,
+      "timestamp_label": "19:49",
+      "text": "every single time reports come back that somebody, actually more than,"
+    },
+    {
+      "start": 1193.848,
+      "end": 1197.838,
+      "start_int": 1193,
+      "timestamp_label": "19:53",
+      "text": "always more than one person has plugged in. And when you do that,"
+    },
+    {
+      "start": 1197.838,
+      "end": 1200.922,
+      "start_int": 1197,
+      "timestamp_label": "19:57",
+      "text": "you're actually putting your system, your network,"
+    },
+    {
+      "start": 1200.922,
+      "end": 1203.098,
+      "start_int": 1200,
+      "timestamp_label": "20:00",
+      "text": "your warfare and capability at risk."
+    },
+    {
+      "start": 1205.098,
+      "end": 1210.412,
+      "start_int": 1205,
+      "timestamp_label": "20:05",
+      "text": "All right, take a look at this diagram. I had to kind of break it up into little"
+    },
+    {
+      "start": 1210.412,
+      "end": 1215.398,
+      "start_int": 1210,
+      "timestamp_label": "20:10",
+      "text": "chunks because otherwise I can't do this exercise. But take a look at this."
+    },
+    {
+      "start": 1215.398,
+      "end": 1219.006,
+      "start_int": 1215,
+      "timestamp_label": "20:15",
+      "text": "It's just an example of acquisition lifecycle diagram."
+    },
+    {
+      "start": 1219.006,
+      "end": 1223.27,
+      "start_int": 1219,
+      "timestamp_label": "20:19",
+      "text": "You can see before milestone A all the way to after milestone C."
+    },
+    {
+      "start": 1223.27,
+      "end": 1224.778,
+      "start_int": 1223,
+      "timestamp_label": "20:23",
+      "text": "So I'm kind of curious."
+    },
+    {
+      "start": 1225.018,
+      "end": 1226.778,
+      "start_int": 1225,
+      "timestamp_label": "20:25",
+      "text": "Where do you think cyber?"
+    },
+    {
+      "start": 1227.738,
+      "end": 1229.818,
+      "start_int": 1227,
+      "timestamp_label": "20:27",
+      "text": "happens in the acquisition lifecycle."
+    },
+    {
+      "start": 1231.698,
+      "end": 1236.617,
+      "start_int": 1231,
+      "timestamp_label": "20:31",
+      "text": "Where does cybersecurity activity happen in the acquisition lifecycle?"
+    },
+    {
+      "start": 1236.617,
+      "end": 1242.298,
+      "start_int": 1236,
+      "timestamp_label": "20:36",
+      "text": "And I think this is also something that you can choose like multiple answers for."
+    },
+    {
+      "start": 1243.778,
+      "end": 1246.378,
+      "start_int": 1243,
+      "timestamp_label": "20:43",
+      "text": "Where do we think cybersecurity happens?"
+    },
+    {
+      "start": 1254.618,
+      "end": 1259.652,
+      "start_int": 1254,
+      "timestamp_label": "20:54",
+      "text": "I love to get some more answers, maybe 20. How about 50%, right?"
+    },
+    {
+      "start": 1259.652,
+      "end": 1261.898,
+      "start_int": 1259,
+      "timestamp_label": "20:59",
+      "text": "That's what I'm shooting for."
+    },
+    {
+      "start": 1273.498,
+      "end": 1277.229,
+      "start_int": 1273,
+      "timestamp_label": "21:13",
+      "text": "Yeah, okay. I can see that you have experience with"
+    },
+    {
+      "start": 1277.229,
+      "end": 1281.605,
+      "start_int": 1277,
+      "timestamp_label": "21:17",
+      "text": "your comments. Yes, where should it happen versus where does"
+    },
+    {
+      "start": 1281.605,
+      "end": 1286.842,
+      "start_int": 1281,
+      "timestamp_label": "21:21",
+      "text": "it happen? All right, I only got 20, but that is my magic number for the"
+    },
+    {
+      "start": 1286.842,
+      "end": 1290.86,
+      "start_int": 1286,
+      "timestamp_label": "21:26",
+      "text": "time's sake. So let's see. So we're kind of spread out,"
+    },
+    {
+      "start": 1290.86,
+      "end": 1295.738,
+      "start_int": 1290,
+      "timestamp_label": "21:30",
+      "text": "and I believe this is a multiple choice answers, but you can see we"
+    },
+    {
+      "start": 1295.858,
+      "end": 1299.55,
+      "start_int": 1295,
+      "timestamp_label": "21:35",
+      "text": "have answers from very beginning, as early as possible,"
+    },
+    {
+      "start": 1299.55,
+      "end": 1303.901,
+      "start_int": 1299,
+      "timestamp_label": "21:39",
+      "text": "throughout the acquisition lifecycle, and even at the end, right,"
+    },
+    {
+      "start": 1303.901,
+      "end": 1308.12,
+      "start_int": 1303,
+      "timestamp_label": "21:43",
+      "text": "when we're in sustainment. So if you have chosen some of these,"
+    },
+    {
+      "start": 1308.12,
+      "end": 1312.734,
+      "start_int": 1308,
+      "timestamp_label": "21:48",
+      "text": "now I'm curious as to what are some cybersecurity activities you were"
+    },
+    {
+      "start": 1312.734,
+      "end": 1315.898,
+      "start_int": 1312,
+      "timestamp_label": "21:52",
+      "text": "thinking of when you selected an option or two?"
+    },
+    {
+      "start": 1316.178,
+      "end": 1320.38,
+      "start_int": 1316,
+      "timestamp_label": "21:56",
+      "text": "So when you chose a statement, what were you thinking as far as what we"
+    },
+    {
+      "start": 1320.38,
+      "end": 1323.997,
+      "start_int": 1320,
+      "timestamp_label": "22:00",
+      "text": "should be doing, right? Maybe it's something that you already"
+    },
+    {
+      "start": 1323.997,
+      "end": 1328.14,
+      "start_int": 1323,
+      "timestamp_label": "22:03",
+      "text": "know of that are like requirements related things like risk management"
+    },
+    {
+      "start": 1328.14,
+      "end": 1332.574,
+      "start_int": 1328,
+      "timestamp_label": "22:08",
+      "text": "frameworks, continuous monitoring, or if you chose somewhere in the middle,"
+    },
+    {
+      "start": 1332.574,
+      "end": 1335.258,
+      "start_int": 1332,
+      "timestamp_label": "22:12",
+      "text": "what type of activities were you thinking of?"
+    },
+    {
+      "start": 1335.818,
+      "end": 1339.16,
+      "start_int": 1335,
+      "timestamp_label": "22:15",
+      "text": "This is anonymous, by the way, right? So even if you put an answer that you"
+    },
+    {
+      "start": 1339.16,
+      "end": 1341.578,
+      "start_int": 1339,
+      "timestamp_label": "22:19",
+      "text": "think, oh, I don't know if it's right, doesn't matter."
+    },
+    {
+      "start": 1347.018,
+      "end": 1350.326,
+      "start_int": 1347,
+      "timestamp_label": "22:27",
+      "text": "Marsha, absolutely, cyber should be baked in from the"
+    },
+    {
+      "start": 1350.326,
+      "end": 1350.938,
+      "start_int": 1350,
+      "timestamp_label": "22:30",
+      "text": "beginning."
+    },
+    {
+      "start": 1355.498,
+      "end": 1360.641,
+      "start_int": 1355,
+      "timestamp_label": "22:35",
+      "text": "Somebody put in the code. What is that? 93204621."
+    },
+    {
+      "start": 1360.641,
+      "end": 1365.578,
+      "start_int": 1360,
+      "timestamp_label": "22:40",
+      "text": "Is that some sort of cipher code? That's funny."
+    },
+    {
+      "start": 1367.778,
+      "end": 1370.449,
+      "start_int": 1367,
+      "timestamp_label": "22:47",
+      "text": "All right, let me see a couple more examples as they"
+    },
+    {
+      "start": 1370.449,
+      "end": 1372.968,
+      "start_int": 1370,
+      "timestamp_label": "22:50",
+      "text": "come in. Oh, this is word cloud. So I guess it's,"
+    },
+    {
+      "start": 1372.968,
+      "end": 1375.738,
+      "start_int": 1372,
+      "timestamp_label": "22:52",
+      "text": "I think you can submit up to like 3 different answers."
+    },
+    {
+      "start": 1377.978,
+      "end": 1382.964,
+      "start_int": 1377,
+      "timestamp_label": "22:57",
+      "text": "Requirements verification, I can see that happening at the beginning."
+    },
+    {
+      "start": 1382.964,
+      "end": 1388.519,
+      "start_int": 1382,
+      "timestamp_label": "23:02",
+      "text": "Continuous risk vulnerability analysis, probably. I love the word continuous,"
+    },
+    {
+      "start": 1388.519,
+      "end": 1391.867,
+      "start_int": 1388,
+      "timestamp_label": "23:08",
+      "text": "whoever put in there. Pen testing, absolutely."
+    },
+    {
+      "start": 1391.867,
+      "end": 1395.784,
+      "start_int": 1391,
+      "timestamp_label": "23:11",
+      "text": "Initial coding is probably not cyber-related activity,"
+    },
+    {
+      "start": 1395.784,
+      "end": 1400.698,
+      "start_int": 1395,
+      "timestamp_label": "23:15",
+      "text": "but maybe as you're developing initial coding, you're actually doing"
+    },
+    {
+      "start": 1401.058,
+      "end": 1403.098,
+      "start_int": 1401,
+      "timestamp_label": "23:21",
+      "text": "Code checks, I can see that happening."
+    },
+    {
+      "start": 1406.538,
+      "end": 1407.578,
+      "start_int": 1406,
+      "timestamp_label": "23:26",
+      "text": "Testing."
+    },
+    {
+      "start": 1408.938,
+      "end": 1414.778,
+      "start_int": 1408,
+      "timestamp_label": "23:28",
+      "text": "Risk assessments, patching, hard to hack, maybe like red teaming."
+    },
+    {
+      "start": 1415.978,
+      "end": 1421.338,
+      "start_int": 1415,
+      "timestamp_label": "23:35",
+      "text": "Zero trust. So that's a concept, but zero trust activities, yeah."
+    },
+    {
+      "start": 1422.458,
+      "end": 1426.357,
+      "start_int": 1422,
+      "timestamp_label": "23:42",
+      "text": "Definitely. Very good. And I know some people are putting it in"
+    },
+    {
+      "start": 1426.357,
+      "end": 1429.403,
+      "start_int": 1426,
+      "timestamp_label": "23:46",
+      "text": "chat. I appreciate your input as well. All right,"
+    },
+    {
+      "start": 1429.403,
+      "end": 1434.215,
+      "start_int": 1429,
+      "timestamp_label": "23:49",
+      "text": "so I wanted to show you just a couple of examples in case people are out there"
+    },
+    {
+      "start": 1434.215,
+      "end": 1436.896,
+      "start_int": 1434,
+      "timestamp_label": "23:54",
+      "text": "wondering, well, what are actually answers?"
+    },
+    {
+      "start": 1436.896,
+      "end": 1442.013,
+      "start_int": 1436,
+      "timestamp_label": "23:56",
+      "text": "There are way too many to obviously list, and some of your inputs were right on the"
+    },
+    {
+      "start": 1442.013,
+      "end": 1442.378,
+      "start_int": 1442,
+      "timestamp_label": "24:02",
+      "text": "money."
+    },
+    {
+      "start": 1442.778,
+      "end": 1447.643,
+      "start_int": 1442,
+      "timestamp_label": "24:02",
+      "text": "So you can expect things like anything related with requirements, documentation,"
+    },
+    {
+      "start": 1447.643,
+      "end": 1451.307,
+      "start_int": 1447,
+      "timestamp_label": "24:07",
+      "text": "contracting, right? Building our cybersecurity strategy that"
+    },
+    {
+      "start": 1451.307,
+      "end": 1454.31,
+      "start_int": 1451,
+      "timestamp_label": "24:11",
+      "text": "can inform things like risk management framework,"
+    },
+    {
+      "start": 1454.31,
+      "end": 1458.634,
+      "start_int": 1454,
+      "timestamp_label": "24:14",
+      "text": "which is what you need to get authorization to operate in order for you"
+    },
+    {
+      "start": 1458.634,
+      "end": 1462.538,
+      "start_int": 1458,
+      "timestamp_label": "24:18",
+      "text": "to actually plug in your stuff into the operational environment."
+    },
+    {
+      "start": 1463.258,
+      "end": 1466.802,
+      "start_int": 1463,
+      "timestamp_label": "24:23",
+      "text": "It, you know, we're beginning to develop things like"
+    },
+    {
+      "start": 1466.802,
+      "end": 1471.281,
+      "start_int": 1466,
+      "timestamp_label": "24:26",
+      "text": "test and evaluation master plan, cyber strategy within the program"
+    },
+    {
+      "start": 1471.281,
+      "end": 1475.159,
+      "start_int": 1471,
+      "timestamp_label": "24:31",
+      "text": "protection plan. And then you start to really figure out,"
+    },
+    {
+      "start": 1475.159,
+      "end": 1479.772,
+      "start_int": 1475,
+      "timestamp_label": "24:35",
+      "text": "well, what does my system, a network or program look like from cyber"
+    },
+    {
+      "start": 1479.772,
+      "end": 1481.978,
+      "start_int": 1479,
+      "timestamp_label": "24:39",
+      "text": "perspective? So we do things like"
+    },
+    {
+      "start": 1482.378,
+      "end": 1488.061,
+      "start_int": 1482,
+      "timestamp_label": "24:42",
+      "text": "A mission-based cyber risk assessment, and it has activities within that can"
+    },
+    {
+      "start": 1488.061,
+      "end": 1493.67,
+      "start_int": 1488,
+      "timestamp_label": "24:48",
+      "text": "inform and shape upcoming test and evaluation that's done through Milestone"
+    },
+    {
+      "start": 1493.67,
+      "end": 1499.352,
+      "start_int": 1493,
+      "timestamp_label": "24:53",
+      "text": "B and Milestone C, right? And then, as you develop additional components and"
+    },
+    {
+      "start": 1499.352,
+      "end": 1501.418,
+      "start_int": 1499,
+      "timestamp_label": "24:59",
+      "text": "capabilities, there is an..."
+    },
+    {
+      "start": 1501.538,
+      "end": 1506.578,
+      "start_int": 1501,
+      "timestamp_label": "25:01",
+      "text": "iterative nature to how we do test and evaluation. So that's done throughout."
+    },
+    {
+      "start": 1506.578,
+      "end": 1510.713,
+      "start_int": 1506,
+      "timestamp_label": "25:06",
+      "text": "And then even towards the end, when we're doing sustainment and"
+    },
+    {
+      "start": 1510.713,
+      "end": 1515.364,
+      "start_int": 1510,
+      "timestamp_label": "25:10",
+      "text": "operation, there's this, you know, thought about continuous monitoring,"
+    },
+    {
+      "start": 1515.364,
+      "end": 1519.241,
+      "start_int": 1515,
+      "timestamp_label": "25:15",
+      "text": "continuous evaluation, continuous updates to a tech surface"
+    },
+    {
+      "start": 1519.241,
+      "end": 1524.28,
+      "start_int": 1519,
+      "timestamp_label": "25:19",
+      "text": "analysis, because what doesn't change, or I should say what keeps changing is"
+    },
+    {
+      "start": 1524.28,
+      "end": 1525.378,
+      "start_int": 1524,
+      "timestamp_label": "25:24",
+      "text": "our cyber threat."
+    },
+    {
+      "start": 1525.738,
+      "end": 1530.395,
+      "start_int": 1525,
+      "timestamp_label": "25:25",
+      "text": "right? Our key terrain, it keeps evolving because our adversaries"
+    },
+    {
+      "start": 1530.395,
+      "end": 1534.628,
+      "start_int": 1530,
+      "timestamp_label": "25:30",
+      "text": "are getting better. So the things that we have thought was,"
+    },
+    {
+      "start": 1532.138,
+      "end": 1532.458,
+      "start_int": 1532,
+      "timestamp_label": "25:32",
+      "text": "So."
+    },
+    {
+      "start": 1534.628,
+      "end": 1538.085,
+      "start_int": 1534,
+      "timestamp_label": "25:34",
+      "text": "you know, in design to ensure that it safeguards"
+    },
+    {
+      "start": 1538.085,
+      "end": 1543.306,
+      "start_int": 1538,
+      "timestamp_label": "25:38",
+      "text": "our capabilities, our high-valued asset, it might not be effective if the"
+    },
+    {
+      "start": 1543.306,
+      "end": 1544.858,
+      "start_int": 1543,
+      "timestamp_label": "25:43",
+      "text": "adversary uses like..."
+    },
+    {
+      "start": 1544.898,
+      "end": 1549.534,
+      "start_int": 1544,
+      "timestamp_label": "25:44",
+      "text": "I don't know, next, like AI, right? That's kind of the thing right now,"
+    },
+    {
+      "start": 1549.534,
+      "end": 1553.461,
+      "start_int": 1549,
+      "timestamp_label": "25:49",
+      "text": "or new capability, or they found another zero day, you know,"
+    },
+    {
+      "start": 1553.461,
+      "end": 1558.097,
+      "start_int": 1553,
+      "timestamp_label": "25:53",
+      "text": "malware or something like that. So we need to continuously evaluate the"
+    },
+    {
+      "start": 1558.097,
+      "end": 1562.99,
+      "start_int": 1558,
+      "timestamp_label": "25:58",
+      "text": "baseline that's been created as we do these activities down the acquisition"
+    },
+    {
+      "start": 1562.99,
+      "end": 1563.698,
+      "start_int": 1562,
+      "timestamp_label": "26:02",
+      "text": "life cycle."
+    },
+    {
+      "start": 1564.058,
+      "end": 1567.893,
+      "start_int": 1564,
+      "timestamp_label": "26:04",
+      "text": "So as you can see, cybersecurity touches everything from"
+    },
+    {
+      "start": 1567.893,
+      "end": 1572.871,
+      "start_int": 1567,
+      "timestamp_label": "26:07",
+      "text": "requirements to contracting to design, development, testing continuously,"
+    },
+    {
+      "start": 1572.871,
+      "end": 1575.898,
+      "start_int": 1572,
+      "timestamp_label": "26:12",
+      "text": "and then even in sustainment and operations."
+    },
+    {
+      "start": 1580.298,
+      "end": 1585.5,
+      "start_int": 1580,
+      "timestamp_label": "26:20",
+      "text": "All right, another question here for you. Does it matter when in the acquisition"
+    },
+    {
+      "start": 1585.5,
+      "end": 1589.738,
+      "start_int": 1585,
+      "timestamp_label": "26:25",
+      "text": "lifecycle we conduct these activities? Yes or no? Does it matter?"
+    },
+    {
+      "start": 1595.418,
+      "end": 1600.858,
+      "start_int": 1595,
+      "timestamp_label": "26:35",
+      "text": "I love the case example of sugar in the cake."
+    },
+    {
+      "start": 1602.058,
+      "end": 1602.698,
+      "start_int": 1602,
+      "timestamp_label": "26:42",
+      "text": "Funny."
+    },
+    {
+      "start": 1604.898,
+      "end": 1609.882,
+      "start_int": 1604,
+      "timestamp_label": "26:44",
+      "text": "Does it matter when in the acquisition lifecycle we conduct these activities?"
+    },
+    {
+      "start": 1609.882,
+      "end": 1613.908,
+      "start_int": 1609,
+      "timestamp_label": "26:49",
+      "text": "Let's see. All right, I'm looking for that magic number of 20."
+    },
+    {
+      "start": 1613.908,
+      "end": 1616.974,
+      "start_int": 1613,
+      "timestamp_label": "26:53",
+      "text": "There we go. I got it. So most of you said yes."
+    },
+    {
+      "start": 1616.974,
+      "end": 1620.553,
+      "start_int": 1616,
+      "timestamp_label": "26:56",
+      "text": "Some of you said no. So for those of you who voted yes,"
+    },
+    {
+      "start": 1620.553,
+      "end": 1624.258,
+      "start_int": 1620,
+      "timestamp_label": "27:00",
+      "text": "can somebody come off mute and let me know your thoughts?"
+    },
+    {
+      "start": 1624.378,
+      "end": 1627.338,
+      "start_int": 1624,
+      "timestamp_label": "27:04",
+      "text": "on voting for yes. Why does it matter? William, go ahead."
+    },
+    {
+      "start": 1628.698,
+      "end": 1632.907,
+      "start_int": 1628,
+      "timestamp_label": "27:08",
+      "text": "So once again, I've run into this before where a unit"
+    },
+    {
+      "start": 1632.907,
+      "end": 1638.751,
+      "start_int": 1632,
+      "timestamp_label": "27:12",
+      "text": "has ordered 150 or 200 printers, but they're not safe to be on the network"
+    },
+    {
+      "start": 1638.751,
+      "end": 1644.518,
+      "start_int": 1638,
+      "timestamp_label": "27:18",
+      "text": "because they got a vulnerability. When they should have gone through some"
+    },
+    {
+      "start": 1644.518,
+      "end": 1648.258,
+      "start_int": 1644,
+      "timestamp_label": "27:24",
+      "text": "type of configuration manager to make sure what"
+    },
+    {
+      "start": 1648.338,
+      "end": 1651.497,
+      "start_int": 1648,
+      "timestamp_label": "27:28",
+      "text": "they were buying was safe to be on our network,"
+    },
+    {
+      "start": 1651.497,
+      "end": 1656.893,
+      "start_int": 1651,
+      "timestamp_label": "27:31",
+      "text": "the unit ended up having to return those and get something that was actually able"
+    },
+    {
+      "start": 1656.893,
+      "end": 1658.538,
+      "start_int": 1656,
+      "timestamp_label": "27:36",
+      "text": "to be put on our network."
+    },
+    {
+      "start": 1660.138,
+      "end": 1663.338,
+      "start_int": 1660,
+      "timestamp_label": "27:40",
+      "text": "Was that a huge cost to the program office?"
+    },
+    {
+      "start": 1663.338,
+      "end": 1666.218,
+      "start_int": 1663,
+      "timestamp_label": "27:43",
+      "text": "Ohh, yeah, yeah, yeah, it certainly was."
+    },
+    {
+      "start": 1664.498,
+      "end": 1665.978,
+      "start_int": 1664,
+      "timestamp_label": "27:44",
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 1667.178,
+      "end": 1670.967,
+      "start_int": 1667,
+      "timestamp_label": "27:47",
+      "text": "Absolutely. Anyone else want to add, share your experience?"
+    },
+    {
+      "start": 1670.967,
+      "end": 1675.387,
+      "start_int": 1670,
+      "timestamp_label": "27:50",
+      "text": "Why does it matter when in the acquisition lifecycle we conduct these"
+    },
+    {
+      "start": 1675.387,
+      "end": 1678.544,
+      "start_int": 1675,
+      "timestamp_label": "27:55",
+      "text": "activities? Can we come at the end and, you know,"
+    },
+    {
+      "start": 1678.544,
+      "end": 1682.458,
+      "start_int": 1678,
+      "timestamp_label": "27:58",
+      "text": "do things like requirements identification or do pen testing?"
+    },
+    {
+      "start": 1683.898,
+      "end": 1688.44,
+      "start_int": 1683,
+      "timestamp_label": "28:03",
+      "text": "Let's go at the end to try to implement some Zero Trust capabilities."
+    },
+    {
+      "start": 1688.44,
+      "end": 1692.138,
+      "start_int": 1688,
+      "timestamp_label": "28:08",
+      "text": "Do they work? Anybody else want to share their thoughts?"
+    },
+    {
+      "start": 1693.978,
+      "end": 1696.288,
+      "start_int": 1693,
+      "timestamp_label": "28:13",
+      "text": "Yep, Harry says doing so too late may be"
+    },
+    {
+      "start": 1696.288,
+      "end": 1699.498,
+      "start_int": 1696,
+      "timestamp_label": "28:16",
+      "text": "costly. William, you have additional thoughts? Go ahead."
+    },
+    {
+      "start": 1700.058,
+      "end": 1705.615,
+      "start_int": 1700,
+      "timestamp_label": "28:20",
+      "text": "Sure, if you're doing it to, if you're, say you do pen testing after you've spent"
+    },
+    {
+      "start": 1705.615,
+      "end": 1709.477,
+      "start_int": 1705,
+      "timestamp_label": "28:25",
+      "text": "a great amount of time putting something on our network,"
+    },
+    {
+      "start": 1709.477,
+      "end": 1715.101,
+      "start_int": 1709,
+      "timestamp_label": "28:29",
+      "text": "and then all of a sudden you're getting pen tested, you just wasted all that time."
+    },
+    {
+      "start": 1715.101,
+      "end": 1719.098,
+      "start_int": 1715,
+      "timestamp_label": "28:35",
+      "text": "100% of your time was wasted. It could be just a matter of"
+    },
+    {
+      "start": 1719.218,
+      "end": 1722.85,
+      "start_int": 1719,
+      "timestamp_label": "28:39",
+      "text": "you know, you got to change some configurations in"
+    },
+    {
+      "start": 1722.85,
+      "end": 1727.834,
+      "start_int": 1722,
+      "timestamp_label": "28:42",
+      "text": "the printer. Or like in my case, it was replacing all those printers."
+    },
+    {
+      "start": 1727.834,
+      "end": 1732.249,
+      "start_int": 1727,
+      "timestamp_label": "28:47",
+      "text": "But luckily we caught it before they put them on our network."
+    },
+    {
+      "start": 1732.249,
+      "end": 1736.378,
+      "start_int": 1732,
+      "timestamp_label": "28:52",
+      "text": "So we only wasted a few months instead of 8 to 10 months."
+    },
+    {
+      "start": 1737.498,
+      "end": 1737.898,
+      "start_int": 1737,
+      "timestamp_label": "28:57",
+      "text": "Yeah."
+    },
+    {
+      "start": 1737.738,
+      "end": 1740.618,
+      "start_int": 1737,
+      "timestamp_label": "28:57",
+      "text": "You don't want to do it at the end. You don't want to do it at the end."
+    },
+    {
+      "start": 1739.738,
+      "end": 1744.889,
+      "start_int": 1739,
+      "timestamp_label": "28:59",
+      "text": "Absolutely. So, you know, whenever we do things like this at War U,"
+    },
+    {
+      "start": 1744.889,
+      "end": 1748.827,
+      "start_int": 1744,
+      "timestamp_label": "29:04",
+      "text": "I feel like, especially instructors who's been here"
+    },
+    {
+      "start": 1748.827,
+      "end": 1752.917,
+      "start_int": 1748,
+      "timestamp_label": "29:08",
+      "text": "for a long time, we kind of make a joke of, you know,"
+    },
+    {
+      "start": 1752.917,
+      "end": 1758.218,
+      "start_int": 1752,
+      "timestamp_label": "29:12",
+      "text": "War U stand-in answer is like, it depends. This question, I will say."
+    },
+    {
+      "start": 1758.378,
+      "end": 1761.797,
+      "start_int": 1758,
+      "timestamp_label": "29:18",
+      "text": "It probably is not in that category. It's definite yes."
+    },
+    {
+      "start": 1761.797,
+      "end": 1766.13,
+      "start_int": 1761,
+      "timestamp_label": "29:21",
+      "text": "It absolutely matters when in the acquisition lifecycle we conduct the"
+    },
+    {
+      "start": 1766.13,
+      "end": 1770.708,
+      "start_int": 1766,
+      "timestamp_label": "29:26",
+      "text": "activities that we talked about, the things that you actually put into the"
+    },
+    {
+      "start": 1770.708,
+      "end": 1774.126,
+      "start_int": 1770,
+      "timestamp_label": "29:30",
+      "text": "word cloud, right? The idea is if you don't build it in"
+    },
+    {
+      "start": 1774.126,
+      "end": 1777.178,
+      "start_int": 1774,
+      "timestamp_label": "29:34",
+      "text": "early, if you don't put it into the requirements,"
+    },
+    {
+      "start": 1777.498,
+      "end": 1782.068,
+      "start_int": 1777,
+      "timestamp_label": "29:37",
+      "text": "If you don't design into the specs, if we don't test early enough,"
+    },
+    {
+      "start": 1782.068,
+      "end": 1787.32,
+      "start_int": 1782,
+      "timestamp_label": "29:42",
+      "text": "and you end up finding things towards the end of the acquisition life cycle,"
+    },
+    {
+      "start": 1787.32,
+      "end": 1792.367,
+      "start_int": 1787,
+      "timestamp_label": "29:47",
+      "text": "like several of you have stated, it's going to be sometimes impossible to"
+    },
+    {
+      "start": 1792.367,
+      "end": 1795.573,
+      "start_int": 1792,
+      "timestamp_label": "29:52",
+      "text": "retrofit any type of mitigations or, you know,"
+    },
+    {
+      "start": 1795.573,
+      "end": 1798.778,
+      "start_int": 1795,
+      "timestamp_label": "29:55",
+      "text": "remediations to address those vulnerabilities."
+    },
+    {
+      "start": 1797.058,
+      "end": 1797.178,
+      "start_int": 1797,
+      "timestamp_label": "29:57",
+      "text": "Yeah."
+    },
+    {
+      "start": 1798.898,
+      "end": 1802.717,
+      "start_int": 1798,
+      "timestamp_label": "29:58",
+      "text": "that could actually have a huge mission impact. Not only that,"
+    },
+    {
+      "start": 1802.717,
+      "end": 1807.385,
+      "start_int": 1802,
+      "timestamp_label": "30:02",
+      "text": "if you absolutely have to fix them because the authorizing official will not"
+    },
+    {
+      "start": 1807.385,
+      "end": 1811.81,
+      "start_int": 1807,
+      "timestamp_label": "30:07",
+      "text": "give you an ATO without a fix, now it's going to cost a lot of money and"
+    },
+    {
+      "start": 1811.81,
+      "end": 1814.719,
+      "start_int": 1811,
+      "timestamp_label": "30:11",
+      "text": "time. So you got to go backwards affecting your"
+    },
+    {
+      "start": 1814.719,
+      "end": 1818.356,
+      "start_int": 1814,
+      "timestamp_label": "30:14",
+      "text": "fielding, you know, schedule and everything else that comes"
+    },
+    {
+      "start": 1818.356,
+      "end": 1820.538,
+      "start_int": 1818,
+      "timestamp_label": "30:18",
+      "text": "after that, like a domino effect. So"
+    },
+    {
+      "start": 1821.258,
+      "end": 1824.714,
+      "start_int": 1821,
+      "timestamp_label": "30:21",
+      "text": "You always have to build it in. And some of these activities,"
+    },
+    {
+      "start": 1824.714,
+      "end": 1827.5,
+      "start_int": 1824,
+      "timestamp_label": "30:24",
+      "text": "like I mentioned, they're iterated throughout the"
+    },
+    {
+      "start": 1827.5,
+      "end": 1830.677,
+      "start_int": 1827,
+      "timestamp_label": "30:27",
+      "text": "acquisition lifecycle. It's never one and done. So yeah,"
+    },
+    {
+      "start": 1830.677,
+      "end": 1834.689,
+      "start_int": 1830,
+      "timestamp_label": "30:30",
+      "text": "some of those activities will repeat towards the end of the acquisition"
+    },
+    {
+      "start": 1834.689,
+      "end": 1837.197,
+      "start_int": 1834,
+      "timestamp_label": "30:34",
+      "text": "lifecycle, but you absolutely have to have a"
+    },
+    {
+      "start": 1837.197,
+      "end": 1841.098,
+      "start_int": 1837,
+      "timestamp_label": "30:37",
+      "text": "strategy and start as early as possible in the acquisition lifecycle."
+    },
+    {
+      "start": 1843.818,
+      "end": 1847.152,
+      "start_int": 1843,
+      "timestamp_label": "30:43",
+      "text": "All right, so I thought it might be kind of fun and"
+    },
+    {
+      "start": 1847.152,
+      "end": 1851.127,
+      "start_int": 1847,
+      "timestamp_label": "30:47",
+      "text": "bring it, you know, more home to what you may be experiencing"
+    },
+    {
+      "start": 1851.127,
+      "end": 1855.486,
+      "start_int": 1851,
+      "timestamp_label": "30:51",
+      "text": "or what you will experience. So I came up with a scenario and we're"
+    },
+    {
+      "start": 1855.486,
+      "end": 1860.101,
+      "start_int": 1855,
+      "timestamp_label": "30:55",
+      "text": "going to again talk about it like this. And thanks to my buddy ChatGPT,"
+    },
+    {
+      "start": 1860.101,
+      "end": 1863.178,
+      "start_int": 1860,
+      "timestamp_label": "31:00",
+      "text": "I want you to provide this amazing diagram as I"
+    },
+    {
+      "start": 1863.458,
+      "end": 1867.073,
+      "start_int": 1863,
+      "timestamp_label": "31:03",
+      "text": "explain to you what the scenario is. It's just an eye candy."
+    },
+    {
+      "start": 1867.073,
+      "end": 1870.865,
+      "start_int": 1867,
+      "timestamp_label": "31:07",
+      "text": "You don't have to study. But so basically the scenario is about"
+    },
+    {
+      "start": 1870.865,
+      "end": 1875.843,
+      "start_int": 1870,
+      "timestamp_label": "31:10",
+      "text": "this fictitious program named Autonomous Technical Logistics Platform, right, ATLP."
+    },
+    {
+      "start": 1875.843,
+      "end": 1880.05,
+      "start_int": 1875,
+      "timestamp_label": "31:15",
+      "text": "I honestly don't know if there's something that's like this, but it's,"
+    },
+    {
+      "start": 1880.05,
+      "end": 1884.613,
+      "start_int": 1880,
+      "timestamp_label": "31:20",
+      "text": "to me, it's a fictitious program, right? It has nothing to do with something"
+    },
+    {
+      "start": 1882.898,
+      "end": 1884.098,
+      "start_int": 1882,
+      "timestamp_label": "31:22",
+      "text": "How much is the?"
+    },
+    {
+      "start": 1884.613,
+      "end": 1885.738,
+      "start_int": 1884,
+      "timestamp_label": "31:24",
+      "text": "that's already out."
+    },
+    {
+      "start": 1885.778,
+      "end": 1889.012,
+      "start_int": 1885,
+      "timestamp_label": "31:25",
+      "text": "there. So this is an AI-enabled logistics"
+    },
+    {
+      "start": 1889.012,
+      "end": 1895.095,
+      "start_int": 1889,
+      "timestamp_label": "31:29",
+      "text": "coordination system designed to support deployed forces operating in contested"
+    },
+    {
+      "start": 1895.095,
+      "end": 1896.018,
+      "start_int": 1895,
+      "timestamp_label": "31:35",
+      "text": "environment."
+    },
+    {
+      "start": 1896.978,
+      "end": 1900.138,
+      "start_int": 1896,
+      "timestamp_label": "31:36",
+      "text": "OK, out there in the contested environment."
+    },
+    {
+      "start": 1901.218,
+      "end": 1906.395,
+      "start_int": 1901,
+      "timestamp_label": "31:41",
+      "text": "ATLP integrates data from multiple sources, including supply system,"
+    },
+    {
+      "start": 1906.395,
+      "end": 1910.372,
+      "start_int": 1906,
+      "timestamp_label": "31:46",
+      "text": "transportation networks, maintenance status reports,"
+    },
+    {
+      "start": 1910.372,
+      "end": 1915.098,
+      "start_int": 1910,
+      "timestamp_label": "31:50",
+      "text": "and operational priorities, as well as battlefield conditions."
+    },
+    {
+      "start": 1916.138,
+      "end": 1921.078,
+      "start_int": 1916,
+      "timestamp_label": "31:56",
+      "text": "It provides commanders with real-time logistics recommendations and automated"
+    },
+    {
+      "start": 1921.078,
+      "end": 1925.637,
+      "start_int": 1921,
+      "timestamp_label": "32:01",
+      "text": "resupply coordination, right? So there's some AI algorithm that goes in"
+    },
+    {
+      "start": 1925.637,
+      "end": 1928.613,
+      "start_int": 1925,
+      "timestamp_label": "32:05",
+      "text": "the background, pulls all this different data,"
+    },
+    {
+      "start": 1928.613,
+      "end": 1933.236,
+      "start_int": 1928,
+      "timestamp_label": "32:08",
+      "text": "do the correlation, and says, you know, we need X number of this or that"
+    },
+    {
+      "start": 1933.236,
+      "end": 1936.338,
+      "start_int": 1933,
+      "timestamp_label": "32:13",
+      "text": "ammunition or whatever the case is in real time."
+    },
+    {
+      "start": 1937.498,
+      "end": 1943.069,
+      "start_int": 1937,
+      "timestamp_label": "32:17",
+      "text": "Due to increasing operational demands and pressure to accelerate modernization"
+    },
+    {
+      "start": 1943.069,
+      "end": 1946.595,
+      "start_int": 1943,
+      "timestamp_label": "32:23",
+      "text": "efforts, it should sound familiar to a lot of you"
+    },
+    {
+      "start": 1946.595,
+      "end": 1950.262,
+      "start_int": 1946,
+      "timestamp_label": "32:26",
+      "text": "out there, the program has been directed to rapidly"
+    },
+    {
+      "start": 1950.262,
+      "end": 1954.141,
+      "start_int": 1950,
+      "timestamp_label": "32:30",
+      "text": "field an initial capability within the next 18 months."
+    },
+    {
+      "start": 1954.141,
+      "end": 1956.538,
+      "start_int": 1954,
+      "timestamp_label": "32:34",
+      "text": "So we've been directed to hurry up"
+    },
+    {
+      "start": 1957.018,
+      "end": 1962.498,
+      "start_int": 1957,
+      "timestamp_label": "32:37",
+      "text": "to fill this capability within the next 18 months. So that's the background."
+    },
+    {
+      "start": 1968.138,
+      "end": 1971.177,
+      "start_int": 1968,
+      "timestamp_label": "32:48",
+      "text": "Okay, I think I went backwards because I could"
+    },
+    {
+      "start": 1971.177,
+      "end": 1976.542,
+      "start_int": 1971,
+      "timestamp_label": "32:51",
+      "text": "not see where the arrow was. All right, so we had the background. Now this is the,"
+    },
+    {
+      "start": 1976.542,
+      "end": 1980.938,
+      "start_int": 1976,
+      "timestamp_label": "32:56",
+      "text": "you know, what's happening. Because combatant commands want this as"
+    },
+    {
+      "start": 1980.938,
+      "end": 1984.947,
+      "start_int": 1980,
+      "timestamp_label": "33:00",
+      "text": "soon as possible, right, sooner than later, rapid deployment."
+    },
+    {
+      "start": 1984.947,
+      "end": 1987.338,
+      "start_int": 1984,
+      "timestamp_label": "33:04",
+      "text": "The program office is under pressure."
+    },
+    {
+      "start": 1987.378,
+      "end": 1992.098,
+      "start_int": 1987,
+      "timestamp_label": "33:07",
+      "text": "to accelerate the schedule, integrate commercial AI tools,"
+    },
+    {
+      "start": 1992.098,
+      "end": 1998.258,
+      "start_int": 1992,
+      "timestamp_label": "33:12",
+      "text": "reuse legacy infrastructure, right? So think about interoperability with new"
+    },
+    {
+      "start": 1998.258,
+      "end": 2003.858,
+      "start_int": 1998,
+      "timestamp_label": "33:18",
+      "text": "capability and legacy infrastructure. Use cloud-based infrastructure,"
+    },
+    {
+      "start": 2003.858,
+      "end": 2009.138,
+      "start_int": 2003,
+      "timestamp_label": "33:23",
+      "text": "rely on multiple third-party, that means outside resource, right,"
+    },
+    {
+      "start": 2009.138,
+      "end": 2009.778,
+      "start_int": 2009,
+      "timestamp_label": "33:29",
+      "text": "contract"
+    },
+    {
+      "start": 2010.378,
+      "end": 2014.378,
+      "start_int": 2010,
+      "timestamp_label": "33:30",
+      "text": "for different software providers. So that is the situation."
+    },
+    {
+      "start": 2015.538,
+      "end": 2018.358,
+      "start_int": 2015,
+      "timestamp_label": "33:35",
+      "text": "right? And the cybersecurity team on the other"
+    },
+    {
+      "start": 2018.358,
+      "end": 2021.058,
+      "start_int": 2018,
+      "timestamp_label": "33:38",
+      "text": "side is saying, oh man, with this, you know,"
+    },
+    {
+      "start": 2021.058,
+      "end": 2025.318,
+      "start_int": 2021,
+      "timestamp_label": "33:41",
+      "text": "new accelerated and incorporating, you know, new tools, this and that,"
+    },
+    {
+      "start": 2025.318,
+      "end": 2028.618,
+      "start_int": 2025,
+      "timestamp_label": "33:45",
+      "text": "we have to do additional security architecture review."
+    },
+    {
+      "start": 2028.618,
+      "end": 2032.998,
+      "start_int": 2028,
+      "timestamp_label": "33:48",
+      "text": "We have to implement some sort of segmentation because that's, you know,"
+    },
+    {
+      "start": 2032.998,
+      "end": 2036.898,
+      "start_int": 2032,
+      "timestamp_label": "33:52",
+      "text": "part of the ZT capabilities that they want us to push, you know,"
+    },
+    {
+      "start": 2036.898,
+      "end": 2037.858,
+      "start_int": 2036,
+      "timestamp_label": "33:56",
+      "text": "within the next."
+    },
+    {
+      "start": 2037.938,
+      "end": 2042.366,
+      "start_int": 2037,
+      "timestamp_label": "33:57",
+      "text": "you know, eight months or something. We need to ensure that, you know,"
+    },
+    {
+      "start": 2042.366,
+      "end": 2046.668,
+      "start_int": 2042,
+      "timestamp_label": "34:02",
+      "text": "we really think about identity control, right? So there's AI agents,"
+    },
+    {
+      "start": 2046.668,
+      "end": 2049.786,
+      "start_int": 2046,
+      "timestamp_label": "34:06",
+      "text": "there's operators, there's different contractors."
+    },
+    {
+      "start": 2049.786,
+      "end": 2054.276,
+      "start_int": 2049,
+      "timestamp_label": "34:09",
+      "text": "So we need to figure that out. We need to think about doing cooperative"
+    },
+    {
+      "start": 2054.276,
+      "end": 2058.08,
+      "start_int": 2054,
+      "timestamp_label": "34:14",
+      "text": "and adversarial testing. That means like pen testing and red"
+    },
+    {
+      "start": 2058.08,
+      "end": 2058.578,
+      "start_int": 2058,
+      "timestamp_label": "34:18",
+      "text": "teaming."
+    },
+    {
+      "start": 2059.018,
+      "end": 2064.745,
+      "start_int": 2059,
+      "timestamp_label": "34:19",
+      "text": "So the cybersecurity team is saying you can push this out there without doing all"
+    },
+    {
+      "start": 2064.745,
+      "end": 2068.865,
+      "start_int": 2064,
+      "timestamp_label": "34:24",
+      "text": "of these things. But if we do all of those kind of things,"
+    },
+    {
+      "start": 2068.865,
+      "end": 2071.658,
+      "start_int": 2068,
+      "timestamp_label": "34:28",
+      "text": "the schedule will slip six months. Okay?"
+    },
+    {
+      "start": 2074.058,
+      "end": 2075.578,
+      "start_int": 2074,
+      "timestamp_label": "34:34",
+      "text": "So, think about this."
+    },
+    {
+      "start": 2079.178,
+      "end": 2084.34,
+      "start_int": 2079,
+      "timestamp_label": "34:39",
+      "text": "We had PMs, we had some, I think, like operation related folks,"
+    },
+    {
+      "start": 2084.298,
+      "end": 2084.618,
+      "start_int": 2084,
+      "timestamp_label": "34:44",
+      "text": "Ohh."
+    },
+    {
+      "start": 2084.34,
+      "end": 2089.098,
+      "start_int": 2084,
+      "timestamp_label": "34:44",
+      "text": "we had some contracting folks. From your role perspective."
+    },
+    {
+      "start": 2090.258,
+      "end": 2095.428,
+      "start_int": 2090,
+      "timestamp_label": "34:50",
+      "text": "What would you prioritize? Would you focus on pushing and ensuring"
+    },
+    {
+      "start": 2095.428,
+      "end": 2101.446,
+      "start_int": 2095,
+      "timestamp_label": "34:55",
+      "text": "that we can fill this as soon as possible, meeting that 18-month requirement,"
+    },
+    {
+      "start": 2101.446,
+      "end": 2106.538,
+      "start_int": 2101,
+      "timestamp_label": "35:01",
+      "text": "regardless of new risk that we may be posing into our capability?"
+    },
+    {
+      "start": 2107.498,
+      "end": 2111.858,
+      "start_int": 2107,
+      "timestamp_label": "35:07",
+      "text": "Or would you be prioritizing concerns that cybersecurity came up with?"
+    },
+    {
+      "start": 2113.898,
+      "end": 2117.777,
+      "start_int": 2113,
+      "timestamp_label": "35:13",
+      "text": "I would love to hear from PMs, contract, you know, officers."
+    },
+    {
+      "start": 2117.777,
+      "end": 2122.8,
+      "start_int": 2117,
+      "timestamp_label": "35:17",
+      "text": "I know we have a variety of different roles and responsibility represented out"
+    },
+    {
+      "start": 2122.8,
+      "end": 2125.534,
+      "start_int": 2122,
+      "timestamp_label": "35:22",
+      "text": "there. So who wants to kind of share their"
+    },
+    {
+      "start": 2125.534,
+      "end": 2128.458,
+      "start_int": 2125,
+      "timestamp_label": "35:25",
+      "text": "thoughts? What would you do if you were a PM?"
+    },
+    {
+      "start": 2134.058,
+      "end": 2134.098,
+      "start_int": 2134,
+      "timestamp_label": "35:34",
+      "text": "E."
+    },
+    {
+      "start": 2134.778,
+      "end": 2139.415,
+      "start_int": 2134,
+      "timestamp_label": "35:34",
+      "text": "Because obviously we know if for cybersecurity professionals what we would"
+    },
+    {
+      "start": 2139.415,
+      "end": 2142.258,
+      "start_int": 2139,
+      "timestamp_label": "35:39",
+      "text": "focus on. So what would the PM be focused on?"
+    },
+    {
+      "start": 2142.258,
+      "end": 2147.018,
+      "start_int": 2142,
+      "timestamp_label": "35:42",
+      "text": "What would the contracting officer be focused on? Anybody have any thoughts?"
+    },
+    {
+      "start": 2151.298,
+      "end": 2153.978,
+      "start_int": 2151,
+      "timestamp_label": "35:51",
+      "text": "Hi, even though I'm a PM."
+    },
+    {
+      "start": 2155.098,
+      "end": 2157.418,
+      "start_int": 2155,
+      "timestamp_label": "35:55",
+      "text": "Because cyber can."
+    },
+    {
+      "start": 2158.938,
+      "end": 2166.086,
+      "start_int": 2158,
+      "timestamp_label": "35:58",
+      "text": "actually be fairly complex, I think, to implement. I'd probably focus on,"
+    },
+    {
+      "start": 2166.086,
+      "end": 2171.978,
+      "start_int": 2166,
+      "timestamp_label": "36:06",
+      "text": "if I was constrained this much, I'd probably focus on cyber."
+    },
+    {
+      "start": 2173.818,
+      "end": 2178.852,
+      "start_int": 2173,
+      "timestamp_label": "36:13",
+      "text": "Interesting. So I really appreciate that. And I don't know that is something that"
+    },
+    {
+      "start": 2178.852,
+      "end": 2182.659,
+      "start_int": 2178,
+      "timestamp_label": "36:18",
+      "text": "is realistic, right? With all this like operational pressure,"
+    },
+    {
+      "start": 2182.659,
+      "end": 2187.017,
+      "start_int": 2182,
+      "timestamp_label": "36:22",
+      "text": "but for you to say, you know, because of what cyber can do or like the"
+    },
+    {
+      "start": 2187.017,
+      "end": 2190.394,
+      "start_int": 2187,
+      "timestamp_label": "36:27",
+      "text": "vulnerabilities and the mission impact, you're saying,"
+    },
+    {
+      "start": 2190.394,
+      "end": 2194.138,
+      "start_int": 2190,
+      "timestamp_label": "36:30",
+      "text": "listen to the cyber team and, you know, focus on those cyber"
+    },
+    {
+      "start": 2194.778,
+      "end": 2199.345,
+      "start_int": 2194,
+      "timestamp_label": "36:34",
+      "text": "activities that they're recommending. Okay. Did I see Karen or someone? Okay,"
+    },
+    {
+      "start": 2197.178,
+      "end": 2197.498,
+      "start_int": 2197,
+      "timestamp_label": "36:37",
+      "text": "Yeah."
+    },
+    {
+      "start": 2199.345,
+      "end": 2203.15,
+      "start_int": 2199,
+      "timestamp_label": "36:39",
+      "text": "I see Jaime. I see your hand up, so let's go with you first. Oh,"
+    },
+    {
+      "start": 2201.018,
+      "end": 2203.498,
+      "start_int": 2201,
+      "timestamp_label": "36:41",
+      "text": "It was Karen. I'm sorry."
+    },
+    {
+      "start": 2201.978,
+      "end": 2202.138,
+      "start_int": 2201,
+      "timestamp_label": "36:41",
+      "text": "Huh."
+    },
+    {
+      "start": 2203.15,
+      "end": 2206.956,
+      "start_int": 2203,
+      "timestamp_label": "36:43",
+      "text": "that's okay. Karen, stand by. I'll let Jaime go, and then Karen,"
+    },
+    {
+      "start": 2206.298,
+      "end": 2206.618,
+      "start_int": 2206,
+      "timestamp_label": "36:46",
+      "text": "Okay."
+    },
+    {
+      "start": 2206.956,
+      "end": 2207.658,
+      "start_int": 2206,
+      "timestamp_label": "36:46",
+      "text": "you're next."
+    },
+    {
+      "start": 2208.778,
+      "end": 2212.182,
+      "start_int": 2208,
+      "timestamp_label": "36:48",
+      "text": "Hi, so I think I would start by maybe opening"
+    },
+    {
+      "start": 2212.182,
+      "end": 2217.436,
+      "start_int": 2212,
+      "timestamp_label": "36:52",
+      "text": "a dialogue with whoever the cyber representative is to see what can we"
+    },
+    {
+      "start": 2217.436,
+      "end": 2220.691,
+      "start_int": 2217,
+      "timestamp_label": "36:57",
+      "text": "implement to make this as safe as possible,"
+    },
+    {
+      "start": 2220.691,
+      "end": 2226.389,
+      "start_int": 2220,
+      "timestamp_label": "37:00",
+      "text": "where it's not necessarily going to be hacked or anything like that prior to"
+    },
+    {
+      "start": 2226.389,
+      "end": 2227.498,
+      "start_int": 2226,
+      "timestamp_label": "37:06",
+      "text": "getting it out."
+    },
+    {
+      "start": 2228.298,
+      "end": 2235.052,
+      "start_int": 2228,
+      "timestamp_label": "37:08",
+      "text": "in order to meet an earlier schedule, and then as we can implement those things"
+    },
+    {
+      "start": 2235.052,
+      "end": 2242.144,
+      "start_int": 2235,
+      "timestamp_label": "37:15",
+      "text": "that might that may cause harder or worse, higher risk after the after those really"
+    },
+    {
+      "start": 2242.144,
+      "end": 2246.618,
+      "start_int": 2242,
+      "timestamp_label": "37:22",
+      "text": "high risk situations have already been put in there."
+    },
+    {
+      "start": 2247.378,
+      "end": 2250.778,
+      "start_int": 2247,
+      "timestamp_label": "37:27",
+      "text": "Jaime, what role do you, what do you do?"
+    },
+    {
+      "start": 2247.578,
+      "end": 2251.833,
+      "start_int": 2247,
+      "timestamp_label": "37:27",
+      "text": "to try to decrease. So I do product support,"
+    },
+    {
+      "start": 2251.833,
+      "end": 2253.818,
+      "start_int": 2251,
+      "timestamp_label": "37:31",
+      "text": "so I'm A logistician."
+    },
+    {
+      "start": 2253.018,
+      "end": 2258.206,
+      "start_int": 2253,
+      "timestamp_label": "37:33",
+      "text": "Okay, you are our future leader. You should be promoted up to be in the"
+    },
+    {
+      "start": 2258.206,
+      "end": 2264.043,
+      "start_int": 2258,
+      "timestamp_label": "37:38",
+      "text": "leader. Because you're, you know, really, I think your analysis of the situation"
+    },
+    {
+      "start": 2264.043,
+      "end": 2267.934,
+      "start_int": 2264,
+      "timestamp_label": "37:44",
+      "text": "and what you're trying, how you approach the problem,"
+    },
+    {
+      "start": 2267.934,
+      "end": 2271.753,
+      "start_int": 2267,
+      "timestamp_label": "37:47",
+      "text": "I think it's right on the money. And I'll elaborate,"
+    },
+    {
+      "start": 2271.753,
+      "end": 2274.058,
+      "start_int": 2271,
+      "timestamp_label": "37:51",
+      "text": "but let me let somebody else go."
+    },
+    {
+      "start": 2274.778,
+      "end": 2277.631,
+      "start_int": 2274,
+      "timestamp_label": "37:54",
+      "text": "to add on to that. Karen, do you still want to add to that?"
+    },
+    {
+      "start": 2277.631,
+      "end": 2278.058,
+      "start_int": 2277,
+      "timestamp_label": "37:57",
+      "text": "Go ahead."
+    },
+    {
+      "start": 2278.458,
+      "end": 2281.21,
+      "start_int": 2278,
+      "timestamp_label": "37:58",
+      "text": "Yeah, sure. I mean, it's the same line I thought that I had."
+    },
+    {
+      "start": 2281.21,
+      "end": 2283.646,
+      "start_int": 2281,
+      "timestamp_label": "38:01",
+      "text": "I was just going to phrase it a slightly differently,"
+    },
+    {
+      "start": 2283.646,
+      "end": 2287.346,
+      "start_int": 2283,
+      "timestamp_label": "38:03",
+      "text": "but the same sort of thought where we're in this environment where everything has"
+    },
+    {
+      "start": 2287.346,
+      "end": 2290.458,
+      "start_int": 2287,
+      "timestamp_label": "38:07",
+      "text": "to be fast, everything has to be now, and they're seeing that, okay,"
+    },
+    {
+      "start": 2290.458,
+      "end": 2293.887,
+      "start_int": 2290,
+      "timestamp_label": "38:10",
+      "text": "there's an increased posture for higher risk now for the government to take"
+    },
+    {
+      "start": 2293.887,
+      "end": 2296.368,
+      "start_int": 2293,
+      "timestamp_label": "38:13",
+      "text": "higher risk. So we have to understand what those risks"
+    },
+    {
+      "start": 2296.368,
+      "end": 2298.578,
+      "start_int": 2296,
+      "timestamp_label": "38:16",
+      "text": "actually are. What do those risks actually mean?"
+    },
+    {
+      "start": 2298.778,
+      "end": 2301.06,
+      "start_int": 2298,
+      "timestamp_label": "38:18",
+      "text": "Right. And then you can prioritize the risk when"
+    },
+    {
+      "start": 2301.06,
+      "end": 2304.692,
+      "start_int": 2301,
+      "timestamp_label": "38:21",
+      "text": "you actually know what the outcome is going to cost you, not just in dollars,"
+    },
+    {
+      "start": 2304.692,
+      "end": 2306.787,
+      "start_int": 2304,
+      "timestamp_label": "38:24",
+      "text": "but maybe in lives, depending on the system,"
+    },
+    {
+      "start": 2306.787,
+      "end": 2309.674,
+      "start_int": 2306,
+      "timestamp_label": "38:26",
+      "text": "if this is going to be a system that's deployed in, you know,"
+    },
+    {
+      "start": 2309.674,
+      "end": 2310.698,
+      "start_int": 2309,
+      "timestamp_label": "38:29",
+      "text": "operational scenarios."
+    },
+    {
+      "start": 2311.338,
+      "end": 2317.432,
+      "start_int": 2311,
+      "timestamp_label": "38:31",
+      "text": "Yeah, yeah. I think in this scenario, program manager can definitely influence"
+    },
+    {
+      "start": 2317.432,
+      "end": 2322.214,
+      "start_int": 2317,
+      "timestamp_label": "38:37",
+      "text": "the outcome, you know, because that person can look at his or"
+    },
+    {
+      "start": 2322.214,
+      "end": 2328.384,
+      "start_int": 2322,
+      "timestamp_label": "38:42",
+      "text": "her expertise, bring them to the room, and really have a discussion on what the"
+    },
+    {
+      "start": 2328.384,
+      "end": 2330.698,
+      "start_int": 2328,
+      "timestamp_label": "38:48",
+      "text": "right path is for the program."
+    },
+    {
+      "start": 2330.978,
+      "end": 2334.511,
+      "start_int": 2330,
+      "timestamp_label": "38:50",
+      "text": "Because, you know, there could be a lot of details that we"
+    },
+    {
+      "start": 2334.511,
+      "end": 2338.762,
+      "start_int": 2334,
+      "timestamp_label": "38:54",
+      "text": "are obviously not talking about. A lot of different factors can shape,"
+    },
+    {
+      "start": 2338.762,
+      "end": 2342.055,
+      "start_int": 2338,
+      "timestamp_label": "38:58",
+      "text": "you know, which direction we go. But I really do love,"
+    },
+    {
+      "start": 2341.658,
+      "end": 2341.698,
+      "start_int": 2341,
+      "timestamp_label": "39:01",
+      "text": "I."
+    },
+    {
+      "start": 2342.055,
+      "end": 2346.965,
+      "start_int": 2342,
+      "timestamp_label": "39:02",
+      "text": "I think it was Jaime, her approach of, hey, let's figure out what is there, like,"
+    },
+    {
+      "start": 2346.965,
+      "end": 2350.258,
+      "start_int": 2346,
+      "timestamp_label": "39:06",
+      "text": "what is the minimum? What is the most important thing?"
+    },
+    {
+      "start": 2350.618,
+      "end": 2354.387,
+      "start_int": 2350,
+      "timestamp_label": "39:10",
+      "text": "that we can go after. And then you have to talk to the subject"
+    },
+    {
+      "start": 2351.818,
+      "end": 2351.978,
+      "start_int": 2351,
+      "timestamp_label": "39:11",
+      "text": "Yeah."
+    },
+    {
+      "start": 2354.387,
+      "end": 2358.813,
+      "start_int": 2354,
+      "timestamp_label": "39:14",
+      "text": "matter expert from like development side of things to say, if we do this,"
+    },
+    {
+      "start": 2358.813,
+      "end": 2362.761,
+      "start_int": 2358,
+      "timestamp_label": "39:18",
+      "text": "what is the domino effect? Is this possible? Does this, you know,"
+    },
+    {
+      "start": 2362.761,
+      "end": 2366.051,
+      "start_int": 2362,
+      "timestamp_label": "39:22",
+      "text": "delay development or schedule a fielding of some sort?"
+    },
+    {
+      "start": 2366.051,
+      "end": 2370.058,
+      "start_int": 2366,
+      "timestamp_label": "39:26",
+      "text": "And then maybe we need to pull in the contract, right, specialist."
+    },
+    {
+      "start": 2370.298,
+      "end": 2373.171,
+      "start_int": 2370,
+      "timestamp_label": "39:30",
+      "text": "to say, hey, does this go in and out of scope of,"
+    },
+    {
+      "start": 2373.171,
+      "end": 2376.963,
+      "start_int": 2373,
+      "timestamp_label": "39:33",
+      "text": "you know, what we have already, you know, signed up on? So again,"
+    },
+    {
+      "start": 2376.963,
+      "end": 2379.894,
+      "start_int": 2376,
+      "timestamp_label": "39:36",
+      "text": "that idea of cross-functional, but bottom line is,"
+    },
+    {
+      "start": 2379.894,
+      "end": 2384.433,
+      "start_int": 2379,
+      "timestamp_label": "39:39",
+      "text": "you might not have to do everything, because from cybersecurity professionals,"
+    },
+    {
+      "start": 2384.433,
+      "end": 2388.282,
+      "start_int": 2384,
+      "timestamp_label": "39:44",
+      "text": "they're probably going to paint the worst picture, right? And say,"
+    },
+    {
+      "start": 2388.282,
+      "end": 2391.902,
+      "start_int": 2388,
+      "timestamp_label": "39:48",
+      "text": "you have to do all of these things, otherwise, doom and gloom,"
+    },
+    {
+      "start": 2391.902,
+      "end": 2393.338,
+      "start_int": 2391,
+      "timestamp_label": "39:51",
+      "text": "the world's going to end."
+    },
+    {
+      "start": 2393.658,
+      "end": 2397.818,
+      "start_int": 2393,
+      "timestamp_label": "39:53",
+      "text": "But maybe not. So what is the most cost-effective?"
+    },
+    {
+      "start": 2398.978,
+      "end": 2404.618,
+      "start_int": 2398,
+      "timestamp_label": "39:58",
+      "text": "that actually can get us to field a secure system without us."
+    },
+    {
+      "start": 2405.538,
+      "end": 2409.17,
+      "start_int": 2405,
+      "timestamp_label": "40:05",
+      "text": "you know, putting more risk out there. Because ultimately,"
+    },
+    {
+      "start": 2409.17,
+      "end": 2414.157,
+      "start_int": 2409,
+      "timestamp_label": "40:09",
+      "text": "what we want to strive for is to ensure that our war fighters, in our case, the,"
+    },
+    {
+      "start": 2414.157,
+      "end": 2417.235,
+      "start_int": 2414,
+      "timestamp_label": "40:14",
+      "text": "you know, commanders and the operators out there,"
+    },
+    {
+      "start": 2417.235,
+      "end": 2420.436,
+      "start_int": 2417,
+      "timestamp_label": "40:17",
+      "text": "you know, we want to ensure that these war fighting"
+    },
+    {
+      "start": 2420.436,
+      "end": 2424.498,
+      "start_int": 2420,
+      "timestamp_label": "40:20",
+      "text": "capabilities we give them actually work, especially under attack."
+    },
+    {
+      "start": 2427.498,
+      "end": 2432.238,
+      "start_int": 2427,
+      "timestamp_label": "40:27",
+      "text": "Let me see if I missed anything in chat. I know there are a lot of good inputs"
+    },
+    {
+      "start": 2432.238,
+      "end": 2435.358,
+      "start_int": 2432,
+      "timestamp_label": "40:32",
+      "text": "coming in. Problem with minimum is that the tech is"
+    },
+    {
+      "start": 2435.358,
+      "end": 2439.018,
+      "start_int": 2435,
+      "timestamp_label": "40:35",
+      "text": "already outdated. That's the truth within Department of War."
+    },
+    {
+      "start": 2439.018,
+      "end": 2443.038,
+      "start_int": 2439,
+      "timestamp_label": "40:39",
+      "text": "I don't know if we can fix that. Maybe we will with this whole FAR"
+    },
+    {
+      "start": 2443.038,
+      "end": 2446.218,
+      "start_int": 2443,
+      "timestamp_label": "40:43",
+      "text": "overhaul and, you know, ATS and all that. All right."
+    },
+    {
+      "start": 2446.618,
+      "end": 2451.518,
+      "start_int": 2446,
+      "timestamp_label": "40:46",
+      "text": "So we still have the fictitious program, but this is slightly different scenario."
+    },
+    {
+      "start": 2451.518,
+      "end": 2455.223,
+      "start_int": 2451,
+      "timestamp_label": "40:51",
+      "text": "So in this scenario, we were told that ATLP program relies on"
+    },
+    {
+      "start": 2455.223,
+      "end": 2458.091,
+      "start_int": 2455,
+      "timestamp_label": "40:55",
+      "text": "multiple third-party software providers, right?"
+    },
+    {
+      "start": 2458.091,
+      "end": 2461.975,
+      "start_int": 2458,
+      "timestamp_label": "40:58",
+      "text": "Because that was part of the overarching background story. Well,"
+    },
+    {
+      "start": 2461.975,
+      "end": 2465.978,
+      "start_int": 2461,
+      "timestamp_label": "41:01",
+      "text": "the program office was alerted that one of these critical software"
+    },
+    {
+      "start": 2466.058,
+      "end": 2467.898,
+      "start_int": 2466,
+      "timestamp_label": "41:06",
+      "text": "Has a known vulnerability."
+    },
+    {
+      "start": 2469.018,
+      "end": 2474.659,
+      "start_int": 2469,
+      "timestamp_label": "41:09",
+      "text": "And the developers are saying, there is no evidence it's being exploited."
+    },
+    {
+      "start": 2474.659,
+      "end": 2480.756,
+      "start_int": 2474,
+      "timestamp_label": "41:14",
+      "text": "So it's low risk. Cyber team is saying, threat intel shows that the adversaries"
+    },
+    {
+      "start": 2480.756,
+      "end": 2486.092,
+      "start_int": 2480,
+      "timestamp_label": "41:20",
+      "text": "are targeting similar systems to ours, leveraging that vulnerability."
+    },
+    {
+      "start": 2486.092,
+      "end": 2488.378,
+      "start_int": 2486,
+      "timestamp_label": "41:26",
+      "text": "Chief test engineer is saying,"
+    },
+    {
+      "start": 2488.498,
+      "end": 2491.88,
+      "start_int": 2488,
+      "timestamp_label": "41:28",
+      "text": "Fixing this vulnerability delays operational testing, right?"
+    },
+    {
+      "start": 2491.88,
+      "end": 2495.427,
+      "start_int": 2491,
+      "timestamp_label": "41:31",
+      "text": "So he's thinking about, oh, we got operational testing planned,"
+    },
+    {
+      "start": 2495.427,
+      "end": 2499.806,
+      "start_int": 2495,
+      "timestamp_label": "41:35",
+      "text": "and if we were to fix this vulnerability, we got to kind of pull back, fix it,"
+    },
+    {
+      "start": 2499.806,
+      "end": 2503.908,
+      "start_int": 2499,
+      "timestamp_label": "41:39",
+      "text": "and then we have to, you know, move that forward for operational testing,"
+    },
+    {
+      "start": 2503.908,
+      "end": 2507.178,
+      "start_int": 2503,
+      "timestamp_label": "41:43",
+      "text": "and that might delay the schedule maybe like a week or so."
+    },
+    {
+      "start": 2507.738,
+      "end": 2509.818,
+      "start_int": 2507,
+      "timestamp_label": "41:47",
+      "text": "So you have all these people chiming."
+    },
+    {
+      "start": 2509.898,
+      "end": 2510.058,
+      "start_int": 2509,
+      "timestamp_label": "41:49",
+      "text": "No."
+    },
+    {
+      "start": 2510.778,
+      "end": 2511.738,
+      "start_int": 2510,
+      "timestamp_label": "41:50",
+      "text": "And so..."
+    },
+    {
+      "start": 2512.898,
+      "end": 2513.818,
+      "start_int": 2512,
+      "timestamp_label": "41:52",
+      "text": "What do we do?"
+    },
+    {
+      "start": 2515.578,
+      "end": 2516.298,
+      "start_int": 2515,
+      "timestamp_label": "41:55",
+      "text": "Let's see."
+    },
+    {
+      "start": 2518.058,
+      "end": 2523.033,
+      "start_int": 2518,
+      "timestamp_label": "41:58",
+      "text": "So if you were the subject matter expert that program manager relies on,"
+    },
+    {
+      "start": 2523.033,
+      "end": 2525.418,
+      "start_int": 2523,
+      "timestamp_label": "42:03",
+      "text": "what would you recommend to the PM?"
+    },
+    {
+      "start": 2529.578,
+      "end": 2533.338,
+      "start_int": 2529,
+      "timestamp_label": "42:09",
+      "text": "You might be non-cyber, right? You're part of the cross-functional team."
+    },
+    {
+      "start": 2535.178,
+      "end": 2537.018,
+      "start_int": 2535,
+      "timestamp_label": "42:15",
+      "text": "What do you recommend to the PM?"
+    },
+    {
+      "start": 2543.658,
+      "end": 2546.338,
+      "start_int": 2543,
+      "timestamp_label": "42:23",
+      "text": "Go ahead and submit your answer or you can come off mute."
+    },
+    {
+      "start": 2547.658,
+      "end": 2548.378,
+      "start_int": 2547,
+      "timestamp_label": "42:27",
+      "text": "Kaye, go ahead."
+    },
+    {
+      "start": 2553.018,
+      "end": 2556.773,
+      "start_int": 2553,
+      "timestamp_label": "42:33",
+      "text": "Fix it, fix it, fix it. It would be nuts to leave it alone."
+    },
+    {
+      "start": 2555.098,
+      "end": 2555.258,
+      "start_int": 2555,
+      "timestamp_label": "42:35",
+      "text": "Yeah."
+    },
+    {
+      "start": 2556.773,
+      "end": 2561.404,
+      "start_int": 2556,
+      "timestamp_label": "42:36",
+      "text": "There's so much high cost that will come if you leave it. And then worse,"
+    },
+    {
+      "start": 2561.404,
+      "end": 2566.66,
+      "start_int": 2561,
+      "timestamp_label": "42:41",
+      "text": "the enemy already knows that that's a way they can get in. That's a mess. It's, oh,"
+    },
+    {
+      "start": 2566.66,
+      "end": 2569.977,
+      "start_int": 2566,
+      "timestamp_label": "42:46",
+      "text": "I can see the headache. I can see being on the news."
+    },
+    {
+      "start": 2569.977,
+      "end": 2573.418,
+      "start_int": 2569,
+      "timestamp_label": "42:49",
+      "text": "I can see where suddenly all, everything breaks loose."
+    },
+    {
+      "start": 2573.738,
+      "end": 2578.378,
+      "start_int": 2573,
+      "timestamp_label": "42:53",
+      "text": "And yeah, that is just bad. Don't do it that way. Fix it. Thank you."
+    },
+    {
+      "start": 2577.978,
+      "end": 2579.978,
+      "start_int": 2577,
+      "timestamp_label": "42:57",
+      "text": "Kaye, what's your background? What do you do?"
+    },
+    {
+      "start": 2581.618,
+      "end": 2586.597,
+      "start_int": 2581,
+      "timestamp_label": "43:01",
+      "text": "I am actually a quality assurance person. So I am basically, I do the finances."
+    },
+    {
+      "start": 2584.458,
+      "end": 2585.058,
+      "start_int": 2584,
+      "timestamp_label": "43:04",
+      "text": "Ha ha ha!"
+    },
+    {
+      "start": 2586.597,
+      "end": 2590.58,
+      "start_int": 2586,
+      "timestamp_label": "43:06",
+      "text": "So the reason I bring all this up is because I do the finances."
+    },
+    {
+      "start": 2590.58,
+      "end": 2594.75,
+      "start_int": 2590,
+      "timestamp_label": "43:10",
+      "text": "So I know the cost and the expense. And I'm also involved in cyber"
+    },
+    {
+      "start": 2594.75,
+      "end": 2597.737,
+      "start_int": 2594,
+      "timestamp_label": "43:14",
+      "text": "conversations in terms of insider risk threats."
+    },
+    {
+      "start": 2597.737,
+      "end": 2600.787,
+      "start_int": 2597,
+      "timestamp_label": "43:17",
+      "text": "And so when I do all these things, I'm thinking,"
+    },
+    {
+      "start": 2600.787,
+      "end": 2602.778,
+      "start_int": 2600,
+      "timestamp_label": "43:20",
+      "text": "we cannot risk having situations"
+    },
+    {
+      "start": 2603.058,
+      "end": 2607.505,
+      "start_int": 2603,
+      "timestamp_label": "43:23",
+      "text": "where we didn't take adequate controls to check that we've done everything that we"
+    },
+    {
+      "start": 2607.505,
+      "end": 2609.863,
+      "start_int": 2607,
+      "timestamp_label": "43:27",
+      "text": "should do. We don't want to be in the news."
+    },
+    {
+      "start": 2609.863,
+      "end": 2613.72,
+      "start_int": 2609,
+      "timestamp_label": "43:29",
+      "text": "We don't want to have the focus pointed at us saying that we wasted the"
+    },
+    {
+      "start": 2613.72,
+      "end": 2617.31,
+      "start_int": 2613,
+      "timestamp_label": "43:33",
+      "text": "taxpayers' money, including our own. So that's problematic. To me,"
+    },
+    {
+      "start": 2617.31,
+      "end": 2621.382,
+      "start_int": 2617,
+      "timestamp_label": "43:37",
+      "text": "it makes more sense to do the work up front rather than spending a bunch of"
+    },
+    {
+      "start": 2621.382,
+      "end": 2623.578,
+      "start_int": 2621,
+      "timestamp_label": "43:41",
+      "text": "money into sustainment because we have to"
+    },
+    {
+      "start": 2623.618,
+      "end": 2627.178,
+      "start_int": 2623,
+      "timestamp_label": "43:43",
+      "text": "fix the problems that we didn't take care of at the start. Thank you."
+    },
+    {
+      "start": 2627.978,
+      "end": 2631.947,
+      "start_int": 2627,
+      "timestamp_label": "43:47",
+      "text": "Okay, very passionate. Love it. Let me read some of the inputs."
+    },
+    {
+      "start": 2631.947,
+      "end": 2635.481,
+      "start_int": 2631,
+      "timestamp_label": "43:51",
+      "text": "So patches in the same line as Kaye, iterative approach."
+    },
+    {
+      "start": 2635.481,
+      "end": 2640.627,
+      "start_int": 2635,
+      "timestamp_label": "43:55",
+      "text": "It is known vulnerability that is being exploited and we must fix before fielding,"
+    },
+    {
+      "start": 2640.627,
+      "end": 2644.72,
+      "start_int": 2640,
+      "timestamp_label": "44:00",
+      "text": "address the vulnerability. So I think most of the input is saying"
+    },
+    {
+      "start": 2644.72,
+      "end": 2648.998,
+      "start_int": 2644,
+      "timestamp_label": "44:04",
+      "text": "address the vulnerability. And I think if I was the program manager,"
+    },
+    {
+      "start": 2648.998,
+      "end": 2652.098,
+      "start_int": 2648,
+      "timestamp_label": "44:08",
+      "text": "I would lean that way, right? I'm listening to my"
+    },
+    {
+      "start": 2652.178,
+      "end": 2656.447,
+      "start_int": 2652,
+      "timestamp_label": "44:12",
+      "text": "experts. And it's not just, it shouldn't be just the cybersecurity"
+    },
+    {
+      "start": 2656.447,
+      "end": 2659.568,
+      "start_int": 2656,
+      "timestamp_label": "44:16",
+      "text": "folks, because the other folks should be saying,"
+    },
+    {
+      "start": 2659.568,
+      "end": 2664.41,
+      "start_int": 2659,
+      "timestamp_label": "44:19",
+      "text": "you know what, it can be easily fixed, right? So the developers, engineers,"
+    },
+    {
+      "start": 2664.41,
+      "end": 2669.378,
+      "start_int": 2664,
+      "timestamp_label": "44:24",
+      "text": "other subject matter experts should be advising on the impact of the schedule"
+    },
+    {
+      "start": 2669.378,
+      "end": 2673.519,
+      "start_int": 2669,
+      "timestamp_label": "44:29",
+      "text": "from technical perspective, whether we can actually do something"
+    },
+    {
+      "start": 2673.519,
+      "end": 2674.538,
+      "start_int": 2673,
+      "timestamp_label": "44:33",
+      "text": "about it or not."
+    },
+    {
+      "start": 2674.738,
+      "end": 2677.528,
+      "start_int": 2674,
+      "timestamp_label": "44:34",
+      "text": "And of course, the cybersecurity, you know,"
+    },
+    {
+      "start": 2677.528,
+      "end": 2682.727,
+      "start_int": 2677,
+      "timestamp_label": "44:37",
+      "text": "subject matter experts are saying, look, we have an intel that says the adversary"
+    },
+    {
+      "start": 2682.727,
+      "end": 2686.784,
+      "start_int": 2682,
+      "timestamp_label": "44:42",
+      "text": "is targeting a similar program to ours, like in the real world,"
+    },
+    {
+      "start": 2686.784,
+      "end": 2690.525,
+      "start_int": 2686,
+      "timestamp_label": "44:46",
+      "text": "leveraging this vulnerability. So that to me weighs A lot."
+    },
+    {
+      "start": 2690.525,
+      "end": 2694.899,
+      "start_int": 2690,
+      "timestamp_label": "44:50",
+      "text": "It's actually happening out there. And we are actually told that the"
+    },
+    {
+      "start": 2694.899,
+      "end": 2697.498,
+      "start_int": 2694,
+      "timestamp_label": "44:54",
+      "text": "vulnerability exists within our software."
+    },
+    {
+      "start": 2697.858,
+      "end": 2703.133,
+      "start_int": 2697,
+      "timestamp_label": "44:57",
+      "text": "So I would find a way to figure out, is it actually something that we need to"
+    },
+    {
+      "start": 2703.133,
+      "end": 2706.988,
+      "start_int": 2703,
+      "timestamp_label": "45:03",
+      "text": "do something? Because not all vulnerabilities are equal,"
+    },
+    {
+      "start": 2706.988,
+      "end": 2710.234,
+      "start_int": 2706,
+      "timestamp_label": "45:06",
+      "text": "right? Can we actually reach the component that"
+    },
+    {
+      "start": 2710.234,
+      "end": 2713.75,
+      "start_int": 2710,
+      "timestamp_label": "45:10",
+      "text": "vulnerability exists to actually do anything to it?"
+    },
+    {
+      "start": 2713.75,
+      "end": 2718.957,
+      "start_int": 2713,
+      "timestamp_label": "45:13",
+      "text": "How do we get to the component? You know, do we need to exploit other stuff?"
+    },
+    {
+      "start": 2718.957,
+      "end": 2719.498,
+      "start_int": 2718,
+      "timestamp_label": "45:18",
+      "text": "So like."
+    },
+    {
+      "start": 2719.818,
+      "end": 2724.274,
+      "start_int": 2719,
+      "timestamp_label": "45:19",
+      "text": "You got to come up with some sort of critical thinking to figure out how do we"
+    },
+    {
+      "start": 2724.274,
+      "end": 2727.658,
+      "start_int": 2724,
+      "timestamp_label": "45:24",
+      "text": "validate that this problem actually exists. And if it does,"
+    },
+    {
+      "start": 2727.658,
+      "end": 2730.929,
+      "start_int": 2727,
+      "timestamp_label": "45:27",
+      "text": "the Intel supports it. Therefore, we need to take action."
+    },
+    {
+      "start": 2730.929,
+      "end": 2734.99,
+      "start_int": 2730,
+      "timestamp_label": "45:30",
+      "text": "So I think this is a case where we do need to risk building schedule or"
+    },
+    {
+      "start": 2734.99,
+      "end": 2738.938,
+      "start_int": 2734,
+      "timestamp_label": "45:34",
+      "text": "upcoming operational testing schedule and actually take action on it."
+    },
+    {
+      "start": 2736.898,
+      "end": 2737.018,
+      "start_int": 2736,
+      "timestamp_label": "45:36",
+      "text": "Yeah."
+    },
+    {
+      "start": 2744.458,
+      "end": 2747.898,
+      "start_int": 2744,
+      "timestamp_label": "45:44",
+      "text": "Okay, that's just voting. We don't need to do that."
+    },
+    {
+      "start": 2749.738,
+      "end": 2752.058,
+      "start_int": 2749,
+      "timestamp_label": "45:49",
+      "text": "All right, so let's see."
+    },
+    {
+      "start": 2754.378,
+      "end": 2757.987,
+      "start_int": 2754,
+      "timestamp_label": "45:54",
+      "text": "This is another scenario. So on the left-hand side,"
+    },
+    {
+      "start": 2757.987,
+      "end": 2762.706,
+      "start_int": 2757,
+      "timestamp_label": "45:57",
+      "text": "I restated what some of the ATLP's primary capabilities are, right?"
+    },
+    {
+      "start": 2762.706,
+      "end": 2767.841,
+      "start_int": 2762,
+      "timestamp_label": "46:02",
+      "text": "Kind of in a short, succinct way. So predictive demand and risk analysis,"
+    },
+    {
+      "start": 2767.841,
+      "end": 2772.698,
+      "start_int": 2767,
+      "timestamp_label": "46:07",
+      "text": "AI-driven logistics recommendations, automated resupply coordination,"
+    },
+    {
+      "start": 2772.978,
+      "end": 2777.831,
+      "start_int": 2772,
+      "timestamp_label": "46:12",
+      "text": "Real-time visibility across the battlefield, and then just as a refresher,"
+    },
+    {
+      "start": 2776.938,
+      "end": 2777.058,
+      "start_int": 2776,
+      "timestamp_label": "46:16",
+      "text": "Yeah."
+    },
+    {
+      "start": 2777.831,
+      "end": 2779.578,
+      "start_int": 2777,
+      "timestamp_label": "46:17",
+      "text": "what ATLP mission is, so..."
+    },
+    {
+      "start": 2782.138,
+      "end": 2784.538,
+      "start_int": 2782,
+      "timestamp_label": "46:22",
+      "text": "This scenario, we're saying that..."
+    },
+    {
+      "start": 2789.178,
+      "end": 2792.734,
+      "start_int": 2789,
+      "timestamp_label": "46:29",
+      "text": "A TLP completed a developmental test event,"
+    },
+    {
+      "start": 2792.734,
+      "end": 2797.178,
+      "start_int": 2792,
+      "timestamp_label": "46:32",
+      "text": "and it revealed all the things on the right-hand side."
+    },
+    {
+      "start": 2798.218,
+      "end": 2802.81,
+      "start_int": 2798,
+      "timestamp_label": "46:38",
+      "text": "Operators lose real-time logistics visibility during cyber attack."
+    },
+    {
+      "start": 2802.81,
+      "end": 2806.99,
+      "start_int": 2802,
+      "timestamp_label": "46:42",
+      "text": "It also impacted automated resupply coordination capability."
+    },
+    {
+      "start": 2806.99,
+      "end": 2812.54,
+      "start_int": 2806,
+      "timestamp_label": "46:46",
+      "text": "Some system capabilities are operational. Maybe it is still able to provide like"
+    },
+    {
+      "start": 2812.54,
+      "end": 2814.938,
+      "start_int": 2812,
+      "timestamp_label": "46:52",
+      "text": "AI-driven logistics recommendation."
+    },
+    {
+      "start": 2815.898,
+      "end": 2820.506,
+      "start_int": 2815,
+      "timestamp_label": "46:55",
+      "text": "But this recommendation is probably not visible due to other issues,"
+    },
+    {
+      "start": 2820.506,
+      "end": 2824.378,
+      "start_int": 2820,
+      "timestamp_label": "47:00",
+      "text": "and you know it sounds like some capabilities still work."
+    },
+    {
+      "start": 2826.778,
+      "end": 2830.883,
+      "start_int": 2826,
+      "timestamp_label": "47:06",
+      "text": "And because of that, they conclude that this is partial"
+    },
+    {
+      "start": 2830.883,
+      "end": 2835.647,
+      "start_int": 2830,
+      "timestamp_label": "47:10",
+      "text": "mission capable, question mark, right? So that is the situation."
+    },
+    {
+      "start": 2835.647,
+      "end": 2838.138,
+      "start_int": 2835,
+      "timestamp_label": "47:15",
+      "text": "So is this program ready to field?"
+    },
+    {
+      "start": 2839.578,
+      "end": 2840.618,
+      "start_int": 2839,
+      "timestamp_label": "47:19",
+      "text": "With that."
+    },
+    {
+      "start": 2841.498,
+      "end": 2845.472,
+      "start_int": 2841,
+      "timestamp_label": "47:21",
+      "text": "situation where some things are working, some things aren't working,"
+    },
+    {
+      "start": 2845.472,
+      "end": 2849.791,
+      "start_int": 2845,
+      "timestamp_label": "47:25",
+      "text": "some of the things that are not working are actually impacting the primary"
+    },
+    {
+      "start": 2849.791,
+      "end": 2853.649,
+      "start_int": 2849,
+      "timestamp_label": "47:29",
+      "text": "capabilities. What do you think? Is this program ready to proceed?"
+    },
+    {
+      "start": 2853.649,
+      "end": 2854.858,
+      "start_int": 2853,
+      "timestamp_label": "47:33",
+      "text": "Is it ready to field?"
+    },
+    {
+      "start": 2868.218,
+      "end": 2873.306,
+      "start_int": 2868,
+      "timestamp_label": "47:48",
+      "text": "Randal says money doesn't grow on trees even if you plant money. I know, I tried."
+    },
+    {
+      "start": 2873.306,
+      "end": 2874.298,
+      "start_int": 2873,
+      "timestamp_label": "47:53",
+      "text": "It doesn't work."
+    },
+    {
+      "start": 2875.658,
+      "end": 2877.018,
+      "start_int": 2875,
+      "timestamp_label": "47:55",
+      "text": "Alright, let me reveal."
+    },
+    {
+      "start": 2878.138,
+      "end": 2880.298,
+      "start_int": 2878,
+      "timestamp_label": "47:58",
+      "text": "A lot of you are saying no."
+    },
+    {
+      "start": 2881.338,
+      "end": 2885.138,
+      "start_int": 2881,
+      "timestamp_label": "48:01",
+      "text": "Let me hear your thoughts. Couple of you, why did you vote for no?"
+    },
+    {
+      "start": 2885.138,
+      "end": 2888.938,
+      "start_int": 2885,
+      "timestamp_label": "48:05",
+      "text": "You're saying this program is not ready to field. Jaime, go ahead."
+    },
+    {
+      "start": 2890.458,
+      "end": 2896.094,
+      "start_int": 2890,
+      "timestamp_label": "48:10",
+      "text": "So my thinking with this coming from a logistics background is if you are if you"
+    },
+    {
+      "start": 2896.094,
+      "end": 2900.686,
+      "start_int": 2896,
+      "timestamp_label": "48:16",
+      "text": "are not able to use the AI to do automatic resupply and have that"
+    },
+    {
+      "start": 2900.686,
+      "end": 2905.139,
+      "start_int": 2900,
+      "timestamp_label": "48:20",
+      "text": "real-time visibility, it doesn't matter because we already have"
+    },
+    {
+      "start": 2905.139,
+      "end": 2908.618,
+      "start_int": 2905,
+      "timestamp_label": "48:25",
+      "text": "systems in place to allow to give us that demand."
+    },
+    {
+      "start": 2910.058,
+      "end": 2912.735,
+      "start_int": 2910,
+      "timestamp_label": "48:30",
+      "text": "those demand updates and other such things."
+    },
+    {
+      "start": 2912.735,
+      "end": 2917.846,
+      "start_int": 2912,
+      "timestamp_label": "48:32",
+      "text": "So then this program isn't really fitting its purpose and therefore not meeting the"
+    },
+    {
+      "start": 2917.846,
+      "end": 2920.218,
+      "start_int": 2917,
+      "timestamp_label": "48:37",
+      "text": "requirement that it's supposed to meet."
+    },
+    {
+      "start": 2921.818,
+      "end": 2927.136,
+      "start_int": 2921,
+      "timestamp_label": "48:41",
+      "text": "All right. Thank you for that. Anybody want to add to or want to maybe"
+    },
+    {
+      "start": 2927.136,
+      "end": 2932.529,
+      "start_int": 2927,
+      "timestamp_label": "48:47",
+      "text": "say something different than what Jaime stated? I'm telling you, Jaime,"
+    },
+    {
+      "start": 2932.529,
+      "end": 2937.098,
+      "start_int": 2932,
+      "timestamp_label": "48:52",
+      "text": "you need to get in touch with whoever. You need a promotion."
+    },
+    {
+      "start": 2939.418,
+      "end": 2943.651,
+      "start_int": 2939,
+      "timestamp_label": "48:59",
+      "text": "You captured that so well. I am very impressed. I am with you."
+    },
+    {
+      "start": 2943.651,
+      "end": 2949.16,
+      "start_int": 2943,
+      "timestamp_label": "49:03",
+      "text": "I think that's kind of how I would see it. So I've been doing operational testing"
+    },
+    {
+      "start": 2949.16,
+      "end": 2952.251,
+      "start_int": 2949,
+      "timestamp_label": "49:09",
+      "text": "for six plus years. And when things go wrong,"
+    },
+    {
+      "start": 2952.251,
+      "end": 2957.625,
+      "start_int": 2952,
+      "timestamp_label": "49:12",
+      "text": "do you know what operators usually resort to? Like their manual process, right?"
+    },
+    {
+      "start": 2957.625,
+      "end": 2960.178,
+      "start_int": 2957,
+      "timestamp_label": "49:17",
+      "text": "So can this mission actually continue?"
+    },
+    {
+      "start": 2960.698,
+      "end": 2963.735,
+      "start_int": 2960,
+      "timestamp_label": "49:20",
+      "text": "Probably, because we've been doing this for a long"
+    },
+    {
+      "start": 2963.735,
+      "end": 2967.189,
+      "start_int": 2963,
+      "timestamp_label": "49:23",
+      "text": "time, logistics and, you know, all of that, but manually."
+    },
+    {
+      "start": 2967.189,
+      "end": 2968.498,
+      "start_int": 2967,
+      "timestamp_label": "49:27",
+      "text": "But is that the point?"
+    },
+    {
+      "start": 2969.418,
+      "end": 2973.443,
+      "start_int": 2969,
+      "timestamp_label": "49:29",
+      "text": "It is not, right? We paid millions of dollars to acquire"
+    },
+    {
+      "start": 2973.443,
+      "end": 2977.398,
+      "start_int": 2973,
+      "timestamp_label": "49:33",
+      "text": "this capability. And if it's impacting those, you know,"
+    },
+    {
+      "start": 2977.398,
+      "end": 2981.635,
+      "start_int": 2977,
+      "timestamp_label": "49:37",
+      "text": "what did I say, primary capabilities, I probably, you know,"
+    },
+    {
+      "start": 2981.635,
+      "end": 2986.083,
+      "start_int": 2981,
+      "timestamp_label": "49:41",
+      "text": "lean into sending it back. It's not doing the things that it's"
+    },
+    {
+      "start": 2986.083,
+      "end": 2988.978,
+      "start_int": 2986,
+      "timestamp_label": "49:46",
+      "text": "supposed to do according to the contract."
+    },
+    {
+      "start": 2989.338,
+      "end": 2990.138,
+      "start_int": 2989,
+      "timestamp_label": "49:49",
+      "text": "Marsha, go ahead."
+    },
+    {
+      "start": 2991.578,
+      "end": 2998.399,
+      "start_int": 2991,
+      "timestamp_label": "49:51",
+      "text": "Yeah, if the purpose of testing is to challenge"
+    },
+    {
+      "start": 2998.399,
+      "end": 3002.378,
+      "start_int": 2998,
+      "timestamp_label": "49:58",
+      "text": "the program's capability and"
+    },
+    {
+      "start": 3004.138,
+      "end": 3007.178,
+      "start_int": 3004,
+      "timestamp_label": "50:04",
+      "text": "whether or not that, you know, the program is..."
+    },
+    {
+      "start": 3008.698,
+      "end": 3014.783,
+      "start_int": 3008,
+      "timestamp_label": "50:08",
+      "text": "has the rigor to perform, then why would you ignore what the,"
+    },
+    {
+      "start": 3014.783,
+      "end": 3021.85,
+      "start_int": 3014,
+      "timestamp_label": "50:14",
+      "text": "you know, what the testing has told you? So you wouldn't, I would hope,"
+    },
+    {
+      "start": 3016.898,
+      "end": 3017.018,
+      "start_int": 3016,
+      "timestamp_label": "50:16",
+      "text": "Yeah."
+    },
+    {
+      "start": 3020.138,
+      "end": 3020.538,
+      "start_int": 3020,
+      "timestamp_label": "50:20",
+      "text": "Yeah."
+    },
+    {
+      "start": 3021.85,
+      "end": 3028.818,
+      "start_int": 3021,
+      "timestamp_label": "50:21",
+      "text": "you'd send it back to the drawing board and say, you know, you need to"
+    },
+    {
+      "start": 3023.098,
+      "end": 3024.378,
+      "start_int": 3023,
+      "timestamp_label": "50:23",
+      "text": "I would hope, right?"
+    },
+    {
+      "start": 3029.738,
+      "end": 3030.938,
+      "start_int": 3029,
+      "timestamp_label": "50:29",
+      "text": "Look at this again."
+    },
+    {
+      "start": 3031.578,
+      "end": 3034.58,
+      "start_int": 3031,
+      "timestamp_label": "50:31",
+      "text": "Yeah, I would hope. I hope that's the reality."
+    },
+    {
+      "start": 3034.58,
+      "end": 3038.986,
+      "start_int": 3034,
+      "timestamp_label": "50:34",
+      "text": "I just do know that some program offices are under so much pressure."
+    },
+    {
+      "start": 3038.986,
+      "end": 3042.051,
+      "start_int": 3038,
+      "timestamp_label": "50:38",
+      "text": "You'd be surprised. But now you know, you know,"
+    },
+    {
+      "start": 3042.051,
+      "end": 3047.096,
+      "start_int": 3042,
+      "timestamp_label": "50:42",
+      "text": "you should think about sending it back. That's not what we actually, you know,"
+    },
+    {
+      "start": 3047.096,
+      "end": 3051.438,
+      "start_int": 3047,
+      "timestamp_label": "50:47",
+      "text": "requested, paid for, contracted for, so on and so forth. All right,"
+    },
+    {
+      "start": 3051.438,
+      "end": 3053.098,
+      "start_int": 3051,
+      "timestamp_label": "50:51",
+      "text": "so the last scenario here."
+    },
+    {
+      "start": 3053.818,
+      "end": 3059.277,
+      "start_int": 3053,
+      "timestamp_label": "50:53",
+      "text": "So six months after deployment, we learned that adversary manipulated AI"
+    },
+    {
+      "start": 3059.277,
+      "end": 3064.884,
+      "start_int": 3059,
+      "timestamp_label": "50:59",
+      "text": "generated logistics recommendations. I kind of lost my words because I saw"
+    },
+    {
+      "start": 3064.884,
+      "end": 3070.193,
+      "start_int": 3064,
+      "timestamp_label": "51:04",
+      "text": "somebody say something like that in chat. I thought that was so funny,"
+    },
+    {
+      "start": 3070.193,
+      "end": 3073.258,
+      "start_int": 3070,
+      "timestamp_label": "51:10",
+      "text": "which is one of the primary capabilities."
+    },
+    {
+      "start": 3073.538,
+      "end": 3079.408,
+      "start_int": 3073,
+      "timestamp_label": "51:13",
+      "text": "No malware was detected, though, which can indicate that the adversary"
+    },
+    {
+      "start": 3079.408,
+      "end": 3086.352,
+      "start_int": 3079,
+      "timestamp_label": "51:19",
+      "text": "leveraged some sort of AI specific risk, right, not traditional IT vulnerabilities."
+    },
+    {
+      "start": 3086.352,
+      "end": 3090.072,
+      "start_int": 3086,
+      "timestamp_label": "51:26",
+      "text": "And if the large language model is impacted,"
+    },
+    {
+      "start": 3090.072,
+      "end": 3093.378,
+      "start_int": 3090,
+      "timestamp_label": "51:30",
+      "text": "system outputs become unreliable, right?"
+    },
+    {
+      "start": 3093.458,
+      "end": 3097.078,
+      "start_int": 3093,
+      "timestamp_label": "51:33",
+      "text": "they're on trust. You can't trust because we know that"
+    },
+    {
+      "start": 3097.078,
+      "end": 3102.342,
+      "start_int": 3097,
+      "timestamp_label": "51:37",
+      "text": "there's something wrong with actual LLM. So we also lose operator trust because"
+    },
+    {
+      "start": 3102.342,
+      "end": 3107.738,
+      "start_int": 3102,
+      "timestamp_label": "51:42",
+      "text": "they're not going to trust in our system that spits out false information, right?"
+    },
+    {
+      "start": 3110.538,
+      "end": 3115.041,
+      "start_int": 3110,
+      "timestamp_label": "51:50",
+      "text": "Our operators, again, will probably figure out how to work"
+    },
+    {
+      "start": 3115.041,
+      "end": 3121.071,
+      "start_int": 3115,
+      "timestamp_label": "51:55",
+      "text": "around it, which is not what we paid for. So based on what we know about ATLP,"
+    },
+    {
+      "start": 3121.071,
+      "end": 3123.818,
+      "start_int": 3121,
+      "timestamp_label": "52:01",
+      "text": "what could have contributed to this?"
+    },
+    {
+      "start": 3127.978,
+      "end": 3132.579,
+      "start_int": 3127,
+      "timestamp_label": "52:07",
+      "text": "After the deployment, we're finding out there are issues with"
+    },
+    {
+      "start": 3132.579,
+      "end": 3133.098,
+      "start_int": 3132,
+      "timestamp_label": "52:12",
+      "text": "our AI."
+    },
+    {
+      "start": 3134.058,
+      "end": 3137.317,
+      "start_int": 3134,
+      "timestamp_label": "52:14",
+      "text": "part of the capabilities. What could have contributed to this?"
+    },
+    {
+      "start": 3137.317,
+      "end": 3140.058,
+      "start_int": 3137,
+      "timestamp_label": "52:17",
+      "text": "Kind of circling back to our beginning conversation."
+    },
+    {
+      "start": 3143.338,
+      "end": 3148.044,
+      "start_int": 3143,
+      "timestamp_label": "52:23",
+      "text": "Opening ports, non-secure sockets, they could exploit and have AI actually"
+    },
+    {
+      "start": 3148.044,
+      "end": 3149.738,
+      "start_int": 3148,
+      "timestamp_label": "52:28",
+      "text": "exploit those sockets over."
+    },
+    {
+      "start": 3151.738,
+      "end": 3156.677,
+      "start_int": 3151,
+      "timestamp_label": "52:31",
+      "text": "Okay, that's very specific. I appreciate it. Maybe more general,"
+    },
+    {
+      "start": 3156.677,
+      "end": 3162.298,
+      "start_int": 3156,
+      "timestamp_label": "52:36",
+      "text": "like what do you think maybe didn't go well? What did we not do? Perhaps."
+    },
+    {
+      "start": 3161.978,
+      "end": 3164.378,
+      "start_int": 3161,
+      "timestamp_label": "52:41",
+      "text": "Security patches didn't deploy correctly."
+    },
+    {
+      "start": 3168.058,
+      "end": 3171.178,
+      "start_int": 3168,
+      "timestamp_label": "52:48",
+      "text": "Okay, pulling for more. Anybody else?"
+    },
+    {
+      "start": 3172.618,
+      "end": 3175.178,
+      "start_int": 3172,
+      "timestamp_label": "52:52",
+      "text": "You weren't testing. Yeah."
+    },
+    {
+      "start": 3172.618,
+      "end": 3176.91,
+      "start_int": 3172,
+      "timestamp_label": "52:52",
+      "text": "Being rushed to complete? Yeah, not enough testing. Yeah, all those big,"
+    },
+    {
+      "start": 3176.138,
+      "end": 3176.698,
+      "start_int": 3176,
+      "timestamp_label": "52:56",
+      "text": "Yeah."
+    },
+    {
+      "start": 3176.91,
+      "end": 3181.495,
+      "start_int": 3176,
+      "timestamp_label": "52:56",
+      "text": "big activities that we talked about that has to be done as early as possible,"
+    },
+    {
+      "start": 3181.495,
+      "end": 3185.845,
+      "start_int": 3181,
+      "timestamp_label": "53:01",
+      "text": "iterated through the acquisition lifecycle. Yeah, now you're catching on."
+    },
+    {
+      "start": 3185.845,
+      "end": 3186.138,
+      "start_int": 3185,
+      "timestamp_label": "53:05",
+      "text": "Yeah."
+    },
+    {
+      "start": 3187.458,
+      "end": 3192.01,
+      "start_int": 3187,
+      "timestamp_label": "53:07",
+      "text": "All those things probably didn't think about cybersecurity strategy was not"
+    },
+    {
+      "start": 3192.01,
+      "end": 3196.981,
+      "start_int": 3192,
+      "timestamp_label": "53:12",
+      "text": "there or lacking. We didn't do, you know, the activities that we should have done,"
+    },
+    {
+      "start": 3195.978,
+      "end": 3197.018,
+      "start_int": 3195,
+      "timestamp_label": "53:15",
+      "text": "Excuse me."
+    },
+    {
+      "start": 3196.981,
+      "end": 3200.335,
+      "start_int": 3196,
+      "timestamp_label": "53:16",
+      "text": "including testing. So you can obviously see the result."
+    },
+    {
+      "start": 3200.335,
+      "end": 3205.126,
+      "start_int": 3200,
+      "timestamp_label": "53:20",
+      "text": "All right, the final question of the day. At what point could this outcome have"
+    },
+    {
+      "start": 3205.126,
+      "end": 3208.18,
+      "start_int": 3205,
+      "timestamp_label": "53:25",
+      "text": "been prevented? I kind of already talked about it,"
+    },
+    {
+      "start": 3208.18,
+      "end": 3209.018,
+      "start_int": 3208,
+      "timestamp_label": "53:28",
+      "text": "but let's see."
+    },
+    {
+      "start": 3209.138,
+      "end": 3213.221,
+      "start_int": 3209,
+      "timestamp_label": "53:29",
+      "text": "What say you? What point during the acquisition"
+    },
+    {
+      "start": 3213.221,
+      "end": 3216.538,
+      "start_int": 3213,
+      "timestamp_label": "53:33",
+      "text": "lifecycle could we have prevented this?"
+    },
+    {
+      "start": 3217.658,
+      "end": 3220.935,
+      "start_int": 3217,
+      "timestamp_label": "53:37",
+      "text": "Too big of a hurry, William, yeah, but guess what?"
+    },
+    {
+      "start": 3220.935,
+      "end": 3225.241,
+      "start_int": 3220,
+      "timestamp_label": "53:40",
+      "text": "That's what they're telling us to do, right? Every day, go faster."
+    },
+    {
+      "start": 3225.241,
+      "end": 3229.738,
+      "start_int": 3225,
+      "timestamp_label": "53:45",
+      "text": "Implement these technologies faster. AI, we have to integrate faster."
+    },
+    {
+      "start": 3232.698,
+      "end": 3234.858,
+      "start_int": 3232,
+      "timestamp_label": "53:52",
+      "text": "Wow, people are boring. Henry, go ahead."
+    },
+    {
+      "start": 3235.338,
+      "end": 3239.349,
+      "start_int": 3235,
+      "timestamp_label": "53:55",
+      "text": "Review your risk assessment and the results of the lab testing."
+    },
+    {
+      "start": 3239.349,
+      "end": 3244.05,
+      "start_int": 3239,
+      "timestamp_label": "53:59",
+      "text": "Make sure that people truly understand what are we deploying with the risk"
+    },
+    {
+      "start": 3244.05,
+      "end": 3248.938,
+      "start_int": 3244,
+      "timestamp_label": "54:04",
+      "text": "assessment and all the vulnerabilities and what could be the impacts over it."
+    },
+    {
+      "start": 3249.658,
+      "end": 3253.742,
+      "start_int": 3249,
+      "timestamp_label": "54:09",
+      "text": "Yeah, thank you so much. And I bet maybe this happened because we"
+    },
+    {
+      "start": 3253.742,
+      "end": 3257.95,
+      "start_int": 3253,
+      "timestamp_label": "54:13",
+      "text": "did find out there were issues, but maybe people chose to ignore it"
+    },
+    {
+      "start": 3257.95,
+      "end": 3262.838,
+      "start_int": 3257,
+      "timestamp_label": "54:17",
+      "text": "because they were more focused on the fielding and the schedule and everything"
+    },
+    {
+      "start": 3262.838,
+      "end": 3267.355,
+      "start_int": 3262,
+      "timestamp_label": "54:22",
+      "text": "else but security that can actually have mission impact, right? So yeah,"
+    },
+    {
+      "start": 3267.355,
+      "end": 3268.778,
+      "start_int": 3267,
+      "timestamp_label": "54:27",
+      "text": "at any of these points,"
+    },
+    {
+      "start": 3268.938,
+      "end": 3272.864,
+      "start_int": 3268,
+      "timestamp_label": "54:28",
+      "text": "we could probably have prevented this issue."
+    },
+    {
+      "start": 3272.864,
+      "end": 3278.797,
+      "start_int": 3272,
+      "timestamp_label": "54:32",
+      "text": "Not building into the requirements about AI, testing for AI, right?"
+    },
+    {
+      "start": 3278.797,
+      "end": 3285.95,
+      "start_int": 3278,
+      "timestamp_label": "54:38",
+      "text": "Not designing AI capabilities correctly, not testing it correctly, not, you know,"
+    },
+    {
+      "start": 3285.95,
+      "end": 3288.218,
+      "start_int": 3285,
+      "timestamp_label": "54:45",
+      "text": "updating after we sustain."
+    },
+    {
+      "start": 3289.018,
+      "end": 3292.693,
+      "start_int": 3289,
+      "timestamp_label": "54:49",
+      "text": "with latest threat intel or vulnerability information."
+    },
+    {
+      "start": 3292.693,
+      "end": 3297.504,
+      "start_int": 3292,
+      "timestamp_label": "54:52",
+      "text": "There was no governance with AI. AI security and governance is no joke."
+    },
+    {
+      "start": 3297.504,
+      "end": 3300.911,
+      "start_int": 3297,
+      "timestamp_label": "54:57",
+      "text": "That is absolutely necessary. And maybe, you know,"
+    },
+    {
+      "start": 3300.911,
+      "end": 3304.319,
+      "start_int": 3300,
+      "timestamp_label": "55:00",
+      "text": "something went wrong during training of the model,"
+    },
+    {
+      "start": 3304.319,
+      "end": 3307.258,
+      "start_int": 3304,
+      "timestamp_label": "55:04",
+      "text": "or this could be training of our operators."
+    },
+    {
+      "start": 3307.338,
+      "end": 3312.448,
+      "start_int": 3307,
+      "timestamp_label": "55:07",
+      "text": "Maybe something happened because of human factor, right? So any of, at this,"
+    },
+    {
+      "start": 3312.448,
+      "end": 3315.898,
+      "start_int": 3312,
+      "timestamp_label": "55:12",
+      "text": "at any of these points, we could have prevented it."
+    },
+    {
+      "start": 3317.818,
+      "end": 3321.217,
+      "start_int": 3317,
+      "timestamp_label": "55:17",
+      "text": "All right, another eye chart to kind of conclude"
+    },
+    {
+      "start": 3321.217,
+      "end": 3324.477,
+      "start_int": 3321,
+      "timestamp_label": "55:21",
+      "text": "this session. I think one thing we should have"
+    },
+    {
+      "start": 3324.477,
+      "end": 3329.401,
+      "start_int": 3324,
+      "timestamp_label": "55:24",
+      "text": "consistently have seen today is that cybersecurity decisions are never"
+    },
+    {
+      "start": 3329.401,
+      "end": 3332.453,
+      "start_int": 3329,
+      "timestamp_label": "55:29",
+      "text": "isolated to just cybersecurity team. Never."
+    },
+    {
+      "start": 3332.453,
+      "end": 3337.654,
+      "start_int": 3332,
+      "timestamp_label": "55:32",
+      "text": "The decisions that shape outcomes should have happened during requirements"
+    },
+    {
+      "start": 3337.654,
+      "end": 3341.538,
+      "start_int": 3337,
+      "timestamp_label": "55:37",
+      "text": "discussions, system engineering, contracting decisions."
+    },
+    {
+      "start": 3342.458,
+      "end": 3346.291,
+      "start_int": 3342,
+      "timestamp_label": "55:42",
+      "text": "testing strategies, sustainment planning, operational use,"
+    },
+    {
+      "start": 3346.291,
+      "end": 3349.865,
+      "start_int": 3346,
+      "timestamp_label": "55:46",
+      "text": "and even how much trust operators place in the system."
+    },
+    {
+      "start": 3349.865,
+      "end": 3353.048,
+      "start_int": 3349,
+      "timestamp_label": "55:49",
+      "text": "And that's really the core takeaway here, right?"
+    },
+    {
+      "start": 3353.048,
+      "end": 3357.985,
+      "start_int": 3353,
+      "timestamp_label": "55:53",
+      "text": "Cybersecurity for a program is not something that starts and ends with risk"
+    },
+    {
+      "start": 3357.985,
+      "end": 3361.818,
+      "start_int": 3357,
+      "timestamp_label": "55:57",
+      "text": "management framework. So we can just get a piece of paper."
+    },
+    {
+      "start": 3362.058,
+      "end": 3366.842,
+      "start_int": 3362,
+      "timestamp_label": "56:02",
+      "text": "To plug into operational environment, it's definitely not something one group"
+    },
+    {
+      "start": 3366.842,
+      "end": 3369.909,
+      "start_int": 3366,
+      "timestamp_label": "56:06",
+      "text": "can do alone. Cybersecurity is not a phase in the"
+    },
+    {
+      "start": 3369.909,
+      "end": 3371.258,
+      "start_int": 3369,
+      "timestamp_label": "56:09",
+      "text": "acquisition lifecycle."
+    },
+    {
+      "start": 3372.338,
+      "end": 3376.603,
+      "start_int": 3372,
+      "timestamp_label": "56:12",
+      "text": "And it's not just technical. Cyber risk ultimately leads to mission"
+    },
+    {
+      "start": 3376.603,
+      "end": 3380.303,
+      "start_int": 3376,
+      "timestamp_label": "56:16",
+      "text": "impact affecting operational resilience and survivability."
+    },
+    {
+      "start": 3380.303,
+      "end": 3384.693,
+      "start_int": 3380,
+      "timestamp_label": "56:20",
+      "text": "It is baked in when acquisition, engineering, testing, the statement,"
+    },
+    {
+      "start": 3384.693,
+      "end": 3387.64,
+      "start_int": 3384,
+      "timestamp_label": "56:24",
+      "text": "operations, and cybersecurity communities make"
+    },
+    {
+      "start": 3387.64,
+      "end": 3392.218,
+      "start_int": 3387,
+      "timestamp_label": "56:27",
+      "text": "coordinated decisions across the lifecycle. So we have to work as a team"
+    },
+    {
+      "start": 3392.418,
+      "end": 3396.462,
+      "start_int": 3392,
+      "timestamp_label": "56:32",
+      "text": "to ensure that our war fighting capabilities are survivable and"
+    },
+    {
+      "start": 3396.462,
+      "end": 3397.978,
+      "start_int": 3396,
+      "timestamp_label": "56:36",
+      "text": "operationally resilient."
+    },
+    {
+      "start": 3399.178,
+      "end": 3402.391,
+      "start_int": 3399,
+      "timestamp_label": "56:39",
+      "text": "All right. If you want to learn more about any of"
+    },
+    {
+      "start": 3402.391,
+      "end": 3406.696,
+      "start_int": 3402,
+      "timestamp_label": "56:42",
+      "text": "the cybersecurity topics, or if you have any pain points out there"
+    },
+    {
+      "start": 3406.696,
+      "end": 3410.166,
+      "start_int": 3406,
+      "timestamp_label": "56:46",
+      "text": "within your program office where you could, you know,"
+    },
+    {
+      "start": 3410.166,
+      "end": 3415.178,
+      "start_int": 3410,
+      "timestamp_label": "56:50",
+      "text": "use some consulting or for ORU team to swoop in and help you be your partner,"
+    },
+    {
+      "start": 3415.178,
+      "end": 3419.418,
+      "start_int": 3415,
+      "timestamp_label": "56:55",
+      "text": "please reach out. Acquisition. cyber at ORU is our central email."
+    },
+    {
+      "start": 3419.618,
+      "end": 3424.038,
+      "start_int": 3419,
+      "timestamp_label": "56:59",
+      "text": "My personal email is here. And if you want to learn more about what"
+    },
+    {
+      "start": 3424.038,
+      "end": 3428.003,
+      "start_int": 3424,
+      "timestamp_label": "57:04",
+      "text": "cybersecurity training are out there, please visit us on ru."
+    },
+    {
+      "start": 3428.003,
+      "end": 3433.008,
+      "start_int": 3428,
+      "timestamp_label": "57:08",
+      "text": "edu slash cybersecurity. Any questions, comments with the last three minutes"
+    },
+    {
+      "start": 3433.008,
+      "end": 3433.658,
+      "start_int": 3433,
+      "timestamp_label": "57:13",
+      "text": "remaining?"
+    },
+    {
+      "start": 3440.698,
+      "end": 3443.343,
+      "start_int": 3440,
+      "timestamp_label": "57:20",
+      "text": "All right. If not, thank you again for being here."
+    },
+    {
+      "start": 3443.343,
+      "end": 3447.025,
+      "start_int": 3443,
+      "timestamp_label": "57:23",
+      "text": "And thank you for those of you who have contributed in chat, off mute."
+    },
+    {
+      "start": 3447.025,
+      "end": 3450.5,
+      "start_int": 3447,
+      "timestamp_label": "57:27",
+      "text": "I really enjoyed our dialogue, and I hope to see you in our future"
+    },
+    {
+      "start": 3450.5,
+      "end": 3451.018,
+      "start_int": 3450,
+      "timestamp_label": "57:30",
+      "text": "offerings."
+    },
+    {
+      "start": 3452.938,
+      "end": 3455.665,
+      "start_int": 3452,
+      "timestamp_label": "57:32",
+      "text": "Thanks so much, Ellena. Before you guys go,"
+    },
+    {
+      "start": 3455.665,
+      "end": 3459.88,
+      "start_int": 3455,
+      "timestamp_label": "57:35",
+      "text": "I do have some closing words. I want to thank you all for attending"
+    },
+    {
+      "start": 3459.88,
+      "end": 3462.793,
+      "start_int": 3459,
+      "timestamp_label": "57:39",
+      "text": "today. And please remember to access the short"
+    },
+    {
+      "start": 3462.793,
+      "end": 3467.503,
+      "start_int": 3462,
+      "timestamp_label": "57:42",
+      "text": "survey at the link we provided in the chat. That should be in the chat now."
+    },
+    {
+      "start": 3467.503,
+      "end": 3471.283,
+      "start_int": 3467,
+      "timestamp_label": "57:47",
+      "text": "Or you can visit waru. edu slash events to access the survey"
+    },
+    {
+      "start": 3471.283,
+      "end": 3473.018,
+      "start_int": 3471,
+      "timestamp_label": "57:51",
+      "text": "under participant resources."
+    },
+    {
+      "start": 3473.378,
+      "end": 3477.37,
+      "start_int": 3473,
+      "timestamp_label": "57:53",
+      "text": "Remember to please follow your organization's guidance regarding"
+    },
+    {
+      "start": 3477.37,
+      "end": 3480.87,
+      "start_int": 3477,
+      "timestamp_label": "57:57",
+      "text": "requesting CLPs. And remember that CLPs for War U events"
+    },
+    {
+      "start": 3480.87,
+      "end": 3485.598,
+      "start_int": 3480,
+      "timestamp_label": "58:00",
+      "text": "will not be posted automatically to your CL transcript and must be requested"
+    },
+    {
+      "start": 3485.598,
+      "end": 3488.669,
+      "start_int": 3485,
+      "timestamp_label": "58:05",
+      "text": "separately. If you aren't able to see the survey,"
+    },
+    {
+      "start": 3488.669,
+      "end": 3492.783,
+      "start_int": 3488,
+      "timestamp_label": "58:08",
+      "text": "please either disconnect from your organization's VPN if possible,"
+    },
+    {
+      "start": 3492.783,
+      "end": 3497.082,
+      "start_int": 3492,
+      "timestamp_label": "58:12",
+      "text": "or consider using a personal device. A video of today's event will be"
+    },
+    {
+      "start": 3497.082,
+      "end": 3497.818,
+      "start_int": 3497,
+      "timestamp_label": "58:17",
+      "text": "available at"
+    },
+    {
+      "start": 3497.938,
+      "end": 3500.814,
+      "start_int": 3497,
+      "timestamp_label": "58:17",
+      "text": "Event page no later than this Friday, June 12th,"
+    },
+    {
+      "start": 3500.814,
+      "end": 3505.567,
+      "start_int": 3500,
+      "timestamp_label": "58:20",
+      "text": "and that does conclude today's webinar. We want to thank you for visiting War U,"
+    },
+    {
+      "start": 3505.567,
+      "end": 3507.532,
+      "start_int": 3505,
+      "timestamp_label": "58:25",
+      "text": "and we hope you all have a great day."
+    }
+  ]
+}
