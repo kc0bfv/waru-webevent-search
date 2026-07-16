@@ -1,5 +1,7 @@
 # WarU Event Search
 
+Deployed: https://kc0bfv.github.io/waru-webevent-search/
+
 Full-text search across WarU web event transcripts. Search results link directly to the moment in the video.
 
 **Stack:** Python scripts → Hugo static site → Pagefind client-side search → GitHub Pages
