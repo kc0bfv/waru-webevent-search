@@ -1,0 +1,129 @@
+{{ define "main" }}
+{{ $id := .Params.event_id }}
+{{ $ev := index .Site.Data.events $id }}
+
+{{ if not $ev }}
+  <div class="error-box">
+    <p>Event data not found for id: <code>{{ $id }}</code></p>
+  </div>
+{{ else }}
+
+<article class="event" data-pagefind-body>
+  <div class="event-header">
+    <h1 data-pagefind-meta="title">{{ $ev.title }}</h1>
+    <div class="event-meta">
+      <time datetime="{{ $ev.date }}">{{ dateFormat "January 2, 2006" $ev.date }}</time>
+      <a class="event-source-link" href="{{ $ev.event_url }}" target="_blank" rel="noopener">
+        View on WarU ↗
+      </a>
+    </div>
+  </div>
+
+  {{ if $ev.uiconf_id }}
+  <div class="video-wrapper">
+    <iframe
+      id="kaltura-player"
+      src="https://cdnapisec.kaltura.com/p/{{ $ev.partner_id }}/embedPlaykitJs/uiconf_id/{{ $ev.uiconf_id }}?iframeembed=true&entry_id={{ $ev.entry_id }}"
+      data-partner-id="{{ $ev.partner_id }}"
+      data-entry-id="{{ $ev.entry_id }}"
+      data-uiconf-id="{{ $ev.uiconf_id }}"
+      allowfullscreen
+      allow="autoplay *; fullscreen *; encrypted-media *"
+      sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation"
+      title="{{ $ev.title }}"
+    ></iframe>
+  </div>
+  {{ else }}
+  <div class="no-embed-notice">
+    <p>
+      Video player embed not available.
+      <a href="{{ $ev.event_url }}" target="_blank" rel="noopener">Watch on WarU ↗</a>
+    </p>
+  </div>
+  {{ end }}
+
+  {{ if $ev.cues }}
+  <div class="transcript-container">
+    <div class="transcript-header">
+      <h2>Transcript</h2>
+      <span class="cue-count">{{ len $ev.cues }} segments</span>
+    </div>
+    <div class="transcript">
+      {{ range $ev.cues }}
+      <div class="cue" id="t-{{ .start_int }}" data-pagefind-anchor>
+        <a
+          class="cue-timestamp"
+          href="#t-{{ .start_int }}"
+          data-seconds="{{ .start }}"
+          title="Jump to {{ .timestamp_label }}"
+        >{{ .timestamp_label }}</a>
+        <span class="cue-text">{{ .text }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  <p class="no-transcript">No transcript available for this event.</p>
+  {{ end }}
+</article>
+
+{{ end }}
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+  // Seek the Kaltura V7 (PlayKit) player by reloading the iframe with config[playback].
+  // Kaltura V7 cross-origin iframes don't expose a postMessage seek API,
+  // so a src reload is the only reliable approach.
+  function seekTo(seconds) {
+    const iframe = document.getElementById('kaltura-player');
+    if (!iframe) return true;
+    const s = parseFloat(seconds);
+    const pid = iframe.dataset.partnerId;
+    const eid = iframe.dataset.entryId;
+    const uid = iframe.dataset.uiconfId;
+    iframe.src =
+      `https://cdnapisec.kaltura.com/p/${pid}/embedPlaykitJs/uiconf_id/${uid}` +
+      `?iframeembed=true&entry_id=${eid}` +
+      `&config[playback]=${encodeURIComponent(JSON.stringify({startTime: s}))}`;
+    iframe.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return false;
+  }
+
+  // Wire up all timestamp links to seekTo()
+  document.querySelectorAll('.cue-timestamp').forEach(link => {
+    link.addEventListener('click', e => {
+      const s = parseFloat(link.dataset.seconds);
+      if (!isNaN(s)) {
+        e.preventDefault();
+        seekTo(s);
+        history.replaceState(null, '', link.getAttribute('href'));
+      }
+    });
+  });
+
+  // On load, if URL has #t-NNN, set startTime on the iframe src and scroll to the cue
+  window.addEventListener('DOMContentLoaded', () => {
+    const m = window.location.hash.match(/^#t-(\d+)$/);
+    if (m) {
+      const el = document.getElementById(`t-${m[1]}`);
+      if (el) {
+        // Use the precise fractional seconds from data-seconds if available
+        const link = el.querySelector('.cue-timestamp');
+        const s = link ? parseFloat(link.dataset.seconds) : parseInt(m[1], 10);
+        const iframe = document.getElementById('kaltura-player');
+        if (iframe) {
+          const pid = iframe.dataset.partnerId;
+          const eid = iframe.dataset.entryId;
+          const uid = iframe.dataset.uiconfId;
+          iframe.src =
+            `https://cdnapisec.kaltura.com/p/${pid}/embedPlaykitJs/uiconf_id/${uid}` +
+            `?iframeembed=true&entry_id=${eid}` +
+            `&config[playback]=${encodeURIComponent(JSON.stringify({startTime: s}))}`;
+        }
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  });
+</script>
+{{ end }}

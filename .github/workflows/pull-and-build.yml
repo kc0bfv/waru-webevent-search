@@ -1,9 +1,9 @@
 name: Pull Events and Deploy
 
 on:
-  schedule:
+  #schedule:
     # Daily at 6:27 AM UTC (2 AM ET) Monday and Thursday
-    - cron: "27 6 * * 1,4"
+    #- cron: "27 6 * * 1,4"
   workflow_dispatch:
     inputs:
       full_history:
@@ -84,6 +84,14 @@ jobs:
       - name: Build Hugo site
         working-directory: site
         run: hugo --minify --destination ../public
+
+      - name: Build SharePoint content
+        working-directory: sharepoint_pages_hugo
+        run: hugo --minify --destination ../sharepoint_output
+
+      - name: Zip up SharePoint content
+        working-directory: sharepoint_output/events
+        run: zip -ur ../../public/spo.zip *
 
       # ── 7. Pagefind index ────────────────────────────────────────────────
       - name: Run Pagefind

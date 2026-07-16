@@ -40,6 +40,9 @@ echo "→ Building Hugo site..."
 echo "→ Running Pagefind..."
 npx pagefind --site public
 
+echo "→ Building Hugo SharePoint content..."
+(cd sharepoint_pages_hugo && hugo --minify --destination ../sharepoint_output)
+
 echo ""
 echo "✓ Build complete. Serve with:"
 echo "  cd public && python -m http.server 8000"

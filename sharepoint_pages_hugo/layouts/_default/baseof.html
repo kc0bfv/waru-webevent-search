@@ -8,23 +8,11 @@
   {{ with .Params.thumbnail_url }}
   <meta property="og:image" content="{{ . }}">
   {{ end }}
-  <link rel="stylesheet" href="{{ "pagefind/pagefind-component-ui.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+  <link rel="stylesheet" href="https://kc0bfv.github.io/waru-webevent-search/css/main.css">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a class="site-logo" href="{{ "" | relURL }}">WarU Search</a>
-      {{ if not .IsHome }}
-      <div class="nav-search">
-        <pagefind-input label="" placeholder="Search transcripts…"></pagefind-input>
-        <pagefind-results></pagefind-results>
-      </div>
-      {{ end }}
-      <nav class="site-nav">
-        <a href="{{ "" | relURL }}">Home</a>
-        <a href="{{ "events/" | relURL }}">All Events</a>
-      </nav>
     </div>
   </header>
 
@@ -37,11 +25,9 @@
     <p class="footer-links">
       <a href="https://github.com/kc0bfv/waru-webevent-search" target="_blank" rel="noopener">Source on GitHub</a>
       &middot;
-      <a href="{{ "llms.txt" | relURL }}">llms.txt</a>
+      <a href="https://kc0bfv.github.io/waru-webevent-search/llms.txt">llms.txt</a>
     </p>
   </footer>
-
-  <script src="{{ "pagefind/pagefind-component-ui.js" | absURL }}" type="text/javascript"></script>
   {{ block "scripts" . }}{{ end }}
 </body>
 </html>

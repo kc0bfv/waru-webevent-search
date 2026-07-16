@@ -1,0 +1,23 @@
+# WarU Event Search — Hugo configuration
+# ----------------------------------------
+# Update baseURL to match your GitHub Pages URL before deploying:
+#   https://<YOUR-USERNAME>.github.io/<YOUR-REPO-NAME>/
+baseURL = "https://kc0bfv.github.io/waru-webevent-search/"
+#baseURL = "https://localhost:8000/qwer/asdf/"
+languageCode = "en-us"
+title = "WarU Event Search"
+
+publishDir = "../sharepoint_output"
+
+# Disable unused taxonomy pages
+disableKinds = ["taxonomy", "term", "sitemap", "RSS"]
+
+[params]
+  description = "Search across transcripts from all WarU web events. Results link directly to the moment in the video."
+  github_repo = "https://github.com/kc0bfv/waru-webevent-search"
+
+[markup.goldmark.renderer]
+  unsafe = true  # Allow raw HTML in markdown (used by shortcodes)
+
+[build]
+  writeStats = false
