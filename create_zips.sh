@@ -16,5 +16,6 @@ done
 
 IND=$(($IND - 1))
 
-echo $IND > "$OUTDIR/LASTINDEX"
-zip -ur "$OUTDIR/spo_index.zip" "$OUTDIR/LASTINDEX"
+echo $IND > LASTINDEX
+zip -ur "$OUTDIR/spo_index.zip" LASTINDEX
+rm LASTINDEX
