@@ -102,7 +102,7 @@ jobs:
 
       - name: Zip up SharePoint content
         working-directory: sharepoint_output/events
-        run: zip -ur ../../public/spo.zip *
+        run: ../../create_zips.sh
 
       # ── 7. Pagefind index ────────────────────────────────────────────────
       - name: Run Pagefind
