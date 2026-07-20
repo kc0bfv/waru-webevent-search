@@ -10,12 +10,10 @@ ls */*.html \
   | while IFS= read -r FILES_TO_ZIP; do
   OUT_NAME=$(printf "spo_%03i.zip" $IND)
   bash -c "zip -ur $OUTDIR/$OUT_NAME $FILES_TO_ZIP"
+  echo $IND > LASTINDEX
 
   IND=$(($IND + 1))
 done
 
-IND=$(($IND - 1))
-
-echo $IND > LASTINDEX
 zip -ur "$OUTDIR/spo_index.zip" LASTINDEX
 rm LASTINDEX
