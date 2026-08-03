@@ -12,11 +12,16 @@ Each event is available as structured JSON. Fields: id, title, date, event_url,
 entry_id, partner_id, uiconf_id, thumbnail_url, cues[]{start, end, start_int,
 timestamp_label, text}.
 
+- [2026-07-29 — CCO Somalia - CCO Experience Office Hour - 20260729](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-29-cco-somalia-cco-experience-office-hour-20260729.json) (1499 transcript segments)
+- [2026-07-28 — Defining the Requirement - The LOG Perspective - COR Office Hours 07/28/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-28-defining-the-requirement-the-log-perspective-cor-office-hours-07282026.json) (1806 transcript segments)
+- [2026-07-27 — CFT Roundtable: Small Business Is A Team Sport](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-27-cft-roundtable-small-business-is-a-team-sport.json) (1631 transcript segments)
 - [2026-07-22 — Deep Dive into the Defense Industrial Base](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-22-deep-dive-into-the-defense-industrial-base.json) (3277 transcript segments)
+- [2026-07-22 — FIAR in Action Strengthening Audit Readiness Across the DoW](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-22-fiar-in-action-strengthening-audit-readiness-across-the-dow.json) (2186 transcript segments)
 - [2026-07-21 — Open Forum - COR Office Hours 07/21/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-21-open-forum-cor-office-hours-07212026.json) (1381 transcript segments)
 - [2026-07-21 — Selecting the Correct Data Item Description (DID)](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-21-selecting-the-correct-data-item-description-did.json) (2462 transcript segments)
 - [2026-07-21 — War-at-Work AI and the Future of Government Acquisition- 07/21/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-21-war-at-work-ai-and-the-future-of-government-acquisition-07212026.json) (2153 transcript segments)
 - [2026-07-20 — Days to Minutes: Demonstrating AI-Powered Logistics Decisions at Scale](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-20-days-to-minutes-demonstrating-ai-powered-logistics-decisions-at-scale.json) (1771 transcript segments)
+- [2026-07-20 — Procure-to-Pay Day 1](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-20-procure-to-pay-day-1.json) (5428 transcript segments)
 - [2026-07-16 — Quantum-Ready Zero Trust - Securing DoW Systems_Post-Encryption Era](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-16-quantum-ready-zero-trust-securing-dow-systems-post-encryption-era.json) (1556 transcript segments)
 - [2026-07-15 — DPCAP Overview - CCO Experience Office Hour](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-15-dpcap-overview-cco-experience-office-hour.json) (1331 transcript segments)
 - [2026-07-15 — The Art of the Ask--Writing for Maximum Impact](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-15-the-art-of-the-ask-writing-for-maximum-impact.json) (2390 transcript segments)
