@@ -22,10 +22,10 @@ echo "=== WARU Search local test ==="
 if [ -z "${SKIP_PULL:-}" ]; then
   if [ -n "$EVENT_URL" ]; then
     echo "→ Pulling event: $EVENT_URL"
-    python scripts/pull_recent.py --url "$EVENT_URL"
+    python scripts/pull_recent.py --url "$EVENT_URL" --cookie-file cookie_file
   else
     echo "→ Pulling recent events (3 listing pages)..."
-    python scripts/pull_recent.py --pages 3
+    python scripts/pull_recent.py --pages 3 --cookie-file cookie_file
   fi
 else
   echo "→ Skipping pull (SKIP_PULL set)."

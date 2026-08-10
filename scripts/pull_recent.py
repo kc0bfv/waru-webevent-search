@@ -24,12 +24,15 @@ import sys
 import re
 import json
 import argparse
+import http.cookies
 import time
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
+
+from typing import Any, TextIO
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -61,7 +64,7 @@ PAGE_HEADERS = {
     "Sec-Fetch-Site": "cross-site",
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        "(KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     ),
     "sec-ch-ua": '"Not-A.Brand";v="24", "Chromium";v="146"',
     "sec-ch-ua-mobile": "?0",
@@ -102,7 +105,7 @@ def save_event(event_data: dict) -> Path:
 # ---------------------------------------------------------------------------
 
 
-def discover_event_urls(max_pages: int = 5) -> list:
+def discover_event_urls(max_pages: int, cookies: dict) -> list:
     """
     Scrape the waru.edu/events listing for event page URLs.
     Uses Drupal-style ?page=N pagination and stops when no new links appear.
@@ -114,7 +117,7 @@ def discover_event_urls(max_pages: int = 5) -> list:
         listing = LISTING_URL if page == 0 else f"{LISTING_URL}?page={page}"
         print(f"  Scanning listing page {page}: {listing}", file=sys.stderr)
         try:
-            resp = throttled_request(listing, headers=PAGE_HEADERS, timeout=30)
+            resp = throttled_request(listing, headers=PAGE_HEADERS, **cookies, timeout=30)
             resp.raise_for_status()
         except Exception as exc:
             print(f"  Warning: could not fetch {listing}: {exc}", file=sys.stderr)
@@ -142,9 +145,9 @@ def discover_event_urls(max_pages: int = 5) -> list:
 # Page scraping
 # ---------------------------------------------------------------------------
 
-THROTTLE_PREV_TIME = 0
-THROTTLE_PERIOD = 1
-def throttled_request(*args: str, **kwargs: dict) -> requests.Response:
+THROTTLE_PREV_TIME: float = 0
+THROTTLE_PERIOD: float = 1
+def throttled_request(*args: str, **kwargs: Any) -> requests.Response:
     """
     Make a call to requests.get with args and kwargs, but
     sleep such that calls can only be made once per second.
@@ -159,7 +162,7 @@ def throttled_request(*args: str, **kwargs: dict) -> requests.Response:
     return requests.get(*args, **kwargs)
 
 
-def fetch_page_data(event_url: str) -> dict:
+def fetch_page_data(event_url: str, cookies: dict) -> dict:
     """
     Download a waru.edu event page and extract:
     - entry_id (Kaltura media ID)
@@ -167,7 +170,7 @@ def fetch_page_data(event_url: str) -> dict:
     - title (from og:title or <h1>)
     - uiconf_id (Kaltura player config ID, for iframe embedding)
     """
-    resp = throttled_request(event_url, headers=PAGE_HEADERS, timeout=30)
+    resp = throttled_request(event_url, headers=PAGE_HEADERS, **cookies, timeout=30)
     resp.raise_for_status()
     html = resp.text
 
@@ -378,7 +381,7 @@ def slugify(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 
-def process_event(event_url: str, index: dict) -> dict | None:
+def process_event(event_url: str, index: dict, cookies: dict) -> dict | None:
     """
     Ingest a single event. Returns the event dict on success, None if
     already known or if ingestion fails.
@@ -392,7 +395,7 @@ def process_event(event_url: str, index: dict) -> dict | None:
     print(f"\nProcessing: {event_url}", file=sys.stderr)
 
     try:
-        page_data = fetch_page_data(event_url)
+        page_data = fetch_page_data(event_url, cookies)
     except Exception as exc:
         print(f"  ERROR fetching page: {exc}", file=sys.stderr)
         return None
@@ -464,6 +467,17 @@ def process_event(event_url: str, index: dict) -> dict | None:
     print(f"  Saved → {path.name} ({len(cues)} cues)", file=sys.stderr)
     return event_data
 
+def get_cookies(cookie_file: TextIO) -> dict:
+    str_cookie = cookie_file.read().strip()
+    cook_mors = http.cookies.SimpleCookie(str_cookie)
+    cookies = {k: cook_mors[k].value for k in cook_mors}
+    return {"cookies": cookies}
+
+def test_web_connect(cookies: dict) -> bool:
+    resp = throttled_request(LISTING_URL, headers=PAGE_HEADERS, **cookies, timeout=30)
+    print(f"Status Code: {resp.status_code}")
+    print(f"Response: {resp.text[:40]}{"..." if len(resp.text) > 40 else ""}")
+    return resp.status_code == 200
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -487,22 +501,38 @@ def main() -> None:
         metavar="URL",
         help="Process specific event URL(s) directly instead of discovering.",
     )
+    parser.add_argument(
+        "--test-connect",
+        action="store_true",
+        help="Test the connection to www.waru.edu/events, then quit.",
+    )
+    parser.add_argument(
+        "--cookie-file",
+        type=argparse.FileType("r"),
+        help="Specifies a file containing a cookie string to use."
+    )
     args = parser.parse_args()
+
+    cookies = get_cookies(args.cookie_file) if args.cookie_file else dict()
+
+    if args.test_connect:
+        test_web_connect(cookies)
+        exit(0)
 
     index = load_index()
 
     if args.url:
         urls = args.url
     elif args.all:
-        urls = discover_event_urls(max_pages=200)
+        urls = discover_event_urls(max_pages=200, cookies=cookies)
     else:
-        urls = discover_event_urls(max_pages=args.pages)
+        urls = discover_event_urls(max_pages=args.pages, cookies=cookies)
 
     print(f"Found {len(urls)} candidate event URL(s).", file=sys.stderr)
 
     new_count = 0
     for url in urls:
-        result = process_event(url, index)
+        result = process_event(url, index, cookies)
         if result:
             new_count += 1
 

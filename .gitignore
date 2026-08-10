@@ -1,4 +1,5 @@
 *.swp
+cookie_file
 
 public/
 sharepoint_output/*
