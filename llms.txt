@@ -12,6 +12,9 @@ Each event is available as structured JSON. Fields: id, title, date, event_url,
 entry_id, partner_id, uiconf_id, thumbnail_url, cues[]{start, end, start_int,
 timestamp_label, text}.
 
+- [2026-08-06 — Making Fixed-Price, Outcome-Based Contracting Work](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-06-making-fixed-price-outcome-based-contracting-work.json) (1556 transcript segments)
+- [2026-08-04 — PIEE Open Forum - COR Office Hours 08/04/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-04-piee-open-forum-cor-office-hours-08042026.json) (1499 transcript segments)
+- [2026-08-04 — QASP: contractor direction or government management tool? - CORs Across the Pond - 08/04/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-04-qasp-contractor-direction-or-government-management-tool-cors-across-the-pond-080.json) (1605 transcript segments)
 - [2026-07-29 — CCO Somalia - CCO Experience Office Hour - 20260729](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-29-cco-somalia-cco-experience-office-hour-20260729.json) (1499 transcript segments)
 - [2026-07-28 — Defining the Requirement - The LOG Perspective - COR Office Hours 07/28/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-28-defining-the-requirement-the-log-perspective-cor-office-hours-07282026.json) (1806 transcript segments)
 - [2026-07-27 — CFT Roundtable: Small Business Is A Team Sport](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-07-27-cft-roundtable-small-business-is-a-team-sport.json) (1631 transcript segments)
