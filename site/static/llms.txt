@@ -12,6 +12,12 @@ Each event is available as structured JSON. Fields: id, title, date, event_url,
 entry_id, partner_id, uiconf_id, thumbnail_url, cues[]{start, end, start_int,
 timestamp_label, text}.
 
+- [2026-08-20 — Long-Term Electronics Sustainment](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-20-long-term-electronics-sustainment.json) (2448 transcript segments)
+- [2026-08-20 — Small Business Subcontracting Plan and The New Reporting In SAM.gov](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-20-small-business-subcontracting-plan-and-the-new-reporting-in-samgov.json) (3010 transcript segments)
+- [2026-08-19 — The Road to cATO: A Playbook for the Transition](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-19-the-road-to-cato-a-playbook-for-the-transition.json) (2109 transcript segments)
+- [2026-08-18 — Continuous Evaluation and Maximizing Learning in Acquisition](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-18-continuous-evaluation-and-maximizing-learning-in-acquisition.json) (2525 transcript segments)
+- [2026-08-18 — COR Office Hours - Let’s Talk Unauthorized Commitments](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-18-cor-office-hours-lets-talk-unauthorized-commitments.json) (1300 transcript segments)
+- [2026-08-17 — From Data To Decisions - AI Enabled Search](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-17-from-data-to-decisions-ai-enabled-search.json) (1461 transcript segments)
 - [2026-08-11 — DCMA Transportation Updates _ PIEE Applications](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-11-dcma-transportation-updates-piee-applications.json) (2411 transcript segments)
 - [2026-08-11 — GFP & the COR - COR Office Hours 08/11/2026](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-11-gfp-the-cor-cor-office-hours-08112026.json) (1185 transcript segments)
 - [2026-08-10 — Cyber Solutions One Last Mission: A Final CUI, Cyber Resources Overview & SPRS Masterclass](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-10-cyber-solutions-one-last-mission-a-final-cui-cyber-resources-overview-sprs-maste.json) (2735 transcript segments)
