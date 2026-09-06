@@ -12,6 +12,13 @@ Each event is available as structured JSON. Fields: id, title, date, event_url,
 entry_id, partner_id, uiconf_id, thumbnail_url, cues[]{start, end, start_int,
 timestamp_label, text}.
 
+- [2026-09-01 — COR Office Hours - Market Research in Action](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-09-01-cor-office-hours-market-research-in-action.json) (1273 transcript segments)
+- [2026-09-01 — CORS Across the Pond - Open Forum](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-09-01-cors-across-the-pond-open-forum.json) (1423 transcript segments)
+- [2026-09-01 — Developing the Intellectual Property Strategy (“IPS”)](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-09-01-developing-the-intellectual-property-strategy-ips.json) (1961 transcript segments)
+- [2026-08-27 — Knowledge Exchange Product Support Transformation Initiatives](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-27-knowledge-exchange-product-support-transformation-initiatives.json) (2025 transcript segments)
+- [2026-08-25 — COR OFFICE HOURS - Performance Assessment](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-25-cor-office-hours-performance-assessment.json) (1514 transcript segments)
+- [2026-08-25 — SAE1025 Failure Mode and Effects Analysis (FMEA) Adoption](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-25-sae1025-failure-mode-and-effects-analysis-fmea-adoption.json) (1547 transcript segments)
+- [2026-08-24 — Cross-Functional Training (CFT) Roundtable - The Decisions Around Every Dollar](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-24-cross-functional-training-cft-roundtable-the-decisions-around-every-dollar.json) (1943 transcript segments)
 - [2026-08-20 — Long-Term Electronics Sustainment](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-20-long-term-electronics-sustainment.json) (2448 transcript segments)
 - [2026-08-20 — Small Business Subcontracting Plan and The New Reporting In SAM.gov](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-20-small-business-subcontracting-plan-and-the-new-reporting-in-samgov.json) (3010 transcript segments)
 - [2026-08-19 — The Road to cATO: A Playbook for the Transition](https://raw.githubusercontent.com/kc0bfv/waru-webevent-search/main/data/events/2026-08-19-the-road-to-cato-a-playbook-for-the-transition.json) (2109 transcript segments)
